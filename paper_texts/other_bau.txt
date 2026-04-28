@@ -1,0 +1,1772 @@
+
+
+--- PAGE 1 ---
+American Economic Review 2021, 111(6): 1880–1917 
+https://doi.org/10.1257/aer.20190098
+1880
+Can Policy Change Culture? Government Pension Plans 
+and Traditional Kinship Practices†
+By Natalie Bau*
+Policies may change the incentives that allow cultural practices to per-
+sist. To test this, I study matrilocality and patrilocality, kinship tradi-
+tions that determine daughters’ and sons’ post-marriage residences, 
+and thus, which gender lives with and supports parents in their old 
+age. Two separate policy experiments in Ghana and Indonesia show 
+that pension policies reduce the practice of these traditions. I also 
+show that these traditions incentivize parents to invest in the education 
+of children who traditionally coreside with them. Consequently, when 
+pension plans change cultural practices, they also reduce educational 
+investment. This finding further demonstrates that policy can change 
+culture. (JEL G51, I20, J15, J16, J32, Z13)
+Cultural traditions evolve in response to the conditions in which humans live1 
+(Boyd and Richerson 1988) and can facilitate better outcomes by alleviating market 
+incompleteness and substituting for laws or policies (Greif 1993). As modernizing 
+countries adopt new policies, culture may change. This paper provides new evidence 
+on whether policies lead to cultural change by studying traditional, ­ethnicity-level 
+practices that determine whether daughters (matrilocal), sons (patrilocal), or neither 
+gender (neolocal) live with their parents after marriage. In so doing, it also adds to 
+a nascent literature in economics that builds on anthropologists’ recognition of the 
+importance of kinship traditions for economic outcomes, particularly in ­low-income 
+countries.
+I hypothesize that matrilocal and patrilocal practices have two important effects. 
+First, they ensure old age support for parents in the absence of pension plans and 
+savings mechanisms by designating which children will care for parents in their old 
+1 As anthropologists Boyd and Richerson (1988, p. 9) write, “humans adjust their [cultural] phenotypes in 
+response to their environments through learning and rational calculation.”
+* UCLA, NBER, and CEPR (email: nbau@ucla.edu). Esther Duflo was the coeditor for this article. I acknowl-
+edge the support of the CIFAR Azrieli Global Scholars Program. Comments from the editor and two anonymous 
+referees greatly improved the paper. I am grateful to Nava Ashraf, David Baqaee, Alberto Bisin, Tim Besley, Pamela 
+Campa, Raquel Fernández, Paola Guiliano, Asim Khwaja, Eliana LaFerrara, Adriana Lleras-Muney, Nathan Nunn, 
+Manisha Shah, Aloysius Siow, and Alessandra Voena, as well as seminar and conference participants at Harvard-
+MIT, Dartmouth, UCLA, CIFAR, NYU, LSE, UCL, Simon Fraser, PSE, Namur, H2D2, SIOE, the Galatina 
+Meetings, and UToronto for their helpful comments. Matias Giaccobasso, Eva Ng, Palermo Penano, Maria Sauval, 
+and William Stukas provided exceptional research assistance.
+† Go to https://doi.org/10.1257/aer.20190098 to visit the article page for additional materials and author  
+disclosure statement.
+
+
+--- PAGE 2 ---
+1881
+BAU: CAN POLICY CHANGE CULTURE?
+VOL. 111 NO. 6
+age, providing a form of informal insurance.2 Second, they provide parents with an 
+additional incentive to invest in the human capital of these children since they are 
+more likely to share in the labor and marriage market returns to their human capital 
+investments. This second effect is consistent with a growing literature that suggests 
+that imperfectly altruistic parents may invest less than is optimal in their children 
+since their children cannot credibly commit to repaying that investment in the future 
+(Becker, Murphy, and Spenkuch 2016; Banerjee 2004; Ashraf et al. 2020). Under 
+this hypothesis, ­large-scale social programs like pension plans weaken the incen-
+tives to practice matrilocality and patrilocality, crowding out a form of informal 
+insurance. This also undermines parents’ incentives to invest in the human capital 
+of matrilocal (patrilocal) daughters (sons). Thus, observing changes in educational 
+investment related to changes in the practices of matrilocality and patrilocality pro-
+vides an additional measure of cultural change beyond directly observing changes 
+in cultural practices.
+In an environment where parents strategically transmit cultural traditions or 
+­preferences to their children (as in Bisin and Verdier 2001 and Guttman 2001), the 
+hypothesis above generates several testable predictions. First, if matrilocality miti-
+gates incomplete contracting problems in educational investment for daughters, edu-
+cation rates should be higher for daughters in traditionally matrilocal ethnic groups 
+relative to sons as compared to other ethnic groups (and vice versa for tradition-
+ally patrilocal sons). Second, the introduction of a pension plan, which reduces the 
+need for old age support, should reduce the transmission of matrilocal and patrilocal 
+traditions to children, and therefore, the practices of matrilocality and patrilocal-
+ity among children who were exposed to the pension plan. As this will exacerbate 
+incomplete contracting problems, educational outcomes for daughters from tradi-
+tionally matrilocal ethnic groups who were exposed as children should also differ-
+entially decline, as should the educational outcomes of traditionally patrilocal sons. 
+Third, because social stigma and the cultural traits of an individual’s spouse both 
+play a role in whether an individual practices a cultural tradition, the behavior of 
+those who are directly affected by the pension plan may also affect the behavior of 
+­co-ethnics who do not themselves receive the plan. A cultural externality can there-
+fore amplify the pension program’s effects and cause the effects of the share of the 
+population exposed to the program on education and the practice of matrilocality/
+patrilocality to be ­nonlinear.
+I test these predictions in Indonesia and Ghana.3 While the primary analyses are 
+in Indonesia, where there are more detailed data on the roll-out of the pension pro-
+gram, the analyses from Ghana provide evidence that these results are externally 
+valid. As predicted, in Indonesia, females in traditionally matrilocal groups are more 
+likely to be enrolled in school relative to their brothers when compared to females 
+from ­non-matrilocal groups. In Ghana, the same is true for males from traditionally 
+patrilocal ethnic groups.
+2 Jayachandran (2015) reviews the literature on patrilocality and its link to old age support by sons, Banerjee 
+et al. (2014) show that parents perceive children as an important source of old age support in China, and Jensen 
+and Miller (2017) show that living together is important for children providing parents with old age support in India.
+3 Unlike most potential settings, Indonesia and Ghana have ­within-country variation in matrilocality/­
+patrilocality across ethnic groups. Both have also introduced pension plans in the recent past.
+
+
+--- PAGE 3 ---
+1882
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+Turning to the Indonesian pension program, I provide, to my knowledge, the 
+first estimates of the effects of the 1977 introduction of a pension system, Astek, on 
+education and cultural practices.4 The primary ­triple-differences analyses exploit 
+­ethnicity-level variation in traditional customs, variation in pension plan exposure 
+based on birth year, and geographic variation in the intensity of the roll-out. They 
+show that the pension program differentially reduced educational investments in 
+females from traditionally matrilocal ethnic groups. These women were also less 
+likely to practice matrilocality as adults. In contrast, the plan had no differential 
+effects on traditionally matrilocal males’ education. In line with the existence of 
+cultural externalities, the effects of the intensity of the pension’s roll-out on both 
+the practice of matrilocality and education are ­nonlinear, with discontinuously large 
+effects in the top tercile of treated provinces.
+In Ghana, I exploit the timing of the introduction of a 1972 pension policy to 
+provide estimates of this policy’s effect on education and cultural practices. Males 
+from traditionally patrilocal ethnic groups who were exposed to the program for 
+longer received less education than ­nontraditionally patrilocal males and were less 
+likely to practice patrilocality as adults. Thus, the results from Indonesia replicate in 
+a very different setting.
+Beyond examining whether policies can lead to cultural change, this paper pro-
+vides evidence on the role of cultural traditions in the provision of old age support 
+and how they interact with formal old age support policies. Declines in fertility 
+and increases in longevity have led to rapidly aging populations throughout the 
+world (Lee, Mason, and Cotlear 2010). In over one-half of the world’s countries, 
+the increase in the population in the 60+ category dominates increases in younger 
+groups, and by 2050, the percent of the population that is 65+ is expected to exceed 
+15 ­percent in 42 countries with GDP ­per capita below US$10,000 in 2005 (Lee, 
+Mason, and Cotlear 2010). The World Bank (2020) writes, “The most dramatic 
+aging worldwide is projected to take place in low and ­middle-income countries.” To 
+address this challenge, the World Bank has been involved in pension reforms in over 
+90 countries (World Bank 2020). A better understanding of how old age support is 
+informally provided and of the consequences of formal old age support policies is 
+therefore crucial for the design of these policies throughout the world.
+This paper contributes to several literatures. It builds on the literature on the evo-
+lution of cultural practices and attitudes (Giuliano and Nunn forthcoming, Lowes 
+et al. 2017, Bidner and Francois 2011, Anderson and Bidner 2015). Most empirical 
+papers in this literature study the effects of large shocks that likely affected culture 
+along many dimensions. For example, Campa and Serafinelli (2019) and Alesina 
+and ­Fuchs-Schündeln (2007) study the effects of state socialism on attitudes. Other 
+papers study the effect of different historical empires (Peisakhin 2010, Becker et al. 
+2015, Grosfeld and Zhuravskaya 2015, Wysokinskya 2015). In contrast, this paper 
+studies relatively small policy changes5 that come with modernization and shows 
+that these policies can lead to cultural change.
+4 Sudomo (1985), Muliati (2013), and Perusahan Umum Asuransi Sosial Tenaga Kerja (1985) discuss this 
+policy in more detail.
+5 Several other papers document that policies can affect culture and/or attitudes. Gruber and Hungerman (2007) 
+show that the New Deal’s “modernization” policies crowded out the informal social safety net of ­church-based 
+­charitable spending. Bastian (2020) shows that the introduction of the EITC contributed to a rise in working 
+
+
+--- PAGE 4 ---
+1883
+BAU: CAN POLICY CHANGE CULTURE?
+VOL. 111 NO. 6
+Additionally, this paper contributes to a growing literature on the importance 
+of family ties and kinship practices for economic outcomes (Alesina and Giuliano 
+2011, 2013; Alesina et al. 2015; Enke 2019; La Ferrara 2007; Lowes 2016; Schulz 
+2018; Akbari, ­Bahrami-Rad, and Kimbrough 2019; Moscona, Nunn, and Robinson 
+2017). While anthropologists have long believed that these ­kinship traditions are 
+an important driver of outcomes in ­low-income countries, this understanding is 
+relatively new in economics. I contribute to this literature by ­showing how a spe-
+cific set of kinship practices, matrilocality and patrilocality, affect human capital 
+investment.6
+This paper also adds to an emerging literature on the importance of culture for 
+determining the effects of different policies (Ashraf et al. 2020, World Bank 2015, 
+Ebenstein 2014, La Ferrara and Milazzo 2017, Schoellman and Tertilt 2006, Tertilt 
+2005), as well as the growing literature that examines the effects of ­gender-related 
+cultural traditions (Fernández 2007, 2011; Fernández and Fogli 2009; Tertilt 2006; 
+Alesina, Giuliano, and Nunn 2013; Giuliano 2015; Alesina, Brioschi, and La Ferrara 
+forthcoming; Corno, Hildebrandt, and Voena 2020; Corno and Voena 2015; Gneezy, 
+Leonard, and List 2009; Becker 2018; Jayachandran and Pande 2017).
+Finally, this paper contributes to a large literature on informal insurance networks 
+(examples include Munshi and Rosenzweig 2016 and Mazzocco and Saini 2012 on 
+the role of caste networks; Caldwell, Reddy, and Caldwell 1986 on the role of fertil-
+ity; and Rosenzweig and Stark 1989 on exogamy) and how they interact with mod-
+ernizing environments (e.g., Meghir et al. forthcoming on the interaction between 
+village ­risk-sharing and migration and Munshi and Rosenzweig 2006 on the inter-
+action of caste networks with increasing returns to English language education). I 
+contribute to this rich literature by providing evidence on how cultural traditions can 
+play a role in facilitating transfers between children and parents and documenting 
+how informal arrangements respond to the growth of formal social insurance.
+The paper is organized as follows. Section I provides an overview of patrilocal 
+and matrilocal traditions. Section II outlines a brief conceptual framework to guide 
+the empirical analysis. Section III reports estimates of the effect of traditional matri-
+locality and patrilocality on the gender gap in education in Indonesia and Ghana. 
+Section IV turns to the primary analysis of the paper, testing whether the introduc-
+tion of the pension plan differentially reduced female education and the transmis-
+sion of matrilocality among traditionally matrilocal groups in Indonesia. Section V 
+replicates the key findings for patrilocality in Ghana. Section VI reports additional 
+findings, and Section VII concludes.
+­mothers in the United States, and Beaman et al. (2009) provide evidence that female leadership quotas change voter 
+attitudes in India.
+6 Two related papers study the relationship between kinship traditions and human capital investment in Indonesia. 
+Levine and Kavane (2003) use the Indonesia Family Life Survey dataset to study the relationship between patrilo-
+cality (as determined by an expert respondent at the ­village-level) and gender biased investment in Indonesia and 
+do not find a strong relationship. Rammohan and Robertson (2012) find a strong negative relationship between 
+ex post migration and female education in the IFLS. The analysis on the link between kinship traditions and human 
+capital in this paper differs from these papers both by using a different, larger dataset and a different definition of 
+matrilocality drawn from the anthropological literature, and also by providing symmetric results on patrilocality in 
+Ghana. By exploiting exogenous variation from pension plan introductions to show that reducing the practice of 
+matrilocality and patrilocality reduces the education of the targeted gender, this paper also provides more evidence 
+that the link between these kinship traditions and education is causal.
+
+
+--- PAGE 5 ---
+1884
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+I.  Patrilocal and Matrilocal Customs
+In this section, I first document how I classify ethnic groups as matrilocal and 
+patrilocal and describe the variation in these measures. Then, to provide context for 
+the analyses in this paper and identify potential sources of bias, I discuss theories 
+on the origins of matrilocality and patrilocality from the anthropological literature. 
+Finally, to validate the anthropological data, I show that, even in recent datasets, 
+the assignment of these ­ethnicity-level traditions predicts matrilocal and patrilocal 
+practices.
+A. Variation in Matrilocality and Patrilocality
+My analysis requires the measurement of the traditional ­post-marriage residency 
+practices of different ethnic groups. To do so, I use data from the Ethnographic 
+Atlas (Murdock 1967), which codes ethnic groups’ traditional, ­pre-modernization 
+cultural practices.7 To arrive at ­ethnicity-level measures of traditional matrilocal-
+ity and patrilocality in the Indonesian and Ghanaian censuses, I follow methods 
+developed by Ashraf et al. (2020) and Alesina, Giuliano, and Nunn (2013). I use 
+the Ethnologue (Gordon 2009) to match the ethnicity or language data collected 
+by the censuses with the ­ethnicity-level data on cultural practices available in the 
+Ethnographic Atlas. Because there are more disaggregated ethnic groups in the 
+censuses than the Ethnographic Atlas, multiple ethnic groups in a census may be 
+matched to one ethnic group in the Ethnographic Atlas.
+In Indonesia, I match 812 of the 827 languages in the 2010 Census to 45 groups in 
+the Ethnographic Atlas with information on ­post-marriage residence (matrilocality, 
+neolocality, or patrilocality). I focus on variation between traditional matrilocality 
+and patrilocality/neolocality, since groups that primarily practice patrilocality or 
+neolocality in Indonesia often practice the other as a secondary practice (LeBar 
+1972).8 In Ghana, I successfully match 53 of the 57 ethnic groups in the 2000 Census 
+to 24 groups with information on ­post-marriage residence in the Ethnographic Atlas. 
+In an alternative match using Gil (1964) and Asante and Mazama (2009), the major-
+ity of the groups coded as matrilocal in this match are neolocal. Therefore, I focus 
+on the margin between patrilocality and neolocality/matrilocality.9
+7 Of the 1,235 ethnic groups for whom data on ­ethnicity-level practices are available in the Ethnographic Atlas, 
+880 are traditionally patrilocal (71 percent), 155 are traditionally neolocal (13 percent), and 200 are traditionally 
+matrilocal (16 percent).
+8 This choice follows from two additional pieces of information. The first piece of information comes from the 
+Ethnographic Atlas, which reports both the primary ­post-marriage residential practice, which is what is used for 
+the coding in this paper, and the alternative practice. According to the Ethnographic Atlas, less than 1 percent of 
+individuals who report matrilocality as their primary practice have an alternative practice. In contrast, among those 
+who report patrilocality as their primary form, 82 percent report neolocality as an alternative. The second piece of 
+information comes from a secondary match that I created of large ethnic groups in the 2010 Indonesia Census to 
+ethnic traditions using LeBar (1972) and Strouthes (1993). In this match, less than one-half of the individuals who 
+were coded as patrilocal according to the Ethnographic Atlas are still coded as patrilocal. However, the coding of 
+matrilocality was very stable across concordances. Ninety-nine percent of individuals coded as matrilocal according 
+to the Ethnographic Atlas are also coded as matrilocal according to the alternative concordance.
+9 If a group is primarily patrilocal according to the Ethnographic Atlas, the second match agrees 76 percent of 
+the time. This second match, however, never codes groups as matrilocal. The majority of the groups that are matri-
+local in the match from the Ethnographic Atlas (92 percent) are coded as neolocal in this match.
+
+
+--- PAGE 6 ---
+1885
+BAU: CAN POLICY CHANGE CULTURE?
+VOL. 111 NO. 6
+Using this assignment of matrilocality and patrilocality, I map the geographic 
+variation in these practices. Figure 1 reports the ­district-level percent of individuals 
+in the census who belong to traditionally matrilocal (in Indonesia) and patrilocal (in 
+Ghana) ethnic groups. While these traditions are not uniformly distributed in either 
+Figure 1. Distribution of Matrilocal Groups in Indonesia and Patrilocal Groups in Ghana
+Note: The figure reports the percent of the population in a district that traditionally practices matrilocality in 
+Indonesia (top) and traditionally practices patrilocality in Ghana (bottom).
+Sources: Population shares were constructed by matching the Indonesia 2010 Census and the Ghana 2000 Census 
+(data provided by Minnesota Population Center 2011) to data on ­ethnicity-level traditions from Murdock (1967).
+Ghana
+4.4–21.9%
+22–39.3%
+39.4–60%
+60.1–84.7%
+84.8–99.1%
+Share patrilocal
+Indonesia
+0–6.1%
+6.2–22%
+22.1–47.9%
+48–75.7%
+75.8–99.1%
+Share matrilocal
+N
+N
+
+
+--- PAGE 7 ---
+1886
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+country, there is still a great deal of geographic variation in matrilocal and patrilocal 
+traditions.
+B. Origins of Matrilocality and Patrilocality
+Theories in anthropology on the origins of matrilocality and patrilocality shed 
+light on other cultural traits that could be correlated with these traditions. One the-
+ory argues that early hunter gatherer societies were typically matrilineal (lineage 
+and inheritance pass through the mother’s line, and a son usually inherits from his 
+maternal uncle) because sexual promiscuity made it difficult to identify a child’s 
+father (Engels 1942). Matrilocality and matrilineality may in turn be correlated 
+since matrilocality allows children to grow up with their mother’s family, which is 
+their lineage group under matrilineality.10
+An alternative theory is that matrilineality tends to occur in horticultural soci-
+eties where women often have a more dominant role in agriculture (Jones 2011). 
+Relatedly, Holden and Mace (2003) argue that patrilineality (and therefore, patrilo-
+cality) may be more likely to evolve in pastoral societies with access to cattle, where 
+men play a larger role in agricultural production.
+Finally, some anthropologists have also linked matrilineality to dowry and patri-
+lineality to bride price. For example, Vroklage (1952) suggests that bride price, a 
+payment from the family of the husband to the family of the bride at the time of 
+marriage, compensates the family of the bride for taking the daughter from their 
+lineage group.
+Using data from the Ethnographic Atlas, I examine whether across- and 
+­within-country correlations in traditional practices are consistent with these the-
+ories. I also test whether matrilocality and patrilocality are correlated with other 
+characteristics believed to be related to ­gender-biased behavior. Online Appendix 
+Table A1 estimates the global correlation between ­ethnicity-level matrilocality and 
+patrilocality and aboriginal plow use, polygamy, bride price, ­male-dominated agri-
+culture, and matrilineality. Consistent with the anthropological literature, patrilo-
+cality and matrilocality are strongly correlated with bride price and matrilineality 
+across ethnic groups.
+However, the correlations between these traditions and matrilocality and patrilo-
+cality may be weaker within countries, where the traditional practices of the popu-
+lations are more homogeneous. Online Appendix Table A2 reports the correlations 
+between matrilocality and other traditions within Indonesia and between patrilo-
+cality and other traditions within Ghana.11 I run these regressions at the individual 
+instead of the ethnic group level to allow larger ethnic groups to have more weight, 
+as they do in my main analysis, and cluster the standard errors at the Ethnographic 
+Atlas ­ethnicity-level. As the table shows, there is no variation in Ghana in polygamy 
+(all groups are historically polygamous), ­male-dominated agriculture (no ethnic 
+groups have exclusively male agriculture), and aboriginal plow use (no groups had 
+10 Matrilineality doesn’t typically imply women inherit. In Status of Women in ­Pre-Industrial Societies, Whyte 
+(1978, p. 7) notes that in matrilineal societies, “It is perfectly possible for the position of women to be as low as the 
+greatest misogynist would desire.”
+11 To account for the fact that much of the variation in cultural traditions in Indonesia is across islands, I further 
+control for province fixed effects in Indonesia.
+
+
+--- PAGE 8 ---
+1887
+BAU: CAN POLICY CHANGE CULTURE?
+VOL. 111 NO. 6
+the plow). Additionally, in Ghana, bride price and matrilineality do not correlate 
+with patrilocality. In Indonesia, bride price and ­male-dominated agriculture are not 
+correlated with matrilocality, while aboriginal plow use, polygamy, and matrilineal-
+ity are. Altogether, though patrilocality and matrilocality are correlated with other 
+cultural traditions in Indonesia, these relationships are not systematic across both 
+countries.12 Nonetheless, throughout this paper, I control for a set of cultural tra-
+ditions that have been linked with ­gender-biased behavior consisting of aboriginal 
+plow use, bride price, ­male-dominated agriculture, and polygamy.
+C. Modern Practice of Matrilocality and Patrilocality
+I now validate my ­ethnicity-level measures of matrilocality and patrilocality from 
+the Ethnographic Atlas by testing whether they predict modern behavior. I use the 
+2000 Ghana Census, the 2010 Indonesia Census,13 and the 2000 and 2007 rounds of 
+the Indonesia Family Life Survey or IFLS (Strauss et al. 2004, 2009), which provide 
+more detailed data on matrilocal practices. In the censuses, I code a household as 
+practicing matrilocality (patrilocality) if a married daughter (son) lives in the same 
+household as her parents. This is a ­lower-bound measure of the prevalence of these 
+traditions. It does not capture cases where a child lives in the same compound or the 
+same village as a parent but does not live in the same census household.14 Nor does 
+it capture cases where matrilocality and patrilocality are not possible because there 
+are no living parents or married children.
+Columns 1–3 and 6–8 of Table 1 report the coefficients from regressions of the 
+practice of matrilocality and patrilocality in the censuses on indicator variables for 
+whether the household head belongs to a traditionally matrilocal or patrilocal eth-
+nicity. In the case of Indonesia, I further include province fixed effects to account 
+for important geographic variation across islands in traditional practices. In addition 
+to the baseline specifications (columns 1 and 6), columns 2 and 7 control for other 
+cultural traits, and columns 3 and 8 restrict the sample to individuals who live out-
+side their ethnic homelands.15 This restriction follows from the “epidemiological 
+approach” (Fernández and Fogli 2006), which analyzes the effect of the cultural 
+background of different migrants to the same destination on their behavior. By com-
+paring migrants in the same destination from different cultural backgrounds, this 
+approach separates the effect of culture from other confounders and shows that cul-
+ture has persistent effects.
+12 Matrilocality and patrilocality may still be associated with unobserved gender-biased attitudes. While research 
+in this area is limited, Alesina, Brioschi, and La Ferrara (forthcoming) provide evidence that there is no correlation 
+between patrilocality and domestic violence or attitudes toward violence against women in 18 ­sub-Saharan African 
+countries.
+13 Both censuses are provided by the Minnesota Population Center (2011).
+14 Beaman and Dillon (2012) show that determining the exact boundaries of a household in ­low-income coun-
+tries is difficult, and the choice of boundaries may affect the results of economic analysis.
+15 To determine if an individual lives outside his or her ethnic homeland, I match the ethnic groups in the data 
+to ­ethnicity-level GIS shape files of the boundaries of ethnic/linguistic homelands from the 16th edition of the 
+Ethnologue (Gordon 2009) for Indonesia and the Murdock map for Africa in Ghana (Murdock 1967). Ethnicities 
+whose homelands in Ghana could not be identified with the Murdock map were matched to homelands based on the 
+Ethnologue 16. In the ­non-homeland sample, any individual living in a district that is identified as being part of his 
+or her ethnic homeland is dropped from the sample. I am grateful to Nathan Nunn for sharing these data with me.
+
+
+--- PAGE 9 ---
+1888
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+In Indonesia, the baseline specification indicates that belonging to a matrilocal 
+ethnicity increases the likelihood a household practices matrilocality by 3.2 percent-
+age points (39 percent). In Ghana, belonging to a patrilocal ethnicity increases the 
+likelihood a household practices patrilocality by 3.2 percentage points (44 percent). 
+Columns 3 and 8 of Table 1 also indicate that historical traditions are predictive of 
+­modern-day practices, even among individuals who no longer live in their ethnic 
+homeland.
+I next replicate these tests of the predictive power of matrilocal traditions using 
+the IFLS data. Unlike the censuses, the IFLS asks respondents whether each of their 
+biological parents is alive, lives with them, or lives with a sister. I restrict my sam-
+ple to daughters who are married, have a living parent, and are aged 25–45. These 
+restrictions ensure that I examine an adult sample that can practice matrilocality and 
+is unlikely to be affected by differential mortality. The respondent is coded as prac-
+ticing matrilocality if at least one parent lives with either the respondent or her sister. 
+Because an observation is now an individual instead of a household, I further control 
+for age fixed effects. The results from the IFLS suggest that the census measure of 
+Table 1—Association between Cultural Traditions and Current Practices
+Indonesia 2010 Census
+Indonesia Family 
+Life Survey
+Ghana 2000 Census
+Household practices  
+matrilocality
+Respondent practices 
+matrilocality
+Household practices 
+patrilocality
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+Matrilocal 
+  ethnicity
+0.032
+0.023
+0.020
+0.061
+0.064
+(0.006)
+(0.006)
+(0.003)
+(0.019)
+(0.029)
+[0.020]
+[0.292]
+Patrilocal  
+  ethnicity
+0.032
+0.033
+0.020
+(0.011)
+(0.016)
+(0.009)
+­Non-homeland  
+  sample
+N
+N
+Y
+N
+N
+N
+N
+Y
+Province FE
+Y
+Y
+Y
+Y
+Y
+N
+N
+N
+Ethnicity tradition  
+  controls
+N
+Y
+N
+N
+Y
+N
+Y
+N
+Muslim control
+N
+Y
+N
+N
+Y
+N
+Y
+N
+Age FE
+N
+N
+N
+Y
+Y
+N
+N
+N
+Mean dep. var.
+0.082
+0.082
+0.065
+0.200
+0.200
+0.071
+0.071
+0.066
+Observations
+6,067,884
+6,063,227
+1,485,992
+8,776
+8,772
+298,245
+298,245
+154,292
+Clusters
+45
+45
+45
+13
+13
+24
+24
+24
+Adjusted ​R​ 2​
+0.009
+0.010
+0.009
+0.027
+0.027
+0.004
+0.005
+0.002
+Notes: For the census datasets, this table regresses an indicator variable for whether a household practices 
+­matrilocality (a married daughter lives in the same household as her parents) or patrilocality (a married son lives 
+in the same household as his parents) on indicator variables for whether the household head belongs to a tradition-
+ally matrilocal or patrilocal ethnicity. An observation is then a household. For the Indonesia Family Life Survey 
+(rounds 3 and 4), this table regresses an indicator variable equal to 1 if a female, married respondent between the 
+ages of 25 and 45 with at least one living parent reports one or both of her biological parents live with her or her sis-
+ter on an indicator variable for whether the respondent belongs to a matrilocal ethnic group. Ethnicity controls con-
+sist of indicator variables for polygamy, aboriginal plow use, ­male-dominated agriculture, and bride price customs, 
+and indicator variables for cases where information on these customs is missing. Standard errors are clustered at 
+the Ethnographic Atlas ethnicity level. Due to the small number of clusters in the IFLS, wild bootstrapped ­p-values 
+appear in the brackets for these regressions.
+Sources: Data sources consist of the Indonesia 2010 Census and the Ghana 2000 Census (Minnesota Population 
+Center 2011), rounds 3 and 4 of the Indonesia Family Life Survey (Strauss et al. 2004, 2009), and information on 
+­ethnicity-level traditions and homelands from Murdock (1967) and Gordon (2009)
+
+
+--- PAGE 10 ---
+1889
+BAU: CAN POLICY CHANGE CULTURE?
+VOL. 111 NO. 6
+the pervasiveness of matrilocality is a lower bound. Compared to the 8 percent of 
+households in the census, 20 percent of married females in the IFLS are coded as 
+practicing matrilocality. Columns 3 and 4 show that belonging to a matrilocal eth-
+nicity is associated with a 6 percentage point increase in practicing matrilocality 
+(30 percent).16
+II.  Conceptual Framework
+This section provides a brief conceptual framework guided by the theoretical 
+work of Banerjee (2004) and Bisin and Verdier (2001) to generate predictions for 
+the empirical analysis. Online Appendix Section A shows that these predictions can 
+be produced by an equilibrium model of cultural transmission and human capital 
+investment. An imperfectly altruistic parent can be thought of as choosing whether 
+to attempt to transmit her ethnic group’s cultural tradition (matrilocality or patrilo-
+cality) to her child in line with Bisin and Verdier (2001). If a parent transmits the cul-
+tural tradition, the child will have a positive probability of practicing that tradition as 
+adult.17 However, that positive probability will also depend on how widespread the 
+tradition is among ­co-ethnics, both because the practice of the tradition is enforced 
+if deviating leads to social stigma and because the child’s spouse must also agree 
+to practice the tradition.18 Transmitting cultural traditions may be costly because it 
+leads children to forgo profitable migration opportunities, because the parent must 
+practice matrilocality or patrilocality to model the behavior, or because it has actual 
+financial costs. However, there are also benefits to transmitting a cultural tradition. If 
+a parent transmits the tradition, it increases the likelihood that a child of the targeted 
+gender stays with the parent and provides her with old age support, allowing the 
+parent to informally save in a context with little access to formal savings technol-
+ogies. Additionally, as the child will be able to provide more old age support if she 
+is more educated due to marriage market19 or labor market returns,20 transmitting 
+the tradition allows the parent to partake in the returns to the child’s education. As 
+16 Given that I will show that the introduction of a pension plan reduces these practices, cultural traditions likely 
+had an even stronger differential effect on the practices of matrilocality and patrilocality before the pension plan 
+was introduced. My estimates, which I will discuss in detail in Section IV, indicate that the pension plan differ-
+entially reduced the likelihood of practicing matrilocality among traditionally matrilocal females by 7 percentage 
+points. Taking the 6 percentage point difference from the IFLS as the modern effect of traditional matrilocality, this 
+indicates that prior to the plan, traditionally matrilocal females were at least 13 percentage points more likely to 
+practice matrilocality.
+17 Online Appendix Table A3 provides evidence from the panel IFLS that matrilocal practices are indeed trans-
+mitted across generations. Female descendants of households that practiced matrilocality in the first round of the 
+IFLS in 1993 (but themselves were not observed practicing matrilocality in 1993) with at least one living parent 
+were almost 50 percentage points more likely to be observed practicing matrilocality in 2000 and 25 percentage 
+points more likely to be observed practicing it in 2007.
+18 As noted by anthropologists, ­coresidence traditions require “interlocking and coordinated social exchange” 
+(Jordan et al. 2009). This reasoning assumes that individuals marry within their own ethnic group, and the data are 
+consistent with this assumption. In the Indonesia 2010 Census, less than 1 percent of household heads have a spouse 
+from an ethnicity with a different ­post-marriage residency practice. In the Ghana 2010 Census, only 13.8 ­percent of 
+married household heads have a spouse from an ethnicity with a different ­post-marriage residency practice.
+19 Ashraf et al. (2020) show that marriage market matching in Indonesia is highly assortative in education. Thus, 
+parents of more educated matrilocal daughters in Indonesia benefit from both the labor market returns to education 
+and the increased quality/income of the daughter’s spouse.
+20 More than 50 percent of women aged 25–45 in the 2010 Indonesian Census are employed, and Mincerian 
+regressions reported in online Appendix Table A21 show that greater female education is associated with a greater 
+chance of employment, higher wages, and greater household wealth.
+
+
+--- PAGE 11 ---
+1890
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+Banerjee (2004) shows, cultural traditions or social norms that increase a parent’s 
+ability to capture the returns to education mitigate incomplete contracting problems 
+that would otherwise lead to inefficiently low educational investment when parents 
+are imperfectly altruistic. Thus, matrilocality incentivizes educational investment in 
+daughters and patrilocality incentivizes it in sons, producing the conceptual frame-
+work’s first testable prediction. 
+PREDICTION 1: Education will be higher for daughters relative to sons for tra-
+ditionally matrilocal ethnic groups relative to other ethnic groups. Education will 
+be higher for sons relative to daughters for traditionally patrilocal ethnic groups 
+relative to other ethnic groups. 
+Consider what happens when the government introduces a pension account that 
+a parent pays into when she is young and receives as a ­lump sum when she is old. 
+This formal savings technology makes old age support from a child less valuable, 
+and as a result, the parent is less likely to transmit her ethnic group’s cultural tra-
+dition to her child. Thus, a child who is exposed to the pension program becomes 
+less likely to practice matrilocality/patrilocality as an adult. As in Banerjee (2004), 
+the removal of the cultural tradition exacerbates incomplete contracting problems 
+between the parent and children whose genders would otherwise be targeted by the 
+prevalent cultural tradition. 
+PREDICTION 2: Daughters from traditionally matrilocal ethnic groups who were 
+exposed to the pension plan will have less education and be less likely to practice 
+matrilocality as adults. Sons from traditionally patrilocal ethnic groups who were 
+exposed to the pension plan will have less education and be less likely to practice 
+patrilocality as adults. 
+An important caveat to Predictions 1 and 2 is that they rely on the assumption that 
+educating a child does not increase the probability that she migrates (and reneges 
+on the tradition) by enough to eliminate parents’ old age support motive to educate 
+the child. In Section VI, I provide descriptive evidence that this is the case for tradi-
+tionally matrilocal females in Indonesia and traditionally patrilocal males in Ghana. 
+Consistent with the idea that a parent is more likely to educate a child to whom 
+they also transmit the cultural tradition, education (for secondary and university 
+education in Indonesia and for primary schooling in Ghana) is positively associated 
+with ­coresiding with parents as an adult for these samples. However, in other con-
+texts, like the Indian context studied by Jensen and Miller (2017), where education 
+strongly increases the likelihood of migration, cultural traditions of ­coresidence and 
+old age support may lead parents to strategically decrease the education of children 
+they expect to care for them in their old age. Thus, in some cases, by reducing the 
+need for old age support, pension programs could have positive rather than negative 
+effects on education.
+The existence of pension programs may even affect parents and children in house-
+holds without access to a pension through a cultural externality. If enough adults stop 
+transmitting matrilocality/patrilocality to their children due to the ­program, failing 
+to follow the practice will be less stigmatized, and following the practice will be 
+
+
+--- PAGE 12 ---
+1891
+BAU: CAN POLICY CHANGE CULTURE?
+VOL. 111 NO. 6
+more likely to create conflicts between spouses. Even a child whose parents trans-
+mit the tradition will be less likely to practice it as an adult, and parents who do not 
+receive the plan themselves may rationally cease to transmit the practice. 
+PREDICTION 3: The effect of the share of the traditionally matrilocal or patrilocal 
+population exposed to the pension plan on education and the practice of the cultural 
+tradition may be ­nonlinear if there are cultural spillovers onto households that do 
+not receive the plan.
+III.  Matrilocality, Patrilocality, and the Gender Gap
+In this section, I test the first prediction from the conceptual framework: that 
+female education rates will be higher relative to male education rates for tradition-
+ally matrilocal ethnic groups and vice versa for patrilocal ethnic groups. I start by 
+evaluating how the gender gap in enrollment between siblings varies with cultural 
+traditions. To estimate the association between patrilocality and matrilocality and 
+­within-household differences in school enrollment in Indonesia and Ghana, I use 
+the 2010 Census data in Indonesia and the 2000 Census data in Ghana to estimate
+(1)	
+​​enroll​ije​  =  ​β​1​ ​I​ i​ Gender​ + ​β​2​ ​I​ i​ Gender​ × ​I​ e​ 
+Tradition​ + Γ ​X​ie​ + H​H​j​ + ​ε​ije​,​
+where ​i​ denotes a child of the household head between the ages of 5 and 22, ​e​ 
+denotes an ethnic group, ​j​ denotes a household, and ​​enroll​ije​​ is an indicator variable 
+equal to 1 if a child is enrolled in school and 0 otherwise; ​​I​ i​ Gender​​ is an indicator 
+variable for the relevant gender (female in Indonesia and male in Ghana), ​​I​ e​ 
+Tradition​​ 
+is an ­ethnicity-specific indicator variable for an ethnic group’s traditional practice 
+(matrilocality in Indonesia and patrilocality in Ghana), and ​H​H​j​​ is a household fixed 
+effect. I focus on the sample aged 5–22 since this group is ­school-aged, includ-
+ing college. The term ​​X​ie​​ contains ­child-specific controls and age fixed effects, and 
+depending on the specification, includes controls for Muslim, parental educational 
+and socioeconomic status,21 controls for geographic region (province indicator vari-
+ables in Indonesia and district indicator variables in Ghana), a control for whether 
+the household head is male, and indicators for aboriginal plow use, bride price cus-
+toms, ­male-dominated agriculture, and polygamy traditions, all interacted with child 
+gender. The variable ​​β​2​​, the relative effect on enrollment of being a traditionally 
+matrilocal female or patrilocal male, is the coefficient of interest, and the conceptual 
+framework predicts that ​​β​2​  >  0​.
+By examining the gender gap between siblings, I use household fixed effects 
+to control for differences in access to schooling or household wealth that could 
+be ­associated with ­ethnicity-level traditions and affect enrollment. Including 
+rich socioeconomic and geographic controls interacted with gender accounts for 
+21 These consist of indicator variables for whether the father has completed primary school, whether the father’s 
+spouse has completed primary school, whether the father works in a high skill sector, whether the father’s spouse 
+works in a high skill sector, whether the father works in agriculture, and whether the father’s spouse works in 
+agriculture.
+
+
+--- PAGE 13 ---
+1892
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+­socioeconomic and geographic variables that could be correlated with cultural tradi-
+tions and could affect the gender gap in education.
+To inform potential sources of bias in regression equation (1), the top panels of 
+online Appendix Tables A4 and A5 document summary statistics and balance by 
+traditional practice for the Indonesia and Ghana census data used in these regres-
+sions. Along most dimensions, matrilocal and ­non-matrilocal groups in Indonesia 
+are similar. While matrilocal groups are more likely to be Muslim and are slightly 
+more likely to have a female household head, my more stringent specifications con-
+trol for both these variables. In Ghana, online Appendix Table A5 shows that there 
+are strong differences between patrilocal and ­non-patrilocal groups, indicating that 
+patrilocal groups are poorer and less educated than ­non-patrilocal groups.
+The estimates from regression equation (1) are in Table 2. As the ­upper half 
+of the table shows, females in matrilocal households are ­1 to 2 percentage points 
+more likely to be enrolled in school relative to their brothers when compared to 
+females in ­non-matrilocal households in Indonesia. Neither the gender interactions 
+with household socioeconomic status (column 2), alternative ethnic traditions (col-
+umn 3), nor geographic location (column 4) fully explain this result. While the 
+yearly differences in the likelihood of enrollment appear small, they accumulate. 
+Adding up the 18 years a child could have been enrolled in school between the 
+ages of 5 and 22, this indicates that there will be a gap in educational attainment of 
+0.14–0.38 years of schooling between matrilocal and ­non-matrilocal females (rela-
+tive to their brothers). For comparison, Duflo (2001) finds that an additional school 
+per 1,000 children increases male years of schooling in Indonesia by 0.12–0.19 
+years. Thus, for a female, belonging to a matrilocal ethnic group increases years 
+of schooling by about the same amount as ­1 to 2 extra primary schools per 1,000 
+children.
+The estimates are similar in Ghana. Patrilocal males are approximately 1 percent-
+age point more likely to be enrolled in school relative to their sisters when compared 
+to ­non-patrilocal males, implying a difference of 0.18 years of education. While the 
+estimates are not significant in the first two columns, the inclusion of the gender 
+interactions with ethnicity level traditional practices and the ­district-gender fixed 
+effects increases their precision.22
+Following the epidemiological approach, online Appendix Table A7 reports esti-
+mates from the same regressions for children who live outside their ethnic home-
+lands. The same relationships are observed in these samples, again suggesting that 
+cultural traditions are persistent. In online Appendix Table A8, I examine whether the 
+differences in enrollment rates observed in Table 2 are reflected in adults’ education 
+levels with the caveat that, for adults, I cannot control for unobserved socioeconomic 
+status with household fixed effects and cannot observe and control for parental char-
+acteristics. The regressions in this table report the effect of the interaction between 
+cultural traditions and gender on primary, secondary, and college completion, and 
+22 The results for Indonesia and Ghana are not driven by the differential selection of a sample of children aged 
+­5–22 who still live with parents across ethnic groups. Online Appendix Table A6 ­re-estimates equation (1) for a 
+sample of children aged ­5–18 and shows that the results are similar if somewhat less precise in this smaller sample.
+
+
+--- PAGE 14 ---
+1893
+BAU: CAN POLICY CHANGE CULTURE?
+VOL. 111 NO. 6
+in the case of Ghana, years of education23 for adults aged ­25–45,24 controlling for 
+ethnicity fixed effects, age fixed effects, gender by geographic area fixed effects, 
+and ethnic traits interacted with gender. The results for Indonesia indicate that, rela-
+tive to traditionally matrilocal males, traditionally matrilocal females are 8.6, 13.5, 
+and 2.6 percentage points more like to have completed primary school, secondary 
+school, and university, respectively, when compared to ­non-matrilocal females’ out-
+comes relative to ­non-matrilocal males. In Ghana, the results are imprecise, but for 
+primary schooling (the most likely level of schooling to be affected given the rarity 
+of secondary and university completion), the estimates indicate that patrilocal males 
+are 2 percentage points more likely to have completed primary school. For years of 
+schooling, though insignificant, the estimate indicates that patrilocal males receive 
+0.16 more years of schooling, which is very close to the 0.18 years predicted by the 
+enrollment estimates.
+Finally, I examine whether these findings apply more broadly outside of Indonesia 
+and Ghana in online Appendix Section B. Online Appendix Table A9 shows that 
+23 Respondents do not report the number of years of schooling in the Indonesia 2010 Census.
+24 I focus on this group since adults over the age of 25 are likely to have completed their educational investment, 
+and differential mortality is less likely to affect the results in this younger population.
+Table 2—Cultural Traditions and the ­Within-Household Gender Gap in Enrollment
+Baseline
++ Socioeconomic controls
++  Custom controls
++  Geography controls
+(1)
+(2)
+(3)
+(4)
+Indonesia
+​​I​ e​ 
+Matrilocal​ × ​I​ i​ Female​​
+0.021
+0.019
+0.018
+0.008
+(0.002)
+(0.003)
+(0.003)
+(0.003)
+Mean dep. var.
+0.694
+0.702
+0.702
+0.702
+Observations
+4,657,941
+4,239,051
+4,239,051
+4,239,051
+Clusters
+44
+44
+44
+44
+Adjusted ​R​ 2​
+0.516
+0.512
+0.512
+0.512
+Ghana
+​​I​ e​ 
+Patrilocal​ × ​I​ i​ Male​​
+0.011
+0.006
+0.009
+0.011
+(0.007)
+(0.006)
+(0.004)
+(0.004)
+Mean dep. var.
+0.601
+0.595
+0.595
+0.595
+Observations
+347,918
+236,111
+236,111
+236,111
+Clusters
+24
+24
+24
+24
+Adjusted ​R​ 2​
+0.505
+0.517
+0.517
+0.517
+Notes: This table reports ­difference-in-difference estimates of the association of the interaction between traditional 
+matrilocality and female (Indonesia) and traditional patrilocality and male (Ghana) with enrollment for children 
+of the household head aged ­5–22 in Indonesia and Ghana. All regressions include household and age fixed effects. 
+Column 2 adds indicator variables for whether the father has completed primary school, whether the father’s spouse 
+has completed primary school, whether the father works in a high skill sector, whether the father’s spouse works 
+in a high skill sector, whether the father works in agriculture, whether the father’s spouse works in agriculture, 
+whether the household head is male, and whether the individual is Muslim interacted with child gender. Column 
+3 adds indicator variables for whether a child belongs to an ethnicity with a bride price custom, ­male-dominated 
+agriculture, ­polygamy, or aboriginal plow use interacted with child gender. Column 4 adds ­province-gender fixed 
+effects (Indonesia) or ­district-gender fixed effects (Ghana). Standard errors are clustered at the Ethnographic Atlas 
+ethnicity level.
+Sources: Data are drawn from the Indonesia 2010 and Ghana 2000 Censuses (Minnesota Population Center 2011), 
+and the Ethnographic Atlas (Murdock 1967)
+
+
+--- PAGE 15 ---
+1894
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+the percent of a country’s population that has each cultural tradition affects the 
+­country-level gender gap in the expected direction. Together, traditional patrilocality 
+and matrilocality explain 4 percent of the global education gender gap.
+IV.  Indonesian Pension Program
+In this section, I test whether the introduction of a pension program in Indonesia 
+differentially reduced female education and the practice of matrilocality among tra-
+ditionally matrilocal groups. I first describe the details of the program. I then discuss 
+the different empirical strategies used to identify the plan’s effects (all of which 
+exploit geographic variation in the location of pension offices), their results, and 
+robustness checks. In online Appendix Section C, I report results from an alter-
+native identification strategy that exploits geographic variation in manufacturing 
+employment.
+A. Astek
+Astek was founded in Indonesia in 1977 and developed accident, health care, 
+death, and provident fund schemes for employees of medium and large firms 
+(greater than 100 employees). At the beginning program, employees were required 
+to save 1 percent of their earnings and employers provided a matching contribution 
+of 1.5 percent. Most funds were initially allocated to bank time deposits with annual 
+interest rates of 9 percent, and retirees received their benefits in ­lump-sum form when 
+they retired, as long as they were 55 or older.25 By the end of 1983, 8,602 employers 
+and 1,960,109 employees were covered by Astek. Coverage expanded rapidly, and 
+in 1985, the government estimated that 5.5 million employees would be covered by 
+1988 (Perusahan Umum Asuransi Sosial Tenaga Kerja 1985).26 While a minority of 
+workers were employed at large firms in the formal sector, the percent of affected 
+individuals (due to having an affected worker in their household) is much greater 
+than the percent of affected workers. Though I cannot directly observe what share of 
+children are affected by the pension plan, I can provide a benchmark for this number 
+using the government’s estimate that 5.5 million employees would be covered by 
+1988. Using the 1971 weighted census, I randomly assign 5.5 million individuals 
+aged ­25–55 to be recipients. Since the IFLS 2007 indicates that 22 ­percent of retired 
+pension recipients are female, I randomly assign 22 percent to be females and the 
+rest to be males. Under this assignment, 13 percent of adults ­25–55 are affected by 
+the pension program, and 23 percent of children under 18 have a pension recipient 
+in their household.27
+25 The implementation of the pension program means that it is unlikely that it would have immediately changed 
+family composition, and therefore affected education due to changes in family structure, unlike the South African 
+OAP program studied by Hamoudi and Thomas (2014), since ­payouts from the plan would not have taken place 
+until current workers retired.
+26 Purwoko (1997) reports that 6.3 million workers were enrolled in 1993, and 14.6 million were enrolled by 
+1997.
+27 If I instead use the official count from 1993 of 6.3 million enrollees (Purwoko 1997) in this simulation, 
+15 percent of adults ­25–55 are affected, and 26 percent of children under the age of 18 are in a household with 
+a recipient. I can also use the 1980 Census as a base year instead of the 1971 Census to evaluate whether pop-
+ulation growth has important implications for these numbers. The percents of the population affected using the 
+
+
+--- PAGE 16 ---
+1895
+BAU: CAN POLICY CHANGE CULTURE?
+VOL. 111 NO. 6
+B. ­Triple-Differences Estimates for Females
+­Province-Level Empirical Strategy.—My main empirical strategy is a 
+­triple-differences exploiting the locations of the pension plan offices in Indonesia. 
+In this strategy, there are two pieces of variation that determine the degree to 
+which a female in the 2010 Indonesia Census was affected by the introduction 
+of Astek. First, if a daughter was sufficiently old when the pension plan was 
+introduced, it will be too late for the program to affect parents’ educational 
+investments and transmission of the cultural tradition. These investments will 
+have already been made. Second, when the program was introduced, some geo-
+graphic areas were more intensively treated by the pension plan than others. 
+The cohort variation can be combined with this geographic variation to create 
+a ­difference-in-differences estimator of the effect of the pension program in 
+Indonesia.28 Additionally, since I am interested in the differential effect of the 
+pension plan on traditionally matrilocal groups, I also exploit variation in whether 
+a female belongs to a traditionally matrilocal ethnic group. Combining the geo-
+graphic, cohort, and ­ethnicity-level variation results in the final ­triple-differences  
+strategy.
+Geographic variation in Astek’s roll-out comes from the fact that, though it was 
+national, Astek expanded its coverage over time and initial compliance was imper-
+fect. From 1978 to 1979, the number of enrollees grew by 24 percent, and from 
+1979 to 1980, it grew by 12 percent. By 1983, only 40 percent of eligible individ-
+uals were enrolled (Sudomo 1985). Thus, I exploit the fact that areas with more 
+Astek branch offices, liaisons, and representatives likely had higher initial enroll-
+ment. The second volume of a ­two-part series entitled Readings in Social Security: 
+The Indonesian Case, published by the Astek Research and Development Board 
+(Perusahan Umum Asuransi Sosial Tenaga Kerja 1985), reports the locations of 
+these offices at the ­district-level in 1985, and Figure 2 plots their locations, assign-
+ing each office to the district centroid. Supporting the idea that the pension offices 
+created geographic variation in exposure to the plan, online Appendix Table A10 
+confirms that living in a province with more pension offices per 1,000 square 
+miles is positively associated with receiving a public pension in round 4 of the 
+IFLS (2007).29, 30
+1980 ­Census are reasonably similar to those using the 1971 Census (11 percent of adults ­25–55 and 20 percent of 
+children under 18).
+28 This identification strategy is similar to the one used by Duflo (2001) to estimate the effect of the INPRES 
+school construction on education outcomes in Indonesia.
+29 I focus on the 2007 round rather than combining the 2007 and 2000 rounds because the 2007 round has more 
+detailed questions on pension plan receipt. The regressions control for age fixed effects and ethnicity fixed effects 
+to account for variation in pension policy access over time and across ethnic groups.
+30 While office locations in 1985 are positively associated with pension receipt in 2007, the point estimates 
+in this table cannot be interpreted as estimating differences in pension plan enrollment in the 1980s due to office 
+locations for two reasons. First, enrollment in the plan expanded over time, attenuating the importance of office 
+locations for enrollment in later years. Second, the IFLS sample covers relatively more urban and developed areas 
+and provinces. Thus, it may not fully capture differences in enrollment between the most and least intensively 
+treated provinces.
+
+
+--- PAGE 17 ---
+1896
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+Using the cohort, geographic, and ­ethnicity-level variation and a sample of 
+females born between 1959 and 1985, my first ­triple-differences specification is
+(2)	
+​​y​icpe​  =  ​β​1​ ​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Full_Treat​ × ​Intensity​p​ 
+	
++ ​β​2​ ​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Part_Treat​ × ​Intensity​p​ + ​α​cp​ + ​α​e​ 
+	
++ ​∑ 
+p​ ​ ​γ​p​ ​I​ e​ 
+Matrilocal​ + ​∑ 
+c​ ​ ​λ​c​ ​I​ e​ 
+Matrilocal​ + Γ ​X​icpe​ + ​ε​icpe​,
+​where ​i​ denotes an individual, ​c​ denotes the individual’s birth year, ​p​ denotes the 
+province of an individual’s birth, and ​e​ denotes an ethnic group. The outcomes of 
+interest, ​​y​icpe​​, consist of indicator variables for completing primary and secondary 
+schooling, university, and an indicator variable for practicing matrilocality (a mar-
+ried woman living in the same household as at least one of her parents). The vari-
+able ​​I​ e​ 
+Matrilocal​​ is an indicator equal to 1 if an individual belongs to a traditionally 
+matrilocal ethnic group, and ​​I​ c​ 
+Part_Treat​​ and ​​I​ c​ 
+Full_Treat​​ indicate the individual’s exposure 
+to the plan based on her birth year;  ​​I​ c​ 
+Part_Treat​​ is equal to 1 if a woman was between 6 
+and 12 when the plan was instituted, and ​​I​ c​ 
+Full_Treat​​ is an indicator variable equal to 1 
+if she was 6 or younger. A woman who was younger when the pension plan was insti-
+tuted is likely to be more affected both because parents would have had more time to 
+change their educational investments and because offices and compliance expanded 
+in the early years, increasing the likelihood her parents were enrolled in the plan 
+during her childhood. The term ​​α​cp​​ is a birth ­province-birth year fixed effect, ​​α​e​​ is an  
+ethnic group fixed effect, and ​∑ p​ 
+  ​γ​p​ ​I​ e​ 
+Matrilocal​​ and ​∑ c​ 
+  ​λ​c​ ​I​ e​ 
+Matrilocal​​ allow the birth 
+Figure 2. Locations of Astek Offices in Indonesia
+Note: The figure documents the locations of the Astek pension plan offices in Indonesia in 1985.
+Sources: Population shares are constructed using the Indonesia 2010 Census (Minnesota Population Center 2011) 
+and Murdock (1967). Data on pension office locations are drawn from Perusahan Umum Asuransi Sosial Tenaga 
+Kerja (1985).
+Regional office type         Branch           Liaison          Representative
+Indonesia
+0–6.1%                  6.2–22%                  22.1–47.9%                  48–75.7%                  75.8–99.1%
+Share matrilocal
+N
+
+
+--- PAGE 18 ---
+1897
+BAU: CAN POLICY CHANGE CULTURE?
+VOL. 111 NO. 6
+­province and cohort fixed effects to depend on whether a woman belongs to a 
+­matrilocal ethnic group.
+The term ​​X​icpe​​ is a vector of controls. To control for differential time trends, it 
+always includes a linear trend in birth year whose coefficient is allowed to vary at 
+the birth ­province-matrilocal level. To control for the fact that matrilocality may be 
+correlated with other traditions, it also includes triple interactions between ​​I​ e​ 
+Intensity​​ 
+and ​​I​ c​ 
+Full_Treat​​ and ​​I​ e​ 
+Part_Treat​​ and other ethnic traditions.31 Importantly, it includes 
+Muslim by birth province fixed effects interacted with indicator variables for 
+treatment group (­partial treatment, full treatment, or none). To control for other 
+programs that were ­on-going during the same period in Indonesia, I also interact 
+­province-level controls for the INPRES school construction and water sanitation 
+programs described by Duflo (2001) with ­matrilocal-birth year fixed effects and 
+include these controls. To account for the fact that pension offices were placed 
+in more urban or dense areas, I use the Indonesia 1971 Census to calculate the 
+population density and percent of the population that lived in urban areas for each 
+province. Since I will ultimately use three different geographic measures of pen-
+sion plan exposure, and the functional form of population density’s relationship 
+with these measures is likely to be different across measures, I include controls for 
+­matrilocal-birth year fixed effects interacted with both the birth province’s popula-
+tion density and log population density. This ensures a consistent set of population 
+density controls across specifications. In addition, I control for ­matrilocal-birth year 
+fixed effects interacted with share that lived in urban areas in the 1971 Census. In 
+robustness tests, I will also use a lasso procedure to select the functional form of 
+the population density controls rather than specifying it ex ante. Finally, I ­two-way 
+cluster the standard errors by birth province and ethnicity in the Ethnographic Atlas.
+The coefficients of interest are ​​β​1​​ and ​​β​2​​. The conceptual framework predicts 
+that ​​β​1​  <  0​ and ​​β​2​  <  0​. As fully treated females are more intensively treated than 
+partially treated females, we also expect that the magnitude of ​​β​1​​ is greater than ​​β​2​​. 
+Note, ​​β​1​​ and ​​β​2​​ are differential effects. As education levels in Indonesia were increas-
+ing during this period, the estimates should be interpreted not as a reduction in edu-
+cation levels but rather as indicating how much higher education levels would have 
+been among matrilocal females in the absence of the pension program.
+I include females born between 1959 and 1985 so that the oldest females were 18 
+at the time the pension plan was instituted and were wholly untreated during their 
+childhood. The youngest females were −8 and were fully treated. I do not include 
+women born later than 1985 so that women are at least 25 when they are observed. 
+Those who will go to university have already done so, and most are married, allow-
+ing me to test for the practice of matrilocality. When I estimate the effects of the 
+pension plan on the practice of matrilocality, I restrict the sample to married women, 
+since unmarried women cannot be observed practicing matrilocality. The bottom 
+panel of online Appendix Table A4 reports summary statistics for this sample.
+The ­triple-differences approach allows me to address several potential sources of 
+bias in the estimates. One natural concern is that pension plans were established in 
+31 These consist of traditional polygamy, aboriginal plow use, ­male-dominated agriculture, and bride price. To 
+avoid losing a significant fraction of the sample, missing values were set to 0, and indicator variables for missing 
+information were also included in the triple and double interactions.
+
+
+--- PAGE 19 ---
+1898
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+response to concerns about lack of old age support driven by declines in the practice 
+of matrilocality. Since I exploit geographic variation in the program’s intensity, I 
+control for traditionally ­matrilocal-birth year fixed effects, absorbing any gener-
+alized declines in the practice of matrilocality. Along with ethnicity fixed effects, 
+this also absorbs any level differences between matrilocal and ­non-matrilocal ethnic 
+groups. Therefore, my key coefficients of interest, ​​β​1​​ and ​​β​2​​, will only be biased if
+matrilocality was declining faster in areas that then received more pension offices. 
+This is unlikely to be the case since pension plan offices were not initially targeted 
+to areas with more matrilocal ethnic groups (Figure 2). However, I further address
+this concern by controlling for ­matrilocal-birth province linear time trends so that 
+the effects of the plan are identified from the discontinuous effect of being exposed 
+to the plan during childhood.
+Another concern is that there are differential educational trends between matri-
+local and ­non-matrilocal groups. The ­triple-differences identification strategy also 
+accounts for this by including ­matrilocal-birth year fixed effects. Similarly, while 
+more heavily traditionally matrilocal areas may have different time trends, different 
+returns to education, or have received different policies that affect the practice of 
+matrilocality or female education, the inclusion of birth ­province-birth year fixed 
+effects absorbs this variation. Analogously, while ​​Intensity​p​​ is not randomly dis-
+tributed across provinces, birth ­province-matrilocal fixed effects absorb these level 
+differences across space. The identifying variation for ​​β​1​​ and ​​β​2​​ comes from com-
+paring traditionally matrilocal and ­non-matrilocal females of the same age in the 
+same geographic regions who face similar labor markets.
+To further address identification concerns, I also estimate equation (2) for edu-
+cational outcomes for the population of males. Males serve as a natural comparison 
+group, since the conceptual framework indicates that the introduction of the pension 
+plan should not have as large a negative effect on males’ education as females’. 
+However, males also are not a true placebo group. If the pension program affects 
+females’ education, males may be affected through sibling spillovers or marriage 
+market incentives.
+I do not estimate effects on the practice of matrilocality for males since a male’s 
+likelihood of living with his wife’s parents is likely to be highly related to whether 
+the wife herself practices matrilocality. Unlike the educational outcomes, it is not 
+clear we should expect a null or quantitatively smaller effect on living in a house-
+hold that is practicing matrilocality for males.­­­­
+ Building up to the  Triple-Differences:  Difference-in-Differences by  Subgroup.—
+Before reporting the ­triple-differences results, I build up to equation (2) by report-
+ing the results from each of the component ­difference-in-differences regressions in 
+the ­triple-differences specification. For each of four subgroups, matrilocal females, 
+matrilocal males, ­non-matrilocal females, and ­non-matrilocal males, I estimate
+(3)	​
+​y​icpe​  =  ​β​1​ ​I​ c​ 
+Full_Treat​ × ​Intensity​p​ + ​β​2​ ​I​ c​ 
+Part_Treat​ × ​Intensity​p​ 	
++ ​ α​c​ + ​ α​p​​ + ​ α​e​ +  Γ ​X​icp​ + ​ε​icpe​ ,​
+
+
+--- PAGE 20 ---
+1899
+BAU: CAN POLICY CHANGE CULTURE?
+VOL. 111 NO. 6
+where ​​X​icp​​ consists of an indicator variable for Muslim, linear time trends that are 
+allowed to vary at the birth ­province-level, and the population density and urban-
+ization controls interacted with birth year. Online Appendix Table A11 reports the 
+results for each subgroup.
+The results for matrilocal females are consistent with the conceptual frame-
+work: fully treated females in more exposed districts experience reductions in 
+primary, secondary, and university completion, and the practice of matrilocality. 
+Column 5 further controls for current province, in addition to birth province, and 
+shows that controlling for conditions in an individual’s current province does not 
+eliminate the effect of the pension plan on the practice of matrilocality. Since 
+the average matrilocal female was born in a province where ​​Intensity​p​  =  0.144​, 
+the effects indicate that the average fully treated traditionally matrilocal female 
+is 2.7 percentage points less likely to complete primary school, 3.6 percentage 
+points less likely to complete secondary school, 1.9 percentage points less likely 
+to attend university, and 2.1 percentage points less likely to practice matrilocality. 
+For matrilocal males, there is some evidence of significant negative effects, par-
+ticularly for primary schooling, pointing to the possibility that differential time 
+trends across provinces may be biasing the ­difference-in-differences estimates. 
+This highlights the potential value of the ­triple-differences strategy, which controls 
+for birth ­province-birth year fixed effects. However, the point estimates for fully 
+treated males’ secondary and university outcomes are insignificant and ­one-tenth 
+to ­one-third as large as the estimates for females. They are statistically signifi-
+cantly different from those for fully treated, matrilocal females at the 1 percent 
+level. Turning to ­non-matrilocal ethnic groups, there are no significant negative 
+effects on education for either males or females, nor are there significant negative 
+effects on the practice of matrilocality.
+Provincial ­Triple-Differences for Females.—Panel A of Table 3 reports the 
+­triple-differences estimates for females using the ​​Intensity​p​​ measure. Consistent 
+with the idea that the primary schooling effects observed for both matrilocal males 
+and females in the ­difference-in-differences estimates may have been driven by 
+provincial time trends, these effects are no longer significant. However, for fully 
+treated, traditionally matrilocal females, there are significant and economically 
+meaningful effects on secondary (−5 percentage points (pp) at the average value 
+of ​​Intensity​p​​ for matrilocal females) and university completion (−1.4 pp), as well as 
+the practice of matrilocality (−7 pp). While these effects are large, recalling that an 
+estimated 23 percent of children are directly affected by the program, large spillover 
+effects are not necessary to explain these effect sizes. Panel B of Table 3 reports the 
+­triple-differences results with an alternative specification: ​​Intensity​p​​ is replaced by 
+the log number of offices in a province, and the specification controls for the log 
+area of the province and its triple interactions with ​​I​ c​ 
+Part_Treat​​, ​​I​ c​ 
+Full_Treat​​, and ​​I​ e​ 
+Matrilocal​​ . 
+While this specification drops 2 provinces that have 0 offices, the pattern of the 
+results is very similar. Greater pension plan exposure reduces secondary and univer-
+sity completion, as well as the practice of matrilocality.
+Online Appendix Table A12 reports the results of a robustness check that helps 
+ensure that the estimates in Table 3 are not driven by the inclusion of both the 
+log and linear population density controls. I run a lasso regression of each of 
+
+
+--- PAGE 21 ---
+1900
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+the geographic pension intensity measures on population density and log pop-
+ulation density. I then control for the interactions of the selected control(s) 
+with ­matrilocal-birth year fixed effects instead of automatically including the 
+Table 3—­Triple-Differences Estimates of the Differential Effect of Pension Plan Exposure  
+for Indonesian Females
+Practice
+Matrilocality
+Practice
+Matrilocality
+Primary
+Secondary
+University
+(1)
+(2)
+(3)
+(4)
+(5)
+Panel A. ​​Intensity​p​​ Measure
+​​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Part_Treat​ × ​Intensity​p​​
+−0.059
+−0.228
+−0.078
+−0.171
+−0.178
+(0.103)
+(0.075)
+(0.030)
+(0.047)
+(0.046)
+​​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Full_Treat​ × ​Intensity​p​​
+−0.007
+−0.357
+−0.100
+−0.466
+−0.497
+(0.168)
+(0.152)
+(0.042)
+(0.125)
+(0.116)
+Current province fixed effects
+N
+N
+N
+N
+Y
+Mean dependent variable
+0.876
+0.320
+0.056
+0.079
+0.079
+Observations
+4,780,573
+4,780,573
+4,780,573
+4,461,289
+4,461,289
+Adjusted ​R​ 2​
+0.837
+0.823
+0.513
+0.675
+0.733
+Panel B. log number of offices measure
+​​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Part_Treat​ × log​(​num. offices​p​)​​
+0.002
+−0.033
+−0.010
+−0.014
+−0.015
+(0.014)
+(0.016)
+(0.006)
+(0.008)
+(0.008)
+​​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Full_Treat​ × log​(​num. offices​p​)​​
+0.031
+−0.044
+−0.014
+−0.031
+−0.033
+(0.029)
+(0.019)
+(0.006)
+(0.018)
+(0.018)
+Current province fixed effects
+N
+N
+N
+N
+Y
+Mean dependent variable
+0.877
+0.320
+0.056
+0.079
+0.079
+Observations
+4,677,531
+4,677,531
+4,677,531
+4,364,884
+4,364,884
+Adjusted ​R​ 2​
+0.840
+0.827
+0.519
+0.689
+0.741
+Panel C. Distance to a pension office
+​​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Part_Treat​ × log​(​distance​d​)​​
+−0.022
+0.000
+0.007
+−0.005
+−0.005
+(0.008)
+(0.012)
+(0.006)
+(0.004)
+(0.004)
+​​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Full_Treat​ × log​(​distance​d​)​​
+−0.038
+−0.016
+0.008
+−0.019
+−0.021
+(0.011)
+(0.015)
+(0.004)
+(0.009)
+(0.008)
+Current district fixed effects
+N
+N
+N
+N
+Y
+Mean dependent variable
+0.880
+0.318
+0.055
+0.080
+0.080
+Observations
+4,618,188
+4,618,188
+4,618,188
+4,313,952
+4,313,949
+Adjusted ​R​ 2​
+0.648
+0.609
+0.212
+0.429
+0.483
+Notes: This table reports ­triple-differences estimates of the effect of the 1977 institution of the Astek pension 
+plan on women, exploiting the interaction between years exposed to the plan (partial treatment indicates a woman 
+was ­6–12 when the pension plan was initiated, and full treatment indicates that she was younger than 6), a geo-
+graphic ­area-level measure of treatment intensity, and whether an individual belongs to a matrilocal ethnic group. 
+The sample consists of women born between 1959 and 1985. All panels include birth ­province-matrilocal fixed 
+effects, ethnicity fixed effects, birth ­province-birth year fixed effects, and linear time trends in birth year interacted 
+with birth ­province-matrilocal fixed effects. All panels also include cultural trait interactions (­ethnicity-level con-
+trols for the interaction between traditional plow use, ­male-dominated agriculture, polygamy, and bride price with 
+the geographic ­area-level measure of pension plan affectedness, indicator variables for partial and full treatment, 
+and the relevant double interactions), population density controls (geographic area linear and log population den-
+sity and percent urban from the 1971 Census interacted with ­matrilocal-birth year fixed effects), and controls for 
+the INPRES program and a water and sanitation program (at the geographic level of the treatment) interacted with 
+­matrilocal-birth year fixed effects. Panels A and B include ­muslim-birth ­province-treatment cohort (partial, full, or 
+none) fixed effects. Panel C includes ­muslim-birth ­district-treatment cohort fixed effects and the relevant double 
+interactions for the treatment variables that are not subsumed by the fixed effects. Standard errors are ­two-way clus-
+tered at the Ethnographic Atlas ethnic ­group-level and the birth geographic ­area-level (province in panels A and B 
+and district in panel C). There are 45 ethnic groups, 26 provinces, and 464 districts.
+Sources: ­Individual-level data are drawn from the Indonesia 2010 Census (Minnesota Population Center 2011). 
+Data on pension office locations come from Perusahan Umum Asuransi Sosial Tenaga Kerja (1985), and data on 
+ethnic traditions are from Murdock (1967).
+
+
+--- PAGE 22 ---
+1901
+BAU: CAN POLICY CHANGE CULTURE?
+VOL. 111 NO. 6
+­interactions of both measures with ­matrilocal-birth year fixed effects as controls. 
+The estimates are very similar to those in Table 3.
+­District-Level Distance Variation.—I next assess whether using an alternative, 
+­district-level distance measure of pension exposure based on office locations deliv-
+ers similar results. This measure ​​distance​d​​ is the sum of an ­intra-district distance 
+measure and a ­cross-district distance measure and is given by
+(4)	
+​​distance​d​  =  ​cross_distance​d​ + ​intra_distance​d​,​
+where ​d​ denotes a district, ​​cross_distance​d​​ is the distance from district ​d​’s centroid 
+to the centroid of the closest district with a pension office, and ​​intra_distance​d​​ is 
+the average distance in district ​d​ to ​d​’s centroid.32 The inclusion of the ­intra-district 
+distance measure accounts for the effects of distance within districts that have 
+pension offices. As the geographic variation is now at the ­district-level, the new 
+­triple-differences estimating equation is
+(5)  ​​y​icpde​  =  ​β​1​ ​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Full_Treat​ × ​(− log​(​distance​d​)​)​
+	
++ ​β​2​ ​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Part_Treat​ × ​(− log​(​distance​d​)​)​
+	
++ ​α​cp​ + ​α​e​ + ​∑ 
+p​ ​ ​γ​p​ ​I​ e​ 
+Matrilocal​ + ​∑ 
+c​ ​ ​λ​c​ ​I​ e​ 
+Matrilocal​ + Γ ​X​ipde​ + ​ε​icpde​,​
+where I multiply ​log​(​distance​d​)​​ by ​− 1​ so that, consistent with Table 3, the con-
+ceptual framework would predict that all the coefficients for females are nega-
+tive, and ​​X​ipde​​ now includes ­Muslim-treated ­cohort-birth district fixed effects, the 
+double interaction between ​​I​ e​ 
+Matrilocal​​ and ​log​(​distance​d​)​​, and relevant triple- and 
+­double-interactions of the cultural traditions controls with ​log​(​distance​d​)​​. Since the 
+geographic variation is now at the birth ­district-level, I calculate my geographic 
+controls at the ­district-level instead of the ­province-level, and I ­two-way cluster my 
+standard errors at the Ethnographic Atlas ethnicity and birth ­district-levels. I focus 
+on ​log​(​distance​d​)​​ as my distance measure rather than a linear distance variable since 
+it is likely that distance matters less at very great distances.
+Panel C of Table 3 reports the results. We again see that traditionally matrilocal 
+women who are more exposed to the pension plan are less educated and less likely 
+to practice matrilocality as adults.33 There is one interesting difference, however, 
+between the ­province-level estimates and the ­district-level, distance estimates. In 
+panel C, the educational effects are largest for primary schooling, although the point 
+estimate for secondary schooling is also negative. This may reflect the fact that these 
+different strategies capture households who are on different margins of educational 
+investment. For example, the distance strategy may exploit more variation from 
+32 For the counts of offices, I focused on provincial variation rather than ­district-level variation because 
+93 ­percent of districts do not have offices. Thus, I expect the effects of offices to extend beyond district borders and 
+wanted to exploit variation from the existence of offices in neighboring districts.
+33 The results in online Appendix Table A12, which uses lasso to determine whether to include a linear or log 
+population density control (or both) interacted with ­matrilocal-birth year fixed effects are very similar to the results 
+reported in panel C of Table 3.
+
+
+--- PAGE 23 ---
+1902
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+households in less dense, less developed provinces with lower baseline education 
+rates (that received few pension offices), who are still relatively close to pension 
+offices in other provinces.
+Table 4—­Triple-Differences Estimates of the Differential Effect of Pension Plan 
+Exposure for Indonesian Males
+Primary
+Secondary
+University
+(1)
+(2)
+(3)
+Panel A. ​​Intensity​p​​ measure
+​​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Part_Treat​ × ​Intensity​p​​
+−0.037
+−0.132
+−0.027
+(0.064)
+(0.072)
+(0.031)
+​​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Full_Treat​ × ​Intensity​p​​
+0.000
+−0.245
+−0.038
+(0.116)
+(0.160)
+(0.062)
+Mean dependent variable
+0.912
+0.388
+0.066
+Observations
+4,789,858
+4,789,858
+4,789,858
+Adjusted ​R​ 2​
+0.794
+0.801
+0.509
+Panel B. log number of offices measure
+​​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Part_Treat​ × log​(​num. offices​p​)​​
+0.013
+−0.012
+0.005
+(0.010)
+(0.013)
+(0.006)
+​​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Full_Treat​ × log​(​num. offices​p​)​​
+0.032
+−0.009
+0.012
+(0.020)
+(0.021)
+(0.011)
+Mean dependent variable
+0.912
+0.389
+0.066
+Observations
+4,687,691
+4,687,691
+4,687,691
+Adjusted ​R​ 2​
+0.799
+0.803
+0.515
+Panel C. Distance to a pension office
+​​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Part_Treat​ × log​(​distance​d​)​​
+−0.003
+0.001
+−0.007
+(0.006)
+(0.009)
+(0.006)
+​​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Full_Treat​ × log​(​distance​d​)​​
+−0.011
+0.003
+−0.007
+(0.008)
+(0.010)
+(0.010)
+Mean dependent variable
+0.915
+0.386
+0.065
+Observations
+4,623,739
+4,623,739
+4,623,739
+Adjusted ​R​ 2​
+0.754
+0.853
+0.605
+Notes: This table reports ­triple-differences estimates of the effect of the 1977 institution of the 
+Astek pension plan on men, exploiting the interaction between years exposed to the plan (par-
+tial treatment indicates a man was ­6–12 when the pension plan was initiated, and full treat-
+ment indicates that he was younger than 6), a geographic ­area-level measure of treatment 
+intensity, and whether an individual belongs to a matrilocal ethnic group. The sample consists 
+of men born between 1959 and 1985 in the 2010 Indonesia Census. All panels include birth 
+­province-matrilocal fixed effects, ethnicity fixed effects, birth ­province-birth year fixed effects, 
+and linear time trends in birth year interacted with birth ­province-matrilocal fixed effects. 
+All panels also include cultural trait interactions (­ethnicity-level controls for the interaction 
+between traditional plow use, ­male-dominated agriculture, polygamy, and bride price with the 
+geographic ­area-level measure of pension plan affectedness, indicator variables for partial and 
+full treatment, and the relevant double interactions), population density controls (geographic 
+area linear and log population density and percent urban from the 1971 Census interacted with 
+­matrilocal-birth year fixed effects), and controls for the INPRES program and a water and san-
+itation program (at the geographic level of the treatment) interacted with ­matrilocal-birth year 
+fixed effects. Panels A and B include ­muslim-birth ­province-treatment cohort (partial, full, or 
+none) fixed effects. Panel C includes ­muslim-birth ­district-treatment cohort fixed effects and 
+the relevant double interactions for the treatment variables that are not subsumed by the fixed 
+effects. Standard errors are ­two-way clustered at the Ethnographic Atlas ethnic ­group-level and 
+the birth geographic ­area-level (province in panels A and B, and district in panel C). There are 
+45 ethnic groups, 26 provinces, and 464 districts.
+Sources: ­Individual-level data are drawn from the Indonesia 2010 Census (Minnesota 
+Population Center 2011). Data on pension office locations come from Perusahan Umum 
+Asuransi Sosial Tenaga Kerja (1985), and data on ethnic traditions are from Murdock (1967).
+
+
+--- PAGE 24 ---
+1903
+BAU: CAN POLICY CHANGE CULTURE?
+VOL. 111 NO. 6
+­Triple-Differences Estimates for Males.—Using the same specifications as in 
+Table 3, Table 4 reports the educational estimates for males. For all three panels, 
+there are no statistically significant negative effects on education for fully treated 
+males. In cases where the effects for males are negative, the magnitude of the effect 
+for females is always greater, often on the order of ­2– 4 times. This further suggests 
+that the results in Table 3 are not driven by a confounding variable or time trends 
+that differentially affect traditionally matrilocal individuals’ education. Rather, con-
+sistent with the conceptual framework, the pension plan appears to more strongly 
+affect females’ educational outcomes.
+C. ­Nonlinear Effects
+Equation (2) assumes the effect of ​​Intensity​p​​ is linear. However, the conceptual 
+framework predicts that the effect of the pension plan on matrilocal females may be 
+nonlinear due to the cultural externality. I directly test whether this is the case by 
+estimating treatment effects by a birth province’s tercile for ​​Intensity​p​​. The resulting 
+regression equation is
+(6)	
+​​y​icpe​  =  ​β​1​ ​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Full_Treat​ × ​I​ p​ 
+Q2​ + ​β​2​ ​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Part_Treat​ × ​I​ p​ 
+Q2​
+	
++ ​β​3​ ​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Full_Treat​ × ​I​ p​ 
+Q3​ + ​β​4​ ​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Part_Treat​ × ​I​ p​ 
+Q3​
+	
++  ​α​cp​ + ​α​e​ + ​∑ 
+p​ ​ ​γ​p​ ​I​ e​ 
+Matrilocal​ + ​∑ 
+c​ ​ ​λ​c​ ​I​ e​ 
+Matrilocal​ + Γ ​X​icpe​ + ​ε​icpe​ ,​
+where ​​I​ p​ 
+Q2​​ is an indicator variable equal to 1 if the province is in the middle ­tercile, ​​I​ p​ 
+Q3​​ 
+is an indicator variable equal to 1 if it is in the top tercile, and ​​X​icpe​​ now includes 
+triple and double interactions between the cultural trait controls and the tercile indi-
+cator variables. Table 5 reports the estimates from equation (6). I again find that pen-
+sion exposure reduces secondary and university completion, as well as the practice 
+of matrilocality. Furthermore, there is some evidence that the effects are ­nonlinear 
+and concentrated in the ­top-tercile of provinces.
+D. Event Study Graphs
+Though the ­triple-differences procedure accounts for many potential identifica-
+tion concerns, the estimates will still be biased if traditionally matrilocal groups 
+in more intensively treated areas experience ­nonlinear differential time trends. To 
+establish if trends are parallel prior to the treatment, and if the timing of the effects I 
+measure coincides with the pension plan, I plot event study graph versions of equa-
+tions (2) and (6). These graphs plot the differential effect on matrilocal females of 
+being born in a province with a higher intensity of treatment by cohort. To allow for 
+more ­pre-treatment periods, I also include women born between 1945 and 1965 in 
+the 1990 Census in the data used for estimation.34
+34 Since the two censuses have different sampling procedures, I use the provided sampling weights to make 
+them comparable.
+
+
+--- PAGE 25 ---
+1904
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+To plot these graphs I follow a ­two-step procedure. If I include both the interac-
+tions between birth group indicator variables and ​​Intensity​p​ × ​I​ e​ 
+Matrilocal​​ and controls 
+for linear differential time trends at the ­matrilocal-birth province level in the same 
+regression, these two sets of explanatory variables will be almost collinear.35 So, I 
+first estimate a regression similar to equation (2), except that all the terms besides 
+the main treatment effects are now interacted with survey fixed effects to account 
+for differences between the 1990 and 2010 Census, and subtract out the estimated 
+effects of the differential, linear time trends. Then, I estimate the event study regres-
+sion using the residual variation in the outcome variable as the new outcome. In the 
+second step, the event study analogue of equation (2) is
+(7)      ​​y ̃ ​icpes​  =  ​∑ 
+g​ ​τ​g​ ​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+c∈g​ × ​Intensity​p​ + ​α​cps​ + ​α​es​ 
+	
++ ​∑ 
+ps​ ​ ​γ​ps​ ​I​ e​ 
+Matrilocal​ + ​∑ 
+cs​ ​ ​λ​cs​ ​I​ e​ 
+Matrilocal​ + Γ ​X​ipes​ + ​ε​icpes​ ,​
+35 A typical event study graph might report the coefficients on ­matrilocal-birth year fixed effects interacted 
+with ​​Intensity​p​​. These variables would be fully collinear with the time trends controls in my main regression 
+specifications. In practice, I group cohorts into ­3-year birth groups to increase statistical power. These birth 
+­group-traditional matrilocal fixed effects interacted with ​​Intensity​p​​ are not fully collinear with the time trends con-
+trols, but they are highly correlated. If both sets of variables were included in the same regression, the time trend 
+controls would only be identified from variation in outcomes within ­3-year birth groups, which may be sensitive to 
+­age-heaping. This is likely to lead to very different time trend estimates than my main ­triple-differences regressions. 
+The ­two-step procedure described below allows me to estimate the time trend controls’ coefficients using the same 
+variation as in the triple differences specification in Table 3.
+Table 5—Nonlinear Effects of Pension Plan Exposure
+Practice
+Matrilocality
+Practice
+Matrilocality
+Primary
+Secondary
+University
+(1)
+(2)
+(3)
+(4)
+(5)
+​​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Part_Treat​ × ​I​ p​ 
+Q3​​
+−0.001
+−0.073
+−0.020
+−0.031
+−0.033
+(0.018)
+(0.020)
+(0.007)
+(0.009)
+(0.009)
+​​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Full_Treat​ × ​I​ p​ 
+Q3​​
+0.034
+−0.107
+−0.035
+−0.084
+−0.088
+(0.040)
+(0.041)
+(0.012)
+(0.026)
+(0.024)
+​​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Part_Treat​ × ​I​ p​ 
+Q2​​
+−0.012
+−0.028
+0.007
+0.003
+0.001
+(0.024)
+(0.049)
+(0.015)
+(0.007)
+(0.007)
+​​I​ e​ 
+Matrilocal​ × ​I​ c​ 
+Full_Treat​ × ​I​ p​ 
+Q2​​
+0.016
+−0.048
+−0.017
+0.011
+0.008
+(0.046)
+(0.058)
+(0.020)
+(0.018)
+(0.017)
+Current province fixed effects
+N
+N
+N
+N
+Y
+Mean dependent variable
+0.876
+0.320
+0.056
+0.079
+0.079
+Observations
+4,780,573
+4,780,573
+4,780,573
+4,461,289
+4,461,289
+Adjusted ​R​ 2​
+0.837
+0.823
+0.512
+0.688
+0.737
+Notes: This table reports ­nonlinear ­triple-differences estimates of the effect of the 1977 institution of the Astek 
+pension plan on women, exploiting the interaction between years exposed to the plan (partial treatment indicates 
+a woman was ­6–12 when the pension plan was initiated, and full treatment indicates that she was younger than 6), 
+tercile of ​​Intensity​p​​, and whether an individual belongs to a matrilocal ethnic group. The sample consists of women 
+born between 1959 and 1985 in the 2010 Indonesia Census. All regressions include the same controls as panel A 
+of Table 3 except that the cultural trait interactions are now interacted with the treatment tercile indicator variables. 
+Standard errors are ­two-way clustered at the Ethnographic Atlas ethnic ­group-level and the birth ­province-level. 
+There are 45 ethnic groups and 26 provinces.
+Sources: ­Individual-level data are drawn from the Indonesia 2010 Census (Minnesota Population Center 2011). 
+Data on pension office locations come from Perusahan Umum Asuransi Sosial Tenaga Kerja (1985), and data on 
+ethnic traditions are from Murdock (1967).

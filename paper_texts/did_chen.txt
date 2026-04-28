@@ -1,0 +1,2008 @@
+
+
+--- PAGE 1 ---
+American Economic Review 2020, 110(11): 3393–3430 
+https://doi.org/10.1257/aer.20191414
+3393
+Arrival of Young Talent: The ­Send-Down Movement  
+and Rural Education in China†
+By Yi Chen, Ziying Fan, Xiaomin Gu, and ­Li-An Zhou*
+This paper estimates the effects on rural education of the ­send-down 
+movement during the Cultural Revolution, when about 16 million 
+urban youth were mandated to resettle in the countryside. Using a 
+­county-level dataset compiled from local gazetteers and population 
+censuses, we show that greater exposure to the ­sent-down youths 
+significantly increased rural children’s educational achievement. 
+This positive effect diminished after the urban youth left the coun-
+tryside in the late 1970s but never disappeared. Rural children who 
+interacted with the ­sent-down youths were also more likely to pur-
+sue ­more-skilled occupations, marry later, and have smaller families 
+than those who did not. (JEL I21, J13, J24, N35, O15, P36, R23)
+In 1968, two years after the start of the Cultural Revolution, China’s central gov-
+ernment launched the “­send-down movement,” which mandated about 16 million 
+urban youth to temporarily resettle in rural areas. This massive campaign lasted 
+until the late 1970s. The villages receiving the “­sent-down youths” (SDYs), typi-
+cally junior and senior high school graduates,1 were generally located in poor areas 
+where few people received more than a primary school education.2 Although the 
+SDYs were expected to farm in the countryside, many of them were assigned to 
+1 Based on our calculations from the 2010 wave of the China Family Panel Studies (CFPS), 73.3 percent of the 
+SDYs had completed junior high education, and 28.3 percent had completed senior high education by the time they 
+were sent to the countryside.
+2 According to China’s 1990 Population Census, 38.4 percent of rural people born between 1946 and 1955 (the 
+control group in our later analysis) either received no schooling or failed to complete primary school; 41.1 percent 
+were primary school graduates; and only 4 percent attained education beyond junior high school.
+* Chen: Institute for Economic and Social Research, Jinan University, and School of Entrepreneurship and 
+Management, ShanghaiTech University (email: chenyi1@shanghaitech.edu.cn); Fan: School of Public Economics 
+and Administration, Shanghai University of Finance and Economics (email: fan.ziying@mail.shufe.edu.cn); 
+Gu: International Business School, Shanghai University of International Business and Economics (email: 
+guxiaomin517@suibe.edu.cn); Zhou: Guanghua School of Management, Peking University (email: zhoula@gsm.
+pku.edu.cn). Esther Duflo was the coeditor for this article. We thank two anonymous reviewers for their valu-
+able comments and suggestions. We are also grateful for comments from Jie Bai, Steven N. Durlauf, Hanming 
+Fang, Richard B. Freeman, James J. Heckman, Shi Li, Yi Lu, Xin Meng, Zheng (Michael) Song, Shang-Jin Wei, 
+and Yifan Zhang. We thank participants at the 2018 CCER Summer Institute, 2018 Chicago–Jinan Joint Initiative 
+Workshop, 2018 Chinese Economy Summer Institute, 2019 China Meeting of the Econometric Society, the 4th 
+Biennial Conference of China Development Studies, 2019 Singapore Economic Review Conference, and numerous 
+seminars for their feedback. Chen acknowledges financial support from the 111 Project of China (B18026) and 
+from the National Science Foundation of China (71903066). Fan acknowledges financial support from the National 
+Science Foundation of China (71573165, 71973088). Zhou acknowledges financial support from the Research 
+Center for Comparative Economic History at Peking University. Finally, we thank Shuxian Chi, Weidong Chi, Jing 
+Li, and Yao Xie for their excellent RA work. All remaining errors are our own.
+† Go to https://doi.org/10.1257/aer.20191414 to visit the article page for additional materials and author  
+disclosure statements.
+
+
+--- PAGE 2 ---
+3394
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+teach rural kids because of their education advantages. In this paper, we explore the 
+movement’s unintended effect on rural education, i.e., how the ­large-scale arrival 
+of the SDYs benefited the approximately 245 million ­school-age children in rural 
+China at the time.3
+The ­send-down movement provides a unique opportunity to study how this 
+unprecedented ­large-scale resettlement of talents contributed to the educational 
+attainment of millions of rural children. It has three unique features that facilitate 
+our empirical analysis. First, the resettlement was mobilized in a ­top-down and 
+mandatory manner.4 Most urban youth could not choose whether (or where) to go. 
+Those who refused to take part in the program could be accused of opposing the 
+great strategy of Chairman Mao, which would have resulted in severe consequences 
+(Pan 2002). Second, migration was highly restricted in China at that time because of 
+the household registration (hukou) system. The 1958 codification of the household 
+registration system decreed that all internal migration was subject to approval by 
+the local government. Finally, SDYs’ resettlement was temporary. By the time rural 
+children grew up, the vast majority of the SDYs had left the countryside, excluding 
+possible mechanical effects that the better educated SDYs (and their offspring) were 
+counted as rural residents.5
+We hand-collected a ­county-level dataset on the number of SDYs each county 
+received from over 3,000 ­book-length local gazetteers. We combined this dataset 
+with ­individual-level population censuses to estimate how rural children’s exposure 
+to those ­better-educated SDYs affected their educational attainment. Using a cohort 
+­difference-in-differences (DID) strategy developed in Duflo (2001), we find that the 
+arrival of the SDYs significantly increased local rural children’s years of school-
+ing. We estimate that the effect of the SDYs resulted in an increase of 17.6 million 
+­person-years of schooling in rural areas. Our main results are robust to a wide range 
+of alternative specifications and robustness checks. The effect of the SDYs is greater 
+among ­less-educated groups and regions (girls and ­less-developed counties), sug-
+gesting that the SDYs not only raised the overall level of rural education but also 
+reduced socioeconomic inequality. As the movement came to an end and the SDYs 
+gradually left the countryside, their effect declined but never vanished. We also find 
+that the rural children who were exposed to SDYs were more likely to attain educa-
+tion beyond junior high level, pursued ­higher-skilled occupations including teach-
+ers, held more positive attitudes toward education, married later, and had smaller 
+families. Taken together, these results imply that the SDYs contributed to both the 
+“quantity” and “quality” of rural education.
+Our identification strategy does not require the number of SDYs received in each 
+county to be exogenous. The central requirement for identification in our cohort 
+DID strategy is the ­parallel-trend assumption: in the absence of the movement, the 
+cohort trends in education should not be related to the intensity of the treatment 
+3 This number is based on the number of rural children born between 1956 and 1969 (the treatment group in our 
+later analysis), according to our calculation from the 1982 China Population Census.
+4 The mandatory nature of the movement does not necessarily imply that the flows of the SDYs were exogenous. 
+Nor does the ­top-down arrangement rule out the possibility that the ­upper-level government assigned the SDYs 
+based on strategic considerations. Nonetheless, our identification strategy is not based on the random assignment of 
+the SDYs. More details are provided below.
+5 It is true that a small proportion (5 percent) of SDYs remained in the countryside after the movement. We 
+explain in Section IVF why this small proportion cannot drive our main results.
+
+
+--- PAGE 3 ---
+3395
+CHEN ET AL.: RURAL EDUCATION IN CHINA
+VOL. 110 NO. 11
+(here, the local density of SDYs). Our evidence supports this assumption. First, 
+we use the 1982, 1990, and 2000 population censuses to show that there were no 
+heterogeneous ­preexisting cohort trends with respect to the density of SDYs after 
+controlling for a set of regional and cohort characteristics. Second, we examine the 
+possible influences of certain local characteristics, such as the grain production level 
+and local government efforts to improve education, and from other contemporane-
+ous historical events, such as rural education expansion, the Cultural Revolution, 
+and the Great Famine of 1959–1961. China’s rural education (especially at the sec-
+ondary level) rapidly expanded since the late 1960s, a period that largely overlapped 
+with the ­send-down movement. To control for this confounding factor, we collected 
+­county-by-year information on the number of local primary and secondary schools 
+during the study period from local gazetteers. We show that although the educa-
+tional expansion did improve rural children’s education, the estimated coefficients 
+on the SDYs remain almost the same. We also controlled for the local intensity of 
+the Cultural Revolution (measured as the number of victims, which comes from 
+Walder 2017) and the Great Famine (calculated as 1 minus the ratio of the cohort 
+size of the famine cohort over that of the ­non-famine cohort, following Meng, Qian, 
+and Yared 2015).
+Our study reveals the important consequences of a historical event on rural edu-
+cation and sheds new light on the contribution of human capital accumulation in 
+rural areas to China’s subsequent economic growth. Heckman and Yi (2014) and 
+Heckman and Feng (2018) found that a large stock of ­medium-skilled labor (with 
+primary or secondary education) acquired before China’s ­market-oriented reforms 
+has fueled its rapid economic growth in recent decades. Most of the affected rural 
+children in our analysis were in their twenties or thirties in the ­mid-1990s, when the 
+country’s economic reforms allowed them to migrate to cities to become manufac-
+turing workers or to work in the vibrant Township and Village Enterprises in rural 
+areas. Combined with these observations, our empirical findings suggest a potential 
+link between the increase in rural human capital stock due to the arrival of the SDYs 
+and China’s rapid economic growth in the reform era.
+Our study contributes to three strands of literature. The first examines the 
+channels of supplying human capital and their consequences in developing coun-
+tries. Economists have uncovered a number of important ­supply-side factors, 
+such as school infrastructure (Duflo 2001, Indonesia), conditional transfers such 
+as PROGRESA (Schultz 2004, Mexico), child health (Miguel and Kremer 2004, 
+Kenya), and the availability of qualified teachers (Banerjee et al. 2007, India). Our 
+study is most related to Andrabi, Das, and Khwaja (2013), which finds that girls’ 
+secondary schools increase the local supply of ­low-cost teachers in Pakistan, which 
+leads to more private schools. Our results also demonstrate that increasing the local 
+supply of teachers is an important channel through which SDYs improved local 
+children’s education. Unlike Andrabi, Das, and Khwaja (2013), our paper examines 
+the ­individual-level outcomes and investigates the persistent effects on the affected 
+children after the SDYs left the countryside, such as the likelihood of going to senior 
+high school, attitudes toward education, marriage age, and occupational choices. In 
+addition, our empirical results show that the formation of human capital during this 
+period might have laid down an important foundation for China’s economic growth 
+in the reform era.
+
+
+--- PAGE 4 ---
+3396
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+The second literature investigates the social and economic consequences of 
+China’s ­send-down movement on the SDYs. The consequences include almost 
+every aspect of one’s life course (Zhou and Hou 1999), such as marriage (Song 
+and Zheng 2016); education and income (Xie, Jiang, and Greenman 2008); inter 
+vivos transfer (Li, Rosenzweig, and Zhang 2010); subjective well-being (Wang 
+and  Zhou 2017); political attitudes (Harmel and  Yeh 2016); beliefs and values 
+(Gong, Lu, and  Xie 2015); and financial behavior (Fan 2020). However, the 
+­program’s impact on the rural areas that accommodated the SDYs remains under-
+studied. Kinnan, Wang, and Wang (2018) and Xing and Zhou (2018) were among 
+the first to explore the program’s effects on destination provinces. They studied how 
+the lasting ­inter-provincial links created by SDYs’ temporary resettlement affected 
+current migration (Kinnan, Wang, and  Wang 2018) and bilateral trade (Xing 
+and Zhou 2018) decades after the program ended. Our study contributes to the 
+scholarship of the ­send-down program in two ways. First and foremost, we uncover 
+the effects of the SDYs on rural human capital accumulation and their persistence. 
+Second, our data go further down to the county level and include the ­intra-province 
+flow of SDYs, which accounted for 92.1 percent of total SDYs (Table 1). In a study 
+developed independently from ours,6 You (2018) examined a sample of 61 counties 
+in one province (Heilongjiang) and estimated how the densities of SDYs during the 
+movement affected local people’s education, employment, and social values. We 
+analyze a sample of nearly 2,000 counties (which include the majority of counties 
+affected by the movement) to provide a nationally representative estimate and a 
+more thorough discussion of robustness, mechanisms, and potentially confounding 
+factors of the effects of the SDYs.
+Third, our paper adds to the literature on the persistence of human capital spill-
+overs (Waldinger 2010, 2012; Borjas and Doran 2012; Moser, Voena, and Waldinger 
+2014). Wantchekon, Klašnja, and Novta (2014) examined human capital external-
+ities within a village by exploiting the establishment of colonial schools in Benin. 
+Rocha, Ferraz, and Soares (2017) studied human capital persistence by exploiting a 
+­state-sponsored settlement policy in Brazil that attracted educated immigrants. The 
+resettlement program we investigate differs from those assessed in previous studies 
+of human capital spillovers in at least three ways. First, as previously discussed, 
+the resettlement was temporary and mandatory, and there were few opportunities 
+for internal migration for local people at that time. Second, the large scale of the 
+resettlement and the number of local residents affected were unprecedented. Third, 
+the main motivation for the ­send-down movement was not to improve rural edu-
+cation but to address severe urban unemployment. Therefore, the improvement in 
+rural education brought about by the SDYs was an unintended consequence of the 
+movement.
+The remainder of this paper is organized as follows. Section I briefly reviews the 
+relevant institutional background. In Section II, we introduce our dataset and dis-
+cuss the econometric ­setups. Section III reports the main results about how expo-
+sure to SDYs affected the educational attainment of rural residents. Section IV 
+discusses alternative interpretations that may confound our main results. Section V 
+6 The working paper versions of both papers were available online in early 2018.
+
+
+--- PAGE 5 ---
+3397
+CHEN ET AL.: RURAL EDUCATION IN CHINA
+VOL. 110 NO. 11
+presents the lasting impact of the SDYs after they left the countryside. Section VI 
+concludes.
+I.  Institutional Background
+A. The ­Send-Down Movement: A Brief History
+The origins of the ­send-down movement can be traced back to the 1950s. 
+Chairman Mao Zedong declared in December 1955 that “[a]ll those intellec-
+tuals who can go to the countryside should go there happily. The countryside 
+is a vast universe where there is plenty to be done.” In 1962, when the country 
+struggled to overcome the Great Famine, the central government encouraged 
+urban youth to relocate to rural areas to alleviate food shortages in the cities. 
+Before the Cultural Revolution, the program operated on a relatively small scale, 
+and participation was largely voluntary. A large proportion of the SDYs at the 
+time went to either state farms or collective farms. Between 1962 and 1966, 
+the rustication program sent about 1.29 million urban youths to the countryside 
+(Bernstein 1977), accounting for 7.3 percent of the total 17.7 million SDYs during  
+1962–1979.
+After the outbreak of the Cultural Revolution, the ­send-down movement made 
+a decisive turnaround and mandated about 16 million urban youths to go to the 
+countryside. Three motivations drove this extension of the program. First, high 
+school students could not continue their education due to severe disruptions in the 
+early years of the Cultural Revolution. In addition, the college entrance exams were 
+abolished in 1966, and high school graduates had no regular chance of pursuing 
+higher education. Second, urban unemployment soared in the chaos created by the 
+Cultural Revolution. Industrial output fell by 13.8 percent in 1967 and 4.2 percent 
+in 1968. Thus, high school graduates found it almost impossible to find jobs in 
+urban areas, which were previously assigned by the government. In other words, 
+urban students who graduated between 1966 and 1968 could not find jobs or con-
+tinue their education. The third motivation was to discharge the Red Guards to 
+end the chaos in urban areas. Mao mobilized the Red Guards, mostly junior or 
+senior high school students, during the first few years of the Cultural Revolution 
+as a political weapon to fight against the party establishment. However, the Red 
+­Guard-led campaigns gradually spiraled out of control and turned into “red ter-
+ror.” To resolve the violence, Mao decided to send millions of urban youths to the 
+countryside for “­re-education” in April 1968. Following Mao’s decision and the 
+central guideline, local governments started to make arrangements to support the 
+­send-down campaign.
+To give a push for such a massive campaign, In December 1968, Mao issued 
+an important instruction in the People’s Daily, the party’s leading newspaper, that 
+reshaped the nature of the ­send-down movement. The instruction was composed of 
+three sentences, each of which targeted a different group. The first sentence spoke 
+to the urban youth: “It is very necessary for the urban educated youth to go to the 
+countryside to be ­re-educated by the poor farmers!” The second targeted urban 
+youth’s family: “We must persuade the cadres and others to send their sons and 
+daughters who have graduated from middle school and university to the ­countryside. 
+
+
+--- PAGE 6 ---
+3398
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+Let’s mobilize!” The last addressed rural villagers: “The comrades in the ­countryside 
+should welcome them.”
+Figure 1 shows that approximately 4.7 million urban youths were sent down from 
+1967 to 1969.7 After three years of intensive mobilization, the government allowed a 
+larger proportion of urban graduates to work in the cities.8 A second peak occurred 
+in 1974, one year after the National Work Conference on Educated Youth, which 
+­reemphasized the movement’s political importance.
+There is ample anecdotal evidence that most SDYs at the time were reluctant 
+to go, due to the poverty and hardship associated with the move and especially the 
+(potentially permanent) loss of their urban hukou status. China’s household registra-
+tion system categorized people into urban or rural hukou status, which determined 
+the social welfare to which they were entitled. Urban hukou holders enjoyed much 
+better social welfare than their rural counterparts. However, severe social pressure 
+pushed urban youths to participate in the campaign (Bernstein 1977, Zhou and Hou 
+1999). Participation signaled a youth’s political loyalty toward Mao, especially 
+for those who belonged to the desirable “red classes.” 9 Youth in the undesirable 
+7 To the best of our knowledge, the publicly available official sources only reported the combined number of 
+SDYs for 1967–1968; annual data for each year are not available. Our calculations based on 2010 China Family 
+Panel Studies show that of the 825 survey respondents who claimed to be SDYs, only 13 were sent down in 1967 
+while 104 were sent in 1968. Likewise, Gu (2009) claimed that almost all of the SDYs during 1967–1968 came in 
+1968. We therefore have good reason to believe that the SDYs sent down in 1968 accounted for an absolute majority 
+of the combined number in 1967–1968.
+8 If a household had multiple children of high school age, parents could choose one to send, as described in Li, 
+Rosenzweig, and Zhang (2010). Using a twin sample, they found that parents selected children with lower endow-
+ments, which may have attenuated the effects of the SDYs on educational attainment in the countryside.
+9 During the Cultural Revolution, households were categorized according to their political identities. There 
+were “five red classes” and “five black classes” (wuhong wuhei ). The five red classes included revolutionary 
+Figure 1. Number of SDYs by Resettlement, 1962–1979
+Source: Gu (2009)
+0
+0.5
+1
+1.5
+2
+2.5
+3
+Number of SDYs (million)
+1962–1966
+1967–1968
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+Rural villages
+Collective farms
+State farms
+
+
+--- PAGE 7 ---
+3399
+CHEN ET AL.: RURAL EDUCATION IN CHINA
+VOL. 110 NO. 11
+“black classes” had no employment opportunities in urban areas, which motivated 
+them to make a break from their parents’ class by participating in the movement 
+(Pan 2003).
+After Mao’s death in September 1976, the ideological impetus to continue the pro-
+gram declined. In 1978, the new central leadership considered ending the program; 
+there was a sharp decline in sending down rusticated youth that year (Figure 1). 
+­Large-scale protests from SDYs first appeared in Yunnan in late 1978 and quickly 
+spread to Xinjiang, Shanghai, and elsewhere (Deng 1993). The central government 
+discontinued the movement in September 1980. Most SDYs returned to urban areas 
+afterward; roughly 5 percent of SDYs never returned home because they were mar-
+ried to local farmers or assigned local ­nonagricultural jobs (Liu et al. 1995).
+B. Flows of SDYs
+The key variation used in this paper comes from different numbers of SDYs 
+received across counties during the ­send-down period. While our identification strat-
+egy does not require those numbers to be exogenous, it is important to understand 
+the factors that affected the flow of SDYs.10
+We conceptualize the flows of SDYs in a pushing–pulling framework. The most 
+important “pushing” factor from the SDYs hometowns is the urbanization rate, 
+because the movement explicitly targeted urban youth. Table 1 shows that the 
+three most urbanized municipalities, i.e., Beijing, Tianjin, and Shanghai, together 
+accounted for 13.2 percent of the total SDYs but only 3.4 percent of the national 
+population in 1966 (NBS 2010).
+Three “pulling” factors determined the number of SDYs received: the rural area’s 
+distance from the originating place, its capacity to absorb incoming urban youth, 
+and its need for more laborers. Relocating millions of young people from urban 
+to rural areas was a great challenge for the Chinese government. For practical rea-
+sons, most rusticated urban youth were sent to villages near their hometowns. Only 
+7.9 percent (1.42 million) of the SDYs were sent outside their home province. Thus, 
+the ­inter-province flow of SDYs, which is highlighted in Kinnan, Wang, and Wang 
+(2018) and Xing and Zhou (2018), accounted for only a small part of the movement. 
+Of the 1.42 million ­inter-province SDYs, 87.3 percent (1.24 ­million) were from 
+three municipalities: Beijing, Tianjin, and Shanghai (Gu 2009). When choosing 
+the destination, the government took the SDYs’ survival into account and gen-
+erally avoided the poorest counties.11 At the 1973 National Work Conference on 
+Educated Youth, Premier Zhou Enlai instructed that the destination should enable 
+the educated youth to survive on their own without ­long-term subsidies (Liu et al. 
+1995, 512).
+Local demand for labor also played a role in receiving SDYs. For example, 
+four border provinces, i.e., Inner Mongolia, Heilongjiang, Yunnan, and Xinjiang, 
+­cadres, ­revolutionary soldiers, revolutionary martyrs, workers, and poor and ­lower-middle peasants. The five black 
+classes were landlords and rich peasants, ­counter-revolutionaries, bad elements, rightists, and capitalists.
+10 Columns 1 and 2 in online Appendix Table B2 report the correlation between the densities of received SDYs 
+and some local county characteristics.
+11 A 1964 central government document recommended that the destinations should have strong leadership, 
+many alternatives of production, prospects of development, and stable income sources (Liu et al. 1995).
+
+
+--- PAGE 8 ---
+3400
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+received 0.75 million of the 1.42 million ­inter-province relocated SDYs (Table 1). 
+Many SDYs worked in state farms on the frontiers (Shi and He 1996). These real-
+locations were also partially motivated by military considerations due to China’s 
+intense foreign policy relationships with the Soviet Union, Mongolia, and Vietnam 
+from the late 1960s to the early 1970s (Pan 2002, 363). Heilongjiang and Xinjiang 
+also received many SDYs because they were thinly populated but rich in arable land 
+(Zhang 1986). All these pieces of evidence imply that improving education in rural 
+China was not the main motivation for relocating SDYs.
+The flow of SDYs from Shanghai nicely illustrates the pushing–pulling frame-
+work. Shanghai had a total of 1.25 million urban youths to be rusticated. Although 
+it was highly urbanized and lacked rural land to absorb these youths, it still tried 
+to resettle 0.53 million urban youths in its already crowded suburb areas. Of the 
+0.72 million SDYs who were sent outside the city, popular destinations were either 
+close to Shanghai or on the border of China. Anhui and Jiangxi, the two closest 
+inland provinces to Shanghai,12 received 0.15 and 0.12 million Shanghai SDYs, 
+­respectively. Three border provinces, Heilongjiang, Yunnan, and Xinjiang, received 
+12 Shanghai has only two adjacent provinces, Jiangsu and Zhejiang. Both were relatively developed coastal 
+provinces.
+Table 1—Total Number of Sent and Received SDYs in Each Province, 1962–1979
+Province
+SDY received (thousands)
+SDY sent (thousands)
+Total
+Inside
+Outside
+Total
+Inside
+Outside
+Beijing
+384.2
+384.2
+0.0
+636.3
+384.2
+252.1
+Tianjin
+193.6
+193.6
+0.0
+465.1
+193.6
+271.5
+Hebei
+510.5
+377.8
+132.7
+384.4
+377.8
+6.6
+Shanxi
+312.9
+264.3
+48.6
+264.3
+264.3
+0.0
+Inner Mongolia
+299.3
+193.8
+105.5
+193.8
+193.8
+0.0
+Liaoning
+2,018.0
+2,013.4
+4.6
+2,013.4
+2,013.4
+0.0
+Jilin
+1,052.6
+991.4
+61.2
+991.4
+991.4
+0.0
+Heilongjiang
+1,922.2
+1,519.2
+403.0
+1,519.2
+1,519.2
+0.0
+Shanghai
+532.3
+532.3
+0.0
+1,252.2
+532.3
+719.9
+Jiangsu
+861.2
+810.2
+51.0
+828.4
+810.2
+18.2
+Zhejiang
+595.9
+563.9
+32.0
+646.2
+563.9
+82.3
+Anhui
+725.5
+576.5
+149.0
+576.5
+576.5
+0.0
+Fujian
+372.3
+372.3
+0.0
+372.3
+372.3
+0.0
+Jiangxi
+622.5
+504.5
+118.0
+504.5
+504.5
+0.0
+Shandong
+492.7
+492.7
+0.0
+512.9
+492.7
+20.2
+Henan
+673.0
+673.0
+0.0
+673.0
+673.0
+0.0
+Hubei
+878.6
+878.6
+0.0
+886.6
+878.6
+8.0
+Hunan
+635.8
+635.8
+0.0
+635.8
+635.8
+0.0
+Guangdong
+973.2
+973.2
+0.0
+973.2
+973.2
+0.0
+Guangxi
+434.8
+434.8
+0.0
+434.8
+434.8
+0.0
+Sichuan
+1,427.4
+1,427.4
+0.0
+1,472.4
+1,427.4
+45.0
+Guizhou
+224.1
+213.5
+10.6
+213.5
+213.5
+0.0
+Yunnan
+339.1
+232.5
+106.6
+232.5
+232.5
+0.0
+Tibet
+3.4
+3.4
+0.0
+3.4
+3.4
+0.0
+Shaanxi
+490.3
+463.1
+27.2
+463.1
+463.1
+0.0
+Gansu
+264.3
+245.2
+19.1
+245.2
+245.2
+0.0
+Qinghai
+51.0
+43.6
+7.4
+43.6
+43.6
+0.0
+Ningxia
+57.5
+49.2
+8.3
+49.2
+49.2
+0.0
+Xinjiang
+416.6
+277.6
+139.0
+277.6
+277.6
+0.0
+Total
+17,764.8
+16,341.0
+1,423.8
+17,764.8
+16,341.0
+1,423.8
+Source: Gu (2009)
+
+
+--- PAGE 9 ---
+3401
+CHEN ET AL.: RURAL EDUCATION IN CHINA
+VOL. 110 NO. 11
+0.17, 0.06, and 0.1 million Shanghai SDYs, respectively. These five provinces 
+accepted 82.5 percent of the Shanghai SDYs who were relocated outside Shanghai.13
+C. What Did SDYs Do in Rural China?
+There were three major destinations for SDY resettlement: rural villages (chadui), 
+collective farms, and state farms (see Figure 1). From 1962 to 1979, rural villages 
+absorbed most of the SDYs (12.8 million of 17.7 million). Two million SDYs were 
+sent to collective farms, and 2.9 million to state farms (Gu 2009). Because our study 
+focuses on rural children who had some overlap with SDYs in 1968–1977, we use 
+the number that went to rural villages during that period (11.5 million) when we 
+calculate the aggregate effect of SDYs. When the SDYs were sent to the country-
+side, the rural economy was collectivized, and agricultural production took the form 
+of production brigades (shengchan dadui).14 Within the production brigade, people 
+earned “work points” based on the amount of farming work they engaged in. The 
+production brigade shared food and income according to the work points at the end 
+of the year.
+Life was hard for the SDYs because they grew up in urban areas and had never 
+worked as farmers, and thus struggled to earn enough work points to feed them-
+selves. Given their advantage in education, SDYs started to be assigned to more 
+technical jobs. Approximately 11.7 percent of the SDYs were assigned more tech-
+nical jobs from 1962 to 1972, and the share grew steadily during the rustication 
+movement.15 In Spring 1976, Huaide County in Jilin Province reported that 7,000 
+SDYs worked in cultural or technical jobs, accounting for 70 percent of the total 
+SDYs in that county (Liu 2009). In 1975, 32,421 SDYs in Jilin Province worked 
+in jobs such as study counselors, agricultural technicians, barefoot doctors, minban 
+(­non-state-funded) teachers (Gu 2009).
+Thus, the SDYs were not simply working on farms; they served as a bridge 
+between urban and rural areas by taking ­nonagricultural jobs, which at the time 
+were less prevalent in rural China. They could benefit local residents by introduc-
+ing new urban techniques, knowledge, and values. The fact that many SDYs were 
+originally expected to farm but ended up in ­nonagricultural jobs supports our argu-
+ment that improving education in rural China was an unintended consequence of the 
+movement.
+II.  Data and Empirical Strategy
+Our study involves two sets of information about the SDYs and rural residents. 
+First, we gathered information from over 3,000 local gazetteers (described in more 
+detail in the next subsection) to construct a unique ­county-level dataset on the 
+number of SDYs each county received during the Cultural Revolution. In a second 
+13 These statistics come from Gu (2009).
+14 In the Maoist regime, people’s communes (renmin gongshe) were usually composed of several thousand 
+households. Communes were divided into production brigades and production teams (shengchandui).
+15 Office of Educated Youth (zhiqingban) under the State Council, “Summary of the National ­Sent-Down-Youth 
+from 1962 to 1972.”
+
+
+--- PAGE 10 ---
+3402
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+step, we matched this ­county-level information to various ­micro-level survey data. 
+The main outcome variable comes from the 1990 population census.
+The flows of SDYs involved both the sending (urban) and receiving (rural) 
+­counties; however, we only focus on the receiving counties. For this ­purpose, 
+we excluded socioeconomically advantaged ­county-level divisions (e.g.,  
+counties/­districts in Beijing, Tianjin, and Shanghai, and all ­city-governed districts 
+of prefectural cities) and mainly focus on the sample with rural hukou in the popu-
+lation census.
+A. Local Gazetteers
+The information on the number of received SDYs at the county level comes from 
+local gazetteers, which are ­book-length volumes of local history documenting the 
+county’s major events. They are often regarded as a locality’s “encyclopedia.” Most 
+local governments formed task forces to compile local gazetteers and updated them 
+periodically because they were considered a source of local pride. The gazetteers 
+we collected were mostly published in the 1990s and 2000s, and we focus on infor-
+mation related to SDYs. For example, the local gazetteers of Taihu County in Anhui 
+province (Commission of Taihu Gazetteer 1995, p. 520) documented that “From 
+1968 to 1977, we received 3,697 ­educated-youths from Shanghai, Hebei, Anqing, 
+and urban areas within the county. Among them, 366 came from Shanghai, 1,596 
+were from Anqing, 1,498 were local, 237 were from Hefei and other places.”
+We collected the total number of SDYs each county received from 1968 to 
+1977.16 For example, we recorded 3,697 SDYs for Taihu County. We then divided 
+the number of SDYs by the county population in 1964 to generate the density of 
+SDYs. We chose 1964 because China’s second population census was conducted 
+that year, and it is the only year in the 1960s for which the ­county-level population 
+is available. Additionally, since 1964 came before the Cultural Revolution and the 
+massive rustication program, the 1964 ­county-level population was unlikely to be 
+affected by the flow of SDYs.
+We digitized 3,153 gazetteers for all 2,868 ­county-level divisions in China.17 
+Panel A of online Appendix Table B1 illustrates the selection process of core coun-
+ties. A total of 2,521  ­counties were recorded in the 1990 population census.18 
+We excluded 52 ­counties/districts in Beijing, Tianjin, and Shanghai and dropped 
+430  ­city-governed districts (shixiaqu) in other provinces during the movement 
+because they were more likely to be the sending districts. We were interested in the 
+rural destination areas that received SDYs in this study. We found information on 
+SDYs for 1,843 of the 2,039 remaining counties (90.4 percent). Figure 2 illustrates 
+the regional variation in the number of received SDYs in those counties. Finally, 
+16 Since data on the stock of SDYs for each year are not available, we use those numbers to proxy for the average 
+stock in the locality during this period.
+17 The number of gazetteers exceeds the number of counties for two reasons. First, a county may have multiple 
+gazetteers on different topics. Second, some counties compiled one gazetteer during the 1990s and another in the 
+2000s.
+18 County merges or splits explain this gap. In those scenarios, we could not uniquely link counties in which 
+the gazetteers were compiled to those in the 1990 population census. Note that if a county changed its code without 
+changing its boundary, we treat it as the same county.
+
+
+--- PAGE 11 ---
+3403
+CHEN ET AL.: RURAL EDUCATION IN CHINA
+VOL. 110 NO. 11
+70 counties were excluded due to a lack of population information in 1964, which 
+prevented the calculation of the local densities of SDYs.
+We collected other information from local gazetteers to complement our analysis, 
+including the number of teachers/schools, grain production, educational expendi-
+tures, and the number of victims during the Cultural Revolution.19 Local gazetteers 
+do not record historical information in a uniform way: one piece of information 
+may be available in some counties but not in others. This may lead to sample selec-
+tion bias. We examine the pattern of missing values in online Appendix Section B. 
+Online Appendix Section C provides a thorough discussion of the data quality of 
+SDYs documented in local gazetteers. We first use Benford’s Law to detect possible 
+statistical anomalies and then compare three sources of data: our ­county-level data, 
+national reports documented in Gu (2009), and estimates from the 2010 wave of the 
+China Family Panel Studies (CFPS).
+19 The data source of the Cultural Revolution is Walder (2017). We self-collected other county-level information 
+available at http://doi.org/10.3886/E119690V1.
+Figure 2. Number of Received SDYs in Each County
+No data
+Excluded
+0–3,000
+3,000–6,000
+6,000–10,000
+>10,000
+
+
+--- PAGE 12 ---
+3404
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+B. Population Census
+We use the 1 percent sample from China’s 1990 Population Census (NBS, n.d.) 
+to evaluate how rural children’s exposure to the SDYs affected their educational 
+outcomes. As previously mentioned, most rural children at most completed primary 
+education before the arrival of the SDYs. Therefore, we define exposure to SDYs 
+according to whether their primary schooling years overlapped with the massive 
+­send-down movement, and ­re-run this analysis with junior high education in our 
+robustness checks. We focus on cohorts born between 1946 and 1969. We define the 
+1956–1969 cohorts as the treatment group and the 1946–1955 cohorts as the control 
+group. The 1956 cohort was the first to be affected because they were supposed to be 
+in their last year of primary school in 1968, when the massive rustication movement 
+began. The 1969 cohort was the last to be affected because they started primary 
+school in 1976, the year before SDYs gradually began returning to urban areas.
+The 1990 census is suitable for this study for three reasons. First, most affected 
+cohorts should have completed their education by that year. Earlier censuses do 
+not satisfy this condition. An earlier population census took place in 1982, but the 
+youngest cohort in our analysis (born in 1969) were aged only 13 that year: too 
+young for an analysis of educational outcomes.20 Second, using data from 1990 
+naturally rules out a mechanical effect that ­better-educated SDYs were catego-
+rized as rural residents during their ­sent-down period. By 1990, most SDYs had 
+returned to their urban homes. Third, migration was still strictly limited in 1990. 
+Migration could threaten our identification if people were not living in the same 
+county as where they received their education. China’s mass migration did not 
+start until the ­mid-1990s, when the rise of private domestic firms and the influx 
+of foreign direct investment in China’s coastal areas created a huge demand for 
+cheap labor. The ­government also loosened its control over rural–urban migration 
+after the ­mid-1990s (Meng 2014). The number of migrants within China rose from 
+22.6 ­million in 1990 to 78.8 million in 2000 (Fan 2008) and 242.2 million in 2010 
+(NBS 2011). We use two additional data sources in our supplementary analysis. The 
+first is the 1982/2000/2010 population censuses. The second is the 2010 wave of 
+the China Family Panel Studies (CFPS), which is a nationally representative survey 
+administered by Peking University’s Institute of Social Science that covers 25 out of 
+34 provinces and samples 162 counties (Institute of Social Science Survey 2015).
+We coded our key dependent variable, years of education, according to the high-
+est level of education an individual received and whether they completed each tier 
+of schooling. The completion status was very informative at that time. Before the 
+enforcement of China’s Compulsory Education Law in 1986, dropouts were prev-
+alent in rural China. In our sample, 13.8 percent of those who attended primary 
+school did not complete it. The rate is even higher for ­higher-level education. We 
+assume that people received 6 years of education if they graduated from primary 
+school. If they dropped out of primary school, we coded the number as 3. We coded 
+20 We use the 1982 census to check the ­pretrend with respect to the density of SDYs and find no evidence for 
+its existence.
+
+
+--- PAGE 13 ---
+3405
+CHEN ET AL.: RURAL EDUCATION IN CHINA
+VOL. 110 NO. 11
+­higher-level schooling years in a similar fashion.21 We also use dummy variables 
+indicating whether people completed primary/junior high education as alternative 
+measures of educational outcomes.
+We combined the census data with the ­county-level data on SDYs and excluded 
+migrants who did not live in their hukou registration counties/prefectures. Our key 
+dependent variable (education) comes from the 1990 census, and the ­send-down 
+movement took place in the 1960s and 1970s. Therefore, we implicitly assume that 
+people lived in the same county 20 years ago. This assumption is less likely to hold 
+for the migrant sample. Note that the ­no-migration restriction was much weaker 
+for the rural sample, for which the restriction only excludes 2.0 percent of the rural 
+sample. The same restriction excludes 9.3 percent of the urban sample. Our final 
+rural sample was 2,775,879, and the urban sample was 419,847 for the 1946–1969 
+cohorts. The rural sample is of primary interest, and the urban sample is for com-
+parison purposes. Table 2 presents the summary statics of the 1990 census, and 
+displays a huge rural–urban gap in educational attainment. The urban sample of our 
+control cohorts received 8.9 years of schooling on average, but their rural counter-
+parts only received 60 percent of that amount (5.4 years).
+C. Empirical Strategy
+We use a cohort ­difference-in-differences (DID) identification strategy that builds 
+on two sources of variation. First, counties received different numbers of SDYs 
+during the movement. Second, within the same county, children from ­different 
+cohorts were exposed differently depending on how their schooling years ­overlapped 
+with the movement. Following Duflo (2001), we start our analysis by separately 
+estimating the effects of SDYs on each cohort using the following ­equation (the 
+1941–1945 cohorts serve as the baseline):
+(1)	
+​Y_​Edu​  i,g, c, p​  =  ​β​0​ + ​  ∑ 
+γ=1946
+​ 
+1969
+  ​ ​β​1, γ​ %​SDY​ c, p​ × I ​(g  =  γ)​ + ​β​2​ ​X​i, g, c, p​ 
+	
++ ​λ​c​ + ​μ​g, p​ + ​Λ​c​ × ​μ​g​ + ​ε​i, g, c, p​ ,​
+where ​​Y_Edu​ i, g, c, p​​ refers to the years of education of individual ​i​ of cohort ​g​ in 
+county ​c​ of province ​p​; ​%​SDY​ c, p​​ is the density of received SDYs in county ​c​ during 
+the movement, which is calculated as the ratio of received SDYs to the county pop-
+ulation in 1964; ​​X​i, g, c, p​​ is a vector of ­individual-level controls, including gender and 
+ethnicity; ​​λ​c​​ are county fixed effects, which absorb all ­time-invariant ­county-level 
+characteristics. Unobservable heterogeneous cohort trends that may be correlated 
+21 This coding method is designed to approximate the true number of years of education, but it is difficult to 
+precisely compute because of the historical shifts in China’s education system. Prior to the start of the Cultural 
+Revolution in 1966, primary/secondary education generally followed the pattern of ­6-3-3: 6 years of primary 
+school, 3 years of junior high school, and 3 years of senior high school. The system was compressed to ­5-2-2 during 
+the Cultural Revolution and gradually restored to ­6-3-3 after its end (Hannum 1999; Chen, Jiang, and Zhou 2020). 
+If we observe that SDYs have a positive effect on our imputed “years of education,” we should interpret it as either 
+a higher education level or a higher probability of graduation. Moreover, in our empirical settings, we control for 
+county fixed effects as well as ­province-cohort fixed effects to help capture all policy changes that were applied 
+uniformly to the same cohort within a province.
+
+
+--- PAGE 14 ---
+3406
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+with the densities of SDYs are of crucial concern to the cohort DID strategy. To alle-
+viate this concern, we introduce ­province-cohort fixed effects (​​μ​g, p​​ ) and the inter-
+action terms between county base education before the SDYs’ arrival and cohort 
+dummies (​​Λ​c​ × ​μ​g​​). The county base education is calculated as the primary and 
+junior high graduation rates of the control group in each county using the 1990 
+census. By introducing ​​μ​g, p​​ and ​​Λ​c​ × ​μ​g​​ , we not only allow the trends to differ 
+across provinces; we also allow the trends to be related to the county’s initial edu-
+cation level. Of course, it is not possible to control for all kinds of differential 
+trends since many county characteristics are not observable. In online Appendix 
+Section E, we apply an alternative empirical method to check the robustness of 
+our results: the Abadie synthetic control method (Abadie and Gardeazabal 2003; 
+Abadie, Diamond, and Hainmueller 2010), which does not require the ­parallel-trend  
+assumption.
+After presenting a ­by-cohort specification, we use a standard cohort DID specifi-
+cation, which is more efficient. We use the following main estimation equation (the 
+control group are cohorts 1946–1955):
+(2)	
+​​Y_Edu​ i, g, c, p​  =  ​β​0​ + ​β​1​ % ​SDY​ c, p​ × I ​(1956  ≤  g  ≤  1969)​ + ​β​2​ ​X​i, g, c, p​ 
+	
++ ​λ​c​ + ​μ​g, p​ + ​Λ​c​ × ​μ​g​ + ​ε​i, g, c, p​ .​
+The primary parameter of interest in this study is ​​β​1​​. Our identification ­strategy 
+­critically hinges on the ­parallel-trend assumption: for the affected cohorts 
+(1956–1969), each county’s cohort trend in education should not be correlated 
+with ​%SDY ​ c, p​ in the absence of the movement. While the counterfactual is cer-
+tainly unobservable, we provide evidence in Sections IIIA and IV to support the 
+­parallel-trend assumption.
+Table 2—Summary Statistics of the 1 Percent Sample from the 1990 Census
+Cohort:
+Control group
+Treatment group 
+(1946–1955)
+(1956–1969)
+Hukou:
+Rural
+Urban
+Rural
+Urban 
+(1)
+(2)
+(3)
+(4) 
+Years of education
+5.372
+8.881
+7.190
+10.536
+(3.365)
+(3.178)
+(3.100)
+(2.511)
+Complete primary school
+0.617
+0.911
+0.799
+0.972
+(0.486)
+(0.285)
+(0.401)
+(0.164)
+Complete junior high
+0.205
+0.670
+0.454
+0.904
+(0.404)
+(0.470)
+(0.498)
+(0.294)
+Male  =  1
+0.507
+0.592
+0.505
+0.567
+(0.500)
+(0.492)
+(0.500)
+(0.495)
+Han ethnic  =  1
+0.924
+0.930
+0.914
+0.925
+(0.266)
+(0.255)
+(0.280)
+(0.264)
+Age
+39.031
+39.208
+26.638
+26.993
+(2.823)
+(2.862)
+(4.004)
+(3.966)
+Observations
+960,127
+148,244
+1,815,752
+271,603 
+Note: Standard deviations are in parentheses.
+
+
+--- PAGE 15 ---
+3407
+CHEN ET AL.: RURAL EDUCATION IN CHINA
+VOL. 110 NO. 11
+Because our identification comes from a cohort DID strategy, a potential concern 
+is the confounding age effect, which is typically hard to separate from cohort effects 
+in a ­cross-sectional dataset. This concern can be greatly alleviated in our setting 
+because our main outcome variable, basic education, changes little with age once 
+someone completes his/her formal education. Therefore, if we restrict our analysis 
+to those who were aged at least 20 at the time of each census, the confounding age 
+effect is not a major issue.
+Our estimation should be interpreted as a conservative ­lower-bound estimate of 
+the SDYs’ effect on rural education for two reasons. First, our baseline specification 
+defines cohorts born between 1946 and 1955 as the control group, but some of them 
+might have also been affected by the arrival of the SDYs. Even if they had passed the 
+age of primary education, they could still have benefited from those ­better-educated 
+SDYs (e.g., going back to school if they had previously dropped out) or from their 
+younger rural peers in the village. We would underestimate the effect of the SDYs 
+on the treated group in this scenario. Second, our specification implicitly assumes 
+that rural people who received their primary education during the 1960s and 1970s 
+still lived in the same county when the 1990 population census was conducted. 
+Although it is not a strong assumption given China’s rigid household registration 
+system,22 it is true that the ­best-educated individuals in rural areas are significantly 
+more likely to migrate (Zhao 1997). Therefore, our specification is likely to miss 
+those ­best-educated rural children who went beyond a ­junior-high-school level and 
+were more likely to have left the county by the 1990 census.
+III.  Effect of SDYs on Rural Education
+A. Main Results
+The ­By-Cohort Specification.—We first present the results of the ­by-cohort 
+­specification (equation (1)), which effectively shows the conditional correla-
+tion between SDYs and educational achievement for all our sample cohorts  
+(1946–1969). Panels A and B of Figure 3 plot the coefficient ​​β​1,γ​​ for each cohort 
+using the 1982 and 1990 census data. We use the 1982 census to check the ­pretrends 
+because it was closer to the ­send-down movement and thus subject to less mortal-
+ity attrition and migration selection. We focus on rural people aged at least 20 in 
+the 1982 census because many younger cohorts had not completed their education 
+when the census was conducted. The dashed line shows the years of primary school 
+ages (7–12) that overlap with the movement (1968–1977) for each cohort. The fig-
+ure lends strong support to the ­parallel-trend assumption. The coefficients fluctuate 
+around zero before the 1956 cohort, suggesting that there were no heterogeneous 
+cohort trends in education with regard to the county density of SDYs prior to the 
+rustication movement. Another important takeaway from Figure 3 is that the coef-
+ficients gradually increase from the 1956 cohort, as later cohorts spent more pri-
+mary school years with the SDYs. This suggests that the effect of the SDYs, while 
+22 According to the 1 percent sample from the 2000 China’s Population Census, 86 percent of the rural people 
+born between 1946 and 1969 lived in the same county as their birthplaces. This number should be even larger in 
+the 1990 census.
+
+
+--- PAGE 16 ---
+3408
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+immediate from their arrival, is accumulative in nature. The effect then declines as 
+the movement came to an end and the SDYs were returning to their urban homes. 
+This dynamic pattern also justifies our choice of the 1956 cohort as the first treated 
+cohort.
+The arrival of the SDYs starting in 1968 could have in principle helped the cohorts 
+from 1953–1955, who were junior high age. However, this possibility will not seri-
+ously affect our current estimation for two reasons. First, Figure 3 (based on the 
+1982, 1990, and 2000 censuses) shows that the effects of the SDYs on those older 
+cohorts (1953–1955) are very small in magnitude and statistically insignificant.23 
+23 We interpret the small effect of the SDYs on these older cohorts as follows. There are two ways in which older 
+kids could be affected by the arrival of the SDYs: they either stayed in junior high or left formal education after 
+finishing primary school due to the insufficient supply of educational facilities (especially teachers) in their villages. 
+If older kids stayed in junior high, the arrival of the SDYs may not have affected their years of schooling because 
+they would very likely have finished their junior high education anyway, although the quality of their education 
+may be somewhat improved after the SDYs became teachers. Alternatively, if they had to stop formal education 
+after primary school, the arrival of the SDYs may have increased the chances of opening a junior high school and 
+calling on these kids to return to school. However, in contrast with younger kids who could rely on the SDYs to 
+attain primary and/or junior high education without interruption (note that our first treated cohort (1956) had just 
+finished primary school and was ready for junior high), these older kids had a 1–3-year gap after primary educa-
+tion, and it was not easy for them to go back to school. The longer the gap, the harder it would have been for them 
+to return. This observation is confirmed by Figure 3, which reveals that among the potentially affected cohorts of 
+1953–1955, the effects on the older cohorts (1953–1954) are relatively small and statistically insignificant, but the 
+youngest cohort (1955) exhibited some nearly significant and positive effects of SDYs. Including the 1955 cohort 
+in our treatment group does not change our key results.
+Figure 3. Effect of SDYs on the Educational Attainment of Different Cohorts
+Note: The left ​y​-axis represents the coefficients from equation (1), which captures the effect of SDYs densities on 
+different cohorts.
+0
+2
+4
+6
+Years of overlap
+−4
+−2
+0
+2
+4
+6
+8
+Coefficients
+1945 1950 1955 1960 1965 1970 1975 1980
+Birth cohort
+−4
+−2
+0
+2
+4
+6
+8
+Coefficients
+1945 1950 1955 1960 1965 1970 1975 1980
+Birth cohort
+Birth cohort
+Birth cohort
+Panel A. Census 1982
+0
+2
+4
+6
+Years of overlap
+Panel B. Census 1990
+0
+2
+4
+6
+Years of overlap
+−3
+−2
+−1
+0
+1
+2
+3
+4
+5
+6
+Coefficients
+1945 1950 1955 1960 1965 1970 1975 1980
+Coefficient
+95% CI
+Overlapped years
+in primary schools
+Panel C. Census 2000
+−2
+−1
+0
+1
+2
+3
+4
+5
+Coefficients
+1945
+1950
+1955
+1960
+1965
+1970
+1975
+1980
+Census 1982
+Census 1990
+Census 2000
+Panel D. Three censuses in one graph
+
+
+--- PAGE 17 ---
+3409
+CHEN ET AL.: RURAL EDUCATION IN CHINA
+VOL. 110 NO. 11
+Second, when we redefine the treatment group to include cohorts from 1953–1955, 
+our key estimates (reported in column 7 of online Appendix Table D1) become 
+somewhat smaller in magnitude but remain significant. Our results are also robust to 
+excluding those older cohorts from the regressions, as shown in column 6 of online 
+Appendix Table D1.
+The Cohort DID Specification.—Table 3 presents the main results of our paper. 
+We separately report the rural and urban samples.24 Column 1 in Table 3 shows that 
+local rural children who were more exposed to SDYs completed more years of edu-
+cation (the coefficient, 3.237, is positively significant). The average density of SDYs 
+is 2.22 percent (22.2 SDYs per 1,000 locals). This implies that exposure to SDYs 
+increased rural children’s education by at least 0.072 years, an effect that is compa-
+rable in magnitude to that of compulsory education laws in the United States during 
+the first half of the twentieth century.25 Recall that the rustication movement never 
+sought to improve rural education, and that our results only provide a conservative 
+24 It is tempting to use the urban sample as a placebo test. However, those results should be interpreted with 
+caution. On the one hand, those people might still be affected if they lived in rural areas during the rustication 
+movement and later moved to urban areas. On the other hand, we define cohorts born between 1946 and 1955 as 
+the control group. However, urban cohorts could be the direct targets of the movement and could therefore have 
+been affected.
+25 These estimates range from 0.025 to 0.05 years (Angrist and Krueger 1991, Acemoglu and Angrist 2001, 
+Lleras-Muney 2005).
+Table 3—The Effect of SDYs on the Educational Attainment of Rural Children (1990 Census)
+Dependent variables:
+Years of education
+Complete primary
+Complete junior high
+Placebo I 
+(1990)
+Placebo II 
+(2000) 
+(1946–1950) 
+versus 
+(1951–1955)
+(1970–1974) 
+versus 
+(1975–1979)
+Sample:
+Rural
+Urban
+Rural
+Urban
+Rural
+Urban
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8) 
+Local density of  
+  received SDYs  
+  × affected cohorts  
+  (1956–1969)
+3.237
+0.151
+0.441
+−0.0658
+0.767
+−0.0517
+(0.701)
+(0.517)
+(0.0873)
+(0.0611)
+(0.121)
+(0.103)
+Local density of  
+  received SDYs 
+  × affected cohorts  
+  (placebo)
+−0.817
+−0.432
+(0.576)
+(0.319)
+Male
+1.874
+0.668
+0.201
+0.0319
+0.203
+0.0546
+2.286
+0.665
+(0.0284)
+(0.0256)
+(0.00361)
+(0.00227)
+(0.00285)
+(0.00316)
+(0.0300)
+(0.0150)
+Han ethnic
+0.150
+3.­34e-05
+0.0213
+0.00962
+0.00657
+0.0177
+0.0802
+0.477
+(0.0565)
+(0.0811)
+(0.00769)
+(0.00540)
+(0.00679)
+(0.00875)
+(0.0554)
+(0.0401)
+Observations
+2,775,858
+417,883
+2,775,858
+417,883
+2,775,858
+417,883
+960,123
+947,025 
+­​​R​ 2​​
+0.293
+0.225
+0.258
+0.106
+0.212
+0.198
+0.267
+0.216
+​Y –​ of control group
+5.372
+8.882
+0.616
+0.911
+0.205
+0.670
+County FE
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+­Province-cohort FE
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+Base education  
+  ​×​ cohort FE
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+Notes: Standard errors are clustered at the county level. Local density of received SDYs is computed by dividing the 
+number of received SDYs by the county population in 1964. Base education is calculated as the primary and junior 
+high graduation rates of the control group.
+
+
+--- PAGE 18 ---
+3410
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+­lower-bound estimate. Since 245 million rural kids potentially benefited from the 
+arrival of the SDYs, the movement led to a 17.6​  ​(​=  245 × 0.072​) million increase 
+in ­person-years of schooling in rural areas.
+Columns 3 and 5 in Table  3 display the results using the completion of  
+primary/junior high school as alternative educational outcomes. Exposure to SDYs 
+raised the probability of completing primary school by 0.98​  ​(​=  0.441 × 2.22%​) 
+percentage 
+points 
+and 
+that 
+of 
+completing 
+junior 
+high 
+school 
+by  
+1.70​  ​(​=  0.767 × 2.22%​) percentage points. Thus, for every 100 SDYs a county 
+received during the movement, it would have 20.9 more primary school graduates 
+and 36.2 more junior high graduates.26 Columns 2, 4, and 6 present the results using 
+the urban sample instead; none shows any sign of significance and the coefficients 
+are much smaller, confirming that the SDYs only affected the rural population in 
+the destination counties. We also conduct two standard placebo tests in columns 7 
+and 8. Using 1990 census data, we first bisect the ­pre-treated cohorts (1946–1955) 
+into control cohorts (1946–1950) and ­placebo-treated cohorts (1951–1955). Then 
+we carry out a similar exercise on the ­post-treated cohorts (1970–1979) using 2000 
+census data. Neither test shows signs of statistical significance.27
+Online Appendix Tables D1 and D2 show that our main results are robust to a 
+wide range of robustness checks, which can be roughly categorized into two sets: 
+alternative empirical specifications and choice of sample. The first set of robust-
+ness checks includes (i) different bandwidths of treated cohorts, (ii) using different 
+denominators to calculate the densities of SDYs, (iii) using a continuous ­measure of ­ 
+treatment, (iv) treating cohorts of junior high ages in 1968 differently, and (v) allow-
+ing junior high school education to be affected by the SDYs. The second set of 
+checks includes (i) excluding nine provinces in the “Third Front” Construction 
+region based on Fan and Zou (2019), (ii) excluding five provinces that do not per-
+form well in matching county aggregates and national statistics, (iii) imposing 
+stronger assumptions on migration, (iv) excluding those who are likely to change 
+their hukou status, and (v) excluding counties that may have larger measurement 
+errors in the number of received SDYs. Online Appendix Section D provides details 
+of these robustness checks.
+Heterogeneity.—Table 4 estimates the heterogeneous effect of SDYs on locals 
+by gender (males received significantly more education on average 6.49 versus 
+4.22 for females for the control cohorts of 1946–1955) and by level of develop-
+ment (­more-educated counties versus ­less-educated counties).28 We found the SDY 
+effects were much larger for the ­less-educated groups and regions: the effect on 
+girls (­less-educated counties) is about twice that on boys (­more-educated counties). 
+26 The total rural population in our defined treatment group is approximately 245 million. During the 
+period 1968–1977, 11.5 million urban youths were sent to rural villages. This produced an increase of  
+20.9 (​=  ​(0.98 × 245)​ / 11.5​) primary school graduates and 36.2 (​=  ​(1.70 × 245)​ / 11.5​) junior high graduates.
+27 Strictly speaking, the results from the ­post-treated cohorts (1970–1979) imply that they were subject to the 
+same level of persistent effect after the SDYs left the countryside (instead of no effect), as shown in panel C of 
+Figure 3.
+28 We bisected the sample according to whether the county average years of education of the control group 
+exceeded 5.5 years. The control group in ­more-educated counties had an average of 6.31 years of education, com-
+pared to 4.36 years in ­less-educated counties.
+
+
+--- PAGE 19 ---
+3411
+CHEN ET AL.: RURAL EDUCATION IN CHINA
+VOL. 110 NO. 11
+Therefore, the ­send-down movement not only raised the overall level education in 
+rural China but also reduced educational inequality across gender and regions.
+The finding that rural girls gained more from the arrival of the SDYs calls for 
+greater attention. In contrast to the huge gender gap in education in rural villages, 
+female SDYs were just as well educated as their male counterparts. They were 
+7 percentage points more likely to have completed junior high school (77.1 ­percent 
+versus 70.1 percent) than the male SDYs and only 3.5 percentage points less likely 
+to have completed senior high school (26.4 percent versus 29.9 percent).29 The 
+­well-educated female SDYs might have acted as role models for rural girls, signal-
+ing that they too can do as well as boys, collapsing gender stereotypes.
+In addition to the population heterogeneity, it is also helpful to understand the 
+heterogeneity of the SDY effects at different educational levels. Table 3 shows that 
+SDYs had a larger effect on junior high education than primary education, mainly 
+because primary school expansion in China took place prior to their arrival. During 
+the 1950s and 1960s, the central government attempted to build a primary school 
+in every village (Hannum 1999). The primary school attendance rate in rural China 
+was as high as 76.7 percent for our control cohorts. By contrast, the junior high 
+attendance rate in rural areas was only 23.2 percent, indicating that there was much 
+more room for junior high education to expand. To support this claim, columns 5–8 
+in Table 4 report the effect on junior high and primary graduation separately for 
+­less-educated and ­more-educated counties. We find that in ­less-educated counties 
+29 These numbers are based on our calculation using the 2010 CFPS.
+Table 4—Heterogeneous Effect of SDYs (1990 Census)
+Dependent variables:
+Years of education
+Primary
+Junior
+Primary
+Junior 
+Sample:
+Male
+Female
+Less-
+educated
+counties
+More-
+educated
+counties
+Less-educated 
+counties
+More-educated 
+counties
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8) 
+Local density of received 
+  SDYs × affected 
+­cohorts (1956–1969)
+2.514
+4.092
+5.167
+2.059
+0.838
+0.882
+0.153
+0.579
+(0.624)
+(1.007)
+(1.594)
+(0.668)
+(0.184)
+(0.217)
+(0.0678)
+(0.133)
+Observations
+1,403,169
+1,372,686
+1,349,489
+1,426,369
+1,349,489
+1,349,489
+1,426,369
+1,426,369
+­​​R​ 2​​
+0.197
+0.316
+0.294
+0.194
+0.253
+0.192
+0.141
+0.188
+Mean education years of  
+  control group
+6.492
+4.221
+4.361
+6.309
+4.361
+4.361
+6.309
+6.309
+Primary graduate of  
+  control group
+0.750
+0.480
+0.466
+0.757
+0.466
+0.466
+0.757
+0.757
+Junior high graduate of  
+  control group
+0.302
+0.105
+0.140
+0.265
+0.140
+0.140
+0.265
+0.265
+Individual controls
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+County FE
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+­Province-cohort FE
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+Base education  
+  ​×​ cohort FE
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+Notes: Only rural sample is used. Standard errors are clustered at the county level. Individual controls include 
+­gender and ethnicity. More-/­less-educated counties are defined according to whether the average years of educa-
+tion of the control group exceed 5.5 years. Local density of received SDYs is computed by dividing the number of 
+received SDYs by the county population in 1964. Base education is calculated as the primary and junior high grad-
+uation rates of the control group.
+
+
+--- PAGE 20 ---
+3412
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+where primary education was not universal, the effects on junior high and primary 
+education are close to each other. But in ­more-educated counties, the effect on junior 
+high education is much larger.
+The effect of SDYs on rural children arises from SDYs’ educational advan-
+tage over local residents. If this is true, we should expect the SDY effect to 
+increase with the education gap between the SDYs and local residents. To explore 
+this expectation, we impute the education gap between rural control cohorts 
+(1946–1955) in the county and corresponding urban counterparts in the same  
+county/prefecture/province to proxy for the education gap. Note that this approach 
+is only an ­approximation; ideally, we should compute the gap using their hukou sta-
+tus during the Cultural Revolution, which is not available. We interact the treatment 
+variable with the imputed education gap in online Appendix Table A1 and find that 
+rural areas with larger education gaps from urban areas experienced greater benefits 
+from the arrival of the SDYs. This evidence is consistent with the hypothesis that the 
+effect of SDYs increases with the education gap between SDYs and local residents.
+B. Mechanisms
+We probe the mechanisms underlying the effects of SDYs on rural education in 
+this subsection. More specifically, how did the arrival of urban youth increase the 
+education of rural children? We provide evidence that ­better-educated SDYs con-
+tributed to the local pool of teachers. Because the rusticated youth were among the 
+best educated in rural villages, many became teachers and instructed rural children. 
+Teaching is the most straightforward way of improving local kids’ education. This 
+channel is analogous to Andrabi, Das, and Khwaja (2013), which finds that gradu-
+ates from girls’ secondary schools increased the local supply of teachers, which led 
+to an increase in private schools and improved local access to education.
+There is abundant anecdotal evidence that some SDYs worked as teachers in rural 
+villages. Gu (2009) documented that SDYs worked as study counselors and teach-
+ers in ­non-state-funded schools in Jilin and Shaanxi provinces. Gu (2009, p. 230) 
+commented that “Working as teachers in ­non-state-funded schools was an important 
+experience of many educated youths. They dedicated themselves to the cause of 
+education in rural China, especially in the remote areas.”
+The increase in the supply of teachers was timely and important if the political 
+background during the Cultural Revolution is considered. China was suffering from 
+a shortage of teachers during this period because intellectuals were attacked and 
+labeled as “bad classes” (Bernstein 1977, Walder 1989).
+To formally test the hypothesis that the arrival of the SDYs increased the supply 
+of teachers in rural villages, we collected historical information on the number of 
+teachers from local gazetteers. We found information for 592 of the 1,773 counties 
+in our sample. A smaller set of counties permits us to separate teachers into pri-
+mary or secondary school teachers and ­state-funded (gongban) or ­non-state-funded 
+(minban) school teachers.30 We restrict our analysis to the period 1955–1977 and 
+obtained 8,035 ­county-year observations with the numbers of either primary school 
+30 The minban schools during our sample period refer to schools that were not run and funded by the county or 
+­higher-level governments.
+
+
+--- PAGE 21 ---
+3413
+CHEN ET AL.: RURAL EDUCATION IN CHINA
+VOL. 110 NO. 11
+teachers or secondary teachers available.31 We estimate how the arrival of the SDYs 
+affected the number of local teachers during the rustication movement using a DID 
+specification:
+(3)	 ​%​Teachers​ t, c, p​  =  ​β​0​ + ​β​1​ % ​SDY​ c, p​ × I  ​(t  ≥  1968)​ + ​λ​c​ + ​μ​t, p​ + ​ε​t, c, p​ ,​
+where ​%​Teachers​ t, c, p​​ represents the number of primary/secondary teachers of 
+county ​c​ in province ​p​ in year ​t​ as a share of the county population in 1964. We con-
+trol for county fixed effects ​​λ​c​​ and include provincial heterogeneous time trends ​​μ​t, p​​. 
+Standard errors are clustered at the county level.
+Table 5 reports the estimation results of equation (3). Columns 1 and 4 indi-
+cate that the arrival of the SDYs significantly increased the supply of local teachers 
+(by 0.75 for primary school teachers and 0.38 secondary school teachers per thou-
+sand inhabitants).32 This represents an impressive increase in the supply of teach-
+ers: according to our data, the number of primary (secondary) school teachers per 
+thousand inhabitants was only 4.9 (0.55) in 1965. Since there were initially many 
+more teachers for primary schools than for secondary schools, our result shows a 
+­disproportionate increase in secondary school teachers, which is in line with our 
+previous findings in Table 3 that SDYs contributed more to junior high graduates 
+than to primary school ones. Columns 2, 3, 5, and 6 reveal another important result: 
+the increase in local teachers mostly occurred in ­non-state-funded schools. This 
+observation strengthens our claim that the SDYs unintendedly taught the rural kids.
+Note that we are not claiming that serving as teachers was the only channel of 
+the SDYs’ effects in the ­send-down movement. In addition to teaching the standard 
+31 Note that the number of valid observations varies across counties. For example, in Guangxi Province, the 
+gazetteer of Nandan County only contains such information for 1976, while the gazetteer of Donglan County covers 
+the entire 1955–1977 period.
+32 In the subsample that contains information on teachers, the density of SDYs is 22.0 per 1,000 
+locals. ​0.034 (or 0.017) × 22.0 ‰  ≈  0.75 ‰ (or 0.38 ‰)​.
+Table 5—Effects of SDYs on the Supply of Local Teachers and Educational Fiscal Expenses, 
+1955–1977 (Local Gazetteers)
+Dependent variables:
+Density of primary  
+school teachers
+Density of secondary  
+school teachers
+Educational 
+expenses
+School types:
+All
+State-
+funded
+Non-state-
+funded
+All
+State-
+funded
+Non-state-
+funded
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7) 
+Local density of received  
+  SDYs × post 1968
+0.034
+0.005
+0.051
+0.017
+0.010
+0.035
+0.072
+(0.012)
+(0.011)
+(0.028)
+(0.005)
+(0.004)
+(0.007)
+(0.668)
+Observations
+6,521
+1,823
+1,799
+6,336
+1,261
+1,205
+11,677
+​­R​ 2​
+0.809
+0.754
+0.839
+0.811
+0.776
+0.725
+0.855
+Number of counties
+488
+152
+151
+493
+107
+104
+769
+County FE
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+­Province-year FE
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+Notes: Standard errors are clustered at the county level. We collect both ­county-level information on the number of 
+teachers and the number of SDYs from local gazetteers. Local density of received SDYs is computed from dividing 
+the number of received SDYs by the county population in 1964. Local densities of primary and secondary school 
+teachers are computed in a similar fashion.
+
+
+--- PAGE 22 ---
+3414
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+courses, the urban youth also shared their knowledge, ideology, technology, and 
+stories based on their urban experiences. Such communications could happen out-
+side the classroom. Section V provides more evidence of how the SDYs affected the 
+socioeconomic outcomes of rural children in their later lives other than increased 
+years of schooling.
+IV.  Alternative Interpretations
+This section discusses competing stories that may also generate a positive link 
+between SDYs’ arrival and rural children’s education. Possible confounding factors 
+fall into three categories: missing local characteristics (such as grain production 
+and local government efforts to improve education), contemporaneous historical 
+events (rural education expansion, the Cultural Revolution, the Great Famine), and 
+the mechanical effect that the SDYs (and their offspring) were counted as rural 
+residents.
+A. Grain Production
+The first possibly omitted variable in our main specification is per capita 
+­county-level grain production. As introduced in Section I, the central government 
+took into account the local capacity to absorb additional population when real-
+locating SDYs from urban to rural areas, and local grain productivity certainly 
+affected this capacity. Moreover, nutrition intake is an important determinant of 
+education (see Glewwe and Miguel 2007 for a review), and grain production was 
+the most important indicator of agricultural production in rural China prior to the 
+­market-oriented reform. Therefore, it is possible that counties with different lev-
+els of grain productivity exhibited heterogeneous trends in education even in the 
+absence of the ­send-down movement.
+To evaluate the potential influence of grain production, we collected ­county-level 
+grain production data in 1965 from local gazetteers. This year is suitable for our 
+analysis because (i) agricultural production had recovered from the Great Famine of 
+1959–1961; (ii) the Cultural Revolution and the massive ­send-down movement had 
+not started; and (iii) these data were available for 1,252 of the 1,773 counties in our 
+sample. Dividing the total output by the county population in 1964 yields the grain 
+production per capita. Column 1 in panel A of Table 6 adds to our main specifica-
+tion (equation (2)) the interaction between per capita grain production in 1965 and 
+the treatment cohort dummy. The results show that the SDY effect remains highly 
+similar after considering the impacts of grain productivity.
+B. Local Government Efforts to Improve Education
+One may argue that it is not that the SDYs improved local education, but that 
+local governments that were more focused on education actively accepted more 
+urban youth. In this scenario, local education would have improved even with-
+out the arrival of the SDYs. If this argument is true, we should observe that local 
+­governments that received more SDYs spent more money on education. To formally 
+test this possibility, we collected ­county-year-level information on fiscal education 
+
+
+--- PAGE 23 ---
+3415
+CHEN ET AL.: RURAL EDUCATION IN CHINA
+VOL. 110 NO. 11
+expenditures from local gazetteers for 776 counties. Online Appendix Figure A1 
+shows that the trend of educational expenditures from local gazetteers closely tracks 
+Table 6—Addressing Various Confounding Factors (1990 Census)
+Dependent variables:
+Years of education 
+(1)
+(2)
+(3)
+(4)
+(5)
+(6) 
+Panel A
+Local density of received SDYs  
+  × affected cohorts (1956–1969) 
+3.779
+4.424
+4.513
+3.196
+3.244
+4.447
+(0.876)
+(1.096)
+(1.182)
+(0.725)
+(0.701)
+(1.342)
+Grain production p.c. in 1965
+   × affected cohorts (1956–1969)
+−0.0401
+0.0996
+(0.0534)
+(0.123)
+Local primary school construction  
+  ratea × affected cohorts 
+(1956–1969)
+−0.157
+−0.133
+−0.235
+(0.217)
+(0.216)
+(0.242)
+Local secondary school construction  
+  ratea × affected cohorts 
+(1956–1969)
+2.101
+2.230
+2.232
+(1.069)
+(1.069)
+(1.198)
+Local primary school construction  
+  rate × SDY density × affected 
+cohorts (1956–1969)b
+18.34
+(9.470)
+Local secondary school construction  
+  rate × SDY density × affected 
+cohorts (1956–1969)b
+−77.74
+(28.78)
+Local severity of Cultural Revolution  
+  × Cultural Revolution cohorts I  
+  (1954–1961)c
+−0.462
+−0.500
+(0.241)
+(0.617)
+Local severity of Cultural Revolution 
+  × Cultural Revolution cohorts II 
+  (1962–1968)c
+0.236
+−0.169
+(0.632)
+(0.755)
+Local severity of Great Famined 
+  × Famine cohorts I (1955–1958)
+−0.229
+−0.344
+(0.0572)
+(0.0979)
+Local severity of Great Famined 
+  × Famine cohorts II (1959–1961)
+−0.0553
+0.0635
+(0.0663)
+(0.111)
+Observations
+1,964,222
+1,243,049
+1,243,049
+2,759,926
+2,775,804
+978,074 
+​­R​ 2​
+0.297
+0.301
+0.301
+0.294
+0.293
+0.304
+Panel B
+Local density of received SDYs  
+  × affected cohorts (1956–1969)
+3.710
+4.617
+4.617
+3.216
+3.237
+4.887
+(0.880)
+(1.108)
+(1.108)
+(0.718)
+(0.701)
+(1.340)
+Observations
+1,964,222
+1,243,049
+1,243,049
+2,759,926
+2,775,804
+978,074 
+­​R​ 2​
+0.297
+0.301
+0.301
+0.294
+0.293
+0.304 
+Information on grain production
+✓
+✓
+Information on number of schools
+✓
+✓
+✓
+Information on Cultural Revolution
+✓
+✓
+Individual controls
+✓
+✓
+✓
+✓
+✓
+✓
+County FE
+✓
+✓
+✓
+✓
+✓
+✓
+­Province-cohort FE
+✓
+✓
+✓
+✓
+✓
+✓
+Base education × cohort FE
+✓
+✓
+✓
+✓
+✓
+✓
+Notes: Only rural sample is used. Standard errors are clustered at the county level. Individual controls include 
+gender and ethnicity. Local density of received SDYs is computed by dividing the number of received SDYs by 
+the county population in 1964. Base education is calculated as the primary and junior high graduation rates of the 
+­control group. 
+	 a	See Section IVC for the detailed construction of this variable. 
+	 b	To keep the ­double-interaction terms having a standard interpretation, the school construction rate and SDY 
+density in the ­triple-interaction term use the deviation from the sample mean. 
+	 c	Local severity of the Cultural Revolution is proxied by dividing the number of victims by the county popu-
+lation in 1964. The data source is Walder (2017). 
+	 d	Local severity of the Great Famine is proxied by 1 minus the ratio of 1959–1961 cohort size over ­1955–1957 
+cohort size.
+
+
+--- PAGE 24 ---
+3416
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+that reported by the National Bureau of Statistics in China (NBS). Using the same 
+method we employed to estimate the contribution of SDYs to the supply of local 
+teachers (equation (3)), we examine in column 7 of Table 5 whether more SDYs 
+contributed to more public education expenditures and find no such evidence.
+However, fiscal expenditures on education were not the only way for a ­county-level 
+government to improve local education. It could have demanded that villages set up 
+and finance local schools. The education costs would not show up in the county 
+government’s budget in this scenario. In the following subsection, we will examine 
+this possibility together with the rural education expansion program by directly con-
+trolling for the construction of primary and secondary schools at the county level.
+C. Rural Education Expansion Program
+The education system in urban China was severely disrupted during the Cultural 
+Revolution, while secondary education in rural areas experienced a tremendous 
+expansion from the ­mid-1960s to the ­late-1970s (Han 2001, Andreas 2004).33 The 
+goal of the expansion was to achieve universal junior high education in the coun-
+tryside by 1985 (Pepper 1990). According to the NBS, the number of secondary 
+schools increased tenfold from 19,367 in 1965 to 198,963 in 1977. Most of those 
+new schools were not financially supported by the state but by people’s communes 
+or production brigades. Typically, several villages pooled their resources to build a 
+joint secondary school (lianban zhongxue) that educated children from neighboring 
+villages. After Mao’s death, the expansion was partially reversed between 1978 
+and 1983. Many schools attached to production brigades were shut down, and at 
+most one junior high school was retained in each commune (Pepper 1990). The 
+decline was also related to the collapse of the commune system in the early 1980s, 
+which provided institutional and financial support for those ­non-state-funded rural 
+schools.
+The rural education expansion program was an important confounding event 
+with the ­send-down movement because the two events closely overlapped and 
+potentially benefited the same group of rural people (­school-age children). To for-
+mally differentiate the effects of SDYs and rural education expansion, we collected 
+­county-year-level information on the number of primary and secondary schools 
+from local gazetteers. Our empirical strategy to control for the influence of the rural 
+education expansion follows that of Duflo (2001), which studied the impact of a 
+primary school construction program in Indonesia. We approximate the intensity of 
+the rural education expansion program with the annual increase in schools from the 
+­mid-1960s (1964–1966) to the mid- to ­late-1970s (1975–1977) scaled by the county 
+population in 1964. Of the 1,773 counties in our main sample, we have data for 806 
+on the construction rate of both primary and secondary schools. Panel A of online 
+Appendix Figure A2 displays the rapid process of school expansion. The average 
+number of secondary schools per county increased from 10.8 in 1965 to 77.3 in 
+33 The expansion at the primary level started earlier. During the 1950s and 1960s, the central government 
+attempted to build a primary school in every village (Hannum 1999). Nevertheless, in the following empirical 
+analysis, we also take into account the possibility that primary education also expanded in rural areas from the 
+­mid-1960s to the ­late-1970s.
+
+
+--- PAGE 25 ---
+3417
+CHEN ET AL.: RURAL EDUCATION IN CHINA
+VOL. 110 NO. 11
+1977. However, rural primary schools did not experience such a rapid change during 
+this period. Panel B shows that the trend of our data from local gazetteers matches 
+the ­national-level statistics from the NBS quite well.34
+Column 2 of Table 6 reports the results after controlling for the construction 
+rate of schools. The estimated coefficient on primary schools is small in magnitude 
+and statistically insignificant, which is not surprising because the school expansion 
+during this period mostly targeted secondary education. The effect of the secondary 
+school expansion is relatively large: each additional secondary school per 1,000 
+inhabitants generated an increase of 0.191​  ​(​=  2.101 / 11​) years of education. Our 
+estimate can be translated into an increase of 0.735 years of education per 1,000 
+children aged 5–14,35 an effect larger than Duflo’s (2001) estimation, which found 
+that each primary school constructed per 1,000 children aged 5–14 led to an increase 
+of 0.12–0.19 years of education. Our estimated effect is larger probably because 
+secondary education in rural China was not prevalent at the time: only 20.5 percent 
+of our control group received a junior high education (Table 2). As a comparison, in 
+Duflo’s (2001) study, 69 percent of children were enrolled in primary school prior 
+to the school construction program.
+After controlling for the intensity of the rural education expansion program, 
+the estimated coefficient of SDYs drops slightly from 4.62 to 4.42 (Column 2 in 
+Table 6, panel A versus panel B). Our estimation also highlights that in terms of 
+improving rural education, the educated urban youth contributed at least as much 
+as the school expansion program. Column 2 in Table  6 suggests that receiving  
+43.2  (​=  ​(1,000 × 2.101 / 11)​ / 4.424​) SDYs has the same effect as building one 
+new secondary school. During the period 1968–1977, rural villages received 11.5 
+million SDYs, which was equivalent to building 266,000 schools. According to the 
+NBS, about 180,000 secondary schools were built from 1965 to 1977.
+To explore the potential connection between the two programs (education expan-
+sion and ­send-down movement), Column 3 in Table  6 additionally includes the 
+interaction term between the density of SDYs and the school construction rate. We 
+find that the two events substitute for each other: the SDYs’ effect is larger in places 
+with fewer secondary schools. This is reasonable, because in counties with better 
+access to middle schools, children could probably receive a junior high education 
+regardless of how many SDYs had arrived. This result suggests that the positive 
+effects of SDYs are unlikely to be driven purely by a coincidence with the school 
+expansion program.
+D. Cultural Revolution
+As previously mentioned, the main purposes of the mass ­send-down movement, 
+i.e., to settle students who could not go to school, to alleviate urban unemploy-
+ment, and to discharge Red Guards, were the direct consequences of the Cultural 
+34 In panel B of online Appendix Figure A2, we instead present the number of students per 10,000 inhabitants 
+because ­national-level statistics on the number of schools were missing during the early period of the Cultural 
+Revolution (1966–1971).
+35 According to China’s 1964 population census, children aged 5–14 accounted for 26 percent of the total 
+population.

@@ -1,0 +1,1869 @@
+
+
+--- PAGE 1 ---
+American Economic Review 2021, 111(9): 3064–3092 
+https://doi.org/10.1257/aer.20200513
+3064
+Media, Pulpit, and Populist Persuasion: Evidence from 
+Father Coughlin†
+By Tianyi Wang*
+I study the political impact of the first populist radio personal-
+ity in American history. Father Charles Coughlin blended popu-
+list ­demagoguery, ­anti-Semitism, and fascist sympathies to create 
+a hugely popular radio program that attracted 30 million weekly 
+listeners in the 1930s. I find that exposure to Father Coughlin’s 
+­anti-Roosevelt broadcast reduced Franklin D. Roosevelt’s vote share 
+in the 1936 presidential election. Coughlin’s effects were larger 
+among Catholics and persisted after Coughlin left the air. Moreover, 
+places more exposed to Coughlin’s broadcast were more likely to 
+form a local branch of the ­pro-Nazi ­German-American Bund and 
+sold fewer war bonds during World War II. (JEL D72, L82, N32, 
+N42, Z12)
+New media and communication technologies make it easier for charismatic indi-
+viduals to gain influence. The 2016 US presidential election and the rise of popu-
+list leaders across the world in recent years heighten the concern that individuals, 
+through their charisma and media savviness, can manipulate public opinions for 
+political gain. How and to what extent can charismatic individuals exploit the media 
+to shape political outcomes? This paper studies the political impact of the first pop-
+ulist radio personality in American history. Father Charles Coughlin blended pop-
+ulist demagoguery, ­anti-Semitism, and fascist sympathies to create one of the first 
+loyal mass audiences in broadcasting history, attracting tens of millions of listeners 
+throughout the 1930s (Warren 1996). This paper assembles a unique dataset to eval-
+uate the impact of exposure to Father Coughlin’s radio program.
+* Department of Economics, University of Toronto (email: tianyi.wang@pitt.edu). Stefano DellaVigna was the 
+­coeditor for this article. I am extremely grateful to Osea Giuntella, Allison Shertzer, and Randy Walsh for their guid-
+ance and support throughout this project. I thank three anonymous referees for their helpful comments and guid-
+ance. I am also grateful to Mallory Avery, Sascha O. Becker, Arthur Blouin, George Fenton, Andy Ferrara, Matthew 
+Gentzkow, Taylor Jaworski, Ilyana Kuziemko, Torben Heien Nielsen, Craig Palsson, Daniel I. Rees, Richard 
+Van Weelden, Eugene White, and seminar participants at Aalto, Bristol, Exeter, Jinan, Oxford, Princeton, Simon 
+Fraser University, Stockholm School of Economics, Tilburg, UCLouvain, University of Copenhagen, University 
+of Pittsburgh, University of Toronto, UNSW, USC, as well as participants at the ASREC Workshop, China Star 
+Tour, Cliometric Society Conference, EHA Meeting, MWEHC, NBER-DAE Summer Institute, SEA Conference, 
+and SSHA for helpful comments and discussions. I also thank Ben Olken for sharing the radio software and Andy 
+Ferrara for sharing the OCR software. I gratefully acknowledge funding from the Novo Nordisk Foundation (grant 
+NNF17OC0026542) and from the Danish National Research Foundation through its grant (DNRF-134) to the 
+Center for Economic Behavior and Inequality (CEBI) at the University of Copenhagen.
+† Go to https://doi.org/10.1257/aer.20200513 to visit the article page for additional materials and author  
+disclosure statement.
+
+
+--- PAGE 2 ---
+3065
+WANG: POPULIST PERSUASION: EVIDENCE FROM FATHER COUGHLIN
+VOL. 111 NO. 9
+Roman Catholic priest Charles Coughlin embraced radio broadcasting when radio 
+was a new and rapidly exploding technology during the 1920s. For the first time one 
+could broadcast to a mass audience over long distances. He initially aired religious 
+sermons but switched to broadcasting almost exclusively his opinions on social and 
+economic issues following the onset of the Great Depression. In a nation mired in its 
+worst economic crisis, Coughlin became the voice of the people against the nation’s 
+economic and financial elites. A charismatic orator, Coughlin became seen as the 
+champion of the common man and referred to as the “Radio Messiah” (Warren 
+1996). By the ­mid-1930s, Coughlin had developed a weekly national audience of 
+30 million, making Father Coughlin the most listened to regular radio speaker in the 
+world during the 1930s (Brinkley 1982).
+A supporter of Franklin D. Roosevelt (FDR) and the New Deal during FDR’s 
+early presidency, Coughlin grew disillusioned with the Roosevelt administration 
+over time and became its harsh denouncer by 1936, largely because FDR did not 
+follow Coughlin’s proposal to address the Depression (Tull 1965). Accusing FDR 
+of being “anti-God” and a puppet controlled by both international bankers and 
+communists, Coughlin ­cofounded a third political party, which proposed a populist 
+alternative to challenge FDR in the 1936 presidential election. By the late 1930s, 
+Father Coughlin had become more extreme in his broadcast and transformed 
+into a major ­anti-Semitic icon, fascist sympathizer, and isolationist in ­prewar  
+America.
+The episode of Father Coughlin provides a unique opportunity to study the impact 
+of media manipulation by a charismatic individual. My baseline analysis examines 
+the impact of exposure to Father Coughlin’s radio program on voting outcomes in 
+the presidential election of 1936, the year in which Coughlin harshly attacked the 
+Roosevelt administration. I collect unique data on the location and technical details 
+of Coughlin’s transmitters in 1936, which allow me to predict the signal strength of 
+Coughlin’s radio program across space. Notably, Coughlin’s transmitters changed 
+little over time since 1933, when he was supporting FDR. It is therefore unlikely that 
+the transmitter location in 1936 was directly functional to Coughlin’s opposition to 
+FDR.
+Nonetheless, reception of Father Coughlin’s broadcast could be correlated with 
+other county characteristics that might influence voting. To address this concern, I 
+employ a strategy pioneered by Olken (2009) to exploit the variation in Coughlin’s 
+signal strength resulting from topographic factors. Specifically, I regress the out-
+comes on the signal strength of Coughlin’s radio program, while controlling for the 
+hypothetical signal strength when there is no geographic or topographic obstacles 
+such as mountains and hills. Hence, identification comes from the residual variation 
+in signal strength as a result of idiosyncratic topographic factors along the signal 
+transmission route, which I find to be uncorrelated with past voting outcomes and a 
+large set of ­preexisting county socioeconomic variables.
+I find that counties more exposed to Father Coughlin’s radio program displayed 
+lower support for FDR in the 1936 presidential election. Specifically, a 1 standard 
+deviation increase in Coughlin signal strength reduced FDR’s vote share by 2.4 per-
+centage points, or about 4 percent relative to the mean. The effect was larger in 
+counties with more Roman Catholics, consistent with Father Coughlin’s greater 
+influence on Catholics.
+
+
+--- PAGE 3 ---
+3066
+THE AMERICAN ECONOMIC REVIEW
+SEPTEMBER 2021
+To show that the results did not reflect the effect of exposure to radio programs 
+in general, I run a falsification test using exposure to national radio network stations 
+that did not carry Coughlin’s program. In a statistical horse race between Coughlin 
+and ­non-Coughlin exposure, I find that what mattered was exposure to Coughlin’s 
+stations and not exposure to other stations, suggesting that the effect was unique to 
+Coughlin’s radio program.
+To better understand the magnitude of the effect, I follow previous studies 
+(Enikolopov, Petrova, and Zhuravskaya 2011; DellaVigna et al. 2014; Adena et al. 
+2015) and calculate the persuasion rate of Father Coughlin’s radio program. I find 
+that Father Coughlin’s radio program had a persuasion rate of about 28 percent, 
+which is considerably larger than the typical persuasion rates of the media found by 
+previous studies (DellaVigna and Gentzkow 2010). Exploring potential channels, I 
+provide evidence consistent with the view that religion and an electorate of lower 
+education and economic status likely have contributed to Father Coughlin’s persua-
+siveness. The baseline findings thus show that under certain conditions the media 
+can have especially large effects.
+Moreover, as an alternative empirical strategy, I exploit Coughlin’s switch in atti-
+tude towards FDR during ­1932–1936 and panel data in a ­difference-in-difference 
+framework. Exploiting ­within-county variation, the ­difference-in-difference strat-
+egy controls for any ­time-invariant differences across counties and for statewide 
+shocks to counties. Findings from this strategy confirm the baseline results, which 
+also hold under a series of additional robustness checks, further strengthening the 
+causal interpretation of the results.
+Because of Father Coughlin’s more extreme stance in the late 1930s, I turn to 
+examine the effects of Coughlin exposure in the late 1930s on ­anti-Semitism and 
+civilian support for America’s involvement in World War II (WWII). I collect unique 
+data from Federal Bureau of Investigation (FBI) records, which allow me to identify 
+all cities with a local branch of the ­pro-Nazi ­German-American Bund in 1940. I find 
+that cities with a 1 standard deviation higher exposure to Father Coughlin’s radio 
+program in the late 1930s were about 10 percentage points more likely to have a 
+local branch of the ­pro-Nazi ­German-American Bund.
+Furthermore, using ­county-level WWII war bond sales data, I find that higher 
+exposure to Coughlin’s radio program in the late 1930s was also associated with 
+lower per capita purchase of war bonds. Specifically, a 1 standard deviation higher 
+Coughlin exposure was associated with 15 percent lower per capita purchase of war 
+bonds in 1944, suggesting that Father Coughlin’s isolationist stance likely damp-
+ened public support for the war effort.
+This paper contributes to the literature on the political effects of the media (for 
+surveys of this literature, see DellaVigna and Gentzkow 2010; Prat and Strömberg 
+2013; Enikolopov and Petrova 2015; Zhuravskaya, Petrova, and Enikolopov 2020). 
+In particular, my paper is closely related to the seminal work by Strömberg (2004), 
+who finds that US counties with more radio listeners during the 1930s saw greater 
+New Deal relief funds and higher voter turnout. Previous work has also studied 
+media backed by large institutions, such as the state or major media organizations.1 
+1 For instance, Adena et al. (2015) finds that radio controlled by Nazi Germany contributed to the support 
+for the Nazi Party and ­anti-Semitism in Nazi Germany. DellaVigna and Kaplan (2007) finds that the entry of 
+
+
+--- PAGE 4 ---
+3067
+WANG: POPULIST PERSUASION: EVIDENCE FROM FATHER COUGHLIN
+VOL. 111 NO. 9
+In contrast, this paper focuses on media used by a charismatic individual, and in par-
+ticular, a charismatic leader. The political influence of charismatic individuals, such 
+as politicians, opinion leaders, and media personalities across a variety of media 
+platforms, has become increasingly evident in recent years, including during the 
+2016 US presidential election (Marwick and Lewis 2017). For instance, the use of 
+Twitter by Donald Trump is widely considered (even by Trump himself) to have 
+contributed to his election in 2016. Yet, there exists little empirical evidence on the 
+political impact of media wielded by charismatic individuals.
+I study the extent to which an individual charismatic leader can manipulate 
+the media to influence voting behavior. Related to my work is that of Garthwaite 
+and Moore (2013) which studies the effects of political endorsements by celeb-
+rities. They show that Oprah Winfrey’s endorsement of Barack Obama brought 
+approximately 1 million additional votes to him during the 2008 US Democratic 
+Presidential Primary. Instead of examining political endorsements by celebrities, I 
+focus on the impact of a charismatic demagogue (O’Toole 2019, Brinkley 1982, 
+Bennett 1969, Lee and Lee 1939) who uses the media to spread propaganda and 
+misinformation.2 To my knowledge, this paper is the first in the literature to empir-
+ically document how a charismatic leader, as an individual, can manipulate the 
+media to influence voting and political preferences. In this regard, the paper also 
+adds to the small but growing literature on the effects of leaders, where empirical 
+evidence so far is still limited.3 Moreover, this paper to my knowledge is also the 
+first in the media and politics literature to empirically examine media with a strong 
+leaning on religion and to show the possibility for religion to generate large media 
+impacts. The findings of this paper therefore underscore the substantial influence 
+of charismatic leaders with access to modern media and the potential for religion 
+to enhance that influence.
+By exploring arguably the darkest episode of ­anti-Semitism in American history, 
+this paper also adds to the literature on media and ­intergroup animosity (Bursztyn 
+et al. 2019; Müller and Schwarz 2020, forthcoming; Adena et al. 2015; DellaVigna 
+et  al. 2014; ­Yanagizawa-Drott 2014), on religious extremism (Iannaccone 
+and Berman 2006), and more specifically, on ­anti-Semitism (Becker and Pascali 
+2019; Johnson and Koyama 2019; Finley and Koyama 2018; Anderson, Johnson, 
+and Koyama 2017; Voigtländer and Voth 2012). Previous work on ­anti-Semitism 
+has almost exclusively focused on the European context. Organized ­anti-Semitism 
+reached unprecedented levels in ­interwar America, and Father Coughlin is widely 
+Fox News increased Republican vote shares in both US presidential and senatorial elections. Enikolopov, Petrova, 
+and Zhuravskaya (2011) finds that the only independent national TV channel in Russia increased votes for ­opposition 
+parties and reduced support for the government party in the 1999 parliamentary election. Besides, Durante, Pinotti, 
+and Tesei (2019) shows that exposure to Italy’s Mediaset ­all-entertainment TV program increased support for Silvio 
+Berlusconi’s party and for populism in general. An exception, however, is Xiong (forthcoming), who studies the 
+political premium of TV celebrity and finds that Ronald Reagan’s tenure as the host of a 1950s entertainment TV 
+program translated into electoral support during his presidential campaign in 1980. 
+2 I consider misinformation as statements that ex post turn out to be false (Bursztyn et al. 2020). For an analysis 
+on Coughlin’s propaganda techniques, see Lee and Lee (1939).
+3 For instance, previous studies have examined leaders’ impacts on economic growth (Jones and Olken 2005; 
+Besley, Montalvo, and Reynal-Querol 2011), ­fertility-related beliefs and behavior (Bassi and Rasul 2017), the dif-
+fusion of radical and innovative ideas (Becker et al. 2020), and war (Dippel and Heblich 2021, Cagé et al. 2020). 
+In particular, Bassi and Rasul (2017) finds that the papal visit to Brazil in 1991 had large effects on the households’ 
+­fertility-related beliefs and behavior, consistent with the large influence of religious authorities on their followers. 
+My paper provides novel empirical evidence on the political influence of a religious leader.
+
+
+--- PAGE 5 ---
+3068
+THE AMERICAN ECONOMIC REVIEW
+SEPTEMBER 2021
+considered its foremost proponent (Strong 1941, Lee and Lee 1939). This paper 
+studies an important episode of ­anti-Semitism in America, which has received little 
+attention in the literature.
+Furthermore, this paper contributes to the growing literature on populism and 
+political extremism. Existing work has focused on the economic and cultural roots of 
+populism and political extremism (Inglehart and Norris 2019; Colantone and Stanig 
+2019; Noury and  Roland 2020; Autor et  al. 2020; Golder 2016; de  Bromhead, 
+Eichengreen, and O’Rourke 2013). There is still little empirical evidence on the extent 
+to which media matter to populist and extremist leaders. The findings of this paper 
+are particularly relevant to today’s ongoing debate on the role of media in the rise 
+of populism (Couttenier et al. 2019; Durante, Pinotti, and Tesei 2019; Zhuravskaya, 
+Petrova, and Enikolopov 2020). Lastly, this paper also contributes to the social sci-
+ence literature examining Father Coughlin (Warren 1996, Brinkley 1982, Bennett 
+1969, Tull 1965).
+I.  Historical Background
+Radio as a new communication technology entered American households in the 
+early 1920s. Providing a variety of music, shows, and information, radio soon became 
+a popular form of household entertainment. Online Appendix Figure A1 shows that the 
+share of American families owning a radio set rose from 0 in 1920 to approximately 
+40 percent by 1930, and it further increased to about 80 percent by 1940; the number 
+of radio stations also increased rapidly during ­1920–1940 (Broadcasting Publications, 
+Inc. 1940). As a result, the period is often dubbed the Golden Age of Radio.
+Radio was central to the rise of Father Coughlin from a local Roman Catholic 
+priest to a national figure. In 1926, Coughlin started as a priest at the National 
+Shrine of the Little Flower church in Royal Oak, Michigan, just outside of Detroit. 
+He quickly embraced radio to broadcast his weekly theological teachings from the 
+Detroit station WJR. A charismatic orator on the radio, Coughlin soon attracted a 
+loyal audience in the Midwest and became known as the “radio priest.” Indeed, one 
+listener claimed that Coughlin possessed such a mesmerizing voice “that anyone 
+turning past it almost automatically returned to hear it again” (Bennett 1969).
+The onset of the Great Depression and the ensuing human suffering, however, 
+convinced Father Coughlin to switch to broadcasting almost exclusively social and 
+economic commentaries. He described American society as controlled by power-
+ful “banksters,” “plutocrats,” “atheistic Marxists,” and “international (commonly 
+understood to mean Jewish) financiers,” whom Coughlin blamed for the catastro-
+phe of ordinary American citizens (Warren 1996). Coughlin’s outspokenness on the 
+nation’s economic plight brought him fame as a champion of the common man, but 
+his controversial statements were often considered demagogic by others (Bennett 
+1969, Tull 1965, Brinkley 1982).
+The CBS national network picked up Coughlin’s radio program in 1930, 
+making Father Coughlin a household name. Coughlin’s increasingly contro-
+versial statements about the economic and financial elites as well as his refusal 
+to tone down his rhetoric, however, led CBS to drop his program a year later 
+(Warren 1996). In response, Father Coughlin purchased airtime from individ-
+ual stations and formed his own radio network, and his weekly radio show was 
+
+
+--- PAGE 6 ---
+3069
+WANG: POPULIST PERSUASION: EVIDENCE FROM FATHER COUGHLIN
+VOL. 111 NO. 9
+soon broadcast again every Sunday afternoon to a national audience. The Gallup 
+Poll in April 1938 estimated retrospectively that 26.5 percent of Americans lis-
+tened regularly to Father Coughlin’s radio program before the 1936 presidential  
+election.4 This would put Coughlin’s listenership at above 30 million in the ­mid-1930s. 
+During the same period, Coughlin also received on average more than 10,000 unso-
+licited letters a day from his listeners, often with a small donation enclosed (Warren 
+1996). This would make Father Coughlin the most listened to regular radio speaker as 
+well as the person receiving the most letters in the world during the 1930s (Brinkley 
+1982). It is therefore not surprising that many contemporary observers regarded Father 
+Coughlin as the second most influential public figure in the United States, next only to 
+President Franklin D. Roosevelt (Brinkley 1982).
+Initially a supporter during FDR’s early presidency, Father Coughlin coined 
+the phrase “Roosevelt or Ruin” in 1933 following FDR’s election (Tull 1965).5 
+Coughlin, however, grew disillusioned with Roosevelt over time and deemed the 
+New Deal administration unsuccessful at addressing the nation’s social and eco-
+nomic problems. In November 1934 Coughlin founded his own organization, the 
+National Union for Social Justice (NUSJ), to promote ideologies and policies that 
+he believed would lead to greater prosperity and social justice.6 The Roosevelt 
+administration, however, did not follow Coughlin’s proposals. By 1936, Coughlin 
+had become a harsh denouncer of the Roosevelt administration (Tull 1965). With 
+the new slogan “Roosevelt and Ruin,” Coughlin accused FDR of being “­anti-God” 
+and a “great betrayer and liar” controlled by both international bankers and 
+communists.7
+In 1936, Coughlin ­cofounded a third political party, the Union Party, together with 
+­old-age pension advocate Francis Townsend and Gerald L. K. Smith, who replaced 
+Huey Long as the head of the Share Our Wealth movement following Long’s assas-
+sination in 1935. The Union Party chose Republican Senator William Lemke from 
+North Dakota as its candidate and proposed a populist alternative to challenge FDR 
+in the 1936 presidential election.8
+Father Coughlin had become more extreme by the late 1930s. Throughout 
+­1938–1939, Coughlin’s radio broadcast and weekly newspaper, Social Justice, 
+were overtly ­anti-Semitic (Warren 1996). He portrayed Jews as malicious aliens 
+associated with communism, claimed that Nazism was a necessary defense mech-
+anism against communism, and made bitter personal attacks on leading rabbis 
+and Jewish organizations (O’Toole 2019, Tull 1965). He blamed Jews for inciting 
+the European conflicts, supported ­pro-Nazi organizations in America such as the 
+­German-American Bund, and serialized in his weekly newspaper the Protocols of the 
+Elders of Zion, the notorious fake document purporting Jewish plans for world dom-
+ination (O’Toole 2019). Some of Father Coughlin’s writings in his newspaper even 
+followed Joseph Goebbels’ speeches verbatim (Warren 1996). In 1938, Coughlin 
+4 The number is calculated by the author based on the April 1938 Gallup Poll data (Gallup Organization 1938a) .
+5 In 1932, FDR defeated incumbent Republican President Herbert Hoover, who was first elected in 1928.
+6 Online Appendix B provides the 16 principles of the NUSJ that Father Coughlin outlined at its founding in 
+November 1934.
+7 Online Appendix C and Appendix Figure A2 use Father Coughlin’s radio transcripts (Coughlin 1936a) and 
+compare Coughlin’s attitudes towards FDR between 1933 and 1936.
+8 The Republican presidential candidate in 1936 was Governor Alf Landon of Kansas.
+
+
+--- PAGE 7 ---
+3070
+THE AMERICAN ECONOMIC REVIEW
+SEPTEMBER 2021
+also played an instrumental role in forming a paramilitary and ­anti-Semitic organi-
+zation, the Christian Front, which specialized in harassing and beating up Jews and 
+vandalizing Jewish property across major US cities (O’Toole 2019). In ­addition, 
+Coughlin was also a staunch supporter for American isolationism. Calling FDR 
+“the world’s chief warmonger,” Coughlin vehemently opposed America’s entry into 
+WWII and endorsed the leading US isolationist organization, the American First 
+Committee. Coughlin also claimed that FDR was using the war as an opportunity to 
+turn the US into a dictatorship (Warren 1996).
+Father Coughlin’s controversial activities eventually led to his downfall. In late 
+1939, the National Association of Broadcasters introduced a new ­self-regulation 
+code that prohibited radio stations from discussing controversial issues in spon-
+sored programs, a rule that many believe was introduced specifically to rein in 
+Father Coughlin (Warren 1996). Following this new rule, almost no station was 
+willing to sell Coughlin airtime, which forced him off the air in 1940. Shortly 
+following the Pearl Harbor attack, the federal government further invoked the 
+Espionage Act of 1917 and banned postal circulation of Coughlin’s weekly news-
+paper in 1942 because of its seditious content. Church superiors also ordered 
+Coughlin to relinquish any political involvement or to give up his priesthood. 
+Father Coughlin chose to return to his parish duties in 1942 and refrained from the 
+public sphere thereafter.
+II.  Data
+My baseline empirical work relates exposure to Father Coughlin’s ­anti-FDR 
+broadcast in 1936 to voting outcomes in the 1936 presidential election. In this sec-
+tion, I describe the data employed in the baseline analysis.
+A. Exposure to Father Coughlin’s Radio Program
+A challenge to study Father Coughlin’s impact on the 1936 presidential election 
+is the lack of data measuring exposure to Coughlin’s radio program at a ­fine-grained 
+geographic level. For this project, I assemble a unique dataset from several sources 
+that is particularly suited to measure the political impacts of Father Coughlin. To 
+proceed, I identify all the radio stations that Coughlin used for his weekly broad-
+casts in 1936 from the historical magazine Broadcasting (Broadcasting Publications 
+Inc. 1935). Online Appendix Figure A3 displays the location of the stations, show-
+ing a total of 33 stations. For each of Coughlin’s stations, I collect technical details, 
+including the transmitter frequency and power, from the 1936 Broadcasting Yearbook 
+(Broadcasting Publications, Inc. 1936). I then use this information to calculate the 
+signal strength of Father Coughlin’s radio program across US counties in 1936.
+Radio signal transmission obeys the laws of electromagnetic propagation. In free 
+space (i.e., assuming the earth is smooth and without any geographic or topographic 
+obstacles), signal strength is inversely proportional to the square of the distance 
+from the transmitter (Olken 2009). In actual transmission, however, the presence 
+of geographic or topographic obstacles, such as mountains or hills, would lead to 
+diffraction and greater transmission loss in signal. I calculate the signal transmission 
+loss with a professional radio propagation software based on the irregular terrain 
+
+
+--- PAGE 8 ---
+3071
+WANG: POPULIST PERSUASION: EVIDENCE FROM FATHER COUGHLIN
+VOL. 111 NO. 9
+model (ITM). The ITM was developed by the US government in the 1960s and 
+typically used by radio and TV engineers to predict signal strength of broadcasts.9
+Following Olken (2009), I calculate the transmission loss for each 
+­transmitter-county pair using the ITM algorithm.10 I then deduct the transmission 
+loss from the power of the transmitter to get the predicted signal strength, where 
+signal strength is measured in ­decibel-milliwatts (dBm). Finally, for each county I 
+use the maximum predicted signal strength across all transmitters as the predicted 
+signal strength in that county.
+Panel A of Figure 1 shows the predicted signal strength of Father Coughlin’s 
+radio program across counties, where stronger signals are shown with darker col-
+ors.11 Previous studies (Olken 2009; Enikolopov, Petrova, and Zhuravskaya 2011; 
+Adena et al. 2015) have shown that signal strength is a strong predictor for the actual 
+audience size. Because ­county-level listenership data of Coughlin’s radio program 
+are not available, I follow Durante, Pinotti, and Tesei (2019) and use the continuous 
+measure of signal strength as the explanatory variable.12
+Online Appendix Figure A3 also shows that Father Coughlin had no station in 
+the geographic South, which has been attributed to the fact that Coughlin would not 
+have been able to attract a substantial audience in the South as a Catholic priest of 
+Irish descent (Tull 1965). Indeed, online Appendix Figure A5 maps the spatial distri-
+bution of the Catholic population in 1926 and shows that the location of Coughlin’s 
+stations largely followed the ­preexisting spatial distribution of Catholics, of which 
+the South had few. In addition, the South had fewer radio owners than the rest of the 
+nation (see online Appendix Figure A6) and a much more homogeneous support for 
+the Democratic Party in the 1930s (Strömberg 2004).
+The lack of variation in support for FDR and the much lower Coughlin listener-
+ship in the South make it harder to identify the effect of exposure to Coughlin on 
+voting outcomes in this region. I therefore focus my analysis on states outside of the 
+geographic South to improve the precision of my estimates.13 The central results are 
+qualitatively similar when I include all states in my analysis.
+I use the ITM software to also generate the hypothetical signal strength in free 
+space, assuming the earth is free of any geographic or topographic obstacles that 
+9 I am grateful to Benjamin Olken for sharing the ITM software. ITM has also been used to calculate radio 
+signal strength in other historical settings, such as by Adena et al. (2015) in the context of Nazi Germany and by 
+Gagliarducci et al. (2020) in the context of Italy during WWII.
+10 I use the centroid of each county as the receiving location.
+11 Evidently the Cincinnati station is the most powerful station, with its signal dominating a large number of 
+counties. This is because the Cincinnati station WLW was chosen by the federal government to experiment with 
+high power broadcasting and authorized to broadcast at 500 kilowatts (kW) between 1935 and 1939, while all other 
+stations were operating at 50 kW or less. WLW was one of Coughlin’s stations in 1936. My results are robust to 
+simply removing this station from Coughlin’s radio network or using 50 kW as its power, which was its original 
+power before 1935, to calculate the signal strength. Hence, my results are not driven by the Cincinnati station.
+12 The Gallup Poll in April 1938 asked retrospectively about Coughlin listenership before the 1936 election. 
+The data unfortunately do not contain county identifiers for individual respondents. Online Appendix Figure A4 
+provides evidence that the share of population who regularly listened to Coughlin before the 1936 election was 
+highly correlated with the location of his stations and with the predicted signal strength across regions. In addition, 
+I show in online Appendix D that Coughlin signal averaged at the ­state-level strongly predicts actual listenership. 
+As a robustness check, I also use an indicator variable that equals one if a county’s signal strength is above median 
+and zero otherwise in Section IVE.
+13 Indeed, online Appendix Figure A4 shows that the South had the lowest Coughlin listenership among all 
+regions before the 1936 election. The 11 Southern states excluded are Oklahoma, Arkansas, Tennessee, North 
+Carolina, Texas, Louisiana, Missouri, Alabama, Georgia, Florida, and South Carolina. I show as a robustness check 
+that the results are qualitatively similar when these states are included.
+
+
+--- PAGE 9 ---
+3072
+THE AMERICAN ECONOMIC REVIEW
+SEPTEMBER 2021
+may hinder signal transmission. This is important to my baseline identification strat-
+egy which exploits the varying topography along the signal transmission route to 
+provide plausibly exogenous variation in signal strength, a point I will return to in 
+Section III.
+B. Voting Data and County Characteristics
+The main outcomes of interest in my baseline analysis consist of ­county-level 
+vote shares (in percentage points) of FDR (Democratic Party), Landon (Republican 
+Party), and Lemke (Union Party) in the 1936 presidential election. The data come 
+−156.3–−106.5
+−106.5–−91.7
+−91.7–−79.1
+−79.1–−66.8
+−66.8–−55.1
+−55.1–−44.9
+−44.9–−34.9
+−34.9–−23.9
+−23.9–−10.4
+−10.4–21.6
+−34.6–−24.9
+−24.9–−19.9
+−19.9–−15.3
+−15.3–−10.1
+−10.1–−4.5
+−4.5–0.2
+0.2–4.6
+4.6–9.8
+9.8–17
+17–39.4
+−47.9–−8.6
+−8.6–−4.5
+−4.5–−1.5
+−1.5–1
+1–5
+5–44.8
+Panel A. Predicted signal strength
+Panel C. Changes in FDR’s vote share, 1932–1936 
+Panel B. Signal strength in free space
+Figure 1. Coughlin Signal Strength in 1936 and Changes in FDR’s Vote Share, ­1932–1936
+Notes: Panel A shows the predicted (actual) signal strength of Father Coughlin’s radio program in 1936. The dots 
+are the location of Coughlin’s radio stations, and darker colors represent stronger signals. Panel B shows the signal 
+strength in free space. Panel C shows the changes in FDR’s vote shares between the 1932 and the 1936 presiden-
+tial elections. Data on Coughlin’s radio network are drawn from the magazine Broadcasting (1935) and the 1936 
+Broadcasting Yearbook (Broadcasting Publications, Inc. 1936). Signal strength is calculated based on the ITM and 
+measured in ­dBm. Data on FDR’s vote shares are drawn from the Inter-university Consortium for Political and 
+Social Research (ICPSR) 8611 dataset (Clubb, Flanigan, and Zingale 2006).
+
+
+--- PAGE 10 ---
+3073
+WANG: POPULIST PERSUASION: EVIDENCE FROM FATHER COUGHLIN
+VOL. 111 NO. 9
+from the ICPSR Study 8611 dataset (Clubb, Flanigan, and Zingale 2006).14 Online 
+Appendix Figure A7 shows FDR’s vote share across counties in 1936.
+From the ICPSR 2896 dataset (Haines and ICPSR 2010), I obtain a rich set of 
+1930 county demographics, measuring county population and population by gender, 
+race, birth place, age, literacy, employment status, radio ownership, and farm char-
+acteristics. I use the 1930 census IPUMS microdata (Ruggles et al. 2020) to com-
+pute for each county its mean occupational income score and shares of employment 
+in manufacturing and in agriculture. The 1926 Census of Religious Bodies (Haines 
+and ICPSR 2010) provides me with the Roman Catholic population across counties. 
+I use ArcGIS to generate additional ­county-level geographic characteristics, includ-
+ing area, elevation, and terrain ruggedness.15
+III.  Empirical Strategy
+My baseline empirical work examines the impact of exposure to Father Coughlin’s 
+radio program on voting outcomes in the 1936 presidential election. Notably, the 
+location of Father Coughlin’s stations in 1936 were mostly the same as that in 1933, 
+when Coughlin was in favor of FDR. Online Appendix Figure A3 maps Coughlin’s 
+stations in 1936, which shows that 25 out of the 33 (or about 76 percent) stations in 
+1936 were already in Coughlin’s network in 1933, when Coughlin was still a strong 
+supporter for FDR. It is therefore unlikely that station location in 1936 was inten-
+tionally driven by Coughlin’s opposition to FDR.16
+Nonetheless, reception of Coughlin’s broadcast might have been correlated with 
+other local characteristics (e.g., distance to major cities) that could have influenced 
+voting behavior in 1936. To address this concern, I employ an empirical strategy 
+pioneered by Olken (2009) and exploit plausibly exogenous variation in Coughlin’s 
+signal strength resulting from topographic factors.17 Specifically, I regress the out-
+comes of interest on the actual signal strength (​Signal​), while controlling for the 
+hypothetical signal strength in free space (​SignalFree​) where the earth is assumed 
+to be free of any topographic obstacles, such as mountains or hills, that diffract and 
+weaken radio signal transmission. Crucially, the variable ​SignalFree​ controls for a 
+county’s proximity to a transmitter as well as the power of the transmitter. Therefore, 
+once controlling for ​SignalFree​, identification of the coefficient of ​Signal​ comes 
+from variation in diffraction patterns caused by topographic obstacles along the 
+14 Data on Lemke’s vote share is missing for several states in the ICPSR 8611 dataset; for these states, I have 
+obtained data on Lemke’s vote share from the ICPSR 1 (United States Historical Election Returns) dataset (ICPSR 
+1999).
+15 I obtain 1/3 arc-second (10 meters) digital elevation models (DEM) data (US Geological Survey 2018) 
+from the Geospatial Data Gateway of Natural Resource Conservation Service at the United States Department 
+of Agriculture. The data were originally sourced from the National Elevation Database developed by the US 
+Geological Survey. I process the DEM data in ArcGIS to calculate each county’s mean elevation and mean rug-
+gedness (measured by the variance of elevation). I obtain 1930 state and county shapefiles from IPUMS NHGIS 
+(Manson et al. 2020).
+16 While Coughlin’s radio network clearly expanded westward between 1933 and 1936, the results are robust to 
+restricting the sample to counties only in the Northeast and the Midwest (i.e., states east of the Dakotas, Nebraska, 
+and Kansas), where station location changed little over time.
+17 A similar strategy has also been used by Durante, Pinotti, and Tesei (2019); DellaVigna et al. (2014); and 
+­Yanagizawa-Drott (2014). 
+
+
+--- PAGE 11 ---
+3074
+THE AMERICAN ECONOMIC REVIEW
+SEPTEMBER 2021
+signal transmission route. Figure 1 shows the actual (­ITM-predicted) signal strength 
+of Coughlin’s radio program and the hypothetical signal strength in free space.
+Because a county’s own topography could also potentially influence its politi-
+cal outcomes, I control for various local geographic characteristics of the county, 
+including the county’s surface area, altitude, and terrain ruggedness as well as 
+the square terms of each of these geographic variables. Therefore, I only exploit 
+residual variation in signal strength resulting from the topography along the ­signal 
+­transmission route outside the county, which is arguably more exogenous.18 
+Furthermore, I include state fixed effects to compare counties within the same state 
+in all my analyses.
+I run the following regression for my baseline analysis:
+(1)	
+​Vot​e​c​  =  βSigna​l​c​ + γSignalFre​e​c​ + ​δ  ′ ​ ​X​c​ + ​η​s​ + ​ϵ​c​​,
+where ​Vot​e​c​​ is the vote share (in percentage points) received by a party in county ​
+c​ in the 1936 presidential election; ​Signa​l​c​​ is the actual signal strength of Father 
+Coughlin’s radio program in county ​c​ in 1936; ​SignalFre​e​c​​ is the hypothetical signal 
+strength in free space; ​​X​c​​ is a vector of county baseline controls for local geographic 
+characteristics, socioeconomic characteristics, and past voting outcomes; ​​η​s​​ are state 
+fixed effects, controlling for any differences across states that might influence vot-
+ing; ​​ϵ​c​​ is the error term. Standard errors are corrected for clustering at the state lev-
+el.19 To ease the interpretation of the results, I standardize signal strength such that 
+it has a mean of zero and a standard deviation of one.
+The coefficient ​β​ provides the ­reduced-form estimate of the effect of exposure to 
+Father Coughlin’s radio program. The identification assumption is that ​Signal​ is not 
+correlated with unobserved factors that influence voting outcomes, conditional on 
+all the covariates in equation (1). While the assumption is ultimately untestable, I 
+support the conditional exogeneity assumption through balance and placebo tests by 
+examining the correlation of ​Signal​ with ­preexisting county socioeconomic charac-
+teristics and past voting outcomes.
+In Table 1, I examine the correlation between Coughlin’s signal strength in 1936 
+and 1930 county socioeconomic characteristics. As seen in column 2, ​Signal​ is 
+significantly correlated with quite a few socioeconomic variables in the univariate 
+regression. This is not surprising given that Father Coughlin’s stations were mostly 
+in large cities in the Northeast and the Midwest. However, ​Signal​ becomes more bal-
+anced across the set of 17 socioeconomic characteristics after I control in column 4 
+for the “free space” variable, state fixed effects, and local geographic characteristics. 
+In fact, ​SignalFree​, state fixed effects, and local geographic characteristics explain 
+about ­30–60 percent of the overall variation of most of the socioeconomic variables. 
+Conditional on the additional covariates, ​Signal​ is no longer correlated with most 
+18 The exceptions are the counties that contained Coughlin stations. I provide robustness checks by dropping 
+these counties as well as the areas surrounding them.
+19 I test the robustness of my baseline estimate to alternative ways of adjusting for spatial correlation in error 
+terms in online Appendix Table A1, such as allowing for spatial correlation in error terms following Conley’s 
+(1999) approach with different distance cutoffs, using the wild cluster bootstrap procedure suggested by Cameron, 
+Gelbach, and Miller (2008) and Cameron and Miller (2015) to deal with the relatively small number of states (37 
+in total) as clusters, and clustering standard errors at Coughlin’s station level.
+
+
+--- PAGE 12 ---
+3075
+WANG: POPULIST PERSUASION: EVIDENCE FROM FATHER COUGHLIN
+VOL. 111 NO. 9
+­preexisting demographic or industrial characteristics, although it is still correlated 
+with the share of elderly, unemployment rate, and radio ownership. To be conser-
+vative, I control for all the socioeconomic characteristics in Table 1 in equation (1).
+In Table 2, I perform a series of placebo tests by examining the correlation 
+between ​Signal​ and Democratic and Republican vote shares in past presidential 
+elections before 1936. Conditional on the full set of baseline controls, ​Signal​ is not 
+significantly correlated with any of the past electoral outcomes during the period 
+Table 1—Exposure to Father Coughlin and 1930 County Characteristics (Balance Tests)
+Mean 
+(standard
+Univariate
+SignalFree, 
+state fixed effects and 
+geographic controls
+deviation)
+Coefficient
+​​R​ 2​​
+Coefficient
+​​R​ 2​​
+(1)
+(2)
+(3)
+(4)
+(5)
+ln(population)
+9.829
+0.509
+0.168
+0.133
+0.479
+(1.137)
+(0.101)
+(0.123)
+Percent male
+52.169
+−1.316
+0.253
+−0.080
+0.561
+(2.396)
+(0.130)
+(0.214)
+Percent native-born Whites
+87.539
+2.339
+0.035
+1.775
+0.509
+(11.415)
+(0.928)
+(1.257)
+Percent foreign-born Whites
+6.935
+−1.331
+0.037
+−0.478
+0.629
+(6.328)
+(0.705)
+(0.675)
+Percent Blacks
+3.413
+1.302
+0.018
+0.292
+0.685
+(8.953)
+(0.365)
+(0.676)
+Percent urban
+24.338
+5.786
+0.037
+−0.858
+0.227
+(27.526)
+(1.995)
+(2.844)
+Percent age ​≥​ 65
+6.647
+0.834
+0.128
+0.585
+0.450
+(2.139)
+(0.199)
+(0.227)
+Percent Catholics (1926)
+10.819
+−0.411
+0.001
+1.065
+0.361
+(12.051)
+(1.144)
+(1.313)
+Percent illiterate
+2.414
+0.165
+0.003
+0.008
+0.574
+(2.804)
+(0.337)
+(0.323)
+Percent unemployed
+6.686
+0.054
+0.000
+−1.364
+0.223
+(4.929)
+(0.299)
+(0.368)
+Occupational income score
+7.344
+0.096
+0.002
+0.088
+0.402
+(1.825)
+(0.186)
+(0.207)
+Percent radio owners
+34.718
+3.027
+0.034
+5.505
+0.651
+(15.002)
+(2.045)
+(1.837)
+Percent manufacturing workers
+12.036
+2.416
+0.033
+−0.432
+0.411
+(12.121)
+(1.245)
+(1.293)
+Percent agricultural workers
+42.080
+−3.636
+0.023
+1.683
+0.381
+(21.734)
+(2.132)
+(2.011)
+ln(average farm size)
+7.457
+−0.560
+0.303
+0.025
+0.693
+(0.931)
+(0.098)
+(0.086)
+ln(land value per acre)
+3.528
+0.396
+0.158
+0.134
+0.539
+(0.909)
+(0.106)
+(0.100)
+Percent tenant acres
+27.561
+3.844
+0.052
+−0.722
+0.573
+(15.493)
+(1.177)
+(1.232)
+Notes: This table shows the mean of 1930 county characteristics (column 1) and their correlation with exposure to 
+Father Coughlin’s radio program in 1936 (columns 2 and 3). Specifically, columns 2 and 3 report the coefficient and ​​
+R​ 2​​ of the univariate ordinary least squares  (OLS) regression of each variable on Coughlin signal strength in 1936 (​
+Signal​). In columns 4 and 5, I include controls for the hypothetical signal strength in free space (​SignalFree​), state 
+fixed effects, and county geographic characteristics (area, elevation, and terrain ruggedness as well as their squared 
+terms). The sample consists of all counties outside of the geographic South. Standard errors, shown in parentheses, 
+are corrected for clustering at the state level. 
+
+
+--- PAGE 13 ---
+3076
+THE AMERICAN ECONOMIC REVIEW
+SEPTEMBER 2021
+­1920–1932 (columns ­1–8) or with changes in electoral outcomes between 1928 and 
+1932 (columns ­9 and 10); the estimated coefficients are also generally small.20 The 
+results suggest that exposure to Father Coughlin’s radio program in 1936 was not 
+systematically correlated with ­preexisting political preferences in either levels or 
+trends, providing support to the conditional exogeneity assumption of equation (1).
+IV.  Father Coughlin and Presidential Elections
+In this section, I present the results on the impact of exposure to Father Coughlin’s 
+radio program on presidential election voting outcomes. I focus on the presidential 
+election of 1936, the year in which Father Coughlin harshly attacked FDR in his 
+radio broadcasts and ­cofounded the Union Party to challenge FDR in the presiden-
+tial race.
+20 Although Father Coughlin favored FDR in 1932, he did not broadcast his support for FDR during the 1932 
+campaign. As a priest, he believed he should not publicly show favoritism during an election (Brinkley 1982, Tull 
+1965). It was not until 1933, after FDR became president, that Coughlin began broadcasting his support (Brinkley 
+1982). Consistent with historical accounts and based on Father Coughlin’s radio transcripts (Coughlin 1936a), 
+online Appendix Figure A8 shows the average number of times that Coughlin mentioned the name “Roosevelt” 
+during each broadcast between 1931 and 1936. The figure shows that Coughlin essentially did not mention 
+“Roosevelt” during ­1931–1932. In fact, the only time he mentioned “Roosevelt” during ­1931–1932 was a reference 
+to Theodore Roosevelt. The figure is therefore consistent with historical accounts that Coughlin did not broadcast 
+his support for FDR in 1932. 
+Table 2—Exposure to Coughlin and Voting in Past Presidential Elections (Placebo Tests)
+1932
+1928
+1924
+1920
+​Δ​1928–1932
+(1)
+(2)
+(3)
+(4)
+(5)
+Panel A. Democratic vote shares
+Signal
+0.315
+0.698
+−0.327
+−0.371
+−0.384
+(0.471)
+(0.620)
+(0.262)
+(0.551)
+(0.548)
+Observations
+1,978
+1,978
+1,978
+1,978
+1,978
+Full baseline controls
+Yes
+Yes
+Yes
+Yes
+Yes
+R2
+0.882
+0.886
+0.980
+0.955
+0.665
+Mean of dependent variable
+58.37
+37.29
+28.66
+33.77
+21.07
+Standard deviation of dependent variable
+11.23
+11.22
+18.20
+14.94
+7.74
+Panel B. Republican vote shares
+Signal
+−0.310
+−0.670
+0.014
+0.656
+0.360
+(0.439)
+(0.605)
+(0.264)
+(0.597)
+(0.599)
+Observations
+1,978
+1,978
+1,978
+1,978
+1,978
+Full baseline controls
+Yes
+Yes
+Yes
+Yes
+Yes
+R2
+0.890
+0.889
+0.957
+0.929
+0.682
+Mean of dependent variable
+39.35
+61.94
+51.80
+61.74
+−22.60
+Standard deviation of dependent variable
+11.19
+11.13
+13.70
+13.59
+8.10
+Notes: This table shows the correlation between exposure to Father Coughlin’s radio program in 1936 and voting 
+outcomes in past presidential elections. Each column represents the results from a separate OLS regression follow-
+ing equation (1), where each observation is a county. The sample consists of all counties outside of the geographic 
+South. Panel A shows the results for the Democratic Party, and panel B does so for the Republican Party. In each 
+panel, the outcome variables are the vote shares of the party in each presidential election during 1920–1932 (col-
+umns 1–4) and the change in vote shares during 1928–1932 (column 5). The explanatory variable is the signal 
+strength of Coughlin’s radio program in 1936. Each regression controls for all the baseline controls as in column 5 
+of Table 3. Standard errors, shown in parentheses, are corrected for clustering at the state level. 
+
+
+--- PAGE 14 ---
+3077
+WANG: POPULIST PERSUASION: EVIDENCE FROM FATHER COUGHLIN
+VOL. 111 NO. 9
+A. Baseline Results
+Table 3 shows the estimated effects of exposure to Father Coughlin’s broadcast 
+on voting in the 1936 presidential election. I find that exposure to Coughlin’s radio 
+program had a large negative effect on the support for FDR in the 1936 presidential 
+election. Based on column 1, without any controls, a 1 standard deviation increase 
+in exposure to Father Coughlin’s radio program was associated with a reduction in 
+FDR’s vote share by about 3.8 percentage points. The results are robust and of sim-
+ilar magnitudes when adding in different controls in subsequent columns, includ-
+ing state fixed effects, the “free space” variable, and county socioeconomic and 
+geographic characteristics. In column 5, after further controlling for past electoral 
+outcomes, the estimated coefficient changes little. Based on column 5, which is 
+my preferred specification that includes all baseline controls, a 1 standard devia-
+tion increase in exposure to Coughlin’s radio program reduced FDR’s vote share by 
+about 2.4 percentage points, which is about 4 percent relative to the mean of FDR’s 
+vote share.
+Column 6 of the table shows that most of the reduction in FDR’s vote share as 
+a result of exposure to Coughlin went to the Republican Party. A 1 standard devi-
+ation increase in exposure to Coughlin’s radio program increased the Republican 
+vote share by about 2 percentage points. Column 7 shows that exposure to Father 
+Coughlin increased Lemke’s vote share by about 0.4 percentage points (about 
+Table 3—Exposure to Father Coughlin and 1936 Voting Outcomes
+Vote shares (percentage points) in the 1936 Presidential election for
+FDR
+Landon
+(Republican)
+(6)
+Lemke
+(Union)
+(7)
+Voter
+turnout
+(8)
+(Democrat)
+(1)
+(2)
+(3)
+(4)
+(5)
+Signal
+−3.799
+−2.120
+−3.018
+−2.779
+−2.399
+1.976
+0.402
+0.670
+(0.540)
+(1.144)
+(1.301)
+(0.835)
+(0.581)
+(0.609)
+(0.373)
+(0.637)
+Observations
+2,007
+2,007
+2,007
+1,996
+1,978
+1,978
+1,646
+1,978
+State fixed effects
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+SignalFree
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+County characteristics
+Yes
+Yes
+Yes
+Yes
+Yes
+Past electoral controls
+Yes
+Yes
+Yes
+Yes
+R2
+0.091
+0.391
+0.393
+0.548
+0.818
+0.854
+0.642
+0.907
+Mean of dependent variable 57.11
+57.11
+57.11
+57.03
+56.95
+40.34
+2.70
+72.03
+Standard deviation 
+  of dependent variable
+11.51
+11.51
+11.51
+11.46
+11.45
+11.77
+3.71
+15.69
+Notes: This table shows the estimated effects of exposure to Father Coughlin’s radio program in 1936 on voting in 
+the 1936 presidential election. Each column represents the results from a separate OLS regression following equa-
+tion (1), where each observation is a county. The sample consists of all counties outside of the geographic South. 
+The outcome variables are the vote shares for FDR (columns 1–5), Landon (column 6), Lemke (column 7), and 
+voter turnout (column 8), all measured in percentage points. The explanatory variable is the signal strength of 
+Coughlin’s radio program in 1936. SignalFree is the hypothetical signal strength in free space. County characteris-
+tics include the socioeconomic variables listed in Table 1 (i.e., natural log of the population, the population shares of 
+males, Blacks, native-born Whites, foreign-born Whites, urban population, population aged 65 or above, Catholics, 
+illiterate, unemployed, families with a radio, mean occupational income score, share of employment in manufac-
+turing, share of employment in agriculture, natural log of average farm size, natural log of farm land value per acre, 
+and share of farm land by tenant farmers) and the county’s own geographic characteristics (area, elevation, terrain 
+ruggedness, as well as their squared terms). Past electoral controls include average vote shares of the Democratic 
+Party and of the Republican Party as well as average voter turnout during 1920–1928. Standard errors, shown in 
+parentheses, are corrected for clustering at the state level. 
+
+
+--- PAGE 15 ---
+3078
+THE AMERICAN ECONOMIC REVIEW
+SEPTEMBER 2021
+15 percent relative to the mean), although the estimate is statistically insignificant.21 
+The statistically insignificant effect on Lemke’s vote share is not entirely surprising, 
+given historical accounts that Father Coughlin was more focused on attacking FDR 
+than on advancing Lemke’s candidacy in 1936 (Bennett 1969, Warren 1996). In 
+fact, through a simple word count, online Appendix Figure A9 shows that Father 
+Coughlin mentioned the name “Roosevelt” about 8.8 times as often as he did for 
+“Lemke” in his radio broadcasts in the months before the 1936 election (Coughlin 
+1936b). Moreover, column 8 of Table 3 shows that exposure to Coughlin had little 
+effect on voter turnout. Taken as a whole, Table 3 suggests that exposure to Father 
+Coughlin’s radio program reduced support for FDR in the 1936 presidential election.
+Next, I turn to examine the role of religion in Father Coughlin’s persuasion. As 
+a Roman Catholic priest, Father Coughlin likely had greater influence among the 
+Catholic population. Indeed, based on a Gallup Poll survey (Gallup Organization 
+1938b) in December 1938, panel B of online Appendix Figure A10 shows that 
+close to 70 percent of Catholics approved of what Father Coughlin said in general, 
+much higher than other religious groups did. I therefore expect exposure to Father 
+Coughlin’s radio program to have a larger effect in counties with more Catholics. 
+To test this hypothesis, I include in my regression interaction terms between Signal 
+and an indicator variable that equals one if a county’s population share of Catholics 
+was in the top quartile of the distribution among all counties and zero otherwise.22
+Panel A of Table 4 reports the estimates based on this regression. Consistent with 
+the expectation, the effects estimated are larger in highly Catholic counties. Here 
+the effect of Signal in highly Catholic counties is equal to the sum of the coefficient 
+on Signal and that on the interaction term ​Signal × Catholic​. Based on column 1, a 
+1 standard deviation increase in Coughlin exposure reduced FDR’s votes by about 
+3.4 percentage points in highly Catholic counties. While column 2 shows that there 
+was no differential effect on the Republican vote share in highly Catholic coun-
+ties, column 3 shows that a 1 standard deviation increase in Coughlin exposure 
+increased the support for Lemke by about 1.6 percentage points. Taken together, 
+panel A of Table 4 is consistent with Father Coughlin having a greater influence on 
+Catholic voters and suggests the possibility for religion to be exploited for political 
+persuasion.23
+A potential concern remains that the baseline results may simply reflect exposure 
+to radio programs in general instead of exposure to Father Coughlin. To address this 
+concern, I collect data on NBC and CBS network radio stations that did not carry 
+Coughlin’s broadcast and run a falsification test. Specifically, I use the same method 
+21 The number of observations is smaller because the Union Party was not on the ballot in several states, namely 
+California, Kansas, Maryland, Nevada, New York, Vermont, and West Virginia. This was primarily because the 
+Union Party was formed relatively late in the summer of 1936 and missed the deadlines in several states to register 
+itself as a party in the 1936 election (Bennett 1969). Even in states where the Union Party registered, its name did 
+not appear on the ballot as “Union Party” in several states (Tull 1965). From the November 2, 1936, issue of Social 
+Justice, I identify states where the Union Party’s name appeared on the ballot. The result is similar when I restrict 
+the sample to these states.
+22 Results based on a continuous measure of the population share of Catholics are similar and shown in online 
+Appendix Table A2.
+23 I also examine how exposure to Coughlin’s radio program interacts with the 1930 ­county-level radio listen-
+ership, which is the key explanatory variable of interest in Strömberg (2004). One would expect Father Coughlin 
+to have had a pronounced effect in areas with a greater radio audience. Online Appendix Table A3 shows evidence 
+consistent with this expectation. 
+
+
+--- PAGE 16 ---
+3079
+WANG: POPULIST PERSUASION: EVIDENCE FROM FATHER COUGHLIN
+VOL. 111 NO. 9
+to predict the signal strengths from the ­non-Coughlin stations and then include the 
+­non-Coughlin signal strengths (including the “free space” variable) in my baseline 
+regression to perform a statistical horse race. Panel B of Table 4 shows that the 
+­estimated effects of exposure to ­non-Coughlin stations are much smaller in magni-
+tude and statistically insignificant, while the estimates for exposure to Coughlin’s 
+stations remain strong and similar as in the baseline. The statistical horse race 
+between Coughlin’s and other stations therefore suggests that Father Coughlin’s 
+radio program had a unique and independent effect on support for FDR in 1936.24
+24 The finding that exposure to radio in general did not affect FDR’s vote share in 1936 may reflect a mixed 
+effect: a positive effect from receiving greater New Deal relief funds (Strömberg 2004) and a negative effect from a 
+potential substitution away from newspapers or other alternative sources of information (similar to what Gentzkow 
+2006; Gavazza, Nardotto, and Valletti 2019; and Angelucci, Cagé, and Sinkinson 2020 find for other media in later 
+years).
+Table 4—Additional Baseline Results
+1936 vote shares:
+FDR 
+(Democrat)
+Landon 
+(Republican)
+Lemke 
+(Union)
+(1)
+(2)
+(3)
+Panel A. Effects in counties with large shares of Catholics
+Signal ​×​ Catholic
+−1.341
+−0.096
+1.574
+(0.460)
+(0.352)
+(0.352)
+Signal
+−2.051
+2.014
+0.006
+(0.607)
+(0.625)
+(0.405)
+Catholic
+−0.708
+0.756
+0.257
+(0.696)
+(0.579)
+(0.403)
+Observations
+1,978
+1,978
+1,646
+Full baseline controls
+Yes
+Yes
+Yes
+​​R​ 2​​
+0.820
+0.854
+0.663
+Panel B. Coughlin and non-Coughlin (CBS and NBC) stations
+Signal
+−2.280
+1.773
+0.483
+(0.546)
+(0.559)
+(0.439)
+Non-Coughlin signal
+−0.143
+0.270
+−0.146
+(0.378)
+(0.267)
+(0.260)
+Observations
+1,978
+1,978
+1,646
+Full baseline controls
+Yes
+Yes
+Yes
+​​R​ 2​​
+0.818
+0.854
+0.643
+Mean of dependent variable
+56.95
+40.34
+2.70
+Standard deviation of dependent variable
+11.45
+11.77
+3.71
+Notes: The table shows additional baseline results, where the outcome variables are the vote shares for FDR (col-
+umn 1), Landon (column 2), and Lemke (column 3) in the 1936 presidential election. The sample consists of all 
+counties outside of the geographic South. Each column represents the results from a separate OLS regression where 
+each observation is a county. Signal is the signal strength of Coughlin’s radio program in 1936. Panel A shows the 
+estimated effects of Coughlin exposure in counties with high and low shares of Catholic population. Catholic is a 
+dummy variable that equals one if the county’s population share of Roman Catholics was in the top quartile of the 
+distribution and zero otherwise. Panel B shows the estimated effects of exposure to Coughlin and non-Coughlin 
+(i.e., CBS and NBC) stations. Non-Coughlin signal is the highest CBS or NBC radio signal strength received in the 
+county in 1936. For both panels, the regressions include all the baseline controls as in column 5 of Table 3. Standard 
+errors, shown in parentheses, are corrected for clustering at the state level. 
+
+
+--- PAGE 17 ---
+3080
+THE AMERICAN ECONOMIC REVIEW
+SEPTEMBER 2021
+B. Persuasion Rate
+To better understand the magnitude of the effects of Father Coughlin’s radio 
+program, I calculate the persuasion rate, which was pioneered by DellaVigna 
+and  Kaplan (2007), and a standard way to measure the effectiveness of media 
+­persuasion (DellaVigna and Gentzkow 2010, Jun and Lee 2019). In my case, the 
+persuasion rate measures the fraction of Father Coughlin’s listeners who were con-
+vinced to vote against FDR in 1936 as a result of exposure to Father Coughlin’s 
+radio program. I follow previous studies (Enikolopov, Petrova, and Zhuravskaya 
+2011; DellaVigna et al. 2014; Adena et al. 2015) to calculate the persuasion rate and 
+provide the detailed steps of its calculation in online Appendix D.
+Based on the estimates, I find that Father Coughlin’s radio program had a per-
+suasion rate of about 28.1 percent (with a standard error of 8.9 based on the delta 
+method).25 The persuasion rate of Father Coughlin’s radio program is on the higher 
+end of persuasion estimates found in the literature (DellaVigna and Gentzkow 2010). 
+For instance, DellaVigna and Kaplan (2007) finds that Fox News has a persuasion 
+rate of about 11.6 percent, and other studies find that news media’s persuasion rates 
+typically range between 6 and 20 percent (DellaVigna and Gentzkow 2010).26 The 
+evidence therefore suggests that Father Coughlin’s radio program had especially 
+large persuasive effects.
+C. Channels
+Having documented Father Coughlin’s substantial effects, I now turn to explore 
+potential channels that might explain his persuasiveness.
+Religion.—One potential channel that might have contributed to Father Coughlin’s 
+persuasiveness is religion, which has been documented to have strong influence on 
+individuals and their minds (Iyer 2016). In his broadcasts, Father Coughlin fre-
+quently claimed that his teachings were consistent with those of God and the popes 
+(i.e., Leo XIII and Pius XI) and that he was nonpartisan and speaking of the truth 
+only (Warren 1996). His superior, Bishop Michael Gallagher of Detroit, also fre-
+quently defended Coughlin’s stance. In fact, many of Coughlin’s listeners thought 
+Coughlin was a mouthpiece of the Church and his broadcasts “the words of God” 
+(Bennett 1969). Coughlin’s status as a religious authority and his appeal to religion 
+could have increased his credibility and persuasiveness. The baseline findings that 
+the effects of Coughlin’s radio program were larger in counties with more Catholics 
+(panel A of Table 4) are consistent with religion being a potential channel for his 
+persuasiveness.
+25 The persuasion rate captures the average instead of the marginal effect of persuasion, and it can be highly 
+heterogeneous across different subgroups of the population (Jun and Lee 2019, DellaVigna and Gentzkow 2010). 
+Online Appendix D estimates that Father Coughlin’s persuasion rate among Catholics was likely above 38 percent.
+26 Father Coughlin’s persuasion rate, however, is comparable in magnitude to that of the Weimar government 
+(a persuasion rate of 36.8 percent), which broadcast radio messages against voting for extremist parties such as the 
+Nazis in 1930 (Adena et al. 2015). Online Appendix Table A4 provides a summary of persuasion rates found in 
+previous studies.
+
+
+--- PAGE 18 ---
+3081
+WANG: POPULIST PERSUASION: EVIDENCE FROM FATHER COUGHLIN
+VOL. 111 NO. 9
+Media Saturation.—Another possible explanation for Father Coughlin’s large 
+effects is that the media landscape was less saturated in the 1930s, which might 
+have afforded greater influence to an impressive media program like Coughlin’s. To 
+test this hypothesis, I examine the interaction between the signal of Coughlin’s radio 
+program and those of other radio stations (i.e., NBC or CBS stations) that did not 
+carry Coughlin’s program. Column 1 of Table 5 shows that the interactive effect is 
+small in magnitude and statistically indistinguishable from zero.27
+In addition, following Strömberg (2004), I use a dummy variable that equals 
+one for counties with only rural population and zero otherwise as an alternative 
+measure of access to information. Rural counties in the 1930s had lower access to 
+alternative sources of information, such as newspapers (Brunner 1935, Strömberg 
+2004). Column 2 of Table 5 again shows little evidence that Coughlin’s broadcasts 
+had differential effects in rural counties. Columns ­1 and 2 of the table therefore sug-
+gest that a less saturated media landscape was unlikely to explain Father Coughlin’s 
+persuasiveness.28
+27 For the ease of interpretation, I also standardize other radio signal strengths such that they have a mean of zero 
+and a standard deviation of one. I do the same also for the other continuous variables used to interact with exposure 
+to Coughlin in Table 5, except for column 2 that uses a dummy variable.
+28 Using individual survey data from the April 1939 Gallup Poll (Gallup Organization 1939), I, however, find 
+suggestive evidence that individuals more exposed to Coughlin were less likely to listen to news broadcasts reg-
+ularly or read daily newspapers regularly. Online Appendix Table A5 presents these results. To the extent that the 
+news media likely covered FDR more objectively than Coughlin did, a substitution away from them could also 
+negatively affect the support for FDR.
+Table 5—Exploring Potential Channels
+FDR’s vote share in 1936
+X = other 
+radio signal,
+1936
+Rural 
+county, 
+1930
+Percent 
+illiterate, 
+1930
+Occupational 
+income score, 
+1930
+Percent 
+unemployed, 
+1930
+(1)
+(2)
+(3)
+(4)
+(5)
+Signal × X
+−0.023
+0.008
+−1.577
+0.446
+0.467
+(0.163)
+(0.369)
+(0.570)
+(0.192)
+(0.155)
+Signal
+−2.194
+−2.381
+−3.222
+−2.611
+−2.518
+(0.522)
+(0.621)
+(0.559)
+(0.537)
+(0.539)
+X
+−0.270
+−0.269
+0.743
+−0.124
+−0.134
+(0.360)
+(0.508)
+(1.216)
+(0.363)
+(0.215)
+Observations
+1,978
+1,978
+1,978
+1,978
+1,978
+Full baseline controls
+Yes
+Yes
+Yes
+Yes
+Yes
+​​R​ 2​​
+0.818
+0.818
+0.819
+0.819
+0.819
+Mean of dependent variable
+56.95
+56.95
+56.95
+56.95
+56.95
+Standard deviation 
+  of dependent variable
+11.45
+11.45
+11.45
+11.45
+11.45
+Notes: This table explores potential channels for Father Coughlin’s persuasiveness. Each column represents the 
+results from a separate OLS regression, where each observation is a county. The sample consists of all counties out-
+side of the geographic South. The outcome variable is FDR’s vote share in the 1936 presidential election. Signal is 
+the signal strength of Coughlin’s radio program in 1936. Each column examines an interaction between Signal and 
+another county characteristic ​X​, where ​X​ is the highest CBS or NBC radio signal strength received in the county 
+in 1936 (column 1), a dummy variable that equals one if the county had only rural households in 1930 (column 
+2), the share of the illiterate among native population aged ten or above in 1930 (column 3), the average occupa-
+tional income score (column 4), and the population share of the unemployed in 1930 (column 5). Each regression 
+includes all the baseline controls as in column 5 of Table 3. Standard errors, shown in parentheses, are corrected for 
+clustering at the state level. 
+
+
+--- PAGE 19 ---
+3082
+THE AMERICAN ECONOMIC REVIEW
+SEPTEMBER 2021
+Demographics of the Electorate.—To explore potential channels further, I con-
+sider the demographics of the electorate in the 1930s. Previous studies document 
+that ­less-educated (or less-cognitively sophisticated) voters and the lower class are 
+more susceptible to populist rhetoric (Durante, Pinotti, and Tesei 2019; Arzheimer 
+2009; Spruyt, Keppens, and  Droogenbroeck 2016). At a time when a relatively 
+larger proportion of the electorate were of lower education and economic status, 
+Father Coughlin’s populist rhetoric could have a stronger appeal.29 Consistent with 
+this view, columns 3 and 4 of Table 5 show that the effects of Coughlin’s radio pro-
+gram were larger in counties with worse measures of education and income levels.30 
+The evidence therefore suggests that an electorate of relative lower education and 
+economic status likely have contributed to Father Coughlin’s persuasiveness.
+Economic Plight from the Depression.—Moreover, the Great Depression could 
+also have made Coughlin’s message more attractive, as populist movements tend 
+to rise during times of economic hardship (Inglehart and Norris 2019, Algan et al. 
+2017). To explore this channel, I examine the interactive effect between ​Signal​ 
+and the 1930 unemployment rate, which has also been used by previous studies 
+to measure local economic hardship during the Depression (Strömberg, 2004; 
+Fishback, Kantor, and Wallis 2003). As reported in column 5 of Table 5, the result, 
+however, suggests that Coughlin had a smaller effect in counties hit harder by the 
+Depression. The result is consistent with what Strömberg (2004) and Fishback, 
+Kantor, and Wallis (2003) find—that counties hit harder by the Great Depression 
+also received more New Deal relief funds from the Roosevelt administration, which 
+might have increased the appeal of the Roosevelt presidency and made Coughlin’s 
+attacks less effective.
+Overall, the evidence suggests that religion and an electorate of lower education 
+and economic status likely have contributed to Father Coughlin’s persuasiveness.
+D. Evidence from a ­Difference-in-Difference Strategy
+A unique feature of my empirical setting is Father Coughlin’s switch in his atti-
+tude towards FDR between 1932 and 1936. Although Father Coughlin favored FDR 
+in the 1932 campaign, Coughlin believed that he should not take side in an election 
+as a priest and therefore did not broadcast his support for FDR until FDR had taken 
+over the presidency in 1933 (Warren 1996, Brinkley 1982, Tull 1965). Yet, by 1936, 
+Coughlin had taken an explicit stand against FDR and made that public through his 
+radio program. Therefore, I would expect places more exposed to Father Coughlin’s 
+29 According to the US Census Bureau (2006), only 24.5 percent of the US population aged 25 or above had a 
+high school degree in 1940, as compared to 80.4 percent of the same population group in 2000. Piketty and Saez 
+(2003) also show that the average real income (in 1998 dollars) in the United States was $12,542 in 1928, which 
+was about one-third of that in 1998 ($38,739).
+30 Data on education attainment and income are not available until the 1940 census. I therefore use data from 
+Haines (2010) that measure the 1930 share of illiterate among native-born population aged ten and above to proxy 
+for the ­preexisting education level of the local electorate. For ­preexisting local income level, I use the county 
+average of 1930 occupational income scores (averaged across individuals using the 1930 census ­microdata from 
+IPUMS), which was commonly used by previous studies interested in ­pre-1940 labor market outcomes (Saavedra 
+and Twinam 2020); the results are qualitatively similar when using the natural log of average retail wage to proxy 
+for income as in Strömberg (2004). 
+
+
+--- PAGE 20 ---
+3083
+WANG: POPULIST PERSUASION: EVIDENCE FROM FATHER COUGHLIN
+VOL. 111 NO. 9
+radio program in 1936 to display a greater reduction in support for FDR between 
+1932 and 1936.31
+To exploit the change in Father Coughlin’s attitude between 1932 and 1936, I turn 
+to a ­difference-in-difference specification using the ­1932–1936 panel and exploit 
+only ­within-county variation over time. Specifically, I run the following regression:
+(2)	
+​Vot​e​ct​  =  βSigna​l​c​ × Pos​t​t​ + ​X​c​ × Pos​t​t​ + ​σ​c​ + ​η​st​ + ​ϵ​ct​​,
+where ​Signa​l​c​​ is the predicted signal strength of Father Coughlin’s radio program in 
+county ​c​ in 1936; ​Pos​t​t​​ is an indicator for ­post-1932, which equals one in 1936 and 
+zero in 1932; ​​σ​c​​ are county fixed effects, controlling for any ­time-invariant county 
+characteristics; ​​η​st​​ are ­state-by-year fixed effects, controlling for statewide shocks 
+to all counties in each state. In some specifications, I further control for the interac-
+tions between all my baseline county characteristics ​​X​c​​ (including the signal in free 
+space) and ​Pos​t​t​​, which allows each baseline county characteristic to have a differ-
+ential effect on voting over time. The standard errors are corrected for clustering at 
+the state level.
+Table 6 reports the results from the ­difference-in-difference specification, which 
+substantially confirm the baseline results. Column 1 of Table 6 shows that, con-
+trolling for county fixed effects and year fixed effects, a 1 standard deviation increase 
+in exposure to Father Coughlin’s radio program decreased FDR’s vote share by 
+about 1.5 percentage points. The estimated effects remain robust after controlling 
+for ­state-by-year fixed effects in column 2 and, if anything, become slightly larger 
+when controlling for the interactions between baseline county characteristics and 
+the ​Post​ dummy in column 3.32 Columns 4 and 5 of the table show that the estimated 
+effects for the Republican Party and for other parties remain similar as found in the 
+baseline.
+The identifying assumption of the ­difference-in-difference specification is that 
+vote shares in counties with different levels of exposure to Father Coughlin would 
+have followed parallel trends absent of Father Coughlin’s radio program. To check 
+whether the parallel trends assumption is plausible, I use an event study on a lon-
+ger panel. Specifically, I run equation (2) on the panel of ­1912–1944, replacing ​
+Pos​t​t​​ with year dummies and using 1932 as the omitted category. The period of 
+­1912–1944 covers all four presidential elections (­1932–1944) involving FDR as 
+well as five elections before. Online Appendix Figure A11 presents the event study 
+figure and shows a sharp decrease in FDR’s vote share in 1936 with no ­pre-trend, 
+supporting the parallel trends assumption.
+Moreover, online Appendix Table A6 presents the results from a ­triple-difference 
+specification (i.e., ​Signal × Post × Catholic​, where ​Catholic​ is defined in the same 
+way as in panel A of Table 4). The ­triple-difference specification provides consistent 
+evidence that Father Coughlin’s broadcasts had larger effects in counties with more 
+31 Panel C of Figure 1 provides visual evidence that counties more exposed to Coughlin in 1936 saw greater 
+reductions in FDR’s vote shares between 1932 and 1936.
+32 The results are also robust to controlling for the interaction between the 1932 signal strengths of Coughlin’s 
+radio program and the ​Post​ dummy.
+
+
+--- PAGE 21 ---
+3084
+THE AMERICAN ECONOMIC REVIEW
+SEPTEMBER 2021
+Catholics. Online Appendix Figure A12 also shows an event study version of the 
+­triple-difference specification, supporting the parallel trends assumption.
+E. Additional Results and Robustness Checks
+Besides attacking FDR, Father Coughlin also described the New Deal as an “eco-
+nomic failure” and that it was surrounded by “atheists” and “communists” (Warren 
+1996). Coughlin’s denunciation of the New Deal might have also negatively affected 
+the Democratic Party in congressional elections. Consistent with this expectation, 
+online Appendix Table A7 shows that a 1 standard deviation increase in exposure to 
+Coughlin reduced Democratic vote shares by about 2.3 percentage points (4.6 per-
+cent of the mean) in the 1936 House election.
+While the evidence so far comes from the 1930s and the 1940s, Figure 2 plots the 
+estimated effects of exposure to Coughlin on Democratic vote shares in subsequent 
+presidential elections up to 1972, the last year covered by the ICPSR Study 8611 
+dataset (Clubb, Flanigan, and Zingale 2006).33 The conditional exogeneity assump-
+tion underlying my baseline analysis could be harder to satisfy in the long run. 
+I therefore cautiously interpret the results as suggestive evidence that Coughlin’s 
+33 As discussed in Section I, Coughlin was taken off the air in Fall 1940 and Social Justice was banned in 1942; 
+he ceased public political activities at the order of the Church in 1942.
+Table 6—Exposure to Father Coughlin and Voting Outcomes, 1932–1936 Panel
+Vote shares in presidential elections
+FDR (Democrat)
+Republican
+Others
+(1)
+(2)
+(3)
+(4)
+(5)
+Signal ​×​ Post
+−1.548
+−1.967
+−2.713
+2.286
+0.427
+(0.914)
+(0.929)
+(0.795)
+(0.689)
+(0.333)
+Observations
+4,012
+4,012
+3,956
+3,956
+3,956
+County fixed effects
+Yes
+Yes
+Yes
+Yes
+Yes
+Year fixed effects
+Yes
+State-by-year fixed effects
+Yes
+Yes
+Yes
+Yes
+Baseline controls × Post
+Yes
+Yes
+Yes
+R2
+0.867
+0.919
+0.948
+0.965
+0.829
+Mean of dependent variable
+57.79
+57.79
+57.66
+39.85
+2.49
+Standard deviation of dependent variable
+11.39
+11.39
+11.36
+11.49
+3.04
+Notes: This table shows the estimated effects of exposure to Coughlin on voting in presidential elections during 
+1932–1936. Each column represents the results from a separate OLS regression following the difference-in-differ-
+ence specification in equation (2), where each observation is a county-year. The sample consists of all counties out-
+side of the geographic South. The outcome variables are FDR’s vote shares in columns 1–3, the Republican vote 
+share in column 4, and other parties’ vote share in column 5. The explanatory variable is the interaction between 
+Coughlin signal strength in 1936 and a dummy variable ​Post​ that equals one for the year of 1936 and zero for the 
+year of 1932. Each regression controls for county fixed effects. Column 1 controls for year fixed effects; column 2 
+controls for state-by-year fixed effects; and column 3 further controls for the interactions between each of the base-
+line county characteristics (​SignalFree​, socioeconomic, geographic, and past electoral outcomes, as in column 5 of 
+Table 3) and ​Post​. Columns 4 and 5 follow the same specification as in column 3. Standard errors, shown in paren-
+theses, are corrected for clustering at the state level. 
+
+
+--- PAGE 22 ---
+3085
+WANG: POPULIST PERSUASION: EVIDENCE FROM FATHER COUGHLIN
+VOL. 111 NO. 9
+radio program might have lasting effects, which appear to decrease after FDR died 
+in office in 1945 and decline over time.34
+Besides, I perform additional robustness checks in online Appendix Table A8, 
+which shows that the baseline result is robust to (i) using a binary measure of sig-
+nal that equals one if the signal strength was above the median and zero otherwise 
+(column 1); to (ii) restricting the sample to counties more than 100 miles from any 
+of Coughlin’s stations, where the population tended to be smaller and the expo-
+sure to Coughlin was more likely exogeneous (column 2);35 to (iii) controlling for 
+the “free space” variable more flexibly by including its squared and cubic terms as 
+34 I have explored potential mechanisms underlying the persistence in effects. Using individual survey data from 
+the American National Election Studies from the 1950s onwards, I find that individuals from counties with greater 
+exposure to Coughlin were more likely to associate the Democratic Party with war, socialism, and communism 
+in the later years, consistent with Coughlin’s attacks on Democrats on these matters. Moreover, the effects were 
+­present among older cohorts of people directly exposed to Coughlin’s broadcasts but not among younger cohorts 
+born after Coughlin had left the air, suggesting that direct exposure, instead of intergenerational transmission of val-
+ues, was likely to explain the persistent effects. These results are available upon request. In addition, the persistence 
+in effects was unlikely driven by future television stations that might have ­co-located with the 1936 Coughlin radio 
+stations. In fact, online Appendix Figure A13 shows that the ­long-run estimates are similar when I focus on counties 
+more than 100 miles away from any of the Coughlin stations, which would have been beyond the reach of TV sig-
+nals originating from the location of Coughlin stations (Angelucci, Cagé, and Sinkinson 2020).
+35 The results are qualitatively similar when focusing on counties that were 150, 200, 250, or 300 miles away 
+from any of Coughlin’s stations.
+FDR died in office
+−6
+−4
+−2
+0
+2
+1916 1920 1924 1928 1932 1936 1940 1944 1948 1952 1956 1960 1964 1968 1972
+Coughlin turned
+against FDR
+Figure 2. Exposure to Coughlin and Democratic Vote Shares, ­1916–1972
+Notes: This figure shows the estimated effects of exposure to Father Coughlin’s broadcast in 1936 on Democratic 
+vote shares in each presidential election during ­1916–1972. The estimates come from separate OLS regressions 
+following equation (1) with the Democratic vote share in each presidential election as the outcome variable. The 
+sample consists of all counties outside of the geographic South. The explanatory variable is the signal strength 
+of Coughlin’s radio program in 1936. Each regression includes all baseline controls as in column 5 of Table 3. 
+Standard errors are corrected for clustering at the state level. The dots are the estimated coefficients and the ver-
+tical lines represent the 95 percent confidence intervals. The vertical solid line in 1935 denotes the year in which 
+Coughlin explicitly turned against FDR. The vertical dashed line in 1945 indicates the year in which FDR died 
+during his last term in office.
+
+
+--- PAGE 23 ---
+3086
+THE AMERICAN ECONOMIC REVIEW
+SEPTEMBER 2021
+additional controls (column 3); to (iv) controlling for per capita New Deal expendi-
+tures (grant, relief, and loans) using data from Fishback, Kantor, and Wallis (2003) 
+(­column 4); to (v) including southern counties in the sample (column 5);36 and to 
+(vi) weighting the regression with county population (column 6). In addition, I find 
+similar results from an exercise exploiting the spatial discontinuity in exposure to 
+Coughlin between neighboring and otherwise identical county pairs, as detailed in 
+online Appendix E. The robustness of the results to this series of additional checks 
+further supports the causal interpretation of the results.
+V.  Father Coughlin, ­Anti-Semitism, and Civilian Support for WWII
+By the late 1930s, Father Coughlin had become a leading ­anti-Semitic icon, fas-
+cist sympathizer, and isolationism advocate in ­prewar America (Tull 1965, Brinkley 
+1982, Warren 1996). I now turn to examine the impact of Coughlin’s radio broadcast 
+on measures of ­anti-Semitism, fascist sympathies, and civilian support for the war 
+effort in the United States.
+A. Civilian Support for America’s War Effort
+First, I examine whether exposure to Father Coughlin’s radio program affected 
+civilian support for America’s war effort during WWII. Specifically, I use data on 
+­county-level WWII bond sales in 1944, which come from the 1947 County and City 
+Data Book (US Census Bureau 2012). I divide total bond sales by county population 
+to obtain per capita sales of WWII bonds in each county. For the ease of interpreta-
+tion, I use the natural log of per capita war bond sales as the outcome variable. To 
+measure exposure to Father Coughlin’s radio program, I collect data on Coughlin’s 
+stations in 1939 (Broadcasting Publications, Inc. 1939) and use the ITM software 
+to measure their signal strengths across counties as I did in the baseline analysis.37 
+I then run a similar regression as in equation (1), regressing war bond sales in 1944 
+on the signal strength of Coughlin’s radio program in 1939. To be consistent with 
+my baseline analysis, I again focus on regions outside of the geographic South.38
+Panel A of Table 7 shows that exposure to Father Coughlin’s radio program in 
+1939 was associated with lower per capita war bond sales in 1944. Based on col-
+umn 5, conditional on the baseline controls and per capital New Deal spending in 
+the county, a 1 standard deviation increase in Coughlin signal was associated with 
+36 The coefficient in column 5 is somewhat smaller and less precisely estimated (­ p-value = 0.104), possi-
+bly because of Coughlin’s much lower listenership in the South as well as the region’s homogeneous support for 
+Democrats during the 1930s (Strömberg 2004). The results, however, are qualitatively similar and statistically 
+significant ( ­p-value = 0.012) when I use the ­difference-in-difference specification with the whole country.
+37 I identify Coughlin’s 1939 stations from the magazine, Broadcasting, July 1, 1939. https://worldradiohistory.
+com/Archive-BC/BC-1939/1939-07-01-BC.pdf. Previous historical work on Father Coughlin generally agrees that 
+Coughlin’s broadcasts did not concentrate on isolationism or ­anti-Semitism until the late 1930s (Tull 1965, Brinkley 
+1982, Warren 1996). Online Appendix Figure A14 documents significant changes in exposure to Coughlin’s broad-
+casts across counties between 1936 and 1939. This means that the 1936 signal, when used to measure exposure to 
+Coughlin’s isolationist or ­anti-Semitic broadcasts in the late 1930s, is likely to contain large measurement errors. I 
+therefore use the 1939 signal to measure exposure to Coughlin’s isolationist and ­anti-Semitic broadcasts.
+38 Results based on the full sample of counties are qualitatively similar and remain statistically significant at 
+the 5 percent level.
+
+
+--- PAGE 24 ---
+3087
+WANG: POPULIST PERSUASION: EVIDENCE FROM FATHER COUGHLIN
+VOL. 111 NO. 9
+about a 15 percent decrease in per capita WWII bond sales.39 The results suggest 
+that exposure to Father Coughlin’s radio program in the late 1930s might have low-
+ered civilian support for America’s war effort.
+B. Evidence from the ­German-American Bund
+In a broadcast following Nazi Germany’s Kristallnacht in November 1938, Father 
+Coughlin notoriously labeled the attacks on Jews as a defense against commu-
+nism (Warren 1996). Based on the December 1938 Gallop Poll, panel B of online 
+39 Caprettini, Schmidt-Fischbach, and Voth (2020) finds that welfare support from the New Deal increased 
+patriotism in the United States during WWII.
+Table 7—Evidence from WWII Bond Sales and the German-American Bund
+(1)
+(2)
+(3)
+(4)
+(5)
+Panel A. ln(WWII bond sales per capita in 1944)
+Signal
+−0.378
+−0.195
+−0.185
+−0.169
+−0.149
+(0.073)
+(0.060)
+(0.056)
+(0.065)
+(0.060)
+Observations
+1,993
+1,979
+1,961
+1,961
+1,960
+SignalFree
+Yes
+Yes
+Yes
+Yes
+Yes
+Geographic controls
+Yes
+Yes
+Yes
+Yes
+Yes
+Socioeconomic controls
+Yes
+Yes
+Yes
+Yes
+Past electoral controls
+Yes
+Yes
+Yes
+State fixed effects
+Yes
+Yes
+New Deal expenditure
+Yes
+​​R​ 2​​
+0.180
+0.516
+0.522
+0.558
+0.576
+Panel B. Having a local branch of the Bund
+OLS
+Probit
+Signal
+0.161
+0.148
+0.099
+0.085
+0.010
+(0.075)
+(0.059)
+(0.045)
+(0.049)
+(0.005)
+Observations
+752
+752
+743
+494
+589
+SignalFree
+Yes
+Yes
+Yes
+Yes
+Yes
+State fixed effects
+Yes
+Yes
+Yes
+Yes
+Yes
+Geographic controls
+Yes
+Yes
+Yes
+Yes
+Socioeconomic controls
+Yes
+Yes
+Yes
+Sample
+Full
+Full
+Full
+50 miles 
+away
+Full
+​​R​ 2​​
+0.121
+0.140
+0.390
+0.377
+0.560
+Mean of dependent variable
+0.068
+0.068
+0.061
+0.047
+0.076
+Standard deviation of dependent variable
+0.252
+0.252
+0.239
+0.211
+0.266
+Notes: Each column represents the results from a separate OLS regression, where each observation is a county in panel 
+A and a city in panel B. Signal is the signal strength of Coughlin’s radio program in 1939 in the county (panel A) or city 
+(panel B), and SignalFree is the the hypothetical signal strength in free space in 1939 in the respective geographic unit. 
+In panel A, the sample consists of all counties outside of the geographic South. The outcome variable is the natural log 
+of per capita purchase of WWII bonds in 1944. The county geographic, socioeconomic, and past electoral controls are 
+the same as those included in column 5 of Table 3. Column 5 also controls for per capita New Deal grant, relief, and 
+loans. In panel B, the sample consists of all identifiable cities in the 1930 census that were outside of the geographic 
+South and had a population above 10,000. The outcome is a binary variable that equals one if the city had a branch of 
+the German-American Bund in 1940 and zero otherwise. City geographic controls include elevation and terrain rug-
+gedness as well as their squared terms. City socioeconomic controls include population, percent unemployed, average 
+occupational income score, percent owning a radio, percent of Jewish descent, percent of recent German immigrants, 
+percent native, and an indicator for large city (having a population above 100,000). Column 4 restricts the sample to 
+cities more than 50 miles away from any of Coughlin stations in 1939. Column 5 uses a probit model and shows the 
+marginal effect at the mean of the covariates; the pseudo ​​R​ 2​​ from the probit regression is reported. Standard errors, 
+shown in parentheses, are corrected for clustering at the state level in both panels. 
+
+
+--- PAGE 25 ---
+3088
+THE AMERICAN ECONOMIC REVIEW
+SEPTEMBER 2021
+Appendix Figure A10 shows that while close to 70 percent of Catholics approved 
+of what Coughlin said in general, only about 20 percent of Jews did. It is natural to 
+wonder whether exposure to Father Coughlin’s ­anti-Semitic broadcasts throughout 
+the period of ­1938–1939 affected ­anti-Semitism in America.
+A challenge to study ­anti-Semitism or fascist sympathies in ­prewar America, 
+however, is the lack of data measuring these outcomes. To overcome the challenge, 
+I collect new data from the FBI records (FBI 1940) on the ­German-American Bund, 
+the leading ­anti-Semitic and ­pro-Nazi organization in ­prewar America (Strong 
+1941). The data allow me to identify all the cities with a local branch of the Bund in 
+1940, a total of 54 cities.
+I conduct a similar exercise as in the baseline analysis at the city level, where 
+the outcome is a binary variable that equals one if a city had a local branch of the 
+Bund in 1940 and the explanatory variable is ­city-level signal strength of Coughlin’s 
+radio program in 1939.40 Panel B of Table 7 reports the results from this exercise. 
+Based on column 3 of the table, conditional on the full set of controls, a 1 standard 
+deviation increase in Coughlin exposure was associated with about a 9.9 percentage 
+point higher likelihood of having a local branch of the ­German-American Bund.41 
+The estimate changes little in column 4 when I further restrict my sample to only 
+those cities more than 50 miles away from a Coughlin station, whose exposure to 
+Coughlin was more likely to be exogenous. The last column uses a probit model and 
+reports the marginal effect at the mean of the covariates.42 The result from the probit 
+model is qualitatively similar.
+As a placebo test, I examine the presence of the Friends of New Germany, 
+which was ­pro-Nazi and the immediate predecessor of the ­German-American Bund 
+before the latter’s founding in 1936 (Strong 1941).43 Column 1 of online Appendix 
+Table A9 shows that, conditional on the same set of city controls used for the Bund 
+analysis, exposure to Coughlin in the late 1930s was not significantly correlated 
+with the presence of the Friends of New Germany in 1934, before Coughlin’s broad-
+casts turned ­anti-Semitic. The finding holds when I further control in column 2 for 
+the full set of baseline county socioeconomic and political characteristics. In con-
+trast, I find that the results on the ­German-American Bund are robust to controlling 
+for the full set of baseline county characteristics (column 3) and for the presence 
+of the Friends of New Germany in 1934 (column 4). Overall, the results suggest 
+40 Since the smallest city with a local branch of the Bund had a population of 11,710, I define the sample to 
+consist of all identifiable cities in the 1930 census that had a population of 10,000 or above.
+41 The controls included are the “free space” variable, state fixed effects, geographic characteristics (i.e., ele-
+vation, terrain ruggedness, and their squared terms), and 1930 city socioeconomic characteristics (i.e., population, 
+percent unemployed, average occupational income score, percent owning a radio, percent of Jewish descent, percent 
+of recent German immigrants, percent native-born, and an indicator for having a population above 100,000) gen-
+erated from the 1930 census IPUMS microdata (Ruggles et al. 2020). I measure population of Jewish descent by 
+counting individuals whose mother tongues were either Yiddish or Hebrew in the 1930 census. I measure population 
+of recent German immigrants by counting individuals whose mother tongues were German or who had at least one 
+parent born in Germany in the 1930 census.
+42 The sample size is smaller for column 5, because the inclusion of state fixed effects in the probit regression 
+drops any state that did not have a branch of the Bund.
+43 I obtain the location of branches of the Friends of New Germany from the June 7, 1934 issue of the New York 
+Times, which covered the effort by the McCormack-Dickstein Special Committee on ­Un-American Activities to 
+investigate Nazi propaganda activities in America. A caveat is that 5 out of the 21 local branches of the Friends of 
+New Germany were not named by the Times and hence are not included in the data.

@@ -1,0 +1,1511 @@
+
+
+--- PAGE 1 ---
+American Economic Review 2020, 110(12): 3705–3747 
+https://doi.org/10.1257/aer.20171397
+3705
+ Competition and Entry in Agricultural Markets: 
+Experimental Evidence from Kenya†
+By Lauren Falcao Bergquist and Michael Dinerstein*
+African agricultural markets are characterized by low farmer rev-
+enues and high consumer food prices. Many have worried that this 
+wedge is partially driven by imperfect competition among interme-
+diaries. This paper provides experimental evidence from Kenya on 
+intermediary market structure. Randomized cost shocks and demand 
+subsidies are used to identify a structural model of market competi-
+tion. Estimates reveal that traders act consistently with joint profit 
+maximization and earn median markups of 39 percent. ­Exogenously 
+induced firm entry has negligible effects on prices, and low ­take-up 
+of subsidized entry offers implies large fixed costs. We estimate that 
+traders capture 82 percent of total surplus. (JEL L13, O13, Q11, 
+Q12, Q13)
+The 1980s and 1990s saw a wave of liberalization sweep across African agricul-
+tural markets as part of broad structural adjustment plans. Inherent in the promise of 
+these reforms was the presumption that a competitive private sector would emerge 
+to take advantage of newly created arbitrage opportunities, with agricultural trad-
+ers efficiently moving crops from surplus to deficit regions, and from harvest to 
+lean seasons. However, recent empirical estimates suggest that agricultural mar-
+kets remain poorly integrated, with prices varying widely across regions and sea-
+sons (Moser, Barrett, and Minten 2009; Burke, Bergquist, and Miguel 2019). High 
+* Bergquist: Department of Economics, University of Michigan (email: lfb@umich.edu); Dinerstein: Kenneth 
+C. Griffin Department of Economics, University of Chicago (email: mdinerstein@uchicago.edu). Esther Duflo was 
+the coeditor for this article. We thank Hoyt Bleakley, Marshall Burke, Ying Fan, Benjamin Faber, Willa Friedman, 
+Benjamin Handel, Kaushik Krishnan, Nicolas Li, Jeremy Magruder, Jamie McCasland, Edward Miguel, Craig 
+McIntosh, Odyssia Ng, Katalin Springel, Christopher Sullivan, Michael Walker, and Dean Yang, as well as seminar 
+audiences at Boston University, Columbia, Cornell Dyson, IFPRI, Microsoft Research, MIT/Harvard, Northwestern, 
+NYU, Penn State, UC Berkeley, UC Santa Cruz, University of Chicago, University of Michigan, University of 
+Tennessee, University of Wisconsin, World Bank Development Research Group, and Yale, and to participants at 
+many workshops and conferences. We also thank three anonymous referees for their valuable comments. Finally, 
+we thank Honglin Li, Meshack Odhiambo Okello, Ben Wekesa, Deborrah Muthoki Wambua, and Innovations for 
+Poverty Action for excellent research assistance. Bergquist would like to acknowledge financial support from the 
+NSF Graduate Research Fellowship and the research initiative “Private Enterprise Development in ­Low-Income 
+Countries” (EG 1764 and MRG004_3854), a program funded jointly by the Centre for Economic Policy Research 
+(CEPR) and the Department for International Development (DFID). The views expressed are not necessarily those 
+of CEPR or DFID. The design for this experiment was registered with the AEA RCT Registry ­AEARCTR-0000682 
+(see Bergquist 2015). IRB approval provided by the University of California, Berkeley (CPHS Protocol Number 
+­2014-08-6612) and the Maseno University Ethics Review Committee (Proposal Reference Number MSU/DRPC/
+MUERC/000081/14). The data repository is ­openicpsr-119743 (see Bergquist and Dinerstein 2020). All errors 
+are our own.
+† Go to https://doi.org/10.1257/aer.20171397 to visit the article page for additional materials and author  
+disclosure statements.
+
+
+--- PAGE 2 ---
+3706
+THE AMERICAN ECONOMIC REVIEW
+DECEMBER 2020
+­transaction costs contribute to this limited market integration. Transport costs in 
+Africa are the highest in the world (Teravaninthorn and Raballand 2009); also prev-
+alent are ­harder-to-measure costs associated with search (Aker 2010), contractual 
+risk (Startz 2017), and price uncertainty (Dillon and Dambro 2016).
+However, much less is known about the form of competition among intermediary 
+traders in agricultural markets in developing countries. Whether, and how much, 
+traders are exerting market power matters for policymaking: if intermediaries are 
+operating in a competitive environment in which price gaps are purely due to high 
+transactions costs, then policies that reduce these transaction costs, such as road 
+improvements, preferential terms for business expansion loans, and trade intelli-
+gence systems for broadcasting prices to traders, for example, would yield savings 
+that traders will pass on to farmers (in the form of higher prices) and consumers (in 
+the form of lower prices). On the other hand, if traders are exercising a high degree 
+of market power, gains from policies that reduce traders’ operating costs may be 
+captured mostly by intermediaries. To meaningfully improve farmer and consumer 
+welfare in this environment, policies may need to explicitly target enhanced compe-
+tition among intermediaries.
+In this paper, we present some of the first experimental evidence on the market 
+structure in which African agricultural traders operate. To this end, we implement 
+three randomized control trials that deliver new empirical evidence on the extent of 
+cost ­pass-through, the shape of demand, and the effects of entry on market prices. 
+We interpret these estimates in the context of a structural model and estimate the 
+model of imperfect competition that best fits the data and its welfare implications.
+In the first experiment, we exogenously reduce traders’ marginal costs by offer-
+ing to all traders in a market a substantial, ­month-long subsidy per kg sold. We then 
+observe how much of this reduction in costs is passed through to the price offered 
+to consumers. We find that traders pass through only 22 percent of this reduction in 
+costs to customers.
+Nonetheless, the ­pass-through rate is insufficient to characterize imperfect com-
+petition as the curvature of demand could produce lower ­pass-through rates, holding 
+behavior of intermediaries constant. For example, the observed rate of ­pass-through 
+could be consistent with a Cournot competitive market structure with highly con-
+cave demand or with a perfectly collusive market structure with moderately concave 
+demand. In order to distinguish between the roles played by intermediary conduct 
+and consumer demand curvature, we run a second experiment to estimate the cur-
+vature of demand. In this experiment, we offer consumers random reductions in 
+price spanning a range of counterfactual ­pass-through rates and measure the result-
+ing quantities purchased. This experimental variation in prices allows us to identify 
+consumer demand without having to rely on strong identification assumptions. We 
+specify and estimate a highly flexible demand function.
+To determine agricultural intermediaries’ form of competition, we start with 
+a simple model of demand and supply that nests Cournot competition and joint 
+profit maximization. This model transparently maps the experimentally estimated 
+­pass-through rate and demand curvature into inference about the form of compe-
+tition. We find that traders are not competing: the estimated parameter governing 
+how traders value other traders’ profits is statistically indistinguishable from that 
+representing a perfectly collusive model in which traders form agreements (perhaps 
+
+
+--- PAGE 3 ---
+3707
+BERGQUIST AND DINERSTEIN: COMPETITION AND ENTRY
+VOL. 110 NO. 12
+tacitly) about prices and act as a single ­profit-maximizing monopolist in the market. 
+We can rule out Cournot competition with 95 percent confidence.
+We then relax key assumptions in the simple model and estimate a more general 
+model that allows for ­within-market trader heterogeneity and ­non-constant marginal 
+costs, as well as an extensive margin to demand. We rely on the same experimental 
+variation to identify the more general model, and introduce additional instruments 
+describing how a trader’s choices in one market depend on experimental variation 
+in the other markets in which he sells. These ­multi-market traders, and their expo-
+sure to experimental variation across all of their markets, allow us to identify a 
+­non-constant marginal cost function. Our estimates from the more general model 
+again imply conduct consistent with joint profit maximization; as with the simple 
+model, we can reject Cournot competition. Traders capture high markups, with the 
+median trader earning a 39 percent markup. We also offer ­non-nested tests of joint 
+profit maximization and Cournot competition that again point toward joint profit 
+maximization as describing traders’ conduct.
+Our third experiment generates exogenous entry by offering traders incentives to 
+enter randomly selected markets for the first time. These results serve two purposes. 
+First, we test whether policies that encourage market entry can decrease market 
+power and promote competition. Second, traders’ willingness to accept the entry 
+subsidies, the size of which is randomized, reveals how they trade off fixed costs 
+versus variable profits, which enables us to estimate total trader profits and con-
+duct a complete welfare analysis. We find that the entry subsidies induce an addi-
+tional 0.6 traders per ­market-day on average, a 16 percent increase over the mean 
+market size (and 21 percent over the median). These additional traders have only 
+small impacts on price. We find that competition in markets in which entrants have 
+no prior connections increases to a level that is statistically indistinguishable from 
+Cournot competition, but that markets in which entrants have prior connections con-
+tinue to be collusive. Entrants with no prior connections, however, are less willing to 
+take up the entry offer, indicating that the most likely compliers from a policy aimed 
+at increasing entry may not be effective in increasing competition.
+We use this experimental variation to identify an entry model in which poten-
+tial entrants decide to enter a market when their variable profits upon entry, which 
+depend on marginal costs and the impact of entry on market competition, exceed 
+their fixed costs, net of the experimental entry subsidy. Our estimates indicate that 
+potential entrants have high fixed costs that are positively correlated with marginal 
+costs. Extending the estimates to incumbent traders, we find that the median trader’s 
+fixed costs constitute 71 percent of variable profits; the median (mean) trader keeps 
+12 percent (25 percent) of revenues as profit, but the largest traders earn the highest 
+markups, such that in the aggregate traders capture 82 percent of total surplus, while 
+consumers capture just 18 percent.
+We use our estimated demand, ­quantity-setting, and entry models to solve for 
+counterfactual equilibria were traders to engage in Cournot competition. We esti-
+mate that switching from joint profit maximization to Cournot competition would 
+have large effects on surplus division, as consumer surplus would triple and dead-
+weight loss would fall by one-third.
+This paper is one of the first to experimentally test the competition model of rural 
+agricultural markets directly. Previous attempts to measure competition or market 
+
+
+--- PAGE 4 ---
+3708
+THE AMERICAN ECONOMIC REVIEW
+DECEMBER 2020
+efficiency have mainly relied on observational methods. Observational studies have 
+typically found high rates of ­pass-through across major markets (Rashid and Minot 
+2010), though these high transmission rates may not extend beyond major urban 
+markets (Moser, Barrett, and Minten 2009). Moreover, interpretation of this observa-
+tional evidence is confounded by common shocks such as shared harvest times and 
+reverse flows across seasons. One exception to this primarily observational literature 
+is a recent paper by Casaburi and Reed (2016), which studies the effect of an experi-
+mental subsidy per unit purchased by cocoa traders in Sierra Leone. They find small 
+­pass-through in terms of price, but larger ­pass-through in credit, suggesting the impor-
+tance of interlinked relationships in their context (a feature not relevant in the Kenyan 
+maize markets we study, in which over 95 percent of transactions are conducted in 
+cash).1
+Another set of papers attempts to directly measure traders’ profits in order to draw 
+inference about the size of rents and model of competition. These have generally found 
+that average trader profits are moderately large, though subject to significant variabil-
+ity, leaving a question mark on whether these returns represent rents or risk premia 
+(Dillon and Dambro 2016). Moreover, these direct measures are subject to potentially 
+severe measurement error in the face of ­difficult-to-quantify search, own labor, and 
+fixed costs, as well as a general lack of record keeping (Fafchamps, Gabre-Madhin, 
+and Minten 2005).2 The sensitivity of directly asking about profits in an environment 
+in which traders are often labeled as exploitative presents a further challenge.
+Finally, a set of papers has applied experimental methods to the somewhat related 
+question of the impact of offering price information to farmers on their ability to 
+extract better prices from traders. While most studies find null results (Fafchamps 
+and Minten 2012, Mitra et al. 2015),3 it is unclear if this suggests traders are already 
+offering competitive prices given their costs or whether farmers are simply unable 
+to use this information to improve their bargaining position. There is therefore a 
+paucity of causal evidence on how traders compete (Dillon and Dambro 2016) 
+despite a growing interest in the role these intermediaries play in determining the 
+allocation of gains from trade (Antràs and Costinot 2011; Bardhan, Mookherjee, 
+and Tsumagari 2013).4
+More broadly, this paper follows a long literature on testing among different 
+models of competition. We follow Nevo (2001) and Miller and Weinberg (2017), 
+among many others, in testing among common models of competition nested in a 
+single framework. We also implement ­non-nested tests of joint profit ­maximization 
+and Cournot competition in the spirit of Berry and Haile (2014) and similar to 
+1 Because their subsidy is offered only to a subset of traders in the market, Casaburi and Reed (2016) must ulti-
+mately rely on observational estimates of ­pass-through to measure the form of competition, as their experimental 
+estimates appear to be affected by ­within-market spillovers. Further, in the absence of evidence on the shape of 
+farmer supply, they are forced to make strong linearity assumptions. Because the curvature of the market facing 
+traders (farmer supply in their case, consumer demand in ours) is crucial to interpreting the ­pass-through rate, we 
+experimentally estimate this curvature.
+2 Only 58 percent of traders in our sample keep any written records and, among this group, most records are 
+fairly rudimentary.
+3 The exception is Hildebrandt et al. (2015), which finds that farmers who receive price information earn 5 per-
+cent higher prices for their yams, but this effect disappears by the second year of the study.
+4 In a ­quasi-experimental variant of this literature, Casaburi, Glennerster, and Suri (2013) find that expansion of 
+the road network in Sierra Leone led to price decreases that can be best explained under a search cost framework, 
+and which are inconsistent with either Bertrand competition or Cournot oligopsony.
+
+
+--- PAGE 5 ---
+3709
+BERGQUIST AND DINERSTEIN: COMPETITION AND ENTRY
+VOL. 110 NO. 12
+Backus, Conlon, and Sinkinson (2019a), which avoids some of the issues with the 
+nested approach. To identify the form of competition, we rely on an experimen-
+tal cost shock. This idea of identifying and quantifying deviations from perfect 
+competition using ­pass-through rates dates back to Sumner (1981), who used cost 
+variation from cigarette excise taxes. Sullivan (1985) and Ashenfelter and Sullivan 
+(1987) also used excise tax ­pass-through, while the trade literature has leveraged 
+exchange rate ­pass-through (Feenstra 1989, Knetter 1989, Aw 1993, Goldberg 
+1995, Goldberg and Knetter 1999).5 Bulow and Pfleiderer (1983) clarified the role 
+of demand functional form in inferring competition from ­pass-through, and more 
+recent contributions to the literature on ­pass-through include Weyl and Fabinger 
+(2013) and Atkin and Donaldson (2015). Unlike many of these papers, we use 
+experimental variation to identify the model components, adding to the recent lit-
+erature using experimentally estimated parameters to understand market structure 
+in developing countries (Keniston 2011).
+This paper proceeds as follows. Section I describes maize markets in Kenya. 
+Section  II introduces a general and simplified theoretical supply and demand 
+model. These motivate the experimental design, which we describe in greater detail 
+in Section III. Section IV presents results on ­pass-through and demand, and then 
+uses these estimates to identify the form of competition within the simple model. 
+Section  V relaxes some of the simple model’s assumptions and presents results 
+from the more general model. Section VI describes results of the entry experiment 
+and estimation of an entry model that we use to quantify welfare in Section VII. 
+Section VIII concludes.
+I.  Maize Markets in Kenya
+Staple commodities represent a major expenditure for consumers across Africa. 
+In Kenya, maize, the country’s primary staple commodity, is responsible for over 
+one-third of average gross caloric intake. The median household spends 9 percent of 
+its annual expenditure on maize (and the poorest decile spends 14 percent). On the 
+production side, about one-half of all Kenyan households grows maize (Argent and 
+Begazo 2015). The functionality of these staple commodity markets is therefore of 
+significant importance for household welfare.
+Online Appendix Figure A.1 displays the maize output market chain in western 
+Kenya. Regional traders, the subjects of this study, are responsible for ­large-scale 
+aggregation, storage, and transportation. They report purchasing 50 percent of their 
+maize from ­small-medium farmers (selling ​<​ 5 tons), 16 percent from large farmers 
+(selling ​≥​ 5 tons), and 33 percent from other traders. They buy primarily from coun-
+ties throughout western Kenya and neighboring regions in eastern Uganda (the latter 
+is more common during the lean season, when local supply is scarce in Kenya).6 
+Traders tend to own a warehouse in a market center and either rent or own a truck 
+which they use to purchase maize, bring it back to their warehouse for sorting, 
+drying, and ­repackaging, and then carry it onward to their destination of sale. In 
+5 Relatedly, Panzar and Rosse (1987) developed predictions based on ­pass-through of cost shocks into revenues.
+6 Due to differences in crop calendars, farmers in eastern Uganda harvest maize several months earlier than 
+those in western Kenya.
+
+
+--- PAGE 6 ---
+3710
+THE AMERICAN ECONOMIC REVIEW
+DECEMBER 2020
+our sample, 64 percent of sales take place in ­open-air markets in rural communi-
+ties. Sixteen ­percent is sold to millers, who grind maize into flour for sale to stores 
+that serve urban consumers. Another 16 percent is sold to other traders, who sell in 
+other areas of Kenya or eastern Uganda. A small portion of sales, about 2 percent, 
+is sold to restaurants, schools, and other institutions. Finally, 2 percent is sold to 
+the Kenyan National Cereals and Produce Board, the former state maize marketing 
+board that still has limited involvement in the market by purchasing, storing, and 
+selling small reserves of maize with a goal of stabilizing prices.
+A. Entry into Regional Trade
+As part of a broad plan of structural adjustment in the 1980s and 1990s, Kenya 
+pulled ­state-controlled marketing boards out of staple grain markets, lifted trade 
+restrictions on export crops, and allowed prices to be determined by market forces, 
+rather than by state mandate. Today, few legal barriers exist to entering the maize 
+trade.7 However, engaging in ­large-scale, regional wholesale trade still requires 
+significant working capital in order to pay for inventory, storage facilities,8 and 
+transport vehicles.9 Further, traders must develop extensive networks of contacts 
+in order to glean information on prices and product availability, as this information 
+is disseminated ­one-on-one through personal networks of fellow traders rather than 
+through any centralized or open information clearinghouse. It is common for traders 
+to enter the business with the support of siblings, spouses, or even former employers 
+who already have experience in the business. Therefore, while entry is close to free 
+legally, those who wish to enter regional trade still face significant barriers.
+Online Appendix Table A.1 presents trader demographic details. The average trader 
+has completed some secondary school and is able to answer one-half of the Ravens 
+matrices (Group B) questions. Only 58 percent keep written records, which typically 
+include only sale prices and quantities; rarely are cost or accounting data recorded. 
+However, 62 percent do report reviewing their financial strength monthly. Most trad-
+ers operate ­one-man businesses, with only 37 percent having any employees.
+B. Open Air Markets
+This study takes place in the open air markets in which traders sell the majority 
+of their produce. These markets typically occur on a set day each week. The traders 
+present are a mix of those who have their warehouse in that particular market and 
+those who arrive with a truck and sell out of its back for the day. Traders with trucks 
+typically park next to each other in a particular area that they use each week, and 
+7 The few permits that are required are either easy to obtain or are unenforced. The primary license required is 
+the Annual County Business License, which costs about US$100/year and is issued by county officials. Traders 
+report this license is easy to get and most have this license (though most also report that this license is not ­well 
+enforced). Other licenses are very poorly enforced, if at all, including a public health license and a transport permit. 
+There are more serious inspections and permits required for ­cross-border trade. Finally, there is a small US$2 “cess” 
+tax charged to traders in the market each day.
+8 Though ­long-term storage is uncommon among traders, short-run facilities are necessary for cleaning, drying, 
+and sorting.
+9 For example, rental of a truck per day costs $250 (about 18 percent of annual GDP per capita), while purchas-
+ing a truck costs $30,000 (over 21x annual GDP per capita).
+
+
+--- PAGE 7 ---
+3711
+BERGQUIST AND DINERSTEIN: COMPETITION AND ENTRY
+VOL. 110 NO. 12
+warehouses are typically in a row or clustered. Importantly, trader prices, while 
+not posted in any public way, are presumably common knowledge given the close 
+physical proximity of traders. Online Appendix Figure A.2 presents the histogram 
+of the number of traders per market, which varies from ­1–10 with a median of 3. 
+Traders commonly work in the same set of markets each week, with 96 percent 
+of traders reporting working in that market most weeks and only 1 percent say-
+ing that this was their first time in the market (see Online Appendix Table A.1). 
+Seventy-seven percent have worked previously with all other traders in the mar-
+ket that day. As a result, 68 percent say they know the other traders in the mar-
+ket that day “very well,” 26 percent “somewhat well,” and only 6 percent “not 
+very well.” When asked directly, only 38 percent of traders report “discussing a 
+good price” with other traders and only 30 percent report engaging in an explicit 
+price agreement with other traders; the vast majority claim they are rigorously 
+competing on price. However, 72 percent of traders work in a market in which 
+at least one trader has reported the existence of a price agreement that day. Most 
+(83 percent) traders visit only one of our 60 sample markets during the ­12-week 
+experimental period, though ­multi-market traders visit an average of 2.7 markets.
+Customers in these markets are comprised of ­two-thirds individual households 
+and ­one-third rural retailers. The median consumer buys maize only from her local 
+market, though a few retailers purchase from a larger number. We therefore model 
+consumers as considering one local market.10 The median customer buys maize for 
+consumption every week; storage is rare (see online Appendix C.1). The product 
+itself is fairly homogeneous (see online Appendix C.2).
+II.  Theoretical Framework
+The experimental design employed in this study is tightly tied to theory. In this 
+section, we introduce a model of supply and demand for a homogeneous product, 
+starting with a general model with limited assumptions. We then offer a simpli-
+fied version of this model which demonstrates that, with the addition of a few key 
+assumptions, a parameter nesting models of competition is a function of a small 
+number of sufficient statistics. These sufficient statistics form the basis for the 
+experimental design, with each of the three experiments implemented here designed 
+to identify a specific parameter. Experiment 1 identifies ­pass-through, while 
+Experiment 2 identifies the curvature of demand. We use these two estimates to 
+infer the model of competition that best describes how traders operate. In Section V, 
+we relax these simplifying assumptions and return to estimating the more general 
+model, still relying on the experimental variation for identification. We then return 
+to the third experiment, where the number of traders in the market is experimentally 
+­manipulated, and estimate the effect on how traders compete. Figure 1 provides an 
+overview of how the experiments map to theory.
+10 Consistent with this, we find that the nearest market is on average 8km away (7km for the median market). On 
+the same day, the nearest active market is 22km away (17km for the median market). Data on consumer behavior 
+are drawn from a phone survey with 165 consumers randomly selected from the demand experiment sample. This 
+survey was conducted in July and August 2016 immediately following data collection for the main experiment. In 
+online Appendix H we find some evidence of substitution from markets outside of our sample into markets in our 
+sample and discuss how this might affect our results.
+
+
+--- PAGE 8 ---
+3712
+THE AMERICAN ECONOMIC REVIEW
+DECEMBER 2020
+A. Model ­Setup
+We begin with a model of demand and supply of a homogeneous good.11 
+11 Whether the product is differentiated matters for how we infer the form of competition from equilibrium 
+prices and quantities, as the same equilibrium responses to shocks could be consistent with one model of competi-
+tion under homogeneous products and a different model of competition under differentiated products. However, the 
+Panel A. Experiments
+Panel B. Simple model
+Panel C. General model
+Cost shock
+• Marginal costs*
+• Price
+• Marginal costs in multimarket
+  traders’ other markets*
+• Pass-through
+• Demand (quantity response)
+• MC slope
+Entry
+• Size of fixed payment to enter*
+• Number new traders in market
+• Fixed costs of entry
+• Effect of entry on competition
+Demand
+• Price*
+• Demand (quantity response)
+* = directly manipulated
+  
+ρ mw ≡   ∂P mw  
+____ 
+ ∂c mw   =   {1 +   1 +  E mw  
+_____ 
+ N mw   (1 + ω ( N mw − 1) ) }    
+−1
+ 
+Identified by
+cost shock
+experiment
+Calculated from demand model
+(identified by cost shock and
+demand experiments)
+Identified by
+demand
+experiment
+Observed
+in data
+Observed
+in data
+Manipulated by
+cost shock
+experiment
+Profit weight
+ P mw −  c mw +    ∂P mw  
+____ 
+∂ q jmw   q jmw = −ω    ∂P mw  
+____ 
+ ∂q jmw     ∑ 
+k≠j
+ 
+ 
+  q kmw    
++   γq jw +   
+c j    
++   c m    
++   c w    
++   c jmw
+   
+Identified by instruments: 
+• Mean treatment status
+  in other markets
+• Entry offer
+• Cost shock low
+• Cost shock high
+Experiment
+Exogenous variation
+Used to identify
+Figure 1. Experimental Design
+Notes: Panel A lays out the experiments, the exogenous variation driven by each experiment, and the objects iden-
+tified by said exogenous variation. Panel B and panel C lay out the main identifying equations for the simple and 
+general model, respectively, and how each component is identified.
+
+
+--- PAGE 9 ---
+3713
+BERGQUIST AND DINERSTEIN: COMPETITION AND ENTRY
+VOL. 110 NO. 12
+Household ​i​, in week ​w​ and its local market ​m​, demands ​​q​imw​(​P​mw​)​  ≥  0​ kilograms 
+of maize at market price ​​P​mw​​. Given the set ​​​mw​​ households in local market ​m​ in 
+week ​w​, market demand is ​​Q​mw​(​P​mw​)​  =  ​∑ i∈​​mw​​ 
+  
+​ ​q​imw​(​P​mw​)​​ with corresponding 
+inverse market demand ​​P​mw​(​Q​mw​)​​. Traders choose quantities for each market they 
+visit each week to maximize weekly profits.12 We write trader ​j​’s maximization 
+problem as13
+(1)	
+​​  max​ 
+​{​q​jmw​}​m∈​​jw​​​ ​π​jmw​ = ​ ∑ 
+m∈​​jw​
+​ 
+ 
+  ​ ​P​mw​(​q​jmw​)​ ​q​jmw​ − ​C​jw​(​q​j1w​, … , ​q​jMw​)​
+	
++  ω​
+[
+​ ∑ 
+m∈​​jw​
+​ 
+ 
+  ​ ​∑ 
+k≠j
+​ 
+ 
+ ​ ​P​mw​(​q​jmw​)​ ​q​kmw​ − ​∑ 
+k≠j
+​ 
+ 
+ ​ ​C​kw​(​q​j1w​, … , ​q​jMw​)​
+]
+​​,
+where ​​​jw​​ is the set of markets ​j​ visits in week ​w​ and ​​C​jw​​ is ​j​’s total costs in week ​w​ 
+across all markets. The second set of terms in brackets, multiplied by ​ω​, captures 
+other traders’ profits in the same markets. Therefore ​ω  ∈  ​[0, 1]​​ serves as a profit 
+weight summarizing how a trader internalizes the profits of other traders in his mar-
+ket, with ​ω  =  0​ reducing to Cournot and ​ω  =  1​ reflecting joint profit maximiza-
+tion.14 Taking the derivative of equation (1) with respect to the trader’s quantity ​​q​jmw​​ 
+in market ​m​ in week ​w​ yields the trader’s first-order condition:
+(2)	
+​​P​mw​  =  ​ ∂ ​C​jw​ 
+_ 
+∂ ​q​jmw​ ​ − ​ ∂ ​P​mw​ 
+_ 
+∂ ​q​jmw​ ​(​q​jmw​ + ω ​∑ 
+k≠j
+​ 
+ 
+ ​ ​q​kmw​)​​,
+where ​ω  =  0​ and ​ω  =  1​ reduce this to the familiar Cournot and monopoly first 
+order conditions, respectively.
+We will estimate a parametric form of this general model in Section V. But to 
+highlight how our experiments can directly identify the model of competition, we 
+first offer a complementary simplified version of the model that reduces inference 
+weight of evidence suggests maize sold in these markets is fairly homogeneous. There is little variation in quality, 
+price, or other dimensions of the sale (e.g., credit is rarely used). See online Appendix C.2 for further detail. Price 
+discrimination also appears quite limited, with an ­intra-cluster correlation of 0.9 between the prices that a trader 
+offers his various customers throughout the day (see online Appendix C.3). This is likely because negotiations 
+between traders and consumers are conducted in public, thereby limiting traders’ ability to engage in dramatic price 
+discrimination. We therefore assume a single market price.
+12 Specifying a weekly cost function allows for the possibility that the subset of traders active in multiple 
+­in-sample markets in the same week may have cost interdependencies across markets.
+13 The model employed here is static. While maize is in theory storable, empirically, consumer stockpiling is 
+quite limited (see online Appendix Section C.1). Related work in the region suggests that credit constraints limit 
+households’ ability to arbitrage these price fluctuations (Burke, Bergquist, and Miguel 2019).
+14 Under this formulation, ​ω​ can be interpreted structurally, with traders directly valuing the profits of other 
+traders, or as a parameter summarizing conduct. For the structural interpretation, the literature has focused on cases 
+where there is a common claimant on agents’ profits (e.g., vertically integrated units in Crawford et al. 2018 or 
+firms with common investors in Backus, Conlon, and Sinkinson 2019b). In our setting, there are several features 
+that could motivate a structural interpretation of the profit weight. Specifically, the structural profit weight encom-
+passes relevant cases including traders from the same extended family, altruism toward fellow traders, and social 
+insurance. If we proceed without a structural interpretation, the profit weight has no direct interpretation outside 
+of ​ω  =  0​ and ​ω  =  1​. Fan and Sullivan (2018) derive a profit weight model consistent with a set of supergames, 
+though they point out an additional term capturing rivals’ deviation profits is necessary. We therefore primarily 
+employ ​ω​ as a convenient formulation for nesting the two ­well-defined model of competition for which we will test 
+empirically in our experiment. We also provide a direct ­non-nested test of Cournot and joint profit maximization. 
+Finally, while versions of the reduced form approach can bias estimates toward too much competitiveness if the 
+traders are colluding at a price below the monopoly price (Corts 1999), our empirical estimates in Section V indi-
+cate joint profit maximization.
+
+
+--- PAGE 10 ---
+3714
+THE AMERICAN ECONOMIC REVIEW
+DECEMBER 2020
+about the model of competition to a few statistics. This relies on two simplifying 
+assumptions. First, consistent with Fafchamps, Gabre-Madhin, and Minten (2005), 
+we assume marginal costs (​​c​jmw​  =  ∂ ​C​jw​​ / ∂ ​q​jmw​​) are constant with respect to quan-
+tities. This appears to be a good approximation of the empirical setting, in which 
+the major variable costs are constant with respect to quantity (see online Appendix 
+Section D). In the general model, we will relax this assumption (though estimates 
+do suggest costs are fairly flat). Second, we assume symmetry across traders in a 
+­market-week, specifically with respect to marginal cost (​​c​jmw​  =  ​c​mw​​). Again, we 
+will relax this assumption in the general model.
+Given these assumptions, our first order condition reduces to
+(3)	
+​​P​mw​  =  ​c​mw​ − ​(1 + ω​(​N​mw​ − 1)​)​ ​ ∂ ​P​mw​ 
+_ 
+∂ ​Q​mw​ ​ ​ ​Q​mw​ 
+_ 
+​N​mw​ ​​,
+where ​​N​mw​​ is the number of traders in the market ​m​ and week ​w​. The term ​ω​ contin-
+ues to nest Cournot competition and full collusion.15 We see that equilibrium mark-
+ups depend on the shape of demand and two features of market structure and trader 
+behavior: the number of traders ​​N​mw​​ and whether these traders interact according to 
+Cournot competition (​ω  =  0​) or joint profit maximization (​ω  =  1​).
+B. ­Pass-Through and Demand Curvature
+In the first part of the paper, we use two experiments, one identifying ­pass-through 
+and one identifying consumer demand, to estimate ​ω​ in the observed market 
+equilibria.16
+Our first experiment estimates ­pass-through by experimentally reducing traders’ 
+marginal costs. To link this to the model, we take the derivative of equation (3) with 
+respect to ​​c​mw​​, which yields
+(4)	
+​​ρ​mw​  ≡  ​ ∂ ​P​mw​ 
+_ 
+∂ ​c​mw​ ​  =  ​{1 + ​ 1 + ​E​mw​ 
+_ 
+​N​mw​  ​(1 + ω​(​N​mw​ − 1)​)​}​ 
+−1
+​​,
+where ​​E​mw​  ≡  ​(​Q​mw​ / ​(∂ ​P​mw​​ / ∂ ​Q​mw​)​)​(∂ ​(∂ ​P​mw​ / ∂ ​Q​mw​)​ / ∂ ​Q​mw​)​​ is the elasticity of the 
+slope of inverse demand. Under the specific models of competition tested here, this 
+equation reduces to
+(5)	
+​​ρ​mw​  =  ​
+⎧
+ 
+⎪
+ 
+⎨ 
+⎪ 
+⎩
+​​{1 + ​ 1 + ​E​mw​ 
+_ 
+​N​mw​  ​}​ 
+−1
+​​ when Cournot competitive ​ 
+ 
+ 
+ 
+​{2 + ​E​mw​}​ −1​
+​ 
+when collusive.
+ 
+​​
+15 This equation also nests the solution to the Bertrand ­price-setting model, with ​ω  =  − 1 / ​(​N​mw​ − 1)​​. We will 
+not focus on this case, but point out that because Bertrand competition implies a negative ​ω​, rejecting Cournot with 
+a positive point estimate also implies rejecting Bertrand.
+16 We will use experimental variation across markets to estimate ​ω​. This relies on the additional assumption that 
+all sample markets operate under the same form of competition. In addition to being necessary for statistical power, 
+this assumption also reflects the case in which ­multi-market contact leads traders to make potentially coordinated 
+decisions at a level above the market. We are also assuming that the treatment itself, which will be a cost shock, does 
+not change ​ω​. The shock is unlikely to introduce any unfamiliar traders to the market. We investigate this further in 
+online Appendix Section I, where we find a very small, marginally significant effect that is likely to bias us toward 
+Cournot competition. We relax this assumption when studying entry and allow ​ω​ to vary with whether traders have 
+connections to each other.
+
+
+--- PAGE 11 ---
+3715
+BERGQUIST AND DINERSTEIN: COMPETITION AND ENTRY
+VOL. 110 NO. 12
+Therefore, the level of ­pass-through ​​ρ​mw​​ depends on the competitive structure of 
+markets (​ω​ = 0 or ​ω  =  1​) and the curvature of demand ​​E​mw​​ (as well as on the 
+number of traders ​​N​mw​​ in the Cournot model).17
+Accordingly, our first experiment identifies ­pass-through and our second exper-
+iment identifies demand curvature. We then insert these experimentally estimated 
+parameters into equation (4) from the sufficient statistics model and back out the 
+profit weight ​ω​ in these markets. In Section V, we will estimate ​ω​ in the more general 
+model that relaxes the assumptions of constant marginal cost and symmetric traders. 
+Finally, we provide a direct ­non-nested test of Cournot and joint profit maximization 
+that does not depend on specifying a continuous parameter that nests Cournot com-
+petition and joint profit maximization.
+C. The Effect of Entry on Competition
+A commonly prescribed policy intervention to increase market competition is 
+to encourage entry by new market participants. In the second part of this paper, we 
+evaluate the impact of such policies and estimate whether the model of competition 
+responds to changes in the number or identity of market participants. We then use 
+these entry decisions to estimate a structural model of entry into a market. These 
+estimates let us quantify the distribution of trader fixed costs and allow us to conduct 
+counterfactual exercises where trader participation responds endogenously to the 
+form of competition.
+III.  Experimental Design
+A. Sample Selection and Experimental Schedule
+The sample of markets in this study is drawn from six counties in Western Kenya. 
+A listing exercise was conducted with the Director of Trade in each county to get a 
+comprehensive list of all markets in the county. Markets without maize traders and 
+urban markets in town centers were then excluded. See online Appendix Section E 
+for additional details on the sample selection procedure.
+The two ­market-level experiments (cost shock and entry) were each run for four 
+weeks in a row. This time spans about one-quarter of the full selling season in the 
+region (March to July). This duration of treatment was selected to represent a rel-
+atively ­long-run cost or entry shock. It was also selected to match the frequency at 
+which prices regularly vary to minimize concerns about sticky prices (see Figure 2). 
+Because piloting revealed that market and week fixed effects were important (cut-
+ting standard errors almost in half), the experiment was designed to provide each 
+market each treatment status (cost shock treatment, entry treatment, and control) in 
+a random order to allow for the inclusion of these fixed effects. Online Appendix 
+Figure E.1 shows the six possible orders.18 Each ­four-week block was broken by a 
+­one-week break during which the demand experiment was run in a subset of markets.
+17 Under Bertrand competition, ​​ρ​mw​  =  1​
+18 This randomization was first blocked by the day of the week of the market (done primarily for logistical ease 
+as the trader ­cost-shock and entry treatment required additional management time to facilitate payments, and equal 
+
+
+--- PAGE 12 ---
+3716
+THE AMERICAN ECONOMIC REVIEW
+DECEMBER 2020
+B. Experiment 1: Trader Cost Shock Experiment
+In treatment ­market-days for the trader cost shock experiment, all traders in the 
+market were offered a subsidy per kg sold. Enumerators arrived at the market at 
+7:30am (prior to the market start) and immediately made the offer to every trader 
+present. Any traders who arrived later were also presented with the offer immedi-
+ately upon arrival. Enumerators stayed in the market until 5:00pm (after the market 
+conclusion). Maize sold during the enumerators’ presence in the market was eligible 
+for the subsidy.19 When introducing the subsidy, enumerators first asked the trader 
+to describe some of the major costs that he faced in his business (traders in control 
+market days were also asked these questions, to avoid confounding treatment with 
+any priming effects). The subsidy was then framed as a reduction of these costs. 
+At no point were traders told that the purpose of the subsidy was to see how much 
+would be passed on to the prices they set for customers; rather they were told the 
+research was interested generally in how “reductions in cost affect your business.”
+In the first week, traders were informed that the offer would be available for four 
+weeks. An identical script was read in each subsequent week to remind returning 
+traders of the availability of the subsidy and to make the offer to any new traders 
+distribution of treatment across days of the week ensured an even flow of management duties) and then stratified 
+by the number of traders typically in the market, as identified in the market census. See online Appendix Section E 
+for further details on this census.
+19 Only maize sold in cash was eligible for the subsidy due to concerns about the ability of enumerators to verify 
+the authenticity of credit sales. However, over 95 percent of sales are conducted in cash, so this restriction was often 
+irrelevant. The subsidy was capped at the first 75 90kg bags sold to limit budget exposure, but this cap was binding 
+for only 1.5 percent of traders.
+25
+30
+35
+Price/Kg
+March
+April
+May
+June
+Figure 2. Maize Prices in Study Markets
+Notes: Gray lines show the price for each market over the ­12-week study period. The black line shows the average 
+price across markets.
+
+
+--- PAGE 13 ---
+3717
+BERGQUIST AND DINERSTEIN: COMPETITION AND ENTRY
+VOL. 110 NO. 12
+who were absent in the previous week. All traders in the market therefore received 
+an identical reduction in their marginal costs.
+The 60 markets in the sample were divided into two groups: 45 markets received 
+a “low” subsidy level of 200Ksh/90kg bag when they were in the cost shock treat-
+ment and 15 markets received a “high” subsidy level of 400Ksh/90kg bag (sales of 
+partial bags were eligible at the same prorated amount). Note that “low” and “high” 
+are merely relative titles: both represent large and meaningful changes to traders’ 
+costs. The “low” subsidy rate represents 7.5 percent of the average price, while the 
+“high” subsidy represents 15 percent of the average price. Payments were made via 
+mobile money twice a day. See online Appendix Section J.1 for additional details 
+about this experiment.
+Enumerators monitored the sales of each trader throughout the day, recording 
+the price and other details of each transaction as will be described below in the data 
+section. The data collection process was identical in treatment and control markets.
+C. Experiment 2: Demand Experiment
+In the demand experiment, customers were first allowed to approach traders 
+and negotiate a price and quantity in a natural way before being approached by 
+an enumerator to invite them to the demand experiment.20 If the customer con-
+sented, a random discount amount was drawn (using a randomization feature within 
+SurveyCTO) and the customer was told that the price he had previously received 
+from the trader would be reduced by that amount. The customer was then invited to 
+select a new quantity he would like to purchase in light of this new price. The price 
+discount was given to the customer in the form of a mobile money or cash transfer, 
+and the customer paid the trader the originally negotiated price.
+Traders’ consent was acquired at the beginning of each day. The trader was there-
+fore aware that his customers would (potentially) receive price reductions. While 
+this may have changed the baseline price charged by the trader (e.g., the trader may 
+have raised his overall price to collect some of the anticipated discount), the trader 
+did not know at the time of price negotiation with any one consumer the amount of 
+the discount that would be offered nor was the trader permitted to adjust the price 
+following the announcement of the realized discount amount. Therefore, any varia-
+tion in price driven by the discount is random.
+Discounts were given per kg purchased (so as to lower the price/kg). Ten 
+levels of discounts were offered, calibrated to span the range of price reduc-
+tions one would have observed if ­0–100 percent of the ­cost-reduction subsidy 
+had been ­passed-through in the cost shock experiment. Per 90kg bag, they were: 
+{0, 25, 50, 100, 150, 200, 250, 300, 350, 400} Ksh. See online Appendix Section J.2 
+for additional details about this experiment.
+20 The sample is therefore drawn from consumers who were already planning on purchasing maize that day. 
+This was done out of necessity, in order to identify a pool of “customers” in which to randomize the discount 
+amount. However, it does mean that the sample does not include customers who may have been induced on the 
+extensive margin into market participation at these lower, discounted prices. The assumption therefore in the suffi-
+cient statistics model is that these customers would have exhibited the same curvature of demand as the customers 
+observed in the sample. For the general empirical model, we directly model the extensive margin and identify 
+substitution on the extensive margin using results from the trader cost shock experiment.
+
+
+--- PAGE 14 ---
+3718
+THE AMERICAN ECONOMIC REVIEW
+DECEMBER 2020
+D. Experiment 3: Entry Experiment
+In the entry experiment, traders who had never before worked in the treated mar-
+ket were offered subsidies to enter and attempt to sell there. Three traders were 
+given the offer for each market. This was designed (i) to increase the probability that 
+at least one trader took up the offer and (ii) to measure traders’ willingness to enter, 
+as the amount of each offer was randomized. Offers were given for four weeks in a 
+row to generate somewhat ­long-run entry.
+The pool of traders eligible to receive the entry offers was drawn from the sam-
+ple of traders interviewed in pilot work (traders from markets in the same region in 
+Kenya) and the universe of all traders found during the market census activity. Small 
+traders who did not own or regularly rent trucks were then excluded from the pool as 
+pilot work showed that these traders categorically did not take up the offer. A phone 
+survey was conducted with the remaining 187 traders to determine markets in which 
+they had ever worked. For each of the 60 sample markets, we then identified the set 
+of eligible traders who (i) had never before worked in that market and (ii) did not 
+work in other study markets that occur on the same day of the week in order to avoid 
+inducing exit in our sample. The median market had 37 eligible traders, the mini-
+mum had 28, and the maximum had 56. From each of these sets, we then randomly 
+selected the three traders who would receive the entry offers.
+Once the set of offers was established, each of the three selected traders for each 
+market was randomized into a “low” offer of 5,000Ksh (US$49), a “medium” offer 
+of 10,000Ksh (US$99), and a “high” offer of 15,000Ksh (US$148). The trader was 
+eligible to receive this amount each time he visited the entry market on any of four 
+offer days.21 Payout was contingent on a few factors, of which traders were made 
+aware during the offer call. They were that the trader must (i) come to the specified 
+market on the specified date; (ii) arrive with a truck and at least 15 bags; (iii) stay for 
+at least one hour and show intention to attempt sales. Payment was made via mobile 
+money immediately after these conditions were met.
+Traders were informed of the offer via phone call one week prior to the first 
+­market-day for which they were eligible. During this call, a short survey was 
+conducted to gather additional information about the potential entrant, including 
+whether he had contacts in the market, his expected profits for the day should he 
+take up and not take up the offer respectively, and his ethnicity. Following each offer 
+week, a short ­follow-up phone survey was conducted, in which information was 
+collected about the trader’s activities on the day of the offer regardless of whether 
+he accepted the offer. See online Appendix Section J.3 for additional details about 
+this experiment.
+E. Data
+Data were collected in an identical way in all markets and in all periods (cost 
+shock treatment, entry treatment, and control). Depending on the activity level of 
+21 Traders were encouraged to attend all four days to receive four payouts of the amounts above. Offers for each 
+day were independent because making payouts contingent on perfect attendance could have potentially discouraged 
+overall ­take-up.
+
+
+--- PAGE 15 ---
+3719
+BERGQUIST AND DINERSTEIN: COMPETITION AND ENTRY
+VOL. 110 NO. 12
+each market, enumerators were assigned to monitor 1–4 traders.22 Those surveys 
+captured ­transaction-level price, quantity, payment method (cash or credit), and cus-
+tomer type (individual household consumer or retailer), all observed in ­real-time by 
+the enumerator. Data on the value of any ­nontraditional reductions in price were also 
+collected. These included: flat reductions in the total cost of the purchase (rather 
+than in the ­per-unit price); “­top-ups,” quantities of maize added to the total purchase 
+“for free”; and “­after-bag services,” such as free sacks, transport, or other services 
+given to customers bundled with their transactions. The value of these additional 
+services is incorporated into the price per kg.23 Maize quality data were also col-
+lected for each trader (see online Appendix Section C.2 for greater detail). In addi-
+tion, traders were asked about their experience with other traders in the market that 
+day: how often they had worked with others before, how well they knew others, 
+whether they had “discussed a good price” at which to sell, and whether they had 
+“agreed on a price” at which to sell.24 Finally, the first time a trader was met in the 
+sample, additional information was captured on the trader’s fixed characteristics, 
+including ethnicity, location of home market, highest level of education achieved, 
+and a battery of business management and record keeping questions drawn from 
+McKenzie and Woodruff (2015). A Raven’s test was also administered.
+IV.  Estimating the Form of Competition in Simple Empirical Model
+In this section we estimate the elements, or sufficient statistics, that enter equa-
+tion (4) in the simplified model. We start by estimating ­pass-through and then turn to 
+the curvature of demand. We end by backing out the implied model of competition.
+A. ­Pass-Through
+To measure ­pass-through, we estimate
+(6)	
+​​P​jmw​  =  βC​C​mw​ + ​γ​w​ + ​ζ​m​ + ​ϵ​jmw​​,
+where ​​P​jmw​​ is trader ​j​’s ­quantity-weighted average price in market ​m​ and 
+week ​w​,25​C​C​mw​​ is the level of cost change per kg offered in market ​m​ on week ​w​ 
+(i.e., CC is the negative value of the marginal cost subsidy in cost shock treatment 
+markets and zero elsewhere, such that ​C​C​mw​​ = {0 Ksh, −200 Ksh, −400 Ksh}), 
+and ​​γ​w​​ and ​​ζ​m​​ are week and market fixed effects, respectively, included to improve 
+22 Busier markets with more quickly moving sales were allocated additional enumerators to ensure that all 
+transactions could be recorded with accuracy.
+23 These ­nontraditional reductions in price were uncommon, but they do add 1–2 percentage points to our esti-
+mate of ­pass-through, so there is some indication that traders can use these ­less-traditional methods of price reduc-
+tions to ­pass through some of the cost reduction. It is possible that this is a more discreet method of deviating from 
+price agreements maintained with fellow traders. It may also help traders to make price changes more continuous 
+(as prices otherwise typically change in increments of 50 Ksh/bag or 5 Ksh/goro, a 2.2kg tin).
+24 Due to their sensitivity, these questions were asked at ­mid-day, after the enumerator had established good 
+rapport with the respondent. For any traders who left the market before that time, enumerators attempted to ask 
+these questions before the trader left, but these efforts occasionally failed due to short notice. As a result, there is 
+higher attrition among this section of the survey.
+25 Because the ICC of price within a trader in a given ­market-day is high (0.9), in practice there is little variation 
+in the prices entering into this average.
+
+
+--- PAGE 16 ---
+3720
+THE AMERICAN ECONOMIC REVIEW
+DECEMBER 2020
+precision. The sample includes traders in ­market-days in which the market was in 
+either the cost shock treatment or control period: market days assigned to the entry 
+treatment are omitted. Under this specification, the coefficient of interest is ​β​, which 
+yields the ­pass-through rate, or ​∂ P / ∂ c​. Throughout we cluster standard errors by 
+­market-block, the unit of randomization, and weight the regressions by the inverse 
+number of traders in the market to give equal weight to each market.
+To measure heterogeneity in the ­pass-through rate by the level of the cost change, 
+we estimate
+(7)	
+​​P​jmw​  =  ​β​1​ C​C​mw​ × Lo​w​mw​ + ​β​2​ C​C​mw​ × Hig​h​mw​ + ​γ​w​ + ​ζ​m​ + ​ϵ​jmw​​,
+in which ​Lo​w​mw​​ (​Hig​h​mw​​) is a dummy indicating whether the market was in a low 
+(high) subsidy market. This allows for ­nonlinearities in the effect of the subsidy per 
+kg. For other measures of heterogeneity, we run specifications similar to equation 
+(7), conditioning on the desired dimension of heterogeneity.
+Table 1 presents the main results of the ­pass-through experiment. In column 1, we 
+see that ­pass-through is 22.4 percent, significantly different from zero at the 1 percent 
+level and measured with a high degree of precision. Column 2 presents ­pass-through 
+rates for low and high cost reduction treatments separately. The ­pass-through rates 
+for each group are almost identical. This constant empirical ­pass-through rate will 
+help inform the functional form assumptions in the following section  on demand 
+estimation.
+We explore heterogeneity by the number of traders in the market.26 Figure 3 
+presents these results, which show little evidence of meaningful heterogeneity. 
+26 This is the main source of heterogeneity ­prespecified in a design registry submitted prior to the beginning of 
+the experiment. The number of traders is defined as the average number of traders observed in the market over the 
+Table 1—Pass-Through
+Price
+Price
+(1)
+(2)
+Cost change
+0.224
+(0.0434)
+Cost change–low
+0.219
+(0.0538)
+Cost change–high
+0.228
+(0.0618)
+Mean dependent variable
+28.92
+28.92
+Observations
+1,860
+1,860
+Market fixed effects
+Yes
+Yes
+Week fixed effects
+Yes
+Yes
+Notes: Price regressed on Cost change, the level of cost reduction per kg offered in market ​m​ 
+on week ​w​. Cost change is the negative value of the marginal cost subsidy in cost shock treat-
+ment markets and zero elsewhere, such that Cost change  =  {0 Ksh, −200 Ksh, −400 Ksh}) 
+or {0 US$, −1.98 US$, −3.96 US$}. Week and market fixed effects are included to improve 
+precision. The sample includes traders in market-days in which the market was in either the 
+cost shock treatment or control period: market days assigned to the entry treatment are omit-
+ted. Under this specification, the coefficient on the cost reduction term yields the pass-through 
+rate, or ​∂ P/∂ c​. The first column shows the overall pass-through rate of 22 percent. The second 
+column shows pass-through rates separately by “low” and “high” offers.
+
+
+--- PAGE 17 ---
+3721
+BERGQUIST AND DINERSTEIN: COMPETITION AND ENTRY
+VOL. 110 NO. 12
+Estimates of ­pass-through rates are fairly tightly centered around the overall esti-
+mate of 22 percent and no clear pattern is seen with the number of traders. To gain 
+statistical power, the bottom two measures show the sample pooled into below- and 
+­above-median number of traders; again, point estimates are not statistically signifi-
+cantly different and are in fact remarkably close in magnitude. That ­pass-through 
+does not vary with number of traders is consistent with, though not definitive evi-
+dence of, collusion (see equation (5)).
+We further explore in Figure 4 other dimensions of heterogeneity that could mat-
+ter for how traders compete.27 First, we measure whether ­pass-through is different 
+for markets on and off paved (tarmac) roads, which serves as a proxy for market geo-
+graphic isolation. We find no evidence of heterogeneity by this measure. Next, we 
+explore whether a higher intensity of explicit collusion predicts lower ­pass-through 
+rates, measured by the number of ­market-days within a market in which traders have 
+explicitly admitted to collusion.28 The point estimates suggest that ­pass-through is 
+similar across these markets, and the differences are not statistically significant.
+B. Demand Estimation
+As described in Section II, in order to draw inference in our simplified model about 
+the level of competition from the observed ­pass-through, one must first understand 
+the curvature of demand. To do so, we use the demand experiment to estimate how 
+course of the experiment. In order to remove any increases in the number of traders driven by the entry experiment, 
+this figure uses the average of the predicted number of traders each week, based on market and week fixed effects.
+27 These were not included in the design registry.
+28 We construct, for each market, a count of the number of ­market-days in which at least one trader admitted 
+to discussing (agreeing on) prices with other traders. We then divide the sample into markets above and below the 
+median of this measure.
+5
+12
+14
+8
+5
+3
+8
+1
+3
+1
+31
+29
+Markets
+1 Trader
+2 Traders
+3 Traders
+4 Traders
+5 Traders
+6 Traders
+7 Traders
+8 Traders
+9 Traders
+10 Traders
+Below median (<4)
+Above median (≥4)
+−0.5
+0
+0.5
+1
+Individual
+Pooled
+Figure 3. ­Pass-Through by Market Size
+Notes: ­Pass-through as estimated in markets of each size (bars represent the 95 percent confidence interval). The 
+average for the full sample is 22 percent (dotted line). The bottom two estimates show pooled results, grouped into 
+above/below median size.
+
+
+--- PAGE 18 ---
+3722
+THE AMERICAN ECONOMIC REVIEW
+DECEMBER 2020
+a household’s quantity of maize demanded varies with price. We plot the estimated 
+treatment effects by randomized price change in Figure 5. Consumers were given the 
+option to choose a new quantity to purchase at the new price. In the left graph, we plot 
+the treatment effects on the fraction of consumers that changed quantities once offered 
+the discount. This fraction is increasing in the size of the price change and reaches 
+nearly 30 percent at the highest discount point. These changes translate into a strong 
+relationship between price and quantity changes, as shown in the right graph.
+Many common demand functional forms impose curvature and thus would 
+divorce inference about how traders compete from the data. Instead, we will esti-
+mate demand curvature. Ideally we would estimate demand ­nonparametrically, but 
+because household demand is so heterogeneous and demand curvature depends on 
+a function of the second derivative of demand, inference based on ­nonparametric 
+demand estimation is highly imprecise. We thus impose a flexible class of demand 
+functions that nests several commonly used functional forms, while leveraging the 
+panel structure of the experiment to maximize statistical power in the presence of 
+demand heterogeneity. We use the design feature that customers were approached 
+after agreeing on an initial price and quantity combination, so that we observe 
+customers making two choices with an exogenous price difference. Let ​t​ index 
+the “experimental period,” i.e., whether the customer has yet to be approached 
+(​t  =  0​) or already been offered a subsidy level (​t  =  1​). This allows us to capture 
+the ­considerable household demand heterogeneity while still estimating demand 
+Number traders
+Tarmac
+Discuss price
+Agree price
+0
+0.1
+0.2
+0.3
+0.4
+Below median/off tarmac
+Above median/on tarmac
+Figure 4. ­Pass-Through by Various Factors
+Notes: ­Pass-through as estimated in markets in each category (bars represent the 95 percent confidence interval). 
+The average for the full sample is 22 percent (dotted line). Categories are: above/below median number of traders; 
+on/off tarmac roads; above/below median number of days in which at least one trader reports discussing prices 
+with other traders; above/below the median number of days in which at least one trader reports a price agreement.
+
+
+--- PAGE 19 ---
+3723
+BERGQUIST AND DINERSTEIN: COMPETITION AND ENTRY
+VOL. 110 NO. 12
+parameters precisely. We embed this household heterogeneity within a general 
+­Bulow-Pfleiderer class of demand functions. Household ​i​’s demand ​​q​imt​​ is
+(8)	
+​​q​imt​(​P​imt​)​  =  ​
+⎧
+ 
+⎪
+ 
+⎨ 
+⎪ 
+⎩
+​​(​ a − ​P​imt​ 
+_ 
+​b​i​  ​)​ 
+​ 1 
+_ 
+δ ​
+​ ​η​imt​​  if ​P​imt​  ≤  a​ 
+ 
+ 
+0
+​ 
+if ​P​imt​  >  a,
+​
+where ​a, ​b​i​, δ, ​η​imt​  >  0​.
+The variable ​a​ is the choke price, such that households are indifferent between 
+purchasing or not; ​​b​i​​ captures persistent (within the few minutes the experiment 
+lasts) household heterogeneity while ​​η​imt​​ is a ­high-frequency demand shock. Here 
+the price faced (​​P​imt​​) varies by customer, even within a market, because the exper-
+iment varies the size of the discount. Given individual demand ​​q​imt​(​P​mt​)​​, market 
+demand is ​​Q​mt​(​P​mt​)​  =  ​∑ i∈​​mw​​ 
+  
+​ ​q​imt​(​P​mt​)​​.
+We choose this particular class of demand functions for its flexibility, tractability, 
+and empirical foundation. First, this demand structure is flexible, nesting many of 
+the functional forms common to the development and trade literature, including 
+linear demand and quadratic demand.
+Second, this class of demand functions is tractable, producing a constant elastic-
+ity of the slope of inverse demand with respect to quantity (​E​) (Bulow and Pfleiderer 
+1983).29 Recall that in the simple model described in Section II, the ­pass-through 
+rate is determined by the profit weight ​ω​, potentially the number of traders, and 
+the slope of inverse demand ​E​. While in theory ​E​ can vary with quantity, this is 
+29 This property holds both for this specification of individual and market demand. Atkin and Donaldson (2015) 
+also rely on this property in estimating markups.
+0
+0.1
+0.2
+0.3
+0.4
+Fraction changed quantity
+−4.4
+−3.9
+−3.3
+−2.8
+−2.2
+−1.7
+−1.1
+−0.6
+−0.3
+0
+−4.4
+−3.9
+−3.3
+−2.8
+−2.2
+−1.7
+−1.1
+−0.6
+−0.3
+0
+Change in price (Ksh/kg)
+0
+5
+10
+15
+20
+25
+Change in quantity (kgs)
+Change in price (Ksh/kg)
+Figure 5. Demand Experiment Quantity Effects
+Notes: The panels show treatment effects on the fraction of consumers who choose a new quantity (left) and change 
+in quantity transacted (right) by level of price change. Quantity changes are expressed in levels and are means that 
+include consumers making no change. Price changes (Ksh/90kg bag) are determined by the randomized subsidy, 
+which can take up to 10 values: ​​{0, − 25, − 50, − 100, − 150, − 200, − 250, − 300, − 350, − 400}​​ Ksh/90kg bag. The 
+­x-axis on the plots are price changes per kg. The mean initial quantity and price are 65kg and 32 Ksh/kg, respec-
+tively. The 95 percent confidence interval is shown around each point estimate.
+
+
+--- PAGE 20 ---
+3724
+THE AMERICAN ECONOMIC REVIEW
+DECEMBER 2020
+a second-order term for which it is already difficult to get precision on a single 
+estimate using the full pooled data (as we will show below); attempting to further 
+estimate ​E​ at different quantity levels would be even more challenging. Under the 
+­Bulow-Pfleiderer class of demand functions, ​E​ is constant with respect to ​q​. To see 
+this, note that the inverse market demand function is
+(9)	
+​​P​mt​  =  a − ​κ​mt​ ​Q​ mt​ 
+δ ​​,
+where constant ​​κ​mt​​ depends on the household heterogeneity (​​b​i​​) and time shocks 
+(​​η​imt​​) in market ​m​. In this case, the elasticity of the slope of inverse demand, ​​E​mw​​, 
+reduces to ​δ − 1​. Therefore, equation (4) simplifies to
+(10)	
+​​ρ​mw​  ≡  ​ ∂ ​P​mw​ 
+_ 
+∂ ​c​mw​ ​  =  ​{1 + ​  δ 
+_ 
+​N​mw​ ​ ​(1 + ω​(​N​mw​ − 1)​)​}​ 
+−1
+​​,
+with our specific models of competition reducing to
+(11)	
+​​ρ​mw​  =  ​
+⎧
+ 
+⎪
+ 
+⎨ 
+⎪ 
+⎩
+​
+​  ​N​mw​ 
+_ 
+​N​mw​ + δ ​
+​ 
+when Cournot competitive 
+​ 
+ 
+ 
+ 
+​  1 
+_ 
+1 + δ ​
+​ 
+when collusive.
+ 
+​
+Third, this class of demand functions has a strong empirical foundation. The 
+experimental design includes variation intentionally designed to test this empirical 
+fit. As shown by equation (10), because ​E​ is constant across ​q​, this class of demand 
+functions predicts a constant ­pass-through rate for a given ​ω​, independent of the 
+size of the cost shock (were ​E​ not constant in ​q​, cost shocks of different sizes, by 
+driving different levels of optimal quantity sold, would induce differential changes 
+in ​E​, which would in turn produce different ­pass-through rates). By offering two 
+different levels of the cost shock, we are able to test for this prediction of constant 
+­pass-through. Because markets are randomized into receiving the low versus high 
+subsidy rate, the only difference in these two sets of markets, on average, should be 
+the level of the cost shock. Under the ­Bulow-Pfleiderer class of demand functions, 
+we should therefore expect to see identical ­pass-through rates for these two markets. 
+This is exactly what we see in column 2 of Table 1, which suggests remarkably 
+similar ­pass-through rates for the two levels of cost reduction. This lends empirical 
+support to this choice of demand class.
+Our focus on demand functions with ​E​ constant in ​q​ motivates our specification 
+of consumer heterogeneity. We place heterogeneity in the ​​b​i​​ term while keeping ​a​ 
+the same for all consumers.30 This preserves constant ​E​, matching the high versus 
+low cost shock ­pass-through results and providing us with the benefits of tractabil-
+ity when estimating a ­higher-order term, but comes at the expense of modeling an 
+endogenous extensive margin.31 Given the potential importance of extensive margin 
+30 We also impose constant ​δ​ across consumers. Because ​δ​ relates to a ­higher-order term in demand, we lack the 
+variation to estimate heterogeneous ​δ​ with any precision.
+31 Variation in ​a​, the choke price, would drive variation in which consumers enter the market at different prices. 
+Constant ​a​ implies either full or no endogenous participation. The number of consumers may still vary for exoge-
+nous reasons, but given our functional form, would not affect inference on the model of competition.
+
+
+--- PAGE 21 ---
+3725
+BERGQUIST AND DINERSTEIN: COMPETITION AND ENTRY
+VOL. 110 NO. 12
+responses to price, in Section V we add heterogeneity in ​a​ and discuss the functional 
+form we impose.32
+Estimation, Identification, and Results.—To estimate the demand model, we 
+implement a log transformation of equation (8) and take the first difference within 
+customer:
+(12)	
+​log​(​q​im1​)​ − log​(​q​im0​)​  =  ​ 1 
+_ 
+δ ​(log​(a − ​P​im1​)​ − log​(a − ​P​im0​)​)​ 
+	
++ ​(log​(​η​im1​)​ − log​(​η​im0​)​)​​,
+where ​​P​im1​ − ​P​im0​​ is the subsidy amount.
+Any endogeneity in prices due to persistent demand conditions is accounted for 
+by the panel nature of this specification. We further use the randomized reduction in 
+the price paid by consumers from the demand experiment as an instrument for the 
+price term (​log​(a − ​P​im1​)​ − log​(a − ​P​im0​)​​) to address any remaining endogeneity 
+(e.g., in ­high-frequency demand shocks, ​​η​imt​​) as we identify the model’s parameters.
+We run the analysis with 936 observations. We estimate the vector of parame-
+ters ​Θ  =  ​(a, δ)​ ′ ​​ in equation (12) using generalized methods of moments. We con-
+struct our IV sample moments as the vector of 9 dummy variables for each positive 
+discount level times the residual.33 We minimize the GMM objective function using 
+the optimal weighting matrix from ­two-step estimation.
+Results are presented at the top of Table 2, which show the point estimates and 
+95 percent confidence intervals. Note that the confidence interval on ​δ​ is wide (for 
+example, we cannot rule out very curved inverse demand of ​δ  =  6.43​). This is 
+because ​δ​, which represents the elasticity of the slope of inverse demand (plus 1), is 
+a higher order object which we are underpowered to measure with great precision, 
+even with over 900 observations from the demand experiment. That said, we have 
+enough precision to rule out some standard demand functional forms, including 
+linear demand (​δ  =  1)​. Moreover, this degree of precision is sufficient for our pur-
+poses. As we will see in the next subsection, from the point estimate on ​δ​, we can 
+predict the level of ­pass-through that one should expect under various models of 
+competition; we will find the prediction of one model to line up closely with what 
+is observed empirically. Further, even at the bounds of our estimate of ​δ​, we can 
+still reject that what we see empirically is consistent with other common models of 
+competition.
+32 Another approach to integrating an extensive margin would have been to model market choice and quantity 
+demand jointly in a ­discrete-continuous demand system, where the discrete and continuous choices are linked via 
+Roy’s Identity. While point estimates from this model lead to similar conclusions about the model of competition, 
+the standard errors are large. Furthermore, given our data, summarizing the discrete choice of where to buy requires 
+considerable dimension reduction, such as through a logit functional form assumption. This assumption puts strong 
+restrictions on demand curvature that we seek to avoid.
+33 We drop the consumers offered no discount as they have no ­within-consumer price variation and do not make 
+a new quantity choice.
+
+
+--- PAGE 22 ---
+3726
+THE AMERICAN ECONOMIC REVIEW
+DECEMBER 2020
+C. Model of Competition
+First, we demonstrate that the observed ­pass-through is very close to the col-
+lusive model prediction evaluated at a demand curvature given by the parameter 
+point estimates. Given the point estimate on ​δ​ of 4.1, we use equation (10) to esti-
+mate the average ­pass-through rate one should expect to observe in the experi-
+ment under various models of competition. If markets are Cournot competitive 
+(​ω  =  0​), we should observe ­pass-through rates that vary with the number of traders: 
+​ρ  =  N / ​(N + 4.1)​​.34 Given the distribution of number of traders in each market in 
+our sample, the expected ­pass-through rate if markets are Cournot competitive is 
+46 percent. On the other hand, if markets are collusive (​ω  =  1​), we should expect 
+to observe 20 percent ­pass-through.35
+Figure 6 displays the bootstrapped distribution of ​ρ​.36 We see that the mass of 
+the distribution of ​ρ​ is concentrated near the predicted ­pass-through of 20 percent 
+under collusion. The dotted lines, which identify the 95 percent confidence interval, 
+clearly reject a ​ρ​ consistent with that predicted under a model of Cournot competi-
+tion (and Bertrand competition).
+This exercise does not take into account the fact that ​δ​ is estimated imprecisely. 
+To account for this imprecision, we generate a bootstrapped distribution of ​ω​ by 
+34 This would predict that ­pass-through would be increasing in the number of traders. Note that we already saw 
+in Section IVA that ­pass-through did not vary with the number of traders in way that is consistent with this predicted 
+pattern.
+35 While not nested in our model, if traders are Bertrand competitors, we should observe 100 percent 
+­pass-through, at least in this simple model.
+36 The distribution was constructed using 1,000 block bootstrapped samples where blocks are defined by market 
+× ­4-week-blocks (the level at which treatment was randomized). There are 180 such clusters from 60 markets.
+Table 2—Model Estimates
+Parameter 
+estimate
+95% confidence 
+interval lower bound
+95% confidence 
+interval upper bound
+Simple model
+a
+42.76
+41.56
+43.96
+δ
+4.07
+1.71
+6.43
+ω
+0.78
+0.05
+7.48
+General model
+​µ​a​
+29.15
+28.84
+52.19
+​σ​a​
+2.87
+2.48
+60.00
+δ
+4.21
+0.70
+9.64
+ω
+1.07
+0.20
+3.09
+γ
+0.0006
+−0.0006
+0.0016
+General model, ω = 1
+γ
+0.0007
+−0.0010
+0.0016
+Notes: The point estimates and the 95 percent confidence intervals for the estimated parame-
+ters of the simple and general models are displayed. The final row is the point estimate for the 
+marginal cost slope under the general model where we impose ​ω  =  1​. This is the relevant cost 
+parameter for markup and welfare analysis, which we implement given that traders maximize 
+joint profits. The 95 percent confidence interval on ​γ​ in the model with ​ω  =  1​ imposed does 
+not account for the testing step. For a specification that allows for joint estimation of ​γ​ and test-
+ing of the model of competition, see online Appendix Section B.
+
+
+--- PAGE 23 ---
+3727
+BERGQUIST AND DINERSTEIN: COMPETITION AND ENTRY
+VOL. 110 NO. 12
+estimating equation (10) with 1,000 bootstrapped estimates of ​ρ​ and ​δ​.37 The top 
+graph in Figure 7 presents this distribution, overlaid with the benchmark values of ​ω​ 
+under Cournot competition and collusion. We plot in red the value of ​ω​ predicted 
+by the point estimates on ​ρ​ and ​δ​. The point estimate of ​ω​ is 0.78, with a 95 percent 
+confidence interval of ​​(0.05, 7.48)​​, which is quite close to, and statistically indistin-
+guishable from, the model benchmark of ​ω  =  1​ under perfect collusion. Moreover, 
+while the collusive market benchmark of ​ω  =  1​ lies well within the 95 percent 
+confidence interval, the levels of ​ω​ predicted by a Cournot model and perfectly 
+competitive model lie outside these bounds. We are therefore able to reject them 
+with 95 percent confidence.38
+Under this simple model, the observed ­pass-through rate is therefore consistent 
+with an underlying market structure in which traders act as if they maximize joint 
+profits.
+V.  Estimating the Form of Competition in the General Empirical Model
+In Section II we started with a general model before imposing two ­supply-side 
+assumptions: trader symmetry and constant marginal costs. We also made a 
+37 We take the expectation of equation (10) over our markets with heterogeneous numbers of traders and esti-
+mate ​ω​ to make equation (10) hold in expectation.
+38 We are able to reject a Cournot competitive model because the confidence interval around ​δ​, however large, 
+does exclude the extreme curvature necessary to justify such low ­pass-through under a Cournot model. To achieve 
+a predicted ​ρ​ of 22 percent under a Cournot model, we would have required a ​δ​ of about 12.
+Empirical
+point
+estimate
+            Collusive
+Cournot
+Bertrand
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+Pass-through rate
+Figure 6. Predicted ­Pass-Through under Three Simple Models
+Notes: Given our demand curvature estimate, we predict within our simple model that one would have observed 
+100 percent ­pass-through in a Bertrand competitive market, 46 percent ­pass-through in a Cournot competitive mar-
+ket, and 20 percent ­pass-through in a collusive market environment. The distribution of empirical ­pass-through, 
+calculated for 1,000 bootstrapped samples, is shown in gray. The point estimate and 95 percent confidence interval 
+are shown in red.
+
+
+--- PAGE 24 ---
+3728
+THE AMERICAN ECONOMIC REVIEW
+DECEMBER 2020
+­simplifying assumption in the demand model, placing heterogeneity across consum-
+ers in ​​b​i​​, rather than in ​a​, which restricts adjustment on the extensive margin. The 
+value of these simplifying assumptions is that they allow us to reduce each experi-
+ment to identifying a single parameter; this ­one-to-one matching of experiment to 
+theory makes transparent the link between experimental results and the identifica-
+tion of the model of competition. Using this approach, Section IV estimated the 
+profit weight and found evidence consistent with joint profit maximization.
+To test whether our conclusions are robust to these simplifying assumptions, 
+we now relax the ­supply-side assumptions and extend our demand model to 
+Empirical
+point
+estimate
+Empirical
+point
+estimate
+Collusive
+Collusive
+Cournot
+Cournot
+ 
+−1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+ω
+ 
+95% 
+CI
+95% 
+CI
+95% 
+CI
+95% 
+CI
+−1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+ω
+Figure 7. Profit Weight (Omega) Estimates: Simple and General Models
+Notes: The top panel shows the bootstrapped estimated ​ω​ distribution for the simple model while the bottom panel 
+is for the general model. Bootstrap estimates of ​ω​ come from 1,000 bootstrapped estimates of ​ρ​ and ​δ​ plugged into 
+equation (10) for the simple model and full demand and supply bootstrap for the general model. Recall that ​ω  =  0​ 
+if Cournot competitive and ​ω  =  1​ if perfectly collusive. The point estimate and 95 percent confidence interval are 
+shown in red.
+
+
+--- PAGE 25 ---
+3729
+BERGQUIST AND DINERSTEIN: COMPETITION AND ENTRY
+VOL. 110 NO. 12
+­accommodate further household heterogeneity and an extensive margin. We view 
+this more general model as complementary as it relaxes assumptions but with a less 
+direct link between experimental results and inference on the model of competition, 
+albeit still using experimental variation for identification of all parameters.
+A. General Demand Model
+We start with the general demand model as estimated demand will be an input 
+into our supply model. We continue with the model in Section IVB but add further 
+consumer heterogeneity by letting ​a​, the choke price, be ­consumer-specific:39
+(13)	
+​​q​imt​(​P​imt​)​  =  ​
+⎧
+ 
+⎪
+ 
+⎨ 
+⎪
+ 
+⎩
+​​(​ ​a​i​ − ​P​imt​ 
+_ 
+​b​i​ 
+​)​ 
+​ 1 
+_ 
+δ ​
+​ ​η​imt​​  if ​P​imt​  ≤  ​a​i​​ 
+ 
+ 
+0
+​ 
+if ​P​imt​  >  ​a​i​,
+​
+where ​​a​i​, ​b​i​, δ, ​η​imt​  >  0​.
+This heterogeneity makes the model more flexible and introduces a heteroge-
+neous household extensive margin. If the price is above a household’s ​​a​i​​, then 
+the household will not purchase any maize at the market that week. This hetero-
+geneity, though, proves challenging to identify even with the panel structure of 
+the demand experiment. We thus impose a functional form on the heterogeneity, 
+assuming ​​a​i​  ∼  N​(​μ​a​, ​σ​ a​ 
+2​)​​. This heterogeneity permits more flexible market demand 
+changes for a price change.40
+Further, because the demand experiment reaches consumers only after they chose 
+to visit the market and agree to a ­price-quantity bundle, we supplement our demand 
+experiment results with additional data moments from the cost shock experiment to 
+bring in more information about consumers’ choices related to the extensive mar-
+gin.41 Before specifying the moments, we analyze the effects of the cost shock on 
+­market-level transacted quantities. We estimate reduced-form regressions, using 
+­market-week level versions of equations (6) and (7) but replacing the dependent 
+variable of price with four quantity measures: number of transactions, transaction 
+rate,42 kgs per transaction, and total kgs. We summarize the results in Table 3.
+We find a large quantity response to the cost shock. For a decrease in marginal 
+cost of 1 Ksh/kg, we estimate an increase of 846 kgs in a market/day (column 
+5 of Table 3). The effect is driven almost entirely by the extensive margin, as we 
+see an increase of 11 transactions (column 1). The effect on the intensive margin, 
+which combines increased demand from a fixed set of consumers and compositional 
+39 To the extent that some consumers may make multiple transactions, we allow ​a​ to vary by transaction.
+40 While individual demand remains in the ­Bulow-Pfleiderer class of demand functions, market demand is no 
+longer in the class and we will no longer rely on the sufficient statistics formula.
+41 The variation in the demand experiment alone is technically sufficient to identify ​​μ​a​​ and ​​σ​a​​, the parameters of 
+heterogeneity in ​a​, as ​​a​i​​ affects not just whether to buy anything but also how much; however, because the additional 
+moments better target extensive margin choices, we present them as our main specification. Note, though, that we 
+get very similar results when relying only on the demand experiment moments.
+42 We observe the number of transactions for each ­market-day. We convert these to a transaction rate by dividing 
+by the maximum daily number of transactions observed in sample for each market. Estimates of the profit weight 
+in Section VB are robust to increasing the market size by at least a factor of 2.

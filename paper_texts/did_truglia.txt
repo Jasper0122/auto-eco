@@ -1,0 +1,1415 @@
+
+
+--- PAGE 1 ---
+American Economic Review 2020, 110(4): 1019–1054 
+https://doi.org/10.1257/aer.20160256
+1019
+The Effects of Income Transparency on ­Well-Being: 
+Evidence from a Natural Experiment†
+By Ricardo ­Perez-Truglia*
+In 2001, Norwegian tax records became easily accessible online, 
+allowing everyone in the country to observe the incomes of everyone 
+else. According to the income comparisons model, this change in 
+transparency can widen the gap in ­well-being between richer and 
+poorer individuals. Using survey data from 1985–2013 and multiple 
+identification strategies, we show that the higher transparency 
+increased the gap in happiness between richer and poorer individuals 
+by 29 percent, and it increased the life satisfaction gap by 21 percent. 
+We provide ­back-of-the-envelope estimates of the importance of 
+income comparisons, and discuss implications for the ongoing 
+debate on transparency policies. (JEL D31, H24, I31, K34)
+The income comparisons model proposes that individual ­well-being largely 
+depends on how that individual’s income compares to the incomes of others (Luttmer 
+2005). This is a fundamental aspect of individual preferences, yet no consensus 
+exists about the importance of income comparisons.1 In this study, we offer novel 
+evidence based on a unique natural experiment: in 2001, Norwegian tax records 
+became easily accessible online, allowing everyone in the country to observe the 
+incomes of everyone else quickly and easily. We test the hypothesis that, consistent 
+with the model of income comparisons, increased income transparency widens the 
+gap in ­well-being between richer and poorer individuals.
+Tax records have been public in Norway since the nineteenth century, but they 
+have not always been easily accessible. Before 2001, one had to make a formal 
+request in person at the tax agency to see someone else’s income. In the fall of 2001, 
+the Norwegian media digitized tax records and created websites that allowed any 
+1 This question is important to understand preferences more deeply, and also due to its implications for income 
+taxation and other policies. For example, income comparisons can create positional externalities that reduce social 
+welfare and could be corrected with taxes (e.g., Boskin and Sheshinski 1978, Frank 1985).
+* Anderson School of Management, University of California, Los Angeles (email: ricardo.truglia@anderson.
+ucla.edu). Marianne Bertrand was the coeditor for this article. Thanks to Ipsos MMI for providing access to the sur-
+vey data. Thanks to Ottar Hellevik for all his help with this study. Thanks to the reviewers for invaluable feedback. 
+I also benefited from the feedback from several colleagues as well as seminar discussants at Harvard, Princeton, 
+Yale, Universidad de San Andres, LMU Munich, ITAM, CIDE, Universidad Católica de Chile, Universidad de la 
+República, RAND, the BESH Research Symposium, the AEA Annual Meetings, the USC Happiness Conference, 
+and the NBER Summer Institute. Diego Marino Fages provided outstanding research assistance. The first draft of 
+this paper circulated in August 2015 under the title “Measuring the Value of Self- and Social-Image.”
+† Go to https://doi.org/10.1257/aer.20160256 to visit the article page for additional materials and author  
+disclosure statement.
+
+
+--- PAGE 2 ---
+1020
+THE AMERICAN ECONOMIC REVIEW
+APRIL 2020
+individual with internet access to search anyone’s tax records. Every Norwegian was 
+one click away from finding out the incomes of everyone else in the country.
+We use various data sources to show the massive popularity of these online tax 
+lists. During the busiest week of the year, these websites were more popular than 
+YouTube. We also show that, rather than using the tax lists for legitimate goals (e.g., 
+uncovering corruption or tax evasion), most used the websites to snoop on friends, 
+relatives, and social contacts. For example, users could create leaderboards showing 
+the highest and lowest earners among their Facebook friends or maps showing the 
+incomes of everyone living around a specific location. This behavior became so 
+pervasive that the Norwegian media dubbed it “tax porn.”
+Because income transparency facilitates income comparisons, it can widen the 
+gap in ­well-being between richer and poorer individuals. Poorer individuals often 
+lose this game of income comparisons. For example, if they learn that they are 
+poorer than they thought (Cruces, ­Perez-Truglia, and Tetaz 2013), it can lower 
+their ­self-esteem. If their social contacts learn how poor they are, it can reduce their 
+­social-esteem. In contrast, richer individuals often benefit from this game. Learning 
+that they are richer than they thought can boost their ­self-esteem. And being looked 
+up by their social contacts can boost their ­social-esteem.2
+To test this hypothesis, we measure the effect of the increase in transparency on 
+the gradient between subjective ­well-being and individual income rank (henceforth 
+referred to as the ­happiness-income gradient). We use survey data from Norway 
+from 1985–2013 that include the two most widely used measures of subjective 
+­well-being: happiness and life satisfaction. Despite some limitations of these sub-
+jective measures, evidence suggests that they contain useful information about 
+­well-being. For example, life satisfaction and happiness have been shown to be sig-
+nificantly correlated with objective measures of ­well-being and with decision utility 
+(Di Tella, MacCulloch, and Oswald 2003; Benjamin et al. 2012).
+Consistent with the hypothesis of income comparisons, we show that the 2001 
+income transparency change led to a 29 percent increase in the ­happiness-income 
+gradient ( ­p-value  =  0.005) and a 21 percent increase in the life ­satisfaction-income 
+gradient (­ p-value  =  0.026).
+We use multiple strategies to identify the causal effect of the transparency change 
+of 2001. First, we conduct an ­event-study analysis and find that the ­happiness-income 
+gradient stayed constant in the years before the change, increased in 2001, and per-
+sisted at the higher level during the subsequent 12 years of higher transparency.
+Second, we identify individuals who were most likely to be exposed to the effects 
+of online tax lists, based on observable characteristics that predict internet access. We 
+show that, between 1985 and 2000, the ­happiness-income gradient remained stable 
+for individuals with low and high internet access. After 2001, the ­happiness-income 
+gradient remained at the ­pre-2001 level for individuals with lower internet access 
+but increased substantially and persisted at the higher level for individuals with 
+higher internet access.
+2 Different individuals may react differently to the increased transparency. For example, while some rich indi-
+viduals may feel happy that their neighbors caught a glimpse of their income, others may feel uneasy about the same 
+situation (e.g., if they do not feel deserving of their high income). In this study, we can only measure which of these 
+different mechanisms dominates on average.
+
+
+--- PAGE 3 ---
+1021
+PEREZ-TRUGLIA: THE EFFECT OF INCOME TRANSPARENCY ON WELL-BEING
+VOL. 110 NO. 4
+Our third identification strategy reproduces the analysis using similar survey data 
+from Germany, a country that was not affected by the Norwegian change in income 
+transparency. Similar results for Germany would indicate that another factor, such as 
+the ­dot-com bubble, caused the change in the ­happiness-income gradient in Norway. 
+In sharp contrast to the Norwegian findings, however, the life ­satisfaction-income 
+gradient did not change around 2001 in Germany. The ­event-study analysis shows 
+that this gradient remained stable in Germany from 1985 to 2013, both in the popu-
+lation at large and in the ­subpopulations of individuals with higher and lower inter-
+net access.
+Anecdotal evidence supports our finding that higher income transparency increased 
+the ­well-being gap between richer and poorer households. For example, the media 
+reported that the online tax lists led to bullying of kids from poorer households and 
+that adults from poorer households felt that they disappointed themselves and others 
+(Steinsland 2008, Associated Press 2009). Our findings also align with survey data 
+indicating that, relative to richer households, poorer households were more likely to 
+oppose the income transparency policy (Langset 2011).
+The effects of income transparency may operate through multiple mechanisms. 
+We provide suggestive evidence for one specific mechanism, ­self-perceptions. 
+According to this channel, richer individuals may be happier because they learn that 
+they are richer than they thought, and poorer individuals may be unhappier because 
+they learn that they are poorer than they thought. We show that, indeed, transparency 
+increased the gradient between perceived income rank and actual income rank by 
+8.5 percent (­ p-value  ​<​  0.001) and the gradient between the perceived adequacy 
+of one’s income and income rank by 4.7 percent (­ p-value  =  0.083). This evidence 
+cannot prove or rule out the ­self-perceptions channel, but it does serve as suggestive 
+evidence. Moreover, the perceived rank and income adequacy gradients (8.5 percent 
+and 4.7 percent) are smaller than the changes in the happiness and life satisfaction 
+gradients (29 percent and 21 percent), which suggests the presence of other mediat-
+ing factors besides ­self-perceptions.
+We use the estimated effects of transparency to quantify the importance of income 
+comparisons. Our ­back-of-the-envelope calculations suggest that, as a conservative 
+lower bound, income comparisons accounted for 22 percent of the happiness that 
+individuals in Norway derived from their incomes during the period of higher trans-
+parency. Moreover, we show that this lower bound is consistent with the effect of 
+relative income on happiness, as reported in related studies.
+Our evidence also relates to the ongoing debate on transparency. Technological 
+advances have made it possible for everyone to know potentially everything about 
+everyone else, sparking debates on whether the government should disclose its data, 
+such as tax records. Some arguments that favor or oppose transparency are rooted in 
+philosophical grounds.3 However, most arguments seem to be based on the poten-
+tial effects of transparency. In particular, detractors of income transparency argued 
+that the tax lists were used in despicable ways to harm the ­well-being of poorer 
+3 For example, some of the supporters of income transparency in Norway see it as a fundamental principle of 
+democracy, while some opponents see it as a violation of privacy rights.
+
+
+--- PAGE 4 ---
+1022
+THE AMERICAN ECONOMIC REVIEW
+APRIL 2020
+­individuals.4 This argument, however, was based on qualitative and anecdotal evi-
+dence. This study provides the first quantitative evidence on this matter.
+Beyond the Norwegian experience, information disclosure may directly affect 
+­well-being in other contexts. In the 2000s, Sweden, Iceland, and Finland had to 
+decide whether to make their tax records as easily accessible as in Norway. Outside 
+of Scandinavia, governments disclose all sorts of sensitive information, such as the 
+salaries of public employees (Card et al. 2012, Mas 2017), individual contributions 
+to political campaigns (­Perez-Truglia and Cruces 2017), and identities of criminals 
+and tax delinquents (Linden and Rockoff 2008, ­Perez-Truglia and Troiano 2018). 
+Our findings suggest that it is important to measure the ­well-being effects of disclos-
+ing sensitive data and to account for them in the ­cost-benefit analysis.
+This paper relates to various strands of literature. Most important, it relates to a 
+literature on the effect of relative income on ­well-being. In a seminal contribution, 
+Easterlin (1974) showed evidence that happiness and income are positively cor-
+related across individuals within a country but that average happiness in a country 
+does not seem to rise over time as average income rises. One standard explanation 
+for the paradox is that happiness depends on relative income. Within a given coun-
+try, richer individuals have higher relative income, so they are happier. However, as 
+every individual in the country becomes richer, the average relative income stays 
+constant, and thus average happiness also remains constant. Consistent with this 
+interpretation, several studies have shown that, holding own income constant, sub-
+jective ­well-being decreases with the mean income of neighbors (Luttmer 2005, 
+­Ferrer-i-Carbonell 2005).5
+However, this evidence is subject to concerns about causal identification. For 
+example, the Balassa–Samuelson model (Balassa 1964, Samuelson 1964) predicts 
+that consumer prices should be higher in areas where nominal incomes are higher. 
+Thus, even in the absence of income comparisons, happiness should be negatively 
+correlated to the average income of neighbors, reflecting a higher cost of living. More 
+generally, the average income in an area could be correlated with other unobservable 
+attributes of the location that also affect ­well-being, thus generating ­omitted-variable 
+biases. We contribute to this literature by presenting novel evidence on the effects of 
+relative income on happiness that relies on a new identification approach, based on 
+­quasi-experimental variation in income transparency.
+This study also relates to Bø, Slemrod, and Thoresen (2015), which measured 
+the effect of the Norwegian disclosure of tax records on tax evasion. Disclosing 
+tax records may deter tax evasion by encouraging others with relevant information 
+about true tax liability to come forward and by threatening evaders with social sanc-
+tions (see also ­Perez-Truglia and Troiano 2018). Bø, Slemrod, and Thoresen (2015) 
+found that the change in income disclosure increased reported income among busi-
+ness owners by 2.7 percent, resulting in a total gain of 0.2 percent in income tax 
+4 This was by no means the only negative consequence from income transparency that was debated. For exam-
+ple, some detractors of open disclosure argued that the tax records could be used by criminals to target rich individ-
+uals. However, in a letter to the Ministry of Justice, the Norwegian police noted that their investigations ruled this 
+out as a significant source for concern (Dagens Næringsliv 2010).
+5 There are some conflicting accounts about the evidence. See, for instance, Hagerty and Veenhoven (2003), 
+Stevenson and Wolfers (2008), Easterlin et al. (2010), and Easterlin (2017) on the effect of income growth on 
+happiness, and Senik (2004), Clark, ­Westergård-Nielsen, and Kristensen (2009), and Deaton and Stone (2013) on 
+the effect of relative income on happiness.
+
+
+--- PAGE 5 ---
+1023
+PEREZ-TRUGLIA: THE EFFECT OF INCOME TRANSPARENCY ON WELL-BEING
+VOL. 110 NO. 4
+­revenues. This evidence confirms a benefit of disclosure, as alleged by its support-
+ers. We present evidence on an unintended effect, income comparisons, as alleged 
+by detractors of income transparency.
+This work also relates to the study by Card et al. (2012) of the effects of income 
+transparency on job satisfaction. The researchers sent ­emails to a random sample 
+of university employees with information on how to access a website that listed the 
+wages of all employees working in the same university. In a ­follow-up survey, they 
+found that for workers with ­below-median salaries within their unit and position, 
+having access to the website decreased satisfaction with their wages and their jobs. 
+Consistent with this finding, Rege and Solli (2015) shows evidence that the disclo-
+sure of tax records in Norway increased the probability of quitting among workers 
+with lower salaries. Their findings suggest that some poor individuals may benefit 
+from income transparency, because they can find out if they are ­underpaid and look 
+for a better job. On the contrary, our evidence suggests that income transparency 
+increased the ­well-being of richer individuals at the expense of the ­well-being of 
+poorer individuals.
+Last, this study relates to a literature documenting how individuals misperceive 
+their positions in the income distribution and how providing objective information 
+can correct these misperceptions (Cruces, ­Perez-Truglia, and Tetaz 2013; Karadja, 
+Mollerstrom, and Seim 2017). These studies are based on artificial contexts in which 
+researchers provide information through a survey. We contribute to this literature by 
+exploiting the variation in information access in a natural, ­large-scale setting and by 
+showing that correcting these misperceptions may affect ­well-being.
+The rest of the paper proceeds as follows. Section I describes relevant details 
+about the disclosure policy. Section II presents the econometric specification and the 
+survey data. Section III presents the results. The last section concludes.
+I.  Relevant Institutional Details
+A. Origin of the Online Tax Lists
+Although tax records have been publicly available in Norway since the middle of 
+the nineteenth century, they were not easily accessible before 2001. Individuals who 
+wanted to learn about someone else’s income had to visit the local tax office or city 
+hall during a ­three-week period and search through a book with records for thou-
+sands of taxpayers from the same municipality.6 In the fall of 2001, a Norwegian 
+newspaper made these tax records searchable online for the first time so that any 
+Norwegian with internet access could view them easily and at any time (see Figure 1 
+for a screenshot of this website). All major newspapers soon created their own web-
+sites, which remained popular in the country for the following decade.7 These web-
+sites listed full names and net incomes (see Figure 2 for a sample search result), and 
+6 In selected municipalities and only shortly before 2001, some local organizations sold books with information 
+from the local tax rolls. Bø, Slemrod, and Thoresen (2015) exploits variation across these municipalities to identify 
+the effects of transparency. We cannot use this same identification strategy because we lack sufficient data (we 
+would need a survey sample orders of magnitude higher and with a higher frequency).
+7 The following are some sample websites: www.skattelister.no, www.nrk.no/skatt, www.tu.no/skattelister, and 
+skatt.na24.no.
+
+
+--- PAGE 6 ---
+1024
+THE AMERICAN ECONOMIC REVIEW
+APRIL 2020
+could also list additional information such as taxes, net worth, birth years, cities, 
+and postal codes. These websites allowed visitors to search by multiple fields. For 
+example, visitors could search for their own last name to find relatives. Or they 
+could search by postal code to find neighbors.
+Although all other Scandinavian countries (except Denmark) make tax records 
+publicly available, the Norwegian tax disclosure during 2001–2013 was exceptional 
+because of its accessibility (Langset 2011).8 In Finland, accessibility of tax records 
+is similar to that in Norway prior to 2001, requiring individuals to visit the tax 
+agency in person (Kostyukov 2018).9 In Sweden, the requests for tax returns are 
+not anonymous and must be done by phone, making this practice much less popular 
+than it is in Norway.10 In Iceland, tax records are also difficult to access and avail-
+able during two weeks of the year only.
+B. Evolution of the Online Tax Lists
+Between 2001 and 2013 (the last year of our survey data), several factors may 
+have contributed to increased or decreased use of online tax lists, though none of 
+these changes in visibility was remotely comparable in size to the change of 2001.
+8 In other countries, information about incomes can be easily accessed online for a subset of the population (e.g., 
+public employees in some US states).
+9 In the day that the tax records are released, a few dozen Finnish journalists line up in the tax agency to look up 
+the incomes of some ­newsworthy individuals. However, that number pales in comparison to the millions of searches 
+conducted in Norway every year. One exception of the Finnish law is that the tax records are searchable online for 
+the top 10,000 richest individuals. Also, there was a period in which requests for tax records could be done over 
+the phone. However, to the best of our knowledge, this option was not nearly as widespread as the online searches 
+were in Norway.
+10 In 2006, a credit reporting company called Ratsit published a website with a search tool for tax records similar 
+to the ones offered in Norway (The Local 2015). However, it was taken down by the Sweden’s Chancellor of Justice 
+shortly thereafter. The website was later allowed, but the searches were ­non-anonymous and subject to a fee. In 
+2015, this same company began selling physical copies of the tax records at the municipality level, just like in some 
+Norwegian municipalities prior to 2001.
+Figure 1. Screenshot of Search Tool for Tax Records
+Note: Intro website from skattelister.no as of June 16, 2010. 
+Source: web.archive.org
+
+
+--- PAGE 7 ---
+1025
+PEREZ-TRUGLIA: THE EFFECT OF INCOME TRANSPARENCY ON WELL-BEING
+VOL. 110 NO. 4
+Some factors may have contributed to a gradual increase in income visibility. For 
+example, the media added convenient and engaging ways to browse tax records. One 
+newspaper released an app that connected to Facebook and automatically created 
+leaderboards showing the highest and lowest earners among Facebook friends, as in 
+Figure 3.11 Another application allowed users to tap on a map to see the incomes of 
+everyone living near that position.12 Just like the websites, these smartphone apps 
+were incredibly popular (Jørgenrud 2009, Teknologirådet 2010).13 There was also a 
+modest increase in internet access during the 2000s, which may have contributed to 
+higher income visibility: according to Statistics Norway, the share of internet users 
+increased from 72.8 percent in 2002 to 95.1 percent in 2013.
+On the other hand, some government regulations may have decreased the degree 
+of income transparency. From 2004 to 2006, regulators introduced restrictions to 
+the use of the tax lists: visitors had to use an official search tool conduct searches, 
+which was only available during three weeks of the year (Teknologirådet 2010). The 
+official search tool was easy to use, and the newspapers seamlessly embedded it in 
+their own websites. The ­three-week restriction may not have had significant effects 
+either, as individuals could conduct the same number of searches, just in a concen-
+trated period. Indeed, most searches occurred during that same ­three-week period 
+even when the restriction was not in place, because the timing coincided with tax 
+record updates. For example, about 60 percent of data searches published in October 
+2013 were conducted during the first three weeks after the tax lists were posted (E24 
+2014), even though individuals were allowed to search all year long.
+11 Also, the ­top-right corner of Figure 1 shows an advertisement for one of these apps.
+12 Panel B of online Appendix Figure A.1 shows a screenshot of one of these apps.
+13 In addition to showing individual records, some of the websites and apps offered tools to navigate aggregate 
+data. For example, panel C of online Appendix Figure A.1 shows the screenshot of one of the websites offering an 
+interactive tool to figure out the user’s position in the income distribution of the country or a city (Dagens Næringsliv 
+2014). Also, the data published on the tax lists were eventually indexed by all the popular search engines. As a con-
+sequence, searching for the name of a Norwegian citizen in Google would show the individual’s tax record at the 
+top of the search results (Teknologirådet 2010).
+Figure 2. Screenshot of a Sample Search Result from the Search Tool
+Note: Search result from skatt.na24.no as of August 1, 2015. 
+Source: web.archive.org
+
+
+--- PAGE 8 ---
+1026
+THE AMERICAN ECONOMIC REVIEW
+APRIL 2020
+The 2004 restrictions were removed in 2007, with no new restrictions added 
+until 2011. From 2011 to 2013, the government required individuals who wanted 
+to search tax records to log in to the official website of the tax agency using a ­PIN 
+code and a password.14 Most individuals presumably already had accounts for filing 
+their taxes and other online services.15 Search volume probably declined due to this 
+added hassle, but it remained substantial (Thoresen 2013).
+The final and most significant restriction was introduced in 2014, when the 
+searches became ­non-anonymous. This change is not relevant for our empirical 
+analysis because it occurred after the last year of the survey data. However, we 
+discuss this regulatory change below, because it provides evidence about how indi-
+viduals had been using the search lists.
+14 The 2011 legislation also introduced a limit on the maximum number of searches per month (500), although 
+it seems that such restriction would not be binding for the vast majority of individuals. Also, the government still 
+allowed the media to disseminate some information from the tax lists, such as the lists of the ­top-100 richest individ-
+uals or break downs of average income by county; see, for example, the following website, which is still functional: 
+www.vg.no/spesial/skattelister/. For reference, panel A of online Appendix Figure A.1 shows a screenshot of the 
+search tool from the official website of the tax agency as of 2015.
+15 However, individuals who were not registered in the tax agency, such as minors or visitors from other coun-
+tries, could not log into the website.
+Figure 3. Screenshot of a Smartphone Application Showing an Income Leaderboard
+Source: Jan Omdahl, “Nå får du skattesøk på iPhone,” Dagbladet, October 15, 2009
+
+
+--- PAGE 9 ---
+1027
+PEREZ-TRUGLIA: THE EFFECT OF INCOME TRANSPARENCY ON WELL-BEING
+VOL. 110 NO. 4
+C. Popularity of the Online Tax Lists
+We use three sources of data to assess the popularity of the tax lists. The most 
+direct evidence comes from a 2007 survey conducted by Synovate, which was repre-
+sentative of the population of taxpayers. Around 40 percent of respondents reported 
+to have used the online search tools (Skattebetaleren 2008). This behavior may be 
+­underreported in surveys because of social desirability bias. Thus, the true fraction 
+of Norwegians using these websites may have been even larger than 40 percent.
+Web traffic data confirm media claims about the massive popularity of the online 
+tax lists, with one website reporting 29.4 million searches in the year after the pub-
+lication of the tax records for 2007 (VG 2008). This figure implies 7.47 searches per 
+capita among 3,935,000 internet users in Norway in 2007. Even if these statistics are 
+inflated due to ­self-reporting by the website owners, this figure excludes traffic from 
+other websites and smartphone apps offering access to the tax records, making the 
+likely number of searches even higher.
+There are also publicly available data from the period when tax records were 
+accessible only from the tax agency’s official website. According to the Norway 
+Ministry of Finance (2014), 920,896 unique users conducted slightly more than 
+17 million searches in 2013.16 In that year, only adults with a valid account could 
+log in to the official website to conduct searches. Among the 3,797,822 adults in 
+Norway, about 24.25 percent searched for at least one tax record in 2013, and the 
+average user made 18.46 searches.
+The statistics reported for 2007 and 2013 are not directly comparable to each 
+other, because they come from different sources and are probably based on different 
+definitions. With that caveat, the number of individuals conducting searches and the 
+number of searches per capita decreased from 2007 to 2013. This difference is prob-
+ably due to the 2011 requirement that users log in to the official tax agency website 
+to search tax records.
+We also assess the popularity of the income search tool using data from Google 
+Trends, which include the number of times that a keyword is searched in the Google 
+search engine.17 For the main search category, skattelister, we include searches 
+for the two words used most often to refer to the tax records, “skattelister” and 
+“skattelistene,” which both translate literally to “tax list.” For instance, one popular 
+website with access to the tax records was www.skattelister.no. As benchmarks, we 
+use data on two keywords that are consistently among the most popular keywords 
+around the world: “weather” and “YouTube.” As a proxy for the general interest in 
+information about taxes, we study the number of searches for “tax.”
+Figure 4 shows the popularity of selected keywords in 2010 (the last year when 
+users could conduct searches outside of the official website of the tax agency). 
+Panel A of Figure 4 shows the results for Norway. Google Trends does not pro-
+vide information about the absolute number of searches, so the search totals are 
+16 The statistics that have been reported for 2011 and 2012 are similar in magnitude to those for 2013: Bergens 
+Tidende (2014) reports over 700,000 unique visitors making over 13 million searches in 2011, and over 900,000 
+unique visitors making over 16.5 million searches in 2012.
+17 The data can be accessed at: trends.google.com. For a discussion of the advantages and limitations of this type 
+of data, see ­Stephens-Davidowitz (2014).
+
+
+--- PAGE 10 ---
+1028
+THE AMERICAN ECONOMIC REVIEW
+APRIL 2020
+Panel A. Annual search volumes, Norway versus Sweden
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Google searches (relative to YouTube)
+Skattelister
+Tax
+Weather
+YouTube
+Panel B. Weekly search volumes, Norway
+Norway
+Sweden
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+Google search index
+Jan. 3, 2010
+Jan. 31, 2010
+Feb. 28, 2010
+March 28, 2010
+April 25, 2010
+May 23, 2010
+June 20, 2010
+July 18, 2010
+Aug. 15, 2010
+Sep. 12, 2010
+Oct. 10, 2010
+Nov. 7, 2010
+Dec. 5, 2010
+Jan. 2, 2011
+Week (start date)
+Skattelister
+Tax
+Weather
+YouTube
+Skattelister
+Weather
+YouTube
+Tax
+Figure 4. Popularity of Online Tax Lists Measured by Google Search Data
+Notes: Google Trends data for 2010. Panel A shows the annual number of Google searches for each category of key-
+words, relative to the searches for “youtube.” The Skattelister category is comprised by “skattelister+skattelistene,” 
+Tax is comprised by “skatt+skatter,” Weather is comprised by “yr+ver” in Norway and “väder” in Sweden. Panel B 
+shows the weekly number of searches for each keyword category in Norway, normalized so that total searches sum 
+up to 1 in the first week of 2010.
+
+
+--- PAGE 11 ---
+1029
+PEREZ-TRUGLIA: THE EFFECT OF INCOME TRANSPARENCY ON WELL-BEING
+VOL. 110 NO. 4
+­normalized as a fraction of YouTube searches.18 The data suggest a remarkable 
+interest in the tax lists: for every five searches for YouTube, there was about one for 
+skattelister. Norwegians were more likely to search for the tax records than to search 
+for the weather. Searches for the tax lists were roughly three times higher than those 
+for taxes, suggesting that a general interest in taxes does not explain the popularity 
+of the search tool. As a robustness check, panel B of Figure 4 provides compara-
+ble search data for Sweden, where there is no reason for individuals to search for 
+skattelister. The volumes of searches for weather, taxes, and YouTube are roughly 
+similar between Norway and Sweden, but searches for skattelister are virtually non-
+existent in Sweden.
+Panel B of Figure 4 shows the distribution of Google searches over the course of 
+each week of 2010. Search volumes are normalized so that searches in all categories 
+sum up to 1 in the first week of 2010. During most of the year, searches for the tax 
+lists remained stable at roughly twice the volume of searches for taxes and at about 
+the same as ­weather-related searches. In the third week of October, when data from 
+the previous tax calendar year were released, searches for the tax lists increased 
+sharply.19 During that week, the number of searches for the tax lists exceeded the 
+number of searches for YouTube, suggesting that Norwegians were more interested 
+in learning about others’ incomes than in watching videos on YouTube.
+D. Uses of the Online Tax Lists
+This section presents some evidence that the online tax lists were being used pri-
+marily to snoop on social contacts.
+Perhaps the best piece of evidence comes from the regulatory change that hap-
+pened in 2014, when searches for tax records stopped being anonymous. Specifically, 
+any individual could use the same website to identify who searched for their tax 
+records. This ­non-anonymity should have discouraged individuals from unsavory 
+uses of the tax records, such as snooping, due to the threat of social sanctions. 
+Consistent with this hypothesis, the tax agency reported that the number of searches 
+dropped by 88 percent after the removal of anonymity. Furthermore, the number of 
+users logging in to the system did not decrease much; however, instead of searching 
+for others’ incomes, most users logged in to find out who searched for them.20
+The aforementioned 2007 Synovate survey offers more direct evidence about the 
+uses of the tax lists (Skattebetaleren 2008). The survey asked whether respondents 
+searched for specific types of individuals: 61 percent reported searching for close 
+relatives, 53 percent for themselves, 42 percent for friends, 26 percent for work 
+colleagues, 25 percent for other relatives, 23 percent for neighbors, 18 percent for 
+celebrities, and 6 percent for politicians. This pattern is more consistent with snoop-
+ing on social contacts than investigating corruption. Indeed, around 77 percent of 
+respondents who used the tax records reported using them for curiosity or fun and 
+18 As an additional benchmark, the number of searches for YouTube are slightly higher than the combined 
+searches for “porn” and its Norwegian translation, “porno.”
+19 We find a consistent peak in Google Trends data for other years. This peak is also consistent with the internet 
+browsing data discussed below.
+20 Some individuals started selling a search service under their names to allow users make anonymous searches, 
+although the service has not met popular demand (Kvile 2014).
+
+
+--- PAGE 12 ---
+1030
+THE AMERICAN ECONOMIC REVIEW
+APRIL 2020
+only 2 percent for monitoring, such as uncovering tax evasion (Digi 2008). And 
+in another survey conducted by Synovate in 2011, only 15 percent of respondents 
+believed that the tax lists provided useful information (Sunnmørsposten 2011).
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Share of all visits
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11–100
+101+
+Number of visits to profle
+Panel A. Traffic by profle popularity
+Panel B. Traffic by session length
+0%
+5%
+10%
+15%
+20%
+Share of all sessions
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19
+20+
+Number of profles visited per session
+Figure 5. Internet Browsing Data on the Uses of the Online Tax Lists
+Notes: Data from a proprietary panel of internet users, on the visits to a popular website that offered a tool to search 
+the Norwegian tax records during 2010. Panel A shows the number of repeated visits to profiles during 2010 (for 
+profiles that have been visited at least once). Panel B shows the number of profiles visited per session, for sessions 
+with at least one profile visited, corresponding to October 20, 2010 (the release date for the data on incomes corre-
+sponding to the 2009 tax calendar). A session begins when the user opens the internet browser and ends when the 
+user closes the browser.
+
+
+--- PAGE 13 ---
+1031
+PEREZ-TRUGLIA: THE EFFECT OF INCOME TRANSPARENCY ON WELL-BEING
+VOL. 110 NO. 4
+We also present evidence based on internet browsing behavior from panel data 
+covering a significant share of internet users in Norway in 2010. We focus on vis-
+itors to a popular website that provided access to the tax records. The data span 
+200,000 unique browser sessions with at least one visit to this website. Panel A of 
+Figure 5 shows the distribution of total visits by the number of profile visits. The 
+results suggest that most traffic is not directed to famous people, such as athletes and 
+politicians, because visits to popular profiles (i.e., visited at least 100 times) account 
+for less than 3 percent of total traffic. Panel B provides a histogram of the number 
+of profiles visited per user session on the day of the release of the 2009 tax calendar 
+data.21 The data suggest that ­large-volume users, such as mass marketers, did not 
+contribute heavy traffic to these websites. For example, users visiting more than 100 
+profiles per session account for only 0.27 percent of total visits. Panel B of Figure 5 
+also shows that individuals did not search only for their own incomes, as the typi-
+cal session involved searching for several individuals. Even under the conservative 
+assumption that all sessions with a single profile visit corresponded to individuals 
+searching for their own incomes, this type of searches comprise just 2.62 percent of 
+total traffic.
+Last, we discuss the possibility that individuals used the online tax lists to learn 
+information about salaries for salary negotiations and career choices (Cullen and 
+­Pakzad-Hurson 2018). In the previously mentioned survey data, only 26 percent of 
+individuals searched for work colleagues in the tax lists, and they may have been snoop-
+ing rather than researching. Moreover, due to the nature of the data, the Norwegian tax 
+lists have been described as “completely useless” for salary comparisons (NRK 2008). 
+As a benchmark, the website of state employees studied in Card et al. (2012) publishes 
+information about salaries, with breakdowns by base salary and other forms of com-
+pensation. In contrast, the Norwegian tax records reveal the net income of the individ-
+ual, which aggregates all salaried income, including bonuses and commissions, and 
+­non-salaried income, such as capital gains, ­self-employed income, and social benefits. 
+Thus, if you found out that a coworker was listed in the tax records with a higher net 
+income than yours, you would not be able to tell whether that coworker has a higher 
+salary or whether he or she has additional sources of income.
+II.  Econometric Specification and Survey Data
+A. Econometric Specification
+The baseline specification is the following:
+(1)  ​​SWB​i,t​  =  ​α​1​ ⋅ IncomeRan​k​i,t​ + ​α​2​ ⋅ IncomeRan​k​i,t​ ⋅ ​I​ t​ 01−13​ + ​X​i,t​ β + ​δ​t​ + ​ϵ​i,t​​.
+Here, ​​SWB​i,t​​ is a measure of subjective ­well-being of individual ​i​ in year ​t​, with 
+a higher value denoting higher ­well-being; ​IncomeRan​k​i,t​​ is the position of individ-
+ual ​i​ in the national distribution of household income in year ​t​, from 0 (the poor-
+est household) to 1 (the richest); ​​I​ t​ 01−13​​ is a dummy variable indicating the period 
+21 This is a lower bound on the number of profiles visited per user that day, for instance, because one may have 
+visited the website from multiple devices.
+
+
+--- PAGE 14 ---
+1032
+THE AMERICAN ECONOMIC REVIEW
+APRIL 2020
+of higher income transparency, equal to 1 if ​t  ∈  ​[2001, 2013]​​ and 0 otherwise; ​​δ​t​​ 
+denotes the year effects, ​​X​i,t​​ is a vector with additional control variables, and ​​ϵ​i,t​​ 
+denotes the error term.
+The coefficient ​​α​1​​ corresponds to the average gradient between ​​SWB​i,t​​ 
+and ​IncomeRan​k​i,t​​ in the period from 1985 to 2000. We expect this coefficient to 
+be positive, meaning that being richer is associated to higher subjective ­well-being. 
+This association may arise purely from intrinsic utility from consumption (e.g., 
+richer individuals can afford nicer houses, food, and entertainment), or from a com-
+bination of intrinsic utility and income comparisons (e.g., richer individuals get 
+higher ­self-esteem and ­social-esteem). The coefficient ​​α​2​​ measures the change in 
+the ­happiness-income gradient from 1985–2000 to 2001–2013. Our main hypothe-
+sis is that ​​α​2​​​​ is positive: i.e., by facilitating income comparisons, the higher trans-
+parency increased the ­happiness-income gradient.
+This regression has a ­difference-in-differences interpretation in which 
+​​I​ t​ 01−13​​ corresponds to the indicator of ­post-treatment period and ​IncomeRan​k​i,t​​ 
+­corresponds to the intensity of treatment (from 0 to 1). An important concern with 
+this specification, as in every other ­difference-in-differences design, is the possibil-
+ity of differential ­pretrends. In other words, it is possible that the ­happiness-income 
+gradient had been gradually increasing even before 2001, yielding ​​α​2​  >  0​, even if 
+there was not a discontinuous change in this gradient around 2001. The following 
+specification is a traditional way of addressing this concern, by allowing for differ-
+ential trends:
+(2)	
+​​SWB​i,t​  =  ​α​1​ ⋅ IncomeRan​k​i,t​ + ​α​2​ ⋅ IncomeRan​k​i,t​ ⋅ ​I​ t​ 01−13​​
+	
+​+ γ ⋅ IncomeRan​k​i,t​ ⋅ ​(t − 1985)​ + ​X​i,t​ β + ​δ​t​ + ​ϵ​i,t​​.
+In this specification, the coefficient ​​α​1​​ corresponds to the ­happiness-income 
+gradient in 1985. The coefficient ​γ​ corresponds to the linear trend for this gradi-
+ent from 1985 to 2013. And the coefficient ​​α​2​​ corresponds to the change in the 
+­happiness-income gradient around 2001, above and beyond the linear trend.
+Another standard method to assess differential ­pre-trends is based on the follow-
+ing specification:
+(3)	
+​​SWB​i,t​  =  ​α​1​ ⋅ IncomeRan​k​i,t​ + ​α​2​ ⋅ IncomeRan​k​i,t​ ⋅ ​I​ t​ 01−13​​
+​	
++ ​α​3​ ⋅ IncomeRan​k​i,t​ ⋅ ​I​ t​ 97−00​​ ​+ ​X​i,t​ β + ​δ​t​ + ​ϵ​i,t​​.
+Where ​​I​ t​ 97−00​​ is a “fake” treatment indicator that occurs just before the actual 
+change in disclosure: i.e., a dummy variable that equals 1 if ​t  ∈  ​[1997, 2000]​​ and 
+0 otherwise. In this specification, ​​α​1​​ corresponds to the ­happiness-income gradient 
+from 1985–1996, whereas ​​α​2​​ measures the change in that gradient from 1985–1996 
+to 2001–2013, and ​​α​3​​ measures the change in the ­happiness-income gradient from 
+1985–1996 to 1997–2000. If the ­happiness-income gradient changed sharply around 
+2001, we would expect ​​α​2​  >  0​ and ​​α​3​  =  0​. We also present ­event-study graphs, 
+which extend this specification by including further interactions with ​​I​ t​ 89−92​​, ​​I​ t​ 93−96​​, 
+and so on.
+
+
+--- PAGE 15 ---
+1033
+PEREZ-TRUGLIA: THE EFFECT OF INCOME TRANSPARENCY ON WELL-BEING
+VOL. 110 NO. 4
+If the ­happiness-income gradient increased in 2001, it is possible that this increase 
+was caused by another significant change besides transparency that occurred in 
+2001 and persisted over the following 12 years. To the best of our knowledge, there 
+was no major event around that time that could have had such a large effect on 
+the ­happiness-income gradient. We use two additional identification strategies to 
+address this concern.
+The first strategy consists of a “placebo” analysis that reproduces the regressions 
+for another country (i.e., Germany), for which there are similar survey data but no 
+change of disclosure around 2001. If the effects in Norway are due to an event that 
+also happened in Germany, such as the growth of information technology or the 
+­dot-com burst of 2001, then the results in Germany should be similar to the results 
+in Norway.
+The second strategy consists of a ­triple-differences specification. Ideally, we 
+would construct a variable indicating the type of individuals who would be most 
+exposed to the effects of online tax lists. This exposure variable would identify 
+­individuals who are likely to search for themselves, to be searched for by their 
+social contacts, to be aware that their social contacts are searching for them, and so 
+on. Then, we could test if the ­well-being effects are stronger for these individuals. 
+Unfortunately, we cannot construct this ideal exposure variable, because our survey 
+data do not contain information such as whether a respondent visited the tax list 
+websites. Instead, we construct our exposure variable based on internet access data.
+Let the dummy variable ​HigherInterne​t​i,t​​ take the value 1 if individual ​i​’s observ-
+able characteristics in year ​t​, such as the age and education, predict ­above-median 
+internet access at home.22 Consider the following ­triple-differences specification:
+(4)	
+​​SWB​i,t​  =  ​α​1​ ⋅ IncomeRan​k​i,t​ + ​α​2​ ⋅ IncomeRan​k​i,t​ ⋅ ​I​ t​ 01−13​​
+​	
++ ​α​3​ ⋅ HigherInterne​t​i,t​ + ​α​4​ ⋅ HigherInterne​t​i,t​ ⋅ ​I​ t​ 01−13​​
+​	
++ ​α​5​ ⋅ IncomeRan​k​i,t​ ⋅ HigherInterne​t​i,t​​
+​	
++ ​α​6​ ⋅ IncomeRan​k​i,t​ ⋅ HigherInterne​t​i,t​ ⋅ ​I​ t​ 01−13​​
+​	
++ ​X​i,t​ β + ​δ​t​ + ​ϵ​i,t​​.
+The coefficient ​​α​2​​ is interpreted as the effect of the policy on individuals with 
+lower internet access, which we expect to be small or even zero. On the other hand, 
+the parameter ​​α​6​​ measures the differential effect of transparency for individuals 
+with higher internet access, relative to individuals with lower internet access. Our 
+main hypothesis is that ​​α​6​  >  0​: i.e., the change in disclosure had a greater effect on 
+individuals with higher internet access.
+22 We cannot base the ­triple-differences strategy on a dummy variable for whether the respondent has internet 
+access. First of all, the question about internet access was not added until 1999. Most important, the share of 
+individuals with internet access has increased dramatically in the sample period. For example, a small share of the 
+population had internet access before 1996: according to the World Telecommunication Development Report, only 
+6.4 percent of Norwegians had internet access in 1995. As a result, even if we had data on internet access for that 
+period, it would make little sense to estimate the ­happiness-income gradient for individuals with internet access.
+
+
+--- PAGE 16 ---
+1034
+THE AMERICAN ECONOMIC REVIEW
+APRIL 2020
+B. Survey Data
+We use data from the Norwegian Monitor Survey, which was a repeated 
+­cross-sectional survey conducted by the market research institute Ipsos MMI. The 
+data were collected every other year in 1985–2013 through a ­self-completion ques-
+tionnaire sent by mail to a representative sample of Norwegians. This dataset has 
+been used to explore the relationship between ­well-being and age (Hellevik 2002), 
+between ­well-being and values (Hellevik 2003), and between ­well-being and sus-
+tainability (Hellevik 2015).
+The final sample used in our regression analysis comprises 48,570 observa-
+tions collected in 15 different years, implying an average of 3,238 observations 
+per survey year. This sample seems to be representative of the general population 
+in some observable characteristics. For example, in the year 2011, 53.0 percent of 
+­respondents were women, the median age was 37, and the mean gross household 
+income was $129,684 (in 2011 US dollars). In comparison, administrative data from 
+Norway for that same year suggest a share of women of 50.5 percent, a median age 
+of 39.1, and a mean gross household income of $152,890.23
+The survey team did not collect information about the date when each survey was 
+completed or mailed back, but they believe that the questionnaires were completed 
+between late September and early December.24 Recall that the tax agency releases 
+the income data for the previous fiscal year in ­mid-October. In the weeks following 
+the data release, traffic to the online tax lists is highest. Thus, a substantial share of 
+the respondents may have completed the survey during a time when income trans-
+parency was most salient. Our estimated effects of income transparency thus may 
+overestimate the effects of income transparency on an average day of the year.  On 
+the other hand, a significant share of survey responses for 2001 may have been col-
+lected before the change in disclosure took place, thus leading to an ­underestimation 
+of the effects of disclosure during the year 2001.
+We discuss below the definitions of the main variables.
+Subjective ­Well-Being.—The main outcome of interest is subjective ­well-being. 
+The Norwegian Monitor Survey includes questions about happiness and life sat-
+isfaction, which are the two most widely used measures of subjective ­well-being 
+(Easterlin 2004, Kahneman and Deaton 2010). The happiness question is: “Will 
+you mostly describe yourself as: Very happy; Quite happy; Not particularly happy; 
+Not at all happy.” The life satisfaction question is, “How satisfied are you with your 
+life? Very satisfied; Somewhat Satisfied; Neither satisfied nor dissatisfied; Slightly 
+dissatisfied; Very dissatisfied.” Happiness and life satisfaction are known as evalua-
+tive measures of ­well-being, because answering them requires respondents to think 
+about their lives in general.25 It is well established that evaluative measures do not 
+23 The data sources are: Central Intelligence Agency’s World Factbook for the female share and median age, and 
+the Euromonitor’s World Consumer Income and Expenditure Patterns for the mean household income.
+24 According to private communications with the administrators of the survey, the questionnaires were typically 
+sent to the respondents in the third week of September (following a national or local election), and the vast majority 
+of surveys are sent back before the second week of December.
+25 The alternative to evaluative measures are hedonic measures, which are assessed by asking about the presence 
+of various emotions in the experience of yesterday (e.g., happiness, sadness, worry), and they often have ­different 
+
+
+--- PAGE 17 ---
+1035
+PEREZ-TRUGLIA: THE EFFECT OF INCOME TRANSPARENCY ON WELL-BEING
+VOL. 110 NO. 4
+vary over the days of the week, are significantly correlated with income, and remain 
+correlated with income even at high levels of income (Kahneman and Deaton 2010). 
+We use the happiness question in our baseline regressions because it was asked in 
+all survey waves from 1985 to 2013, whereas life satisfaction was asked starting in 
+1999.26
+In the baseline specification, instead of arbitrarily assigning values 1, 2, 3, or 4 
+to the four possible answers to the happiness question, we employ the ­Probit-OLS 
+method to assign these values (van Praag and ­Ferrer-i-Carbonell 2008). By con-
+struction, a higher value denotes higher happiness. We use this method with all 
+subjective questions, including life satisfaction. Moreover, to facilitate the inter-
+pretation of the regression coefficients, we standardize all subjective outcomes to a 
+mean of 0 and standard deviation of 1. Table 1 summarizes the definitions for happi-
+ness, life satisfaction, and all other main variables in the analysis. Table 2 provides 
+the corresponding descriptive statistics.
+Although subjective ­well-being measures have some ­well-documented limita-
+tions, a growing body of evidence indicates that they contain significant information 
+about the individual’s true ­well-being. Subjective ­well-being is positively correlated 
+to objective measures of ­well-being, such as emotional expressions (Sandvik, 
+Diener, and Seidlitz 1993), aggregate suicide rates (Di Tella, MacCulloch, and 
+Oswald 2003), and activity in the pleasure centers of the brain (Urry et al. 2004). 
+Subjective ­well-being also positively correlates with decision utility. For instance, 
+Benjamin et al. (2012) conducted a survey in which subjects were shown pairs of 
+hypothetical scenarios with trade-offs between two aspects (e.g., higher income ver-
+sus longer workdays). They showed that, despite some deviations, most respondents 
+choose a scenario that maximizes life satisfaction (see also Benjamin et al. 2014). 
+Similarly, ­Perez-Truglia (2015) showed that the expenditure choices predicted by 
+life satisfaction data are largely consistent with the actual expenditure behavior of 
+the same individuals.
+Income Rank.—The variable Income Rank is the position of the respondent in 
+the distribution of household income for the current year.27 As is typical in house-
+hold surveys, respondents were asked about their annual gross household income 
+using bins.28 This question provides no information to rank households within a 
+particular income bin and year. To ameliorate this measurement error, we follow the 
+standard imputation method from the literature (e.g., Stevenson and Wolfers 2008, 
+Kahneman and Deaton 2010), using information on other household characteristics 
+correlates than evaluative measures (Deaton and Stone 2013). Unfortunately, our survey data do not include hedonic 
+measures.
+26 For histograms of the responses to the Happiness and Life Satisfaction questions, see online Appendix 
+Figure A.2.
+27 While this measure is based on the rank in the national income distribution, individuals probably care the 
+most about the comparison to narrower reference groups such as their relatives, friends, neighbors, and coworkers 
+(Clark and Senik 2010). We cannot construct measures of Income Rank based on these more specific reference 
+groups because we do not know who the respondent’s relatives, friends, or other social contacts are. Due to this 
+source of measurement error, our results may ­underestimate the importance of income comparisons. Similarly, 
+since the tax records disclosed the wealth of individuals, it is likely that individuals also engaged in wealth com-
+parisons. This is another source of measurement error that may lead us to ­underestimate the overall importance of 
+(income and wealth) comparisons.
+28 We drop 6 percent of the sample corresponding to individuals who did not respond the income question.
+
+
+--- PAGE 18 ---
+1036
+THE AMERICAN ECONOMIC REVIEW
+APRIL 2020
+that correlate with income (e.g., education, age, county) to break ties within income 
+bins.29
+Higher Internet.—The goal of this variable is to split individuals by whether their 
+observable characteristics are associated with higher internet access (once the internet 
+becomes available). We base this exercise on the dummy variable Internet Access, 
+29 The first step of this procedure consists in estimating, for each year, an interval regression of the logarithm 
+of income on dummies for gender, education, marital status, age, number of household members, and county. The 
+second step consists of using the estimated parameters to predict the logarithm of income for each individual, con-
+ditional on belonging to the reported income bracket.  We can then construct Income Rank by ranking individuals 
+based on their predicted household income.
+Table 1—Data Definitions for the Main Variables from the Norwegian Monitor Survey
+Variable name
+Definition
+Happiness
+Based on the following question: “Will you mostly describe yourself as: Very happy; Quite 
+happy; Not particularly happy; Not at all happy.” These four categories were assigned values 
+using the Probit-OLS method, and then the variable was standardized to have mean 0 and 
+standard deviation 1. Higher values denote higher happiness.
+Income Rank
+Estimated position in the national distribution of household gross income in a given year, from 
+0 (lowest income in the country) to 1 (highest). This rank is based on the following ques-
+tion: “What would you estimate the household’s total gross income? That is, all total income 
+before taxes and deductions: Less than NKR100,000; NKR100,000–199,000; NKR200,000–
+299,000; 
+NKR300,000–399,000; 
+NKR400,000–499,000; 
+NKR500,000–599,000; 
+NKR600,000–799,000; NKR800,000–999,000; Above NKR1,000,000.” Before 1995, the 
+bottom bin was split in two bins (0K–59K and 60K–100K). In 1995, they merged those two 
+bins and added the seventh and eighth bins. They added the ninth bin in 1999. The with-
+in-bin ranks are imputed using interval regressions as in Stevenson and Wolfers (2008) and 
+Kahneman and Deaton (2010).
+Life Satisfaction
+Based on the following question: “How satisfied are you with your life? Very satisfied; 
+Somewhat satisfied; Neither satisfied nor dissatisfied; Slightly dissatisfied; Very dissatisfied.” 
+These five categories were assigned values using the Probit-OLS method, and then the vari-
+able was standardized to have mean 0 and standard deviation 1. Higher values denote higher 
+satisfaction.
+Perceived Rank
+Based on question: “In comparison to other Norwegians, would you say that your economic 
+situation is…? Much worse than average; Slightly worse than average; Average; Slightly bet-
+ter than average; Much better than average.” These five categories were assigned values using 
+the Probit-OLS method, and then the variable was standardized to have mean 0 and standard 
+deviation 1. Higher values denote higher rank.
+Income Adequacy
+Based on the following question: “How do you feel about your economic situation? Do you 
+really need more money than you have to be able to live a satisfying life, do you manage with 
+your current income, or would you be able to cope with less if you had to?” The possible 
+answers were “I need more money,” “I manage with what I have,” and “I could cope with 
+less,” which were assigned values using the Probit-OLS method, and then the variable was 
+standardized to have mean 0 and standard deviation 1. Higher values denote higher income 
+adequacy.
+Internet Access
+Dummy variable that takes the value 1 if the individual responds affirmatively to the follow-
+ing question: “Do you have Internet access at home?”
+I{Higher Internet}
+Dummy variable that takes the value 1 if the respondent has above-median predicted inter-
+net access in the current year. We estimated an OLS regression of internet access on age, 
+age squared, and dummy variables for gender, marital status, education, household size, and 
+number of workers in the household using the responses from 2001 (the results from this 
+regression are presented in online Appendix Table A.8). Then, for each sample year, we used 
+the estimated coefficients to generate predicted internet access and then split the observations 
+for that year by the corresponding median value.
+
+
+--- PAGE 19 ---
+1037
+PEREZ-TRUGLIA: THE EFFECT OF INCOME TRANSPARENCY ON WELL-BEING
+VOL. 110 NO. 4
+which equals 1 if the individual has internet access at home and 0 otherwise. Using 
+survey responses for 2001, we estimate an ordinary least squares (OLS) regression 
+of Internet Access on a series of observable characteristics: age, age squared, and 
+dummy variables for gender, education, marital status, household size, and number 
+of working household members. Online Appendix Table A.8 reports the results from 
+this auxiliary regression. The coefficients suggest that individuals with higher inter-
+net access are, on average, more likely to be male, educated, and young, and their 
+households are likely to be larger with more working members. These correlations are 
+largely consistent with the correlations reported in other studies of internet access and 
+internet use in developed countries (File and Ryan 2014). We use the estimated coef-
+ficients to predict Internet Access for the entire survey sample. The dummy variable 
+I{Higher Internet} equals 1 if the individual’s own predicted internet access exceeds 
+the median for the current year.30
+Perceived Income Rank and Income Adequacy.—Starting in 1993, the survey 
+included a subjective question about ­self-perceived income rank: “In comparison 
+to other Norwegians, would you say that your economic situation is …? Much 
+worse than average; Slightly worse than average; Average; Slightly better than aver-
+age; Much better than average.” We construct the variable Perceived Rank using 
+responses to this question, which are coded with the ­Probit-OLS method and then 
+standardized. By definition, higher values of this variable denote a higher perceived 
+rank. For an additional test of the ­self-perceptions channel, we use data on another 
+question that was added to the survey in 1993: “How do you feel about your eco-
+nomic situation? Do you really need more money than you have to be able to live 
+a satisfying life, do you manage with your current income, or would you be able to 
+cope with less if you had to?” The possible answers are “I need more money,” “I 
+manage with what I have,” and “I could cope with less.” We construct the variable 
+Income Adequacy using the ­Probit-OLS method and then standardize it so that its 
+30 This definition guarantees that the distribution of I{Higher Internet} will be stable over time: i.e., in any given 
+year, one-half of the sample has I{Higher Internet} = 1 and the other half has I{Higher Internet} = 0.
+Table 2—Descriptive Statistics for the Main Variables  
+from the Norwegian Monitor Survey
+Variable name
+Availability
+Observations
+Mean
+(standard deviation)
+Happiness
+1985–2013
+48,570
+0.00 (1.00)
+Income Rank
+1985–2013
+48,570
+0.50 (0.29)
+Life Satisfaction
+1999–2013
+29,655
+0.00 (1.00)
+Perceived Rank
+1993–2013
+38,938
+0.00 (1.00)
+Income Adequacy
+1993–2013
+38,950
+0.00 (1.00)
+Internet Access
+1999–2013
+29,875
+0.76 (0.43)
+I{Higher Internet}
+1985–2013
+48,570
+0.50 (0.50)
+Notes: See Table 1 for a summary of data definitions for all of the variables listed above. Data 
+from the Norwegian Monitor Survey. 
+
+
+--- PAGE 20 ---
+1038
+THE AMERICAN ECONOMIC REVIEW
+APRIL 2020
+mean is 0 and standard deviation is 1. Higher values of this variable indicate that 
+one’s income is more adequate.31
+Control Variables.—We include a standard set of control variables used in studies 
+of subjective ­well-being: age, age squared, and dummies for gender, education, mar-
+ital status, total number of household members, and number of working household 
+members.
+German Data.—For the placebo test, we employ data from the German 
+­Socio-Economic Panel survey, collected every year from 1985 to 2013.32 The data 
+do not include a question on happiness but do include a question on life satisfaction: 
+“How satisfied are you with your life, all things considered?” Responses are mea-
+sured on a ­11-point scale ranging from “Completely dissatisfied” (0) to “Completely 
+satisfied” (10). We code and standardize this outcome using the same method as for 
+the Norwegian data. Moreover, we reproduce the same regression specification for 
+Germany, including all the same control variables and the same procedure to create 
+I{Higher Internet}.33 The final number of observations in Germany (108,209) is 
+more than twice that of the Norwegian Monitor Survey (48,570).
+III.  Results
+A. Effects on the ­Happiness-Income Gradient
+Table 3 explores the effects of the change of disclosure on the ­happiness-income 
+gradient. The dependent variable in column 1 is Happiness. This column uses 
+the simplest specification from equation (1). The estimated coefficient on 
+Income Rank (0.311) is positive, precisely estimated, and statistically significant 
+( ­p-value ​<​ 0.001). This coefficient implies that during 1985–2000, going from the 
+lowest to the highest income rank in Norway was associated with an increase in 
+happiness of 0.311 standard deviations. This ­happiness-income gradient is in the 
+same order of magnitude as the corresponding gradients reported in other studies.34
+Column 1 of Table  3 also reports the coefficient on the interaction between 
+Income Rank and I{2001–2013}. This estimated coefficient (0.090) is positive, 
+31 For histograms of the responses to the Perceived Income Rank and Income Adequacy questions, see online 
+Appendix Figure A.2.
+32 To maximize power, we use all the years available in the German data: online Appendix Section A.1 shows 
+that the results are robust if we focus on responses on ­odd-numbered years, like in the Norwegian survey.
+33 There are a couple of differences between the German and Norwegian surveys. In Germany, we have to 
+include dummies for years of education instead of the dummies for levels of educational attainment used in Norway. 
+And while in Norway we use Internet Access for the year 2001, that question was not included in Germany in 2001 
+so we have to use the responses for the year 2002 instead. Last, we restrict the German data to household heads in 
+West Germany.
+34 For example, results reported in Table 2 from Stevenson and Wolfers (2008) suggest that, using data for a 
+number of countries from the World Values Survey, the ordered probit regression of happiness on the logarithm of 
+household income yields a coefficient of 0.244 (SE 0.008). We can provide a direct comparison by estimating the 
+same regression with our Norwegian data, which yields a coefficient in the same order of magnitude (0.307; SE 
+0.008). This gradient for Norway is higher than, and statistically different from, the corresponding gradient from 
+Stevenson and Wolfers (2008). However, we would not expect them to be exactly equal: there is no reason to believe 
+that Norway should be representative of the world average; additionally, these differences may be due to differences 
+in how income and subjective ­well-being are measured in the two datasets.
+
+
+--- PAGE 21 ---
+1039
+PEREZ-TRUGLIA: THE EFFECT OF INCOME TRANSPARENCY ON WELL-BEING
+VOL. 110 NO. 4
+large, and statistically significant ( ­p-value = 0.005). These findings suggest that 
+the ­happiness-income gradient increased substantially (by 29 percent, from 0.311 to 
+0.401) from 1985–2000 to 2001–2013.
+The first concern is that the coefficient on the interaction of Income Rank with 
+I{2001–2013} may not correspond to the 2001 change in disclosure, but instead 
+results from a gradual change in this gradient that started years before 2001. To 
+address this concern, column 2 of Table 3 shows results for the specification corre-
+sponding to equation (2), which includes the interaction between Income Rank and 
+the time trend. The coefficient on the interaction between Income Rank and the time 
+trend (−0.001) is close to zero and statistically insignificant (­ p-value = 0.877), 
+whereas the coefficient on the interaction of Income Rank with I{2001–2013} 
+(0.098) remains positive and statistically significant (­ p-value = 0.099). Indeed, we 
+cannot reject the null hypothesis that the latter coefficient (0.098) equals the corre-
+sponding coefficient of 0.090 from column 1 ( ­p-value = 0.877).35
+35 This is an equality test between two coefficients based on the same data but different regressions. To allow 
+for a ­nonzero covariance between these two coefficients, we estimate a system of seemingly unrelated regressions. 
+In the remainder of the paper, when comparing coefficients from the same data but different regressions, we always 
+use this method.
+Table 3—Effects on the Gradient between Subjective Well-Being and Income Rank
+Happiness Happiness Happiness Happiness
+Life 
+Satisfaction
+Life 
+Satisfaction
+Life 
+Satisfaction
+Life 
+Satisfaction
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+Income Rank
+0.311
+0.315
+0.310
+0.331
+0.585
+0.526
+0.539
+0.646
+(0.028)
+(0.040)
+(0.032)
+(0.040)
+(0.056)
+(0.085)
+(0.018)
+(0.025)
+Income Rank 
+0.090
+0.098
+0.090
+−0.004
+0.122
+0.050
+0.018
+−0.049
+  × I{2001–2013}​​ 
+​(i)​​​
+(0.032)
+(0.059)
+(0.037)
+(0.051)
+(0.055)
+(0.088)
+(0.021)
+(0.035)
+Income Rank × I{2001–2013} 
+0.217
+0.169
+−0.011
+  × I{Higher Internet}
+(0.073)
+(0.131)
+(0.046)
+Income Rank × (Year − 1985)
+−0.001
+(0.004)
+Income Rank × I{1997–2000}​​ 
+​(ii)​​​
+0.001
+(0.048)
+p-value (i) = (ii)
+0.043
+Country
+Norway
+Norway
+Norway
+Norway
+Norway
+Norway
+Germany
+Germany
+Period
+1985–2013 1985–2013 1985–2013 1985–2013 1999–2013 1999–2013 1985–2013 1985–2013
+Observations
+48,570
+48,570
+48,570
+48,570
+29,655
+29,655
+108,209
+108,209
+Notes: Heteroskedasticity-robust standard errors in parentheses. Each column corresponds to a separate OLS regres-
+sion. Happiness and Life Satisfaction are subjective well-being measures normalized to have mean 0 and standard 
+deviation of 1, with higher values denoting higher happiness/satisfaction. Income Rank denotes the position of the 
+respondent’s household relative to all the other respondents for that year, from 0 to 1. I{2001–2013} takes the value 
+1 for 2001–2013. I{1999–2000} takes the value 1 for 1997–2000. I{Higher Internet} is a dummy variable that takes 
+the value 1 if the respondent’s predicted Internet Access is above the median value for a given year. All regressions 
+control for year dummies, age, age squared, a gender dummy, three education dummies, four dummies for marital 
+status, four dummies for household size, and three dummies for number of working household members. Column 4 
+also controls for all the additional interactive terms listed in equation (4). Columns 1 through 6 are based on data 
+from the Norwegian Monitor Survey, collected every other year in 1985–2013. See Table 1 for a summary of data 
+definitions and Table 2 for descriptive statistics. Columns 7 and 8 are based on the same specifications used in col-
+umns 1 and 3, only that using data from the German Socio-Economic Panel, collected every year in 1985–2013. 
+
+
+--- PAGE 22 ---
+1040
+THE AMERICAN ECONOMIC REVIEW
+APRIL 2020
+In turn, column 3 of Table  3 presents results from the specification corre-
+sponding to equation (3), which introduces the interactions of Income Rank with 
+I{2001–2013} and I{1997–2000} simultaneously. The coefficient on the interaction 
+of Income Rank with I{2001–2013} (0.090) reported in column 3 is statistically 
+significant (­ p-value = 0.015) and identical in magnitude to the corresponding coef-
+ficient from column 1 (0.090). On the contrary, the coefficient on the interaction of 
+Income Rank with I{1997–2000} is close to zero (0.001) and statistically insignif-
+icant (­ p-value = 0.975). Furthermore, in column 3 the coefficients on the interac-
+tions with I{1997–2000} (0.001) and I{2001–2013} (0.090) are statistically different 
+from each other (­ p-value = 0.043).
+Panel A of Figure 6 takes the last specification a step further by means of an 
+­event-study analysis. This figure shows the evolution of the ­happiness-income 
+gradient over the entire 1985–2013 period. Each coefficient denotes the change 
+in the ­happiness-income gradient relative to 1997–2000. Thus, the coefficient on 
+1997–2000 is normalized to zero.
+To attribute the coefficient on the interaction between Income Rank and 
+I{2001–2013} to the effect of the disclosure policy, the ­happiness-income gradient 
+should be stable during 1985–2000 and then increase after 2001. This is exactly the 
+pattern shown in panel A of Figure 6. All ­pre-treatment coefficients are close to zero 
+and statistically insignificant (­ p-values of 0.749, 0.737, and 0.612), suggesting that 
+the ­happiness-income gradient remained constant during 1985–2000. And the three 
+coefficients on the ­post-treatment period are positive and mostly statistically signif-
+icant (­ p-values of 0.057, 0.024, and 0.311), suggesting that the ­happiness-income 
+gradient increased after 2001 and remained high.
+One challenge in interpreting these findings is that the effects may result from 
+something other than the transparency change in 2001. To the best of our knowledge, 
+there were no events that could explain these patterns, such as major changes to the 
+income tax schedule or welfare benefits. To address this concern more directly, we 
+use the ­triple-differences design corresponding to equation (4).
+The dummy variable I{Higher Internet} equals 1 if the individual’s characteris-
+tics, such as being younger and more educated, predict higher internet access. For 
+short, we refer to individuals with I{Higher Internet} = 1 as individuals with higher 
+internet access. Our ­triple-difference strategy is then based on the assumption that 
+the individuals with higher internet access, such as younger and more educated indi-
+viduals, are the same types of individuals who are more exposed to the effects of the 
+online tax lists.
+Several arguments support this assumption. The websites require internet access, 
+thus individuals with higher internet access and internet use are more likely to use 
+the online tax lists, more aware that they exist, and more aware that their social con-
+tacts may be searching for them. Due to homophily, individuals with higher internet 
+access have social contacts who also have higher internet access, and thus are more 
+likely to be searched in the tax lists by their social contacts. Beyond internet access 
+itself, individuals with higher internet access may be the type of individuals who 
+care more about income comparisons. For example, Clark and Senik (2010) shows 
+that individuals with higher internet access report that income comparisons are more 
+important to them. As final evidence consistent with our assumption, the individual 
+characteristics associated with higher internet access in our data (disproportionately 
+
+
+--- PAGE 23 ---
+1041
+PEREZ-TRUGLIA: THE EFFECT OF INCOME TRANSPARENCY ON WELL-BEING
+VOL. 110 NO. 4
+younger, more educated, and male) also are associated with ­self-reported use of the 
+online tax lists (Skattebetaleren 2008).
+Column 4 of Table 3 reports the results from the ­triple-differences specification. 
+The evidence indicates that, consistent with the hypothesis that the change in trans-
+parency caused the effects, changes in the ­happiness-income gradient were concen-
+trated entirely among individuals with higher internet access. The coefficient on 
+Panel A. Norway
+Panel B. Norway by internet
+−0.2
+−0.1
+0
+0.1
+0.2
+−0.2
+−0.1
+0
+0.1
+0.2
+Change in
+happiness–income gradient
+Average effect
+−0.3
+−0.2
+−0.1
+0
+0.1
+0.2
+0.3
+0.4
+−0.3
+−0.2
+−0.1
+0
+0.1
+0.2
+0.3
+0.4
+’85 and ’87
+’89 and ’91
+’93 and ’95
+’97 and ’99
+’01 and ’03
+’05 and ’07
+’09, ’11, and ’13
+’85 and ’87
+’89 and ’91
+’93 and ’95
+’97 and ’99
+’01 and ’03
+’05 and ’07
+’09, ’11, and ’13
+Higher internet
+Panel C. Germany
+Panel D. Germany by internet
+Change in life
+satisfaction–income gradient
+Change in life
+satisfaction–income gradient
+Change in
+happiness–income gradient
+’85–’88
+’89–’92
+’93–’96
+’97–’00
+’01–’04
+’05–’08
+’09–’13
+’85–’88
+’89–’92
+’93–’96
+’97–’00
+’01–’04
+’05–’08
+’09–’13
+Lower internet
+90% CI
+Average effect
+Higher internet
+Lower internet
+90% CI
+Figure 6. ­Event-Study Analysis of the Gradient between Subjective ­Well-Being and Income Rank
+Notes: Each coefficient corresponds to the change in the gradient between subjective ­well-being and Income Rank 
+relative to the period 1997–2000 (by construction, the coefficient for these years is normalized to 0). The green 
+vertical line represents the change in disclosure that took place in Norway in 2001. The measure of subjective 
+­well-being in Norway is Happiness (panels A and B) and Life Satisfaction in Germany (panels C and D). Both of 
+these outcomes are normalized to have mean 0 and standard deviation of 1, with higher values denoting higher hap-
+piness/satisfaction. Income Rank denotes the respondent’s household rank for that year, from 0 to 1. All regres-
+sions control for year dummies, age, age squared, a gender dummy, three education dummies, four dummies for 
+marital status, four dummies for household size, and three dummies for number of working household members. 
+Panels A and B are based on 48,570 observations from the Norwegian Monitor Survey, collected every other year 
+in 1985–2013: see Table 2 for more detailed data definitions and Table 3 for descriptive statistics. Panels C and 
+D are based on 108,209 observations from the German ­Socio-Economic Panel Survey, collected every year in  
+1985–2013. Panel B is similar to panel A, only that two regressions are estimated separately for individuals with 
+I{Higher Internet} = 1 and I{Higher Internet} = 0. Likewise, panel D is similar to panel C, only that based on two 
+separate regressions by I{Higher Internet}.
+
+
+--- PAGE 24 ---
+1042
+THE AMERICAN ECONOMIC REVIEW
+APRIL 2020
+the interaction between Income Rank and I{2001–2013} is close to zero (−0.004), 
+statistically insignificant, and precisely estimated. This coefficient suggests that the 
+­happiness-income gradient did not change in 2001 for individuals with lower inter-
+net access. The coefficient on the triple interaction between Income Rank, I{2001–
+2013}, and I{Higher Internet} (0.217) is positive, large, and statistically ­significant 
+(­ p-value = 0.003). This coefficient indicates that the ­happiness-income gradient 
+increased substantially for individuals with higher internet access.36
+Panel B of Figure 6 provides the ­event-study equivalent of the ­triple-differences 
+identification strategy. The results show that, for individuals with lower internet 
+access, the ­happiness-income gradient was stable prior to 2001 and remained the 
+same after 2001. For individuals with higher internet access, the ­happiness-income 
+gradient was stable prior to 2001, increased after 2001, and remained at a higher 
+level for the subsequent 12 years.
+As discussed in Section IB, during the 12 years following the change of disclo-
+sure, some factors may have increased or decreased the degree of income transpar-
+ency. Due to the precision of the estimates, we cannot rule out ups and downs in the 
+effects of the policy during the twelve years. However, based on panel B of Figure 6, 
+the best guess is that the effects of transparency were stable: we cannot reject the 
+null hypothesis that the three ­post-treatment coefficients (0.286, 0.260, and 0.221) 
+are equal (­ p-value = 0.757).37
+As an additional robustness check, we compare the effects on happiness with the 
+effects on life satisfaction. Both outcomes are evaluative measures of ­well-being, 
+and they are normally found to be significantly correlated to income. Furthermore, 
+despite conceptual differences, happiness and life satisfaction often are treated as 
+interchangeable in the literature on subjective ­well-being (Easterlin 2004). We thus 
+expect similar effects of transparency across these two outcomes.
+Columns 5 and 6 of Table 3 show results using Life Satisfaction as the depen-
+dent variable instead of Happiness. We are cautious when interpreting this evidence, 
+however. Whereas Happiness has been available since 1983, the Life Satisfaction 
+question was not added to the survey until 1999 and thus has only one year of 
+­pre-treatment data. Consequently, the standard errors for the Life Satisfaction regres-
+sions are almost twice as large as those for the Happiness regressions.
+Column 5 of Table 3 presents the results for Life Satisfaction under the baseline 
+specification from equation (1). The coefficient on Income Rank (0.585) is large 
+and statistically significant ( ­p-value ​<​ 0.001). Indeed, this gradient is larger than 
+the corresponding gradient for Happiness (0.311, from column 1). This ­difference 
+in gradients is not unreasonable, given that the two questions are supposed to 
+measure somewhat different aspects of ­well-being and even use different scales. 
+Most important, column 5 of Table 3 shows that the coefficient on the interaction 
+between Income Rank and I{2001–2013} (0.122) is positive and statistically signif-
+icant (­ p-value = 0.026). These estimates imply that higher income transparency 
+increased the life satisfaction–income gradient by 21 percent, from 0.585 to 0.707. 
+36 According to column 4 of Table 3, the average effect of the income disclosure on the ­happiness-income gra-
+dient is 0.104 (​= − 0.004 + 0.5 ⋅ 0.217​) and statistically significant ( ­p-value = 0.005). As expected, this average 
+effect is close to the average effect reported in the baseline specification (0.090, from column 1 of Table 3).
+37 See online Appendix Section A.1 for a more detailed discussion, including a more disaggregated ­event-study 
+graph.
+
+
+--- PAGE 25 ---
+1043
+PEREZ-TRUGLIA: THE EFFECT OF INCOME TRANSPARENCY ON WELL-BEING
+VOL. 110 NO. 4
+Moreover, we cannot reject the null hypothesis that the 21 percent increase in the 
+life satisfaction–income gradient equals the corresponding 29 percent increase in 
+the happiness–income gradient ( ­p-value = 0.645).
+For the sake of completeness, column 6 reports the ­triple-differences specifica-
+tion for the Life Satisfaction outcome. The key coefficient on the triple interaction 
+between Income Rank, I{2001–2013}, and I{Higher Internet} (0.168) is positive, 
+large, and statistically indistinguishable from the corresponding Happiness coef-
+ficient (0.217, from column 4). However, due to the lower precision of the Life 
+Satisfaction results, the coefficient is statistically insignificant (­ p-value = 0.195).
+The next robustness check involves estimating the same regressions in a placebo 
+country, Germany, which was not exposed to the Norwegian change in income trans-
+parency of 2001. A similar change in the ­happiness-income gradient in Germany 
+around 2001 would imply that the effects for Norway must be explained by a factor 
+different than the change in disclosure. In turn, finding no effects in Germany would 
+rule out any shocks that began in 2001 and were common between Norway and 
+Germany, such as the ­dot-com burst or the growth of information technology.
+Columns 7 and 8 of Table 3 report the results for Germany, using Life Satisfaction 
+as the dependent variable. Column 7 reports the results under the basic spec-
+ification from equation (1). The results indicate that, prior to 2001, the gradient 
+between income and life satisfaction was similar between Germany and Norway: 
+the coefficient on Income Rank (0.539, from column 7) is statistically significant 
+(­ p-value ​<​ 0.001) and in the same order of magnitude as the corresponding coef-
+ficient for Norway (0.585, from column 5).38 Most important, column 7 indicates 
+that, unlike in Norway, there was no significant change in the life ­satisfaction-income 
+gradient in Germany around 2001. The coefficient on the interaction of Income Rank 
+and I{2001–2013} (0.018) is close to zero, statistically insignificant, and precisely 
+estimated. We can reject the null hypothesis that this coefficient for Germany (0.018, 
+from column 7) equals the corresponding coefficient estimated in Norway (0.090, 
+from column 1), with a ­p-value of 0.030.39 These findings are consistent with panel 
+C of Figure 6, which reproduces the ­event-study analysis for Germany (equivalent 
+to panel A for Norway). In Norway, the ­happiness-income gradient was stable prior 
+to 2001, then increased, and remained at the higher level. On the contrary, the life 
+­satisfaction-income gradient in Germany was stable prior to 2001 and remained at 
+the same level after 2001.
+Column 8 of Table 3 reports the results for Germany under the ­triple-differences 
+specification. The coefficient on the triple interaction between Income Rank, 
+I{2001–2013}, and I{Higher Internet} (−0.011) is close to zero, statistically insig-
+nificant, and precisely estimated. This coefficient indicates that in Germany, there 
+was no differential change in the life ­satisfaction-income gradient between individ-
+uals with lower versus higher internet access. Indeed, we can confidently reject the 
+null hypothesis that the coefficient for Germany (−0.011, from column 8) equals 
+the corresponding coefficient for Norway (0.217, from column 4), with a ­p-value of 
+38 Modest differences should be expected because these are two different countries and also because the life 
+satisfaction and income questions are elicited in different ways.
+39 We can also reject the null hypothesis that the coefficient from Germany (0.018, from column 7) is equal to 
+the corresponding coefficient reported in column 5 (0.122) for Norway (­ p-value = 0.090).

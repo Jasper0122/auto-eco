@@ -1,0 +1,1871 @@
+
+
+--- PAGE 1 ---
+American Economic Review 2020, 110(3): 824–859 
+https://doi.org/10.1257/aer.20180511
+824
+Maternal Depression, Women’s Empowerment, and 
+Parental Investment: Evidence from a Randomized 
+Controlled Trial†
+By Victoria Baranov, Sonia Bhalotra, Pietro Biroli,  
+and Joanna Maselko*
+We evaluate the ­medium-term impacts of treating maternal depres-
+sion on women’s mental health, financial empowerment, and parent-
+ing decisions. We leverage variation induced by a ­cluster-randomized 
+controlled trial that provided psychotherapy to 903 prenatally 
+depressed mothers in rural Pakistan. It was one of the world’s largest 
+psych­otherapy interventions, and it dramatically reduced postpartum 
+depression. Seven years after psychotherapy concluded, we returned 
+to the study site to find that impacts on women’s mental health had 
+persisted, with a 17 percent reduction in depression rates. The inter-
+vention also improved women’s financial empowerment and increased 
+both time- and ­money-intensive parental investments by between 0.2 
+and 0.3 standard deviations. (JEL G51, I12, J16, O15)
+Major Depressive Disorder is the single most important contributor to Years 
+Lived with Disability, estimated to affect 13 percent of the global population (Vos 
+et al. 2012). The burden of depression is about twice as high for women (DeRubeis, 
+Siegle, and Hollon 2008), and women of ­child-bearing age are especially at risk 
+due to higher rates of perinatal depression. Prevalence of perinatal depression 
+ranges from around 10 percent in ­high-income countries to 20 percent in low- and 
+* Baranov: Department of Economics, University of Melbourne (­email: victoria.baranov@unimelb.edu.
+au); Bhalotra: Department of Economics, University of Essex, and ISER (­email: srbhal@essex.ac.uk); Biroli: 
+Department of Economics, University of Zurich  (­email: pietro.biroli@uzh.ch); Maselko: Department of 
+Epidemiology, Gillings School of Global Public Health, University of North Carolina (email: jmaselko@unc.edu). 
+Esther Duflo was the ­coeditor for this article. The authors thank Grand Challenges Canada for funding this research 
+under their Saving Brains Program grant number 0058-03 and the Centre for Microsocial Change at ISER, Essex, 
+for further support from the ESRC Centre grant ES/L009153/1. We are grateful to Atif Rahman, who designed 
+the Thinking Health Program and led the implementation of the original trial, as well as Siham Sikander and his 
+colleagues at the Human Development Research Foundation in Pakistan for implementing the original trial and the 
+follow-up. We thank Atif Rahman and Siham Sikander for sharing the baseline and early follow-up data and for 
+providing valuable insights. We received helpful feedback from Prashant Bharadwaj, David Byrne, Flávio Cunha, 
+Alex Frankel, James Fenske, Johannes Haushofer, James Heckman, Anandi Mani, Satadru Mukherjee, Berk Özler, 
+Robert DeRubeis, Kjell Salvanes, Agne Suziedelyte, Marcos ­Vera-Hernández, and seminar participants at Oxford, 
+IFS, Essex, Alicante, Odense, HCEO Chicago, University of Michigan, University of Hawaii, University of Sydney, 
+University of Pennsylvania (Psychology), Princeton, MIT, and conference participants at CSAE, PacDev, NEUDC, 
+ASSA, and RES. Jane Carroll, Peter Robertson, and Simona Sartor provided excellent research assistance. All 
+errors and opinions are our own.
+† Go to https://doi.org/10.1257/aer.20180511 to visit the article page for additional materials and author  
+disclosure statements.
+
+
+--- PAGE 2 ---
+825
+BARANOV ET AL.: MATERNAL DEPRESSION AND WOMEN’S EMPOWERMENT
+VOL. 110 NO. 3
+­middle-income countries, where the condition often goes undiagnosed and hence 
+untreated (Gelaye et al. 2016).
+Little is known about the causal effects of depression or depression treatment 
+on economic ­decision-making. Depression is characterized by symptoms ­including 
+sadness, pessimism, and loss of agency, which create the potential for it to impair 
+productivity, hamper economic ­decision-making, and impact women’s financial 
+empowerment (Kessler and Frank 1997, Currie and Madrian 1999). Women tend to 
+have low levels of control over household spending, especially in ­low-income settings. 
+Depression may exacerbate this by reducing labor supply (de Quidt and Haushofer 
+2016) or else by blunting the bargaining power of women. Furthermore, since 
+­women’s share of household income influences expenditure on children (Lundberg, 
+Pollak, and Wales 1997), perinatal depression may disadvantage children. While 
+a growing literature highlights the importance of parental investments in early 
+­childhood for later life outcomes (Almond and Mazumder 2013), there is no causal 
+evidence that treating perinatal depression can influence parenting decisions.
+We leverage experimental variation from one of the largest psychotherapy trials 
+in the world to investigate the impacts of treating depression on ­decision-making. 
+The intervention provided cognitive behavioral therapy (CBT) to perinatally 
+depressed women in rural Pakistan and was shown to significantly reduce depres-
+sion in the first year postpartum (Rahman et al. 2008). The program has been hailed 
+as ­evidence  that  a ­low-cost, ­community-based intervention can have substantial 
+impacts on depression, and it was recently adopted by the World Health Organization 
+(WHO) as a model for other countries. We investigate whether the reduction in 
+­postpartum depression placed women in the treatment arm on a better trajectory, 
+generating future improvements in their mental health, their economic status, and 
+their parenting decisions. Seven years after the end of the intervention, we returned 
+to the study site and gathered rich data with multiple indicators of ­women’s ­mental 
+health, financial empowerment, parenting choices, fertility, investments in children, 
+and child developmental outcomes. In addition to providing some of the first causal 
+estimates of economic impacts of treating depression, our study allows us to ­evaluate 
+impacts over a longer horizon.
+The psychotherapy intervention we study, called the Thinking Healthy Program, 
+was implemented across 40 communities in rural Pakistan. One-half of the commu-
+nities were randomly assigned to the treatment arm, and the remaining half served 
+as controls. All pregnant women in these communities were clinically assessed 
+for depression, and all 903 women diagnosed as depressed were included in the 
+trial. Women in both arms received 16 home visits from community health work-
+ers, starting in the third trimester of pregnancy and ending when the children were 
+ten months old. In the control communities, women received routine maternal and 
+health services. In the treated communities, women additionally received the CBT 
+component of the intervention which focused on identifying and modifying cogni-
+tive distortions common in depression, using techniques of active listening, collab-
+oration with the family, and guided discovery of healthy thinking.
+We successfully located 585 (65  percent) of the original trial participants 
+enrolled at baseline. In addition, we recruited 300 ­mother-child dyads from 
+among the women excluded from the trial because they did not suffer prenatal 
+depression at baseline. This sample allows us to evaluate the depression gap in 
+
+
+--- PAGE 3 ---
+826
+THE AMERICAN ECONOMIC REVIEW
+MARCH 2020
+outcomes between untreated prenatally depressed women and women who were 
+not depressed in ­pregnancy. We also compare the magnitudes of treatment effects to 
+these ­descriptive gaps.
+We first demonstrate that the CBT intervention had persistent impacts on 
+­mental health. At the ­7-year mark, the intervention reduced rates of depression 
+by 5 ­percentage points, a clinically significant size, although smaller than at the 
+­1-year mark, when the reduction was 39 percentage points. The narrowing of the 
+gap between treated and control women is driven by spontaneous recovery in the 
+control group, as the share of women in the treated arm who were assessed as having 
+no depression was similar in the 1- and ­7-year ­follow-ups. This is the first evidence 
+of the persistence of the mental health benefits of a ­one-off CBT intervention as far 
+out as seven years, and it is important given the chronicity of depression. We also 
+find that the mental health benefits of treatment, particularly in the longer run, are 
+significantly larger for mothers who had been pregnant with a girl rather than a boy 
+at the start of the intervention.
+Turning to outcomes related to women’s ­decision-making, the intervention had 
+lasting positive impacts on an index of the financial empowerment of women, which 
+we estimate was 0.29 standard deviations (SD) higher among intervention arm 
+women. In particular, they were 9 percentage points more likely to have control over 
+household spending, a 17 percent increase over the control group. We also identify 
+a 0.2–0.3 SD improvement in indices of time- and ­money-intensive parental invest-
+ments. For example, we find that children in the intervention arm were more likely 
+to attend better quality and private schools, and to have more learning materials in 
+the home, all of which were objectively measured. Mothers also reported higher 
+expected grade attainment. However, we find no discernible average differences in 
+parenting style or fertility between women in the treated and control communities. 
+The intervention substantially narrowed or closed the gaps in empowerment and 
+parental investments associated with being depressed. As there is negative selection 
+into depression, the descriptive gaps are likely to be larger than causal differences. 
+This is a testament to the power of the intervention.
+Treatment effects are consistently larger for mothers who were pregnant with 
+a girl at the time of the intervention: 0.45 SD increase in financial empowerment, 
+0.47  SD for monetary investments, 0.28  SD for ­time-intensive investments, and 
+0.24 SD for parenting style, compared with estimates indistinguishable from zero 
+for boys. With the exception of time investments, the coefficients are statistically 
+significantly different by gender. This pattern of heterogeneity is not surprising in 
+light of the fact that the ­longer-run mental health benefits of CBT were concentrated 
+in mothers of girls. Control group means in the ­7-year ­follow-up reveal that mothers 
+who were pregnant with girls were disempowered and more likely to be depressed 
+relative to mothers of boys, and monetary investments in girls were smaller. The 
+intervention narrowed these gender gaps.
+Our finding that treatment improves women’s control over household spending, 
+along with increasing investments in children, lines up with evidence that additional 
+resources in the hands of women tend to be directed toward children (Duflo 2003; 
+Bhalotra and ­Clots-Figueras 2014). Moreover, increased control over spending was 
+much larger and only statistically significant for mothers of girls, which is likely 
+why girls received higher parental investments.
+
+
+--- PAGE 4 ---
+827
+BARANOV ET AL.: MATERNAL DEPRESSION AND WOMEN’S EMPOWERMENT
+VOL. 110 NO. 3
+Since the intervention empowered mothers and increased investments in children, 
+we expected it to generate improvements in child development. However, effects 
+on cognitive or ­socio-emotional development at age 7 are small and imprecisely 
+estimated (confirming some results shown in Maselko et al. 2015) and effects on 
+physical health and child survival are only suggestive. Our investigations confirm 
+that, while the indicators we use appear to be appropriate for the context, there are 
+no sizable effects in any part of the distribution, and there is no evidence of com-
+pensating investments in the control arm. Correlating parental investments to chil-
+dren outcomes, and comparing children of depressed women in the control arm to 
+children of women who were not prenatally depressed, indicates that the expected 
+effect sizes might be too small to detect at this age, and might require larger sam-
+ples. It may be that returns to increased parental investments appeared and then 
+faded (Andrew et al. 2018) or that they will emerge at a later stage of the ­life cycle 
+(Heckman, Stixrud, and Urzua 2006).
+Finally, we study the impacts of the intervention on all other available domains of 
+behavior with a view to illuminating the mechanisms at play. We find little evidence 
+that the treatment influenced the woman’s physical health or her husband’s income 
+over time. There are indications that it improved the quality of the relationship with 
+the husband and the probability of ­coresidence with the grandmother of the child, 
+but these effects were small and were not sustained in the longer run. We do find that 
+the intervention led to a sustained increase in perceived social support, a measure 
+closely linked with mental health. While it is difficult to identify a single mechanism 
+that explains the persistent effects on empowerment and parenting, improved mental 
+health appears to be a likely channel.
+Our results provide the first evidence that positive impacts of CBT on ­mental 
+health persist seven years after the end of treatment.1 For more than one-quarter 
+of patients, depression is chronic (DeRubeis, Siegle, and  Hollon 2008), and an 
+­episode of maternal depression raises the chances of experiencing another by about 
+50 ­percent (Shi and Altshuler 2004) making it important to identify treatments that 
+generate sustained recovery.
+The main contribution of this study lies in providing the first causal evidence 
+that treating depression can have large impacts on economic ­decision-making 
+and, remarkably, impacts that are evident seven years after the end of a ­one-off 
+­intervention.2 Our results are in line with the findings of two recent studies which 
+have reported large benefits of ­CBT-based interventions. Targeted at specific pop-
+ulations with impulse control problems, such as ­crime-prone youth in Chicago 
+(Heller et al. 2017) and Liberia (Blattman, Jamison, and Sheridan 2017), these 
+1 We identified six trials with ­follow-up beyond 24 months. The longest ­follow-up was up to 6 years after 
+­completion of CBT with a sample size of 40 (Fava et  al. 1998). The largest trial had 248 with a ­follow-up 
+of 3.5 years (Cuijpers et al. 2013, Wiles et al. 2016). None of these trials studied CBT alone; they included 
+­pharmacological treatment.
+2 A large literature links depression with financial and labor market outcomes (see Mintz et al. 1992 and Kessler 
+2012 for a ­meta-analysis of evidence based on associations) and a handful of randomized controlled trials show 
+­short-term effects of psychotherapy interventions on days worked or the ability to perform labor (Patel et al. 2017, 
+Buttorff et al. 2012, Bolton et al. 2003). Several studies in the economics literature have estimated the impacts of 
+mental health on economic ­decision-making or labor market outcomes, primarily using instrumental variables (e.g., 
+death of a friend, religiosity) for identification. See Frijters, Johnston, and Shields (2014) for one such example 
+and a review.
+
+
+--- PAGE 5 ---
+828
+THE AMERICAN ECONOMIC REVIEW
+MARCH 2020
+­interventions were effectively “­noncognitive” skills training and did not aim to 
+improve mental health.
+This study also ties into other strands of the literature. First, we contrib-
+ute to a growing literature on women’s empowerment (Duflo 2012, Almås et al. 
+2018), ­offering the first evidence that treating perinatal depression may improve 
+­women’s financial empowerment in the medium term. Many successful interven-
+tions for ­women’s empowerment (education, fertility planning, cash transfers, 
+savings accounts) target adolescent girls (Bandiera et al. 2017), but have often 
+failed to ­generate persistent effects (Baird and Özler 2016), possibly because of 
+social ­constraints (Buvinic and ­Furst-Nichols 2014, Field et al. 2016). Our results 
+­suggest that interventions aimed at reducing maternal depression might be an effec-
+tive ­policy tool to increase women’s empowerment even in difficult contexts, for 
+­example among adult women or when social constraints are binding.
+Second, we provide causal evidence that treating maternal depression impacts 
+investments in children. A large literature has explored the ­later-life consequences 
+of shocks to the physical health of pregnant women or infants (Almond and Currie 
+2011; Almond, Currie, and Duque 2018; Bhalotra, Karlsson, and Nilsson 2017). 
+Although a few recent studies have analyzed maternal stress (Aizer, Stroud, 
+and Buka 2016) or bereavement during pregnancy (Persson and ­Rossin-Slater 2018; 
+Black, Devereux, and Salvanes 2016), much less is known about the impacts of 
+maternal mental health. Recent studies have emphasized the importance of ­parental 
+­investments (Almond and  Mazumder 2013, Cunha 2017) and early childhood 
+­stimulation (Walker et al. 2005, Attanasio et al. 2014, Doyle et al. 2017), both of 
+which may be compromised by the mother’s depression. The potential costs of 
+­failing to treat maternal depression are large, because early childhood skills influ-
+ence adult health and earnings.
+I.  Conceptual Background
+In order to better understand the mechanisms through which depression treatment 
+can influence maternal ­decision-making, we outline a framework that serves the 
+dual purpose of systematizing our thinking and helping us summarize the literature 
+on depression as it relates to ­decision-making. A sketch of a model reflecting the dis-
+cussion here is in the working paper version of this paper. In view of the symptoms 
+that characterize depression, it may impact decisions through preferences, expecta-
+tions, or constraints. Potential changes in preferences include time discounting and 
+the disutility of effort. Depression or negative affect may encourage time discount-
+ing (Lempert and Pizzagalli 2010). Depression has been linked to impulsivity and 
+inconsistent intertemporal choices (Takahashi et al. 2008), and to ­present-biased 
+behaviors such as drinking, smoking, or suicide (Dennhardt and  Murphy 2011, 
+Imhoff et  al. 2014). A second channel is a higher cost of effort (Cohen et  al. 
+1982, Den Hartog et al. 2003), associated with stress and fatigue, which may, for 
+instance, increase the mental cost of simple tasks such as interacting with the child 
+(Bhalotra et al. 2017) or advocating for oneself, thus reducing bargaining power 
+(Mirowsky 1985). Depression may also impact the marginal utility of consumption 
+or ­leisure (Kung, Johnston, and Shields 2018), anhedonia being a classic symptom 
+of depression.
+
+
+--- PAGE 6 ---
+829
+BARANOV ET AL.: MATERNAL DEPRESSION AND WOMEN’S EMPOWERMENT
+VOL. 110 NO. 3
+Depression may affect expectations, or subjective beliefs over the distribution 
+of shocks, as posited by Beck’s cognitive theory (1967, 1979). It may induce 
+a ­pessimistic view in the mother of her ability to bargain or influence future 
+outcomes such as her child’s skills (de Quidt and  Haushofer 2016, MacLeod 
+and Salaminiou 2001). Alternatively, depression may make mothers more pes-
+simistic about the returns to parenting investments, for instance by making them 
+believe that negative shocks are more likely. By distorting beliefs, depression 
+might lead to lower ­aspirations and, thereby, lower child investments (Dalton, 
+Ghosal, and Mani 2016).
+Finally, depression may impact women’s ­decision-making through tightening 
+constraints, for instance, it could increase sick days and reduce disposable time 
+(Grossman 1972) or lower the effectiveness of maternal investments and tighten 
+productivity constraints. Depression has been linked to lower productivity in the 
+labor force (Lerner et  al. 2004, Lerner and  Henke 2008). In home production, 
+depression could reduce maternal productivity in combining investments to improve 
+child quality, holding fixed the level of inputs. This might occur if depression affects 
+cognitive function (Den Hartog et al. 2003), or the quality of ­parent-child interac-
+tions (Ronda 2016).
+II.  The Intervention
+The Thinking Healthy Program (THP) was a cluster randomized trial addressing 
+perinatal depression in rural Punjab, Pakistan. Perinatal depression is defined as a 
+depressive disorder with onset at any time during pregnancy or within the first year 
+of birth. The Diagnostic and Statistical Manual of Mental Disorders, IV (­DSM-IV) 
+criteria for diagnosis of perinatal depression are the same as for depression at any 
+other stage of life. They include at least five of these nine symptoms, present nearly 
+every day within a ­two-week period: (i) feelings of sadness, emptiness, or hopeless-
+ness, nearly every day, for most of the day or the observation of a depressed mood 
+made by others; (ii) loss of interest or pleasure in activities; (iii) weight loss or 
+decreased appetite; (iv) changes in sleep patterns; (v) feelings of restlessness; (vi) 
+loss of energy; (vii) feelings of worthlessness or guilt; (viii) loss of concentration or 
+increased indecisiveness; (ix) recurrent thoughts of death, with or without plans of 
+suicide (American Psychiatric Association 2013).
+The trial was randomized across 40 clusters, these being Union Councils, 
+the smallest geopolitical unit: 20 clusters were randomized into ­receiving 
+the intervention and 20 to the control arm. Women were enrolled during  
+April  2005 to March 2006. All women in their third trimester of pregnancy 
+(­married, ages 16–45, no other significant illness) who met the ­DSM-IV ­criteria 
+for Major Depressive Episode were invited to participate in the study. A total of 
+3,898 women were ­identified, with 8 percent refusing before any assessment, and 
+2  percent were not found. Rates were not different by treatment status, online 
+Appendix Table A.3 shows sample numbers by treatment cluster through time.
+A total of 3,518 women were assessed for clinical depression, with 903 
+(26 ­percent) identified as prenatally depressed, a prevalence consistent with pre-
+vious estimates for this region (Rahman, Iqbal, and Harrington 2003). There were 
+463 depressed mothers in the clusters randomized to the intervention, and 440 in the 
+
+
+--- PAGE 7 ---
+830
+THE AMERICAN ECONOMIC REVIEW
+MARCH 2020
+control arm. Only women diagnosed as depressed completed the baseline survey. 
+To our knowledge, this is the largest psychotherapy intervention to treat mild to 
+moderate depression evaluated to date.3
+All women who were offered participation in the study accepted, and those who 
+were not offered participation were unable to receive the treatment or other thera-
+pies. There were no psychologists in the public sector, and only three psychiatrists 
+(based in Rawalpindi city) for the whole district. The field team confirmed that 
+antidepressant drugs were not readily available to this population.
+The THP intervention was based on principles of cognitive behavioral ­therapy 
+(CBT), a class of psychosocial interventions that are the most widely used 
+­evidence-based practice for treating mental disorders (Field, Beeson, and  Jones 
+2015). CBT focuses on the development of personal coping strategies that target 
+solving current problems and changing unhelpful patterns in cognition (thoughts, 
+beliefs, and attitudes), behaviors, and emotional regulation. ­Meta-analyses of CBT 
+indicate that it is often at least as effective as pharmacotherapy (Bolier et al. 2013, 
+Tolin 2010, Cuijpers et al. 2008). Through extensive piloting (Rahman 2007), the 
+original study team designed an intervention which could be delivered by primary 
+health workers based in the village (the essential features are summarized in online 
+Appendix Table A.1). They developed a manual with ­step-by-step instructions for 
+each session to train the health workers and for them to keep for reference.4
+The intervention was delivered by Lady Health Workers (LHWs), appointed 
+by the federal government to deliver community health services. During the 
+CBT ­sessions, LHWs focused on identifying and modifying cognitive distor-
+tions ­common in depression, such as how the mother viewed her own health, 
+her ­relationship with the baby, and the people around her (changing “unhealthy 
+thinking” to “healthy ­thinking”). Mothers received health education and support-
+ing materials with ­pictorial and verbal key messages to facilitate the discovery of 
+alternative health beliefs. The intervention was based on a psychosocial model and 
+not presented as a treatment for a mental health problem. While other studies have 
+provided CBT to perinatally depressed mothers in developing countries (Cooper 
+et al. 2009; Gao et al. 2010; Lara, Navarro, and Navarrete 2010), the component 
+of the intervention that provided guided discovery of healthy behavior is unique to 
+this study. The CBT intervention was delivered at a relatively low cost of US$10 
+per woman.
+The time line for the intervention and all ­follow-ups is summarized in Figure 1. 
+Every woman in the trial received 16 home visits from an LHW. These were deliv-
+ered as weekly sessions for four weeks in the last pregnancy month, three sessions 
+in the first postnatal month, and monthly sessions for the following nine months. 
+Mothers in the control arm received enhanced routine care with an equal number 
+of visits, enhanced not in content but because the frequency of visits was greater 
+than the usual, which was once a month. We have no data on the duration of each 
+session but it is likely they were longer in the treated clusters on account of the 
+3 See Cuijpers et al. (2008) and Cuijpers, van Straten, and Warmerdam (2008) for ­meta-analyses. The authors 
+have compiled a database (www.evidencebasedpsychotherapies.org) which includes interventions to January 1, 
+2013. From 2013, we searched all completed psychotherapy interventions posted on clinicaltrials.gov.
+4 The manual can be downloaded from the WHO website: www.who.int/mental_health/­maternal-child/think-
+ing_healthy.	
+
+
+--- PAGE 8 ---
+831
+BARANOV ET AL.: MATERNAL DEPRESSION AND WOMEN’S EMPOWERMENT
+VOL. 110 NO. 3
+additional content. The standard health visits included advice on infant health issues 
+such as tetanus, immunizations, and breastfeeding.5 Each LHW was responsible for 
+approximately 1,000 women in her catchment area. There were a total of 40 LHWs 
+who visited either treatment or control mothers. Thus, the catchment areas of LHWs 
+were nested within clusters to avoid contamination.
+A. ­Follow-Up Surveys
+The THP study conducted ­follow-up surveys at 6 and 12 months ­postpartum 
+to evaluate maternal mental health, infant outcomes, and parenting behavior. 
+The ­intervention led to large (approximately 30  percentage point) reductions in 
+­depression rates at 6 and 12 months, increased the frequency of interaction with the 
+infant for both mothers and fathers (based on ­self-report), but showed no discernible 
+effects on infant growth (Rahman et al. 2008).
+There had been no additional contact with participants since the ­12-month 
+­follow-up until 2013. We worked with the same NGO that conducted the interven-
+tion to implement a ­follow-up study to assess whether the reduction in postpartum 
+depression had lasting effects on mothers and children. Five field supervisors, blind 
+to the woman’s trial (and baseline depression) status, worked with LHWs to contact 
+participants who had completed the ­12-month ­follow-up. Additional queries with 
+neighbors or relatives, as well as local hospital record checks assisted this. A field 
+team of 9 assessors, also blind to treatment status, worked mid-2013 to early 2014. 
+Each dyad interview had two parts, one in the woman’s home and the second in the 
+child’s school or the LHW’s house, so as to administer the cognitive function tests 
+to the child in a quiet and more standardized environment than the home.
+We enrolled 300 new ­mother-child dyads from the sample of women who were 
+assessed for the original THP study but did not meet the ­DSM-IV criteria for 
+major depression. As we had limited baseline data for these women, we used each 
+­participant’s village and LHW assignment to identify a prenatally ­nondepressed 
+5 This enhanced frequency appears to be associated with better child outcomes for the control sample relative 
+to the overall region. We find an infant mortality rate of 4.6 percent, approximately ­two-thirds of that of the Punjab 
+region. Rates of breastfeeding and completing immunization in our control sample were also higher than in the 
+­2012–2013 Pakistan Demographic and Health Surveys (DHS). 
+Figure 1. Time Line of Intervention and ­Follow-Ups
+2005
+2013
+Baseline
+Intervention
+start
+1st
+“6-month” 
+follow-up
+3rd
+“7-year” 
+follow-up
+ 
+−3m −1m
+6m
+12m
+8yrs
+Child
+age:
+10m
+2nd
+Intervention
+complete
+“12-month” 
+follow-up
+Women assessed 
+for depression
+
+
+--- PAGE 9 ---
+832
+THE AMERICAN ECONOMIC REVIEW
+MARCH 2020
+woman to contact for ­reenrollment. A full ­follow-up interview was completed by 
+this additional sample, but the only baseline characteristic available for them is their 
+depression status.
+III.  Data
+We provide a brief description of the data and outcomes below. A detailed descrip-
+tion of the data, analysis of sample flow, balance, and attrition are found in online 
+Appendix Section D.
+Sample.—Our analytical sample comprised the experimental group of mothers 
+randomized into treatment or control arms, and the ­nonexperimental group who 
+were not depressed at baseline. The starting experimental sample consisted of 
+463 treated and 440 control mothers. At the ­7-year ­follow-up, we located 295 of 
+the ­control dyads and 289 of the intervention arm dyads, together correspond-
+ing to 64.8 percent of the baseline sample. One-third of the attrition was due to 
+child ­mortality which was not different by treatment status. The ­nonexperimental 
+group interviewed at the ­7-year ­follow-up consisted of 300 ­mother-child dyads, 
+150 from each arm.
+Baseline Balance.—Baseline balance across intervention arm was achieved 
+for all observable characteristics other than household composition (Table  1). 
+Treated women were more likely to have their ­mother-in-law or mother present 
+(each ­marginally significant). Nevertheless, an overall joint test of balance yields a 
+­p-value of 0.13.
+Imbalance in baseline characteristics was mostly driven by mothers of boys, 
+while  the sample of mothers of girls appears more balanced: a joint test of 
+­balance yields a ­p-value of 0.04 for mothers of boys, and a ­p-value of 0.81 for moth-
+ers of girls (see Appendix Table A2).
+The few imbalances already present at baseline were exacerbated in the 
+­follow-up  samples at 1 and 7  years. Besides persistent differences in the 
+­presence  of  the ­grandmother in the household, treated group women reported 
+about 0.7 more years of education, and 0.3 fewer children. In the ­7-year ­follow-up 
+­sample, treated mothers also reported higher perceived social support at baseline. 
+A joint test of balance for the ­7-year ­follow-up sample yields a ­p-value of 0.01. 
+We discuss how we address this imbalance in the next section.
+Attrition.—Seven years after the end of the intervention, we located 585 
+(65  ­percent) of the baseline sample, 289 / 463 (62  percent) in the intervention 
+arm and 296 / 440 (67 percent) in the control arm. Attrition was not significantly 
+­different by treatment status. A ­two-sample Wilcoxon ­rank-sum test of difference in 
+means cannot reject the null of no difference, with a ­p-value of 0.12. Although fairly 
+similar along most characteristics (Appendix Table A1), attritors (­lost-to-follow-up, 
+LTFU) were less empowered, perceived less social support, and were more likely to 
+work than mothers ­reenrolled at year 7. There were no significant differences at the 
+5 ­percent level in baseline characteristics between treated and control LTFU moth-
+ers, and we fail to reject the joint test that characteristics of attritors in treatment 
+
+
+--- PAGE 10 ---
+833
+BARANOV ET AL.: MATERNAL DEPRESSION AND WOMEN’S EMPOWERMENT
+VOL. 110 NO. 3
+were different to controls (​ p  =  0.59​).6 Attrition patterns differed by the gender 
+of the child in the womb at the start of the intervention. For mothers of girls, attri-
+tion rates were very similar across trial arms, with 65 percent of the treatment arm 
+located after 7 years and 66 percent of the control arm. By contrast, for mothers of 
+boys, attrition rates were significantly higher in the treatment arm ( just 60 percent 
+located, compared to 69 percent of controls, see online Appendix Table D.10).
+Estimated treatment effects on 6- and ­12-month mental health outcomes are 
+the same regardless of whether we use the full sample or the ­7-year ­follow-up 
+­subsample (online Appendix Table D.11), suggesting that attrition was not system-
+atically related to improvements in mental health. Across all the range of ­mental 
+health ­outcomes, a joint test of whether treatment effects are different for the 
+­7-year ­subsample yields a ­p-value  =  0.60 for the ­6-month outcomes and 0.95 for 
+6 The average magnitude of the difference between attritors and ­nonattritors is about 0.07 standard deviations 
+(of the control group), and the difference between treatment and control among attritors is 0.08 SD.
+Table 1—Balance
+Baseline sample observations = 903
+­1-year sample 
+observations = 704
+­7-year sample 
+observations = 585
+Control 
+mean
+SD
+­T-C 
+diff.
+­p-value
+­T-C diff.
+­p-value
+­T-C 
+diff.
+­p-value
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+Mother’s age
+​27.00​
+5.2
+​− 0.51​
+​0.14​
+​− 0.39​
+​0.30​
+​− 0.32​
+​0.44​
+Mother’s height (m)
+​1.56​
+0.1
+​0.00​
+​0.32​
+​0.01​
+​0.17​
+​0.01​
+​0.18​
+Mother’s BMI
+​23.13​
+4.1
+​0.24​
+​0.37​
+​0.15​
+​0.61​
+​0.36​
+​0.28​
+Mother’s education
+​3.87​
+4.0
+​0.37​
+​0.17​
+​0.75​
+​0.01​
+​0.71​
+​0.03​
+Empowered
+​0.55​
+0.5
+​− 0.03​
+​0.35​
+​− 0.05​
+​0.19​
+​− 0.04​
+​0.36​
+Mother usually works
+​0.03​
+0.2
+​− 0.01​
+​0.25​
+​− 0.01​
+​0.43​
+​− 0.01​
+​0.38​
+Parity
+​2.33​
+1.8
+​− 0.17​
+​0.15​
+​− 0.29​
+​0.03​
+​− 0.34​
+​0.02​
+First child
+​0.19​
+0.4
+​0.01​
+​0.82​
+​0.01​
+​0.61​
+​0.01​
+​0.65​
+Index child is female
+​0.49​
+0.5
+​0.03​
+​0.34​
+​0.05​
+​0.18​
+​0.06​
+​0.13​
+Share children female
+​0.52​
+0.3
+​0.02​
+​0.44​
+​0.00​
+​0.93​
+​0.01​
+​0.84​
+Depression score
+​14.43​
+4.0
+​0.40​
+​0.15​
+​0.25​
+​0.41​
+​0.31​
+​0.35​
+Disability score
+​8.30​
+2.7
+​− 0.17​
+​0.34​
+​− 0.16​
+​0.45​
+​− 0.03​
+​0.88​
+General functioning
+​62.05​
+5.3
+​− 0.01​
+​0.97​
+​0.35​
+​0.37​
+​0.58​
+​0.18​
+Perceived social support
+​44.49​
+16
+​1.08​
+​0.32​
+​1.82​
+​0.13​
+​2.63​
+​0.05​
+Joint/extended family
+​0.57​
+0.5
+​0.04​
+​0.27​
+​0.05​
+​0.17​
+​0.06​
+​0.18​
+­Mother-in-law present
+​0.40​
+0.5
+​0.06​
+​0.05​
+​0.08​
+​0.02​
+​0.09​
+​0.04​
+Mother’s mother present
+​0.05​
+0.2
+​0.03​
+​0.07​
+​0.04​
+​0.05​
+​0.03​
+​0.11​
+Father’s education
+​7.09​
+3.9
+​− 0.13​
+​0.61​
+​− 0.10​
+​0.73​
+​− 0.22​
+​0.48​
+Father employed
+​0.91​
+0.3
+​− 0.01​
+​0.53​
+​− 0.02​
+​0.50​
+​− 0.00​
+​0.88​
+Not in manual labor
+​0.29​
+0.5
+​− 0.01​
+​0.80​
+​0.01​
+​0.86​
+​0.00​
+​0.93​
+SES (0 = poor, 4 = rich)
+​1.38​
+1.0
+​0.01​
+​0.91​
+​0.11​
+​0.15​
+​0.12​
+​0.13​
+Wealth index
+​− 0.03​
+2.0
+​0.06​
+​0.66​
+​0.24​
+​0.11​
+​0.19​
+​0.24​
+LTFU from baseline
+​0.33​
+0.5
+​0.05​
+​0.14​
+Joint test ( ­p-value)
+​0.13​
+​0.12​
+​0.01​
+Notes: This table tests for balance in the baseline, ­1-year ­follow-up (Rahman et al. 2008), and ­7-year ­follow-up 
+samples. Columns 1 and 2 show the mean and standard deviation in the control group in the full baseline sample, 
+and columns 3, 5, and 7 show the difference in means between treatment and control group, in the three ­different 
+­samples. The respective ​p​-values are reported in columns 4, 6, and 8. LTFU from baseline = share of baseline 
+respondents who are lost to ­follow-up. The Wealth index score is a ­19-item ­PCA-weighted index of assets (radio, 
+TV, refrigerator, washing machine, air conditioning), house and roofing materials (brick walls, metal roof), and 
+water and waste infrastructure (type of drinking water, flush toilet or any type of latrine).
+
+
+--- PAGE 11 ---
+834
+THE AMERICAN ECONOMIC REVIEW
+MARCH 2020
+­12-month outcomes. Differences in treatment effects across the different samples 
+range between 2 and 5 percent of a standard deviation.
+Nevertheless, we also assess the robustness of our results to accounting for attri-
+tion in two ways (details are in online Appendix Section D.3). First, we calculate 
+treatment effects using inverse probability weighting, where the weights are calcu-
+lated as the predicted probability of being in the ­7-year ­follow-up sample based on 
+the available baseline controls. Second, we calculate attrition bounds based on Lee 
+(2009), which sorts the outcomes from best to worst within each treatment arm and 
+then trims the sample from above and below to construct groups of equal size. Our 
+conclusions are, in general, robust to these corrections.
+A. Outcomes
+Maternal Mental Health.—The THP intervention was designed to reduce the 
+incidence of depression among prenatally depressed mothers. As such, it was 
+­careful in measuring clinical depression. Maternal depression was assessed using 
+the Structured Clinical Interview (SCID) for ­DSM-IV diagnosis. Evaluations to 
+­diagnose major depressive episodes at baseline, ­6 months, and ­1 year were done by a 
+psychiatrist. At the ­7-year ­follow-up, depression was again determined by the SCID, 
+but administered by trained assessors. In addition to the binary indicator for major 
+depression, the baseline, ­6-month, and ­1-year surveys also contained other indicators 
+of mental health including the Hamilton Depression Rating (a measure of depres-
+sion severity), Brief Disability Questionnaire (measure of how disabling symptoms 
+are), and the Generalized Assessment of Functioning (­assessor-determined measure 
+of functioning incorporating severity of symptoms and their effect on ­functioning). 
+More detail with references to the validation and timing of the ­measures is in online 
+Appendix Section J.
+Mother’s ­Decision-Making.—We observe several measures related to maternal 
+decisions and we group them into five categories: the mother’s financial empow-
+erment, fertility trajectory, and parenting behaviors. Parenting is grouped into 
+three  domains: ­time-intensive investment, ­money-intensive investment, and par-
+enting style. For brevity, we label these categories “mother’s decision-making” 
+since they are related to choices that mothers made. However, we acknowledge 
+that these outcomes emerge from a more complex interplay between external con-
+straints and household bargaining, and they are not solely dependent on mothers’ 
+­decision-making.
+We define financial empowerment as control over resources (as in Karlan et al. 
+2017; Lavy, Lotti, and Yan 2016). In Pakistan, women’s empowerment is low, with 
+strictly defined gender norms. Most women are confined to their homes, do housework 
+for the extended family, and are excluded from ­decision-making (Ahmad and Khan 
+2016). In our sample, only 3 percent of mothers reported usually working at baseline 
+(recall they are pregnant at baseline), none were working at the 6- or the ­12-month 
+­follow-ups, and only 12 percent worked 7 years after the end of the intervention.
+We evaluate treatment effects on trajectories of empowerment and fertility, 
+­leveraging data from earlier and later ­follow-up. For parenting inputs we rely on 
+the extensive measures collected at the ­7-year ­follow-up, consisting of both mother 
+
+
+--- PAGE 12 ---
+835
+BARANOV ET AL.: MATERNAL DEPRESSION AND WOMEN’S EMPOWERMENT
+VOL. 110 NO. 3
+reported and direct interviewer observations but we present results for parenting 
+in infancy in the online Appendix (Table H.44). As we have numerous indicators 
+within each domain, we generate summary indices. We describe the indicators suc-
+cinctly here and provide detailed definitions and summary statistics in the online 
+Appendix (Sections B.3–B.5 and Section J).
+	
+(i)	 Financial empowerment was measured using whether the woman was 
+employed, her monthly earnings, and whether she had control over ­spending. 
+We use all three measures from the ­7-year ­follow-up but include only ­control 
+over spending from earlier waves as no women worked in the first year 
+postpartum.7
+	 (ii)	 Monetary investments included the school quality index, whether the index 
+child attended private school, the mother’s expected grade attainment for 
+the index child, the family’s education expenditures in the past month, as 
+well as the learning material and physical environment ­subscales of the 
+HOME inventory. Since expected grade attainment is related to schooling, 
+we include it in the monetary index alongside other questions pertaining to 
+schooling. Mothers answered a detailed module on the home environment, 
+which was a cultural adaptation of the short HOME inventory (Caldwell 
+and  Bradley 1984) similar to the ­HOME-SF used, for instance, in the 
+National Longitudinal Survey of Youth 1979. A number of the HOME ques-
+tions were based on interviewer observations (rather than mother reports): 
+see online Appendix Section J. School quality was objectively assessed by 
+visiting the child at school and recording information on school amenities 
+(­playground, computers, library, etc.), number of teachers and classrooms, 
+and classroom amenities.
+	 (iii)	 ­Time-intensive parental investments included the frequency that the 
+mother and father played with the index child, whether someone helped 
+with his or her studies, as well as enrichment, family companionship, and 
+­family ­integration ­subscales of HOME (all measures are directed at the  
+index child).
+	 (iv)	 Parenting style captured parenting behavior that did not have explicit time 
+or monetary costs. For example, how the mother spoke to the child, or the 
+style of discipline she used. It was measured using the Parenting Practices 
+Inventory (PPI) (­Webster-Stratton, Reid, and Hammond 2001), capturing the 
+disciplinary style of the parents such as the extent of harsh or inconsistent 
+disciplining; and the responsivity, encouragement of maturity, and emotional 
+climate ­subscales of the HOME score.
+	 (v)	 Fertility trajectory was assessed between the beginning of the interven-
+tion and the ­7-year ­follow-up. At the ­1-year ­follow-up, mothers were asked 
+7 Short-term effects (at 6 months) on control over spending were documented in Rahman et al. (2012) when the 
+intervention was still ongoing.
+
+
+--- PAGE 13 ---
+836
+THE AMERICAN ECONOMIC REVIEW
+MARCH 2020
+if they were pregnant. At the ­7-year ­follow-up, mothers completed a child 
+roster, with ages (but not genders) of children. From this we can infer how 
+many surviving children the mother had since the intervention began. First, 
+to ­summarize results in a style consistent with other outcomes, we create an 
+index with the total number of siblings of the index child (the child in womb 
+at the start of the intervention) born since treatment started, whether the 
+mother was pregnant again at the ­1-year ­follow-up, whether the index child 
+is the last child, and the ideal number of children (asked only at the ­7-year 
+­follow-up). Second, based on the child roster data reported by the mother at 
+the ­7-year ­follow-up, we also plot the fertility trajectory as a function of time 
+since treatment.
+Child Outcomes.—We report results for four groups of child outcomes at the 
+­7-year ­follow-up, referring to the physical, cognitive, ­socio-emotional develop-
+ment of the index child, and the survival of siblings. For infancy we had the length 
+and weight of the child, diarrheal episodes, and acute respiratory infections; these 
+results are in online Appendix Table H.45. Although the women had other chil-
+dren who could have been affected by the intervention, most outcomes ­analyzed 
+are for the index child, i.e., the child in the womb at the start of the intervention. 
+Similarly, most of the questions about parenting refer specifically to the index child. 
+Some items of the HOME inventory, such as the physical environment subscale 
+measured the overall quality of the household environment, such as ­cleanliness 
+and safety.
+	
+(i)	 Physical development was measured using growth, fine motor skills, and 
+illness. Interviewers measured height and weight, and motor skills were 
+assessed using the Grooved Pegboard Test. Mothers reported any severe 
+­illness, hospitalizations, and eye and hearing problems of the child.
+	 (ii)	 Cognitive development was assessed with the Wechsler Preschool and 
+Primary Scale of Intelligence, designed for children 2.­5–7.5 years old 
+(­WPPSI-IV). It provides primary index scales for verbal comprehension, 
+­visual-spatial, fluid reasoning, working memory, and processing speed. 
+Executive functioning was assessed using a ­Stroop-like test, which gauges 
+inhibition and working memory. Basic literacy and numeracy tests were 
+administered by us, providing math and Urdu scores based on the number of 
+correct answers out of 16 and 12 questions respectively. The school grade of 
+the child was based on teacher reports.
+	 (iii)	 ­Socio-emotional development was measured along two broad domains: 
+behavioral and emotional problems, assessed with the Strengths and 
+Difficulties Questionnaire (SDQ) (Goodman 1997); and anxiety, assessed 
+with the Spence Children’s Anxiety Scale (SCAS) (Spence 1998). Both 
+­measures were based on questions answered by the mother.
+	 (iv)	 Sibling survival. Survival of the index child’s siblings is the only ­sibling 
+­outcome we are able to evaluate. We use the mother’s reports of child 
+
+
+--- PAGE 14 ---
+837
+BARANOV ET AL.: MATERNAL DEPRESSION AND WOMEN’S EMPOWERMENT
+VOL. 110 NO. 3
+­mortality since the intervention, and the sex ratio of surviving children at the 
+­7-year ­follow-up to assess treatment effects.8
+IV.  Econometric Specification
+Since treatment assignment was random, our principal estimating equation is
+(1)	
+​​Y​ic​  =  α + β ​T​c​ + Γ′ ​X​ic​ + ​ε​ic​​ ,
+where ​​Y​ic​​ is the outcome for the mother or child ​i​ living in cluster ​c​. As discussed, 
+we create outcome indices. These are standardized within the control group to have 
+mean 0 and standard deviation 1, and positive values are always associated with 
+more favorable outcomes.
+The variable ​​T​c​​ is a dummy equal to 1 if the mother is in the intervention group, 
+which by the cluster design varies only at the Union Council level, ​c​. The term ​​X​ic​​ 
+is a vector of ­controls. We first show a parsimonious model controlling only for 
+interview date and interviewer fixed effects. We then include the full set of base-
+line characteristics, demeaned and interacted with the treatment indicator. This 
+accounts for the fact that the ­follow-up sample was not balanced along all observ-
+able baseline characteristics, and the interaction with treatment allows for differing 
+impacts of these characteristics on outcomes. The characteristics include the moth-
+er’s age and its square, parity, family structure, presence of grandmother (mother 
+or ­mother-in-law of depressed mother), the mother’s education, father’s education, 
+if the mother was employed, if the mother was empowered, wealth index, depres-
+sion severity (Hamilton score), and the Multidimensional Scale of Perceived Social 
+Support (MSPSS). Our results are not sensitive to adding controls.9
+We report standard errors clustered at the unit of randomization. However,  
+​p​-values are computed using randomization inference, adjusting for multiple hypoth-
+esis testing and with randomization permuted at the cluster level (Young 2019).
+The parameter of interest, ​β​, represents the ­intention-to-treat (ITT) effect. Since 
+attrition was not different by treatment status, treatment was not available to control 
+mothers, and all women offered the treatment accepted it, ​β​ would be the average 
+treatment effect on the treated (ATT) if we could assume that all treated women 
+participated in all sessions. Although we had full compliance we do not observe how 
+many sessions the women actually received.
+We identify the causal effect of the CBT intervention treating depression rather 
+than the causal effect of depression. Not all mothers recovered from depression in 
+the treatment arm, and many mothers in the control arm spontaneously recovered. 
+We do not use the randomized assignment as an instrument for depression, since it is 
+possible that the intervention may have had direct impacts on some outcomes above 
+8 While attrition due to mortality was scrupulously reported between baseline and ­1-year, between the ­1-year 
+and ­7-year ­follow-up child survival was not reported for study participants who moved or refused at any time, and 
+only a few instances of child deaths were specifically reported.
+9 Child age is not in the controls as it is potentially endogenous and the range is limited, the children being 
+of a single birth cohort born ­2005–2006. However, treatment did not affect the age of the child (by lengthening 
+­pregnancy, for example), and the results are nearly identical if we control for age.
+
+
+--- PAGE 15 ---
+838
+THE AMERICAN ECONOMIC REVIEW
+MARCH 2020
+and beyond affecting maternal depression, through encouraging healthy thinking 
+and bonding with the child.
+Multiple Inference and Power.—As we gathered numerous indicators within 
+each  domain, following O’Brien (1984); Kling, Liebman, and  Katz (2007); and 
+Anderson (2008), we construct summary indices as the most efficient weighted aver-
+age of a set of outcomes.10 This addresses the problem of multiple inference by reduc-
+ing the number of hypotheses tested and also improves the power of our statistical 
+tests for whether the intervention had effects for groups of related outcomes.
+We further account for multiple hypothesis testing across the indices by 
+­calculating ​p​-values using a ­step-down procedure with a ­nonparametric 
+­permutation  test which controls the ­family-wise error rate (FWER), following 
+Westfall and Young (1993) and Efron and Tibshirani (1994). The ​p​-values used in 
+this procedure use the ​p​-values generated by randomization inference (Young 2019).
+Power calculations for the ­7-year ­follow-up were structured around the ­WPPSI-III 
+­full-scale IQ measure for children. Calculations were based on ­reenrollment ­numbers 
+that were slightly optimistic with N of 328 in the intervention arm (actual 289) and 
+314 in the control arm (actual 296) and an ­inter-cluster correlation (ICC) of 0.05. 
+The ICC was based on the observed ICC in the same clusters for the maternal mental 
+health variables in the original study (Rahman et al. 2008). With these parameters, 
+the study had 80 percent power to detect a difference of 0.36 standard deviations in 
+standardized scores.
+Heterogeneous Treatment Effects.—We report heterogeneous treatment effects, 
+estimated separately for each gender of the index child, since in South Asia son prefer-
+ence leads to investments and outcomes often favoring sons (Sathar et al. 2015; Miller 
+1981; Bhalotra, Chakravarty, and Gulesci 2020) and mothers of sons (Milazzo 2018, 
+Bhalotra et al. 2018). Additionally, males are biologically more sensitive to stress in 
+utero (Trivers and Willard 1973), and male and female children respond differently to 
+early life shocks (Autor et al. 2016, Bhalotra and Venkataramani 2011). Additionally, 
+we test for treatment effect heterogeneity by ­socioeconomic status, demographic 
+­indicators, and baseline depression severity (see online Appendix Section G).
+V.  Results
+We find persistent benefits of the intervention on women’s mental health at the 
+­7-year mark. We also identify meaningful and statistically significant intervention 
+impacts on the mother’s control over household resources and parental investments 
+in children (including parenting style for girls). Yet we find no detectable average 
+10 The index weights outcomes using the inverse of their ­variance-covariance matrix. This procedure is akin to 
+estimating a seemingly unrelated regression model of all (standardized) outcomes on the treatment indicator jointly, 
+while constraining the coefficients to be equal within each grouping. As this is a generalized least squares (GLS) 
+estimator it provides the most efficient estimation of the treatment effect across related outcomes. As an alternative, 
+we compute factor scores, a method more suited when the measures are proxies of an underlying ­one-dimensional 
+latent factor, measured with noise. The results (online Appendix Table E.14) are qualitatively similar. The factor 
+score drops individuals with any missing data, whereas the ­GLS-weighted index allows for item ­nonresponse, 
+weighting outcomes more where more data are available.
+
+
+--- PAGE 16 ---
+839
+BARANOV ET AL.: MATERNAL DEPRESSION AND WOMEN’S EMPOWERMENT
+VOL. 110 NO. 3
+effects on fertility, and only small and imprecisely estimated effects across multiple 
+domains of child development.
+Our main results are presented in Figure 2 and in Tables 2, 3, 4, and 6. The tables 
+display treatment effects with parsimonious and enriched controls and report the 
+randomization inference ­p-values from the richer model, adjusted to control for the 
+FWER (FWER adjustment is not performed in Table 2 since we test the effect of the 
+intervention on only one construct, clinical depression, which is the main target of 
+the intervention). We also report treatment effects estimated separately for each gen-
+der of the index child. Our findings are robust to numerous sensitivity checks (online 
+Appendix Section E), and generally survive both parametric and ­nonparametric cor-
+rections for attrition, reported in Table 8.
+A. Depression Trajectories
+The CBT intervention was highly successful in reducing depression, not only at 
+­6 months and ­1 year, as shown by Rahman et al. (2008), but also 7 years after the 
+intervention concluded. Figure 3 shows the rapid recovery in the treatment arm, with 
+depression rates stabilizing around 25 percent after just 6 months. By contrast, the 
+Figure 2. Intervention Effects on Main Outcomes, Pooled, and By Gender
+Notes: Figure shows the estimated intervention effects in standard deviations, pooled and separately by gender 
+(reported in Tables ­2–9), along with 99 percent and 95 percent confidence intervals calculated using randomization 
+inference (Young 2019). Details of the estimation procedure appear in Section IV and tables notes.
+Depression severity
+Mother's financial empowerment
+Parental investment (monetary)
+Parental investment (time-intensive)
+Parenting style
+Fertility
+Physical development
+Cognitive development
+Socio-emotional development
+Sibling survival index
+Mother's mental health
+Mother's decision-making
+Child outcomes
+−0.5
+−0.25
+0
+0.25
+0.5
+0.75
+Effect size in standard deviations of the control group
+Full sample
+Female
+Male
+
+
+--- PAGE 17 ---
+840
+THE AMERICAN ECONOMIC REVIEW
+MARCH 2020
+recovery rate in the control arm was much more gradual, with 58 percent of mothers 
+in the control group suffering from depression after 1 year postpartum. This sponta-
+neous recovery in the control group, or ­mean-reversion, is consistent with the litera-
+ture showing that major depression episodes subside over time even without treatment 
+(Cuijpers et al. 2014, Fisher et al. 2012, Gelaye et al. 2016). Nevertheless, even after 
+7 years, recovery rates in the control group did not catch up with treatment: the rate 
+of depression among women in the control arm was ​30 percent (n  =  90 / 296)​, com-
+pared to ​24 percent (n  =  69 / 289)​ in the intervention arm.
+Table  2 reports the ­regression-adjusted estimates of the treatment effects on 
+depression and its severity. At the ­7-year ­follow-up, women in the treated arm were 
+5 percentage points less likely to be clinically depressed ​( p  =  0.076)​ and experi-
+enced a 0.18 SD reduction in depression severity ​( p  =  0.004)​ relative to control 
+women (column 3). This ­longer-run reduction in severity is about ­one-third of the 
+Table 2—Trajectory of Maternal Mental Health
+Intervention effects: full sample
+Control 
+group mean
+β (SE)
+Adjusted 
+β (SE)
+RI ­p-value
+(1)
+(2)
+(3)
+(4)
+At the ­6-month follow-up
+  Depressed
+​0.52​
+​− 0.32​
+​− 0.32​
+​0.000​
+​​(0.50)​​
+​​(0.05)​​
+​​(0.04)​​
+  Depression severity
+​0.00​
+​− 0.62​
+​− 0.60​
+​0.000​
+​​(1.00)​​
+​​(0.10)​​
+​​(0.08)​​
+At the ­1-year follow-up
+  Depressed
+​0.58​
+​− 0.32​
+​− 0.30​
+​0.000​
+​​(0.49)​​
+​​(0.04)​​
+​​(0.05)​​
+  Depression severity
+​0.00​
+​− 0.70​
+​− 0.66​
+​0.000​
+​​(1.00)​​
+​​(0.09)​​
+​​(0.09)​​
+At the ­7-year follow-up
+  Depressed
+​0.30​
+​− 0.06​
+​− 0.05​
+​0.076​
+​​(0.46)​​
+​​(0.03)​​
+​​(0.03)​​
+  Depression severity
+​− 0.00​
+​− 0.22​
+​− 0.18​
+​0.004​
+​​(1.00)​​
+​​(0.06)​​
+​​(0.06)​​
+Recovery trajectory
+  Recovered permanently
+​0.34​
+​0.25​
+​0.23​
+​0.000​
+​​(0.47)​​
+​​(0.04)​​
+​​(0.04)​​
+  Never recovered
+​0.23​
+​− 0.14​
+​− 0.12​
+​0.000​
+​​(0.42)​​
+​​(0.03)​​
+​​(0.03)​​
+Notes: Observations = 585. Depression severity is an index of all depression measures avail-
+able in the data at each time point (see online Appendix Section J and Table B.2 for detailed 
+definitions). Never recovered is defined as being clinically diagnosed with depression at both 
+­follow-ups after the therapy ended (­1-year and ­7-year). Recovered permanently is defined as 
+being assessed as not clinically depressed at both ­post-therapy ­follow-ups. Standard errors, 
+clustered at the level of randomization, in parentheses. Column 4 reports randomization infer-
+ence ­p-values, clustered at the level of randomization (Young 2019). All models control for 
+interview date and interviewer. Specifications with all controls additionally adjust for baseline 
+characteristics (all centered and interacted with the treatment indicator). The set of baseline 
+characteristics include mother’s age and its square, parity, family structure, presence of grand-
+mother (mother or ­mother-in-law of depressed mother), mother’s education, father’s education, 
+if mother was employed, if mother was empowered, ­PCA-weighted wealth index, depression 
+severity (Hamilton score), and perceived social support (MSPSS). ­Attrition-adjusted estimates 
+are presented in Table 8. 
+
+
+--- PAGE 18 ---
+841
+BARANOV ET AL.: MATERNAL DEPRESSION AND WOMEN’S EMPOWERMENT
+VOL. 110 NO. 3
+reduction in depression severity identified in the ­short run (0.­6–0.7 SD). Importantly, 
+the diminishing treatment effect over time does not arise because treated women 
+relapse, but rather due to the spontaneous recovery of the control women.
+The quick and stable recovery brought about by CBT is remarkable. As can be 
+seen in the last panel of Table 2, women in the treatment arm were 23 ­percentage 
+points more likely to be not depressed at both ­post-CBT ­follow-ups, a sign of 
+permanent recovery, and 12 percentage points less likely to have never recovered 
+(depressed at both 1- and ­7-year ­follow-ups). The latter result is important as it 
+­indicates that intervention was effective against chronic depression.
+Treatment effects on depression, particularly in the ­longer run, were signifi-
+cantly larger for mothers of girls with an estimated reduction in depression rate of 
+10 ­percentage points (Table 3). Interestingly, at 6 months postpartum, treatment 
+­benefited mothers of boys slightly more, but by 1 year postpartum, the treatment 
+effect was 8 percentage points larger for mothers of girls. The benefits of treatment 
+thus shifted over time toward mothers of girls. In particular, treatment was more 
+likely to reduce chronic depression in mothers of girls versus boys (by 16 percent-
+age points, p  =  0.002).
+While the longer-term effects on depression are not sensitive to attrition correc-
+tion using inverse probability weighting, they are somewhat sensitive to attrition 
+bounds, especially when bounds are calculated by grouping the mothers of girls 
+and boys together (Table 8). Separately estimating the bounds by child gender, the 
+95 percent confidence interval for the treatment effect on depression at the ­7-year 
+mark for mothers of girls ranges from −0.22 to 0.03.
+In order to interpret the results on women’s ­decision-making that follow, we note 
+that the total effect on women’s depression stemming from the intervention is the 
+Figure 3. Treatment Effects on Depression
+Notes: Figure shows the share of women clinically diagnosed with major depression at each ­follow-up wave by 
+trial arm. Ninety-five percent confidence intervals are based on conventional standard errors of the raw (unadjusted) 
+means.
+0
+0.2
+0.4
+0.6
+0.8
+1
+Share depressed
+Baseline
+6-month
+1-year
+7-year
+Control
+Treatment
+Non-depressed
+95% CI
+
+
+--- PAGE 19 ---
+842
+THE AMERICAN ECONOMIC REVIEW
+MARCH 2020
+cumulative difference in depression throughout all these years (rather than just the 
+difference in prevalence at the ­7-year mark).
+B. Women’s ­Decision-Making
+The CBT intervention significantly increased the mother’s financial empower-
+ment by 0.29 SD, monetary parental investments by 0.28 SD, and ­time-intensive 
+parental investments by 0.20 SD, as summarized in Figure 2 and shown in Table 4.11 
+On average, we find no effects on parenting style or fertility, with very small esti-
+mated treatment effects of 0.05 SD and 0.00 SD respectively.
+Treatment effects are driven by mothers who were pregnant with a girl at the start 
+of the intervention. This is reassuring since baseline characteristics and patterns of 
+11 We have used data from every ­follow-up to construct the indices of maternal financial empowerment and 
+fertility. Rahman et al. (2012) reported the impact of the same intervention on the mother’s control over spending 
+while the intervention was ongoing (at 6 months). Repeating the analysis using only the outcomes measured at 7 
+years, the magnitude of the effect on financial empowerment falls from 0.29 to 0.18 SD, and the effect for fertility 
+goes from 0.01 to 0.03, but the results are qualitatively similar (online Appendix Tables E.15 and H.34).
+Table 3—Divergent Trajectories of Maternal Mental Health by Child Gender
+Intervention effects: by child gender
+Girl control mean
+Boy control mean
+βGirl(SE)
+βBoy(SE)
+βGirl = βBoy
+(1)
+(2)
+(3)
+(4)
+(5)
+At the ­6-month follow-up
+  Depressed
+​0.48​
+​0.56​
+​− 0.29​
+​− 0.37​
+​0.287​
+​​(0.05)​​
+​​(0.07)​​
+  Depression severity
+​− 0.08​
+​0.07​
+​− 0.51​
+​− 0.75​
+​0.097​
+​​(0.10)​​
+​​(0.12)​​
+At the ­1-year follow-up
+  Depressed
+​0.58​
+​0.58​
+​− 0.36​
+​− 0.28​
+​0.171​
+​​(0.06)​​
+​​(0.05)​​
+  Depression severity
+​− 0.01​
+​0.01​
+​− 0.73​
+​− 0.63​
+​0.402​
+​​(0.12)​​
+​​(0.10)​​
+At the ­7-year follow-up
+  Depressed
+​0.33​
+​0.28​
+​− 0.10​
+​0.05​
+​0.011​
+​​(0.04)​​
+​​(0.04)​​
+  Depression severity
+​− 0.01​
+​0.01​
+​− 0.25​
+​− 0.10​
+​0.229​
+​​(0.09)​​
+​​(0.09)​​
+Recovery trajectory
+  Recovered permanently
+​0.34​
+​0.34​
+​0.28​
+​0.21​
+​0.224​
+​​(0.06)​​
+​​(0.04)​​
+  Never recovered
+​0.26​
+​0.20​
+​− 0.18​
+​− 0.02​
+​0.002​
+​​(0.04)​​
+​​(0.04)​​
+Notes: Observations  =  585. Depression severity is an index of all depression measures available in the data at 
+each time point (see online Appendix Section J and Table B.2 for detailed definitions). Never recovered is defined 
+as being clinically diagnosed with depression at both ­follow-ups after the therapy ended (­1-year and ­7-year). 
+Recovered permanently is defined as being assessed as not clinically depressed at both ­post-therapy ­follow-ups. 
+Columns 3 and 4 report treatment effects separately by gender of the index child (controlling for all baseline char-
+acteristics described in Table 2).  Standard errors, clustered at the level of randomization, in parentheses. Column 
+5 reports the test of equality in treatment effects between the two samples. ­Attrition-adjusted treatment effect esti-
+mates by child gender are reported in online Appendix Table D.12.
+
+
+--- PAGE 20 ---
+843
+BARANOV ET AL.: MATERNAL DEPRESSION AND WOMEN’S EMPOWERMENT
+VOL. 110 NO. 3
+attrition were more balanced in the subsample of mothers with girls. The estimates 
+for mothers of boys are consistently smaller and often indistinguishable from zero. 
+This is true both for the indices and their individual components. Mothers of girls 
+saw a 0.46 SD increase in financial empowerment, a 0.47 SD increase in monetary 
+investments, and a 0.21 SD improvement in parenting style. All of these effects 
+are statistically stronger for mothers of girls than mothers of boys. ­Time-intensive 
+investments in girls increased by 0.26 SD, twice as much as for boys, but in this case 
+the gender difference is not significant.
+That the mother’s gaining greater control over household resources goes hand in 
+hand with greater investments in children is consistent with previous research, for 
+example Lundberg, Pollak, and Wales (1997). This result is reinforced by the fact 
+that increases in financial empowerment and in parental investments were larger for 
+mothers of girls. Notice that this gender difference in effects does not necessarily 
+require that mothers had stronger preferences for girls or for equality between boys 
+and girls, although this may have contributed.12
+To put the magnitudes of the estimated treatment effects into context, Table 5 
+reports the mean differences in outcomes between control arm women who were 
+12 We considered whether differential effects by gender might reflect selective processes of ­gender-differentiated 
+abortion or fertility over time, resulting in treated girls being more “wanted.” However, ­sex-selective abortion is 
+very unlikely as prenatal sex detection diagnostics were unavailable to this population (Zaidi and Morgan 2016), 
+Muslims appear not to conduct female feticide (Almond, Edlund, and Milligan, 2013; Bhalotra, ­Clots-Figueras, 
+and Iyer 2017), and we find no significant evidence of gender differences in survival (Table 1) or fertility (online 
+Appendix Table H.33.)
+Table 4—Intervention Effects on Mother’s ­Decision-Making
+Full sample
+By child gender
+β/(SE)
+Adjusted 
+β/(SE)
+FWER 
+­p-value spec (2)
+βGirl (SE)
+βBoy (SE)
+βGirl = βBoy 
+­p-value 
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+Mother’s financial
+​0.29​
+​0.29​
+​0.019​
+​0.46​
+​0.13​
+​0.031​
+  empowerment
+​​(0.11)​​
+​​(0.09)​​
+​​(0.12)​​
+​​(0.12)​​
+Parental investment
+​0.35​
+​0.28​
+​0.012​
+​0.47​
+​0.08​
+​0.003​
+  (monetary)
+​​(0.07)​​
+​​(0.06)​​
+​​(0.11)​​
+​​(0.09)​​
+Parental investment
+​0.20​
+​0.20​
+​0.028​
+​0.26​
+​0.13​
+​0.280​
+  (­time-intensive)
+​​(0.07)​​
+​​(0.06)​​
+​​(0.09)​​
+​​(0.08)​​
+Parenting style
+​0.04​
+​0.05​
+​0.807​
+​0.21​
+​− 0.20​
+​0.001​
+​​(0.08)​​
+​​(0.08)​​
+​​(0.09)​​
+​​(0.13)​​
+Fertility trajectory
+​0.01​
+​− 0.00​
+​0.989​
+​0.12​
+​− 0.14​
+​0.092​
+​​(0.10)​​
+​​(0.09)​​
+​​(0.11)​​
+​​(0.15)​​
+Notes: Observations = 585. Summary indices are normalized to be mean 0 and SD 1 in the control group, with 
+positive values associated with more favorable outcomes. Index construction is described in the text (Section IIIA). 
+Standard errors, clustered at the level of randomization, in parentheses. All models control for interview date and 
+interviewer. Specifications with all controls additionally adjust for baseline characteristics (all centered and inter-
+acted with the treatment indicator). The set of baseline characteristics include mother’s age and its square, parity, 
+family structure, presence of grandmother (mother or ­mother-in-law of depressed mother), mother’s education, 
+father’s education, if mother was employed, if mother was empowered, ­PCA-weighted wealth index, depression 
+severity (Hamilton score), and perceived social support (MSPSS). Inference is conducted using randomization 
+inference ­p-values, clustered at the level of randomization (Young 2019). RI ­p-values are adjusted to control for the 
+­family-wise error rate (FWER), calculated using a free ­step-down resampling method (Westfall and Young 1993). 
+Columns 4 and 5 report treatment effects by gender of the index child (controlling for all baseline characteristics) 
+and column 6 reports the test of equality in treatment effects between the two samples.
+
+
+--- PAGE 21 ---
+844
+THE AMERICAN ECONOMIC REVIEW
+MARCH 2020
+depressed at baseline and the women who were not depressed at baseline. The 
+­magnitudes of the estimated treatment effects are very similar to these descrip-
+tive differences, which represent the association between perinatal depression and 
+outcomes 7 years later in the absence of treatment, which we call the “depression 
+gap.” These gaps show significantly lower financial empowerment for the perina-
+tally depressed woman, lower fertility, and lower time and monetary investments 
+in children 7 years later. Parenting style does not seem to be strongly associated 
+with depression. Gender differences in these gaps are slightly larger for girls, except 
+for ­time-intensive investments, but none of these gender differences are statistically 
+significant. CBT closed or considerably narrowed these depression gaps, bringing 
+­medium-term outcomes of perinatally depressed women close to those of their 
+­nondepressed counterparts.
+The magnitude of the estimated treatment effects can also be compared to the 
+gender gap in the control group means (online Appendix Table E.19). Gender gaps 
+in the control group are either small, as in the case of parenting style and time inten-
+sive investments, or in favor of boys. The intervention acted to narrow or close the 
+gender gap for the mother’s empowerment and monetary investment, while it did 
+not close the gender gap in fertility.
+To better understand these results, we look at treatment effects for each compo-
+nent of these indices (online Appendix Tables H.29–H.33). For financial empower-
+ment, we find consistent improvements in treated women getting higher control over 
+spending (about 10 percentage points at ­6-month, ­1-year, and ­7-year ­follow-ups). 
+Treatment effects are greater for mothers of girls, even in the short run, but the 
+­difference is statistically significant only at the ­7-year mark, mirroring the results on 
+mothers’ depression trajectories. Women were also more likely to be working, but 
+Table 5—Depression Gap in Mother’s Outcomes
+Depressed controls − ­nondepressed
+Pooled
+Girls
+Boys
+­p-value
+(1)
+(2)
+(3)
+(4)
+Depression index (7y)
+​0.54​
+​0.51​
+​0.57​
+​0.64​
+​​(0.07)​​
+​​(0.10)​​
+​​(0.09)​​
+Mother’s financial empowerment (7y)
+​− 0.31​
+​− 0.45​
+​− 0.18​
+​0.12​
+​​(0.08)​​
+​​(0.12)​​
+​​(0.12)​​
+Parental investment (monetary)
+​− 0.32​
+​− 0.35​
+​− 0.29​
+​0.72​
+​​(0.08)​​
+​​(0.13)​​
+​​(0.11)​​
+Parental investment (­time-intensive)
+​− 0.39​
+​− 0.25​
+​− 0.51​
+​0.12​
+​​(0.08)​​
+​​(0.12)​​
+​​(0.11)​​
+Parenting style
+​− 0.09​
+​− 0.16​
+​− 0.04​
+​0.46​
+​​(0.08)​​
+​​(0.12)​​
+​​(0.11)​​
+Number of kids born past 7 years
+​− 0.24​
+​− 0.26​
+​− 0.23​
+​0.82​
+​​(0.08)​​
+​​(0.13)​​
+​​(0.11)​​
+Notes: Table  reports raw difference in means between prenatally ­nondepressed mothers 
+(observations = 300) and prenatally depressed controls (observations = 296) for key outcome 
+indices and variables at the ­7-year ­follow-up. Since prenatally ­nondepressed mothers were 
+interviewed only at the ­7-year ­follow-up, maternal financial empowerment index does not con-
+tain mother controls spending (6m) and mother gets pocket money (12m), and only the num-
+ber of kids born in the past 7 years are reported in lieu of the fertility index. Columns 2 and 3 
+report the depression gap by child gender, column 4 reports the ­p-value of the test that the gap 
+differs by child gender.
+
+
+--- PAGE 22 ---
+845
+BARANOV ET AL.: MATERNAL DEPRESSION AND WOMEN’S EMPOWERMENT
+VOL. 110 NO. 3
+this is imprecisely estimated in part because of very low labor force participation 
+among women (only 10 percent of control women work).
+For monetary parental investment, treatment induced a higher probability of send-
+ing children to private schools (12 percentage points) and better quality schools 
+(0.22 SD), as well as higher educational expectations (­one-third of a grade) and better 
+learning materials in the home (0.21 SD). For ­time-intensive parental investments, the 
+intervention improved by about 0.20 SD all of the subscales of the HOME inventory 
+which indicate enrichment, family companionship, and family integration, as well as 
+the probability that someone helped with studies (6 percentage points). For parenting 
+style, none of the individual components of the index were robustly improved by the 
+treatment: we find only a marginal improvement in the emotional climate, responsiv-
+ity, and not being harsh, especially for girls. For fertility, we find a precise null effect: 
+none of the individual outcomes were shifted by the intervention, and no differences in 
+number or timing of subsequent births (online Appendix Figures I.1 and I.2).
+Unpacking the indices further reveals significant changes in both ­mother-reported 
+and interviewer-assessed measures (such as school quality, presence of learning 
+materials in the home), suggesting that our findings are not driven by experimenter 
+demand effects.
+C. Child Outcomes
+The estimated effects of the intervention on indicators of child development in 
+the cognitive, ­socio-emotional, or physical domains at the ­7-year ­follow-up are 
+small and noisily estimated. Effects for sibling survival are slightly larger, but not 
+significantly different from zero once adjusting for multiple hypothesis testing. This 
+supports the conclusions of Maselko et al. (2015), who estimate the impact of this 
+program on a subset of the child development outcomes that we consider.13 Besides 
+broadening the set of child outcomes, we created indices with more statistical power 
+and conducted additional robustness checks. Still, larger samples will be necessary 
+to detect effects of reasonable magnitudes.
+Estimated average effects on child development range from −0.08 to 0.14 SD, 
+as shown in Table  6. We are able to reject effects bigger than 0.19 SD in 
+­socio-emotional, 0.33 SD in cognitive, and 0.40 SD in physical development, as 
+shown by the ­attrition-corrected upper 95 percent confidence intervals in Table 8. 
+We explore whether treatment effect heterogeneity may be masked in the average 
+effects, but find little evidence to suggest that is the case. Quantile treatment effects 
+are not significantly different from zero in any part of the distribution, though treat-
+ment effects on physical development show larger effects in the lower ­two-thirds of 
+the distribution (online Appendix Figure I.4). There is no evidence of substantial 
+positive treatment effects in any of the ­subpopulations identified by child gender, 
+mother’s education, ­mother’s age, ­parity, wealth, and presence of grandmother at 
+baseline (online Appendix Table G.24).
+For completeness, we analyze treatment effects on ­subcomponents of each 
+child development index (online Appendix Tables H.35–H.38). Even at this more 
+13 They analyze only anthropometrics, verbal and visual WPPSI, SDQ, and SCAS. See online Appendix 
+Table B.4 for more details.
+
+
+--- PAGE 23 ---
+846
+THE AMERICAN ECONOMIC REVIEW
+MARCH 2020
+granular level, we find that the only few positive effects on specific indicators are 
+­concentrated among girls, especially in the domains of physical and cognitive 
+­development. For example, of the eight measures of physical development, all 
+­average effects are smaller than 0.06 SD, sometimes negative. Differentiated by 
+gender, only ­BMI-for-age shows a treatment effect bigger than 0.15 SD, positive for 
+girls but negative for boys. Of the nine components of cognitive development, only 
+processing speed (+2.52 points or 0.25 SD) and fluid reasoning (+1.45 points or 
+0.11 SD) improve in the whole treated group by more than one IQ point, and these 
+results are driven by girls. Of the 11 components of ­socio-emotional development, 
+only 2 increase more than 0.15 SD: treated girls display fewer conduct problems 
+but higher ­obsessive-compulsive subscale scores. The sibling survival index is 0.17 
+standard deviations larger in the treated group, and this is driven by improved sur-
+vival of sisters. Survival of the index child does not seem to be impacted by the 
+treatment, so these results indicate sibling spillovers.14
+Overall, we are underpowered to detect reasonable effect sizes on child devel-
+opment at this age in our sample. So as to benchmark potential treatment effects, 
+we perform two calculations. First, we compare child development indicators for 
+women who were not prenatally depressed with those for prenatally depressed 
+women in the control group (Table 7). Perinatal depression is descriptively associ-
+ated with worse children outcomes in the ­7-year ­follow-up, although for cognitive 
+14 Appendix Table A1 reports differences in known death rates for attritors between treatment and control 
+groups. Overall, 10 percent of the index children died or were severely ill after birth (explaining 28 percent of 
+­attrition), a lower mortality rate than the Punjab region. Of known child deaths, rates were not different by treatment 
+status.
+Table 6—Intervention Effects on Child Outcomes at Age Seven
+Full sample
+By child gender
+β/(SE)
+Adjusted 
+β/(SE)
+FWER
+­p-value spec (2)
+βGirl (SE)
+βBoy (SE)
+βGirl = βBoy 
+­p-value 
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+Physical development
+​0.15​
+​0.14​
+​0.435​
+​0.20​
+​0.07​
+​0.358​
+​​(0.09)​​
+​​(0.09)​​
+​​(0.13)​​
+​​(0.12)​​
+Cognitive development
+​0.09​
+​0.04​
+​0.652​
+​0.13​
+​− 0.09​
+​0.092​
+​​(0.08)​​
+​​(0.08)​​
+​​(0.11)​​
+​​(0.11)​​
+­Socio-emotional development
+​− 0.11​
+​− 0.08​
+​0.456​
+​− 0.08​
+​− 0.10​
+​0.896​
+​​(0.07)​​
+​​(0.07)​​
+​​(0.09)​​
+​​(0.12)​​
+Sibling survival index
+​0.19​
+​0.17​
+​0.260​
+​0.28​
+​− 0.01​
+​0.019​
+​​(0.08)​​
+​​(0.08)​​
+​​(0.10)​​
+​​(0.11)​​
+Notes: Observations = 585. Summary indices are normalized to be mean 0 and SD 1 in the control group, with 
+positive values associated with more favorable outcomes. Index construction is described in the text (Section IIIA). 
+Standard errors, clustered at the level of randomization, in parentheses. All models control for interview date and 
+interviewer. Specifications with all controls additionally adjust for baseline characteristics (all centered and inter-
+acted with the treatment indicator). The set of baseline characteristics include mother’s age and its square, parity, 
+family structure, presence of grandmother (mother or ­mother-in-law of depressed mother), mother’s education, 
+father’s education, if mother was employed, if mother was empowered, ­PCA-weighted wealth index, depression 
+severity (Hamilton score), and perceived social support (MSPSS). Inference is conducted using randomization 
+inference ­p-values, clustered at the level of randomization (Young 2019). RI ­p-values are adjusted to control for the 
+­family-wise error rate (FWER), calculated using a free ­step-down resampling method (Westfall and Young 1993).
+
+
+--- PAGE 24 ---
+847
+BARANOV ET AL.: MATERNAL DEPRESSION AND WOMEN’S EMPOWERMENT
+VOL. 110 NO. 3
+development the depression gap is smaller and noisily estimated. Differences in 
+physical development appeared for both boys and girls (driven by ­mother-reported 
+illness rather than child growth). The depression gap is slightly bigger for girls in 
+cognitive development and sibling survival, and for boys in ­socio-emotional devel-
+opment, although none of these differences are statistically significant. Second, we 
+use the correlational relationship between parental investments and child outcomes 
+(shown in online Appendix Table E.16) to calculate the change in child development 
+indicators that is to be expected as a consequence of the treatment effect on parental 
+investments.15 These expected changes are 0.006 for socio-emotional development, 
+0.048 for physical development, and 0.077 for cognitive development; all these 
+changes are quite small, and fall within the confidence intervals of our estimated 
+effects. We discuss alternative explanations for these small effects on child develop-
+ment further in Section VE.
+D. Potential Mechanisms
+The CBT intervention may have improved the outcomes through several mecha-
+nisms. For example, treatment may have led to better physical health among women 
+as a result of better mental health (Ferrari et al. 2013), or as a direct result of the 
+positive thinking therapy; husbands who reduced working hours in order to take care 
+of the depressed wife or aid in child rearing may have been more likely to return 
+to work in the treated group; the treatment may have directly engendered a better 
+relationship with the husband or other members of the household (as this was part 
+of the content of the intervention); or the child’s grandmother might have been more 
+likely to have moved in to help care for the mother and the child in the treated group, 
+and this might have contributed to the outcomes we document. We delve into these 
+mechanisms first by looking at direct effects of the intervention on intermediate 
+15 We thank one of the referees for suggesting this calculation. See online Appendix Section E.2 for more 
+details.
+Table 7—Depression Gap in Child Outcomes
+Depressed controls − nondepressed
+Pooled
+Girls
+Boys
+­p-value
+(1)
+(2)
+(3)
+(4)
+Physical development
+​− 0.23​
+​− 0.21​
+​− 0.25​
+​0.81​
+​​(0.08)​​
+​​(0.11)​​
+​​(0.11)​​
+Cognitive development
+​− 0.12​
+​− 0.24​
+​− 0.01​
+​0.17​
+​​(0.09)​​
+​​(0.12)​​
+​​(0.12)​​
+­Socio-emotional development
+​− 0.17​
+​− 0.05​
+​− 0.28​
+​0.16​
+​​(0.08)​​
+​​(0.12)​​
+​​(0.11)​​
+Sibling survival index
+​− 0.16​
+​− 0.25​
+​− 0.07​
+​0.22​
+​​(0.08)​​
+​​(0.12)​​
+​​(0.09)​​
+Notes: Table reports raw difference in means between children of prenatally ­nondepressed moth-
+ers (observations = 300) and prenatally depressed controls (observations = 296) for key out-
+come indices and variables at the ­7-year ­follow-up. Columns 2 and 3 report the depression gap 
+by child gender, column 4 reports the ­p-value of the test that the gap differs by child gender.
+
+
+--- PAGE 25 ---
+848
+THE AMERICAN ECONOMIC REVIEW
+MARCH 2020
+outcomes, and then assessing heterogeneity of treatment effects based on observed 
+baseline characteristics.
+Intermediate Outcomes.—In order to shed light on which of these mechanisms are 
+more plausible, we investigate the effect of the intervention on several ­intermediate 
+outcomes between birth and the ­7-year ­follow-up. We generate ­indices for the 
+Table 8—­Attrition-Corrected Treatment Effects
+Treatment effect β/(SE)
+Attrition bounds
+Unweighted
+IPW
+95 percent CI
+(1)
+(2)
+(3)
+Mother’s mental health
+Depression index (7y)
+​− 0.18​
+​− 0.19​
+[−0.43, ​​​0.19]
+​​(0.06)​​
+​​(0.06)​​
+Depressed (7y)
+​− 0.05​
+​− 0.05​
+[−0.16​​​, ​​​0.08]
+​​(0.03)​​
+​​(0.03)​​
+Never recovered
+​− 0.12​
+​− 0.13​
+[−0.21, ​​​0.01]
+​​(0.03)​​
+​​(0.03)​​
+Recovered permanently
+​0.23​
+​0.23​
+[0.16​​​, ​​​0.41]
+​​(0.04)​​
+​​(0.04)​​
+Mother’s ­decision-making
+Mother’s financial empowerment (7y)
+​0.18​
+​0.18​
+[0.06, ​​​0.56]
+​​(0.07)​​
+​​(0.07)​​
+Mother’s financial empowerment
+​0.29​
+​0.29​
+[0.13, ​​​0.65]
+​​(0.09)​​
+​​(0.09)​​
+Parental investment (monetary)
+​0.28​
+​0.27​
+[0.01, ​​​0.68]
+​​(0.06)​​
+​​(0.06)​​
+Parental investment (­time-intensive)
+​0.20​
+​0.20​
+[−0.00​​​ , ​​​0.67]
+​​(0.06)​​
+​​(0.06)​​
+Parenting style
+​0.05​
+​0.06​
+[−0.32​​​, ​​​0.36]
+​​(0.08)​​
+​​(0.08)​​
+Fertility trajectory
+​− 0.00​
+​0.00​
+[−0.35, ​​​0.39]
+​​(0.09)​​
+​​(0.09)​​
+Child development outcomes
+Physical development
+​0.14​
+​0.14​
+[−0.26, ​​​0.40]
+​​(0.09)​​
+​​(0.09)​​
+Cognitive development
+​0.04​
+​0.04​
+[−0.33, ​​​0.33]
+​​(0.08)​​
+​​(0.08)​​
+­Socio-emotional development
+​− 0.08​
+​− 0.07​
+[−0.50, ​​​0.19]
+​​(0.07)​​
+​​(0.07)​​
+Sibling survival index
+​0.17​
+​0.16​
+[−0.22, ​​​0.43]
+​​(0.08)​​
+​​(0.08)​​
+Potential mediators
+Grandmother present (7y)
+​0.06​
+​0.07​
+[0.01, ​​​0.25]
+​​(0.04)​​
+​​(0.04)​​
+Perceived social support (7y)
+​2.85​
+​2.73​
+[−0.93, ​​​7.52]
+​​(0.84)​​
+​​(0.86)​​
+Notes: Column 1 reproduces the treatment effect estimates without attrition correction. Column 2 shows 
+­attrition-corrected treatment effect estimates using IPW (Inverse Probability Weighting). Estimates in ­columns 1 
+and 2 control for the full set of baseline characteristics as described in previous tables. Standard errors, ­clustered 
+at the level of randomization, in parentheses. Column 3 shows 95  percent confidence intervals for the treat-
+ment effect using attrition bounds (Lee 2009, Imbens and  Manski 2004) using the baseline starting sample 
+with ​observations = 903​.

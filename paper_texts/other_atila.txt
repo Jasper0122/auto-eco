@@ -1,0 +1,1914 @@
+
+
+--- PAGE 1 ---
+American Economic Review 2020, 110(5): 1502–1539 
+https://doi.org/10.1257/aer.20172040
+1502
+Do Parents Value School Effectiveness?†
+By Atila Abdulkadiroˇglu, Parag A. Pathak, 
+Jonathan Schellenberg, and Christopher R. Walters*
+School choice may lead to improvements in school productivity if 
+parents’ choices reward effective schools and punish ineffective ones. 
+This mechanism requires parents to choose schools based on causal 
+effectiveness rather than peer characteristics. We study relation-
+ships among parent preferences, peer quality, and causal effects on 
+outcomes for applicants to New York City’s centralized high school 
+assignment mechanism. We use applicants’ ­rank-ordered choice 
+lists to measure preferences and to construct ­selection-corrected 
+estimates of treatment effects on test scores, high school gradua-
+tion, college attendance, and college quality. Parents prefer schools 
+that enroll ­high-achieving peers, and these schools generate larger 
+improvements in short- and ­long-run student outcomes. Preferences 
+are unrelated to school effectiveness and academic match quality 
+after controlling for peer quality. (JEL D12, H75, I21, I26, I28)
+Recent education reforms in the United States, including charter schools, school 
+vouchers, and ­district-wide open enrollment plans, increase parents’ power to 
+choose schools for their children. School choice allows households to avoid undesir-
+able schools and forces schools to satisfy parents’ preferences or risk losing enroll-
+ment. Proponents of choice argue that this competitive pressure is likely to generate 
+­system-wide increases in school productivity and boost educational outcomes for 
+students (Friedman 1962, Chubb and Moe 1990, Hoxby 2003). By decentralizing 
+school quality assessment and allowing parents to act on local information, school 
+choice is conjectured to provide better incentives for educational effectiveness than 
+* Abdulkadiroˇglu: Duke University, and NBER (email: aa88@duke.edu); Pathak: Massachusetts Institute 
+of Technology, and NBER (email: ppathak@mit.edu); Schellenberg: University of California, Berkeley (email: 
+jschellenberg@econ.berkeley.edu); Walters: University of California, Berkeley, and NBER (email: crwalters@
+econ.berkeley.edu). Thomas Lemieux was the coeditor for this article. We gratefully acknowledge funding from 
+the National Science Foundation and the W. T. Grant Foundation. We also thank Nikhil Agarwal, Josh Angrist, 
+Stephane Bonhomme, David Card, David Chan, Michael Dinerstein, Will Dobbie, James Heckman, Peter Hull, 
+Pat Kline, Thibaut Lamadon, Magne Mogstad, Jack Mountjoy, Derek Neal, Ariel Pakes, Stephen Raudenbush, 
+Jesse Rothstein, Alex Torgovitsky, Miguel Urquiola, Jeffrey Wooldridge, Danny Yagan, Seth Zimmerman, and 
+seminar participants at the University of Chicago Committee on Education Workshop, the University of Chicago 
+Harris School, UC Berkeley, the University of Chicago Econometrics Lunch, the University of Chicago Interactions 
+Conference, UW Madison, the 2017 NBER Labor Studies fall meetings, the University of Virginia, the University of 
+Hawaii, the University of Rochester, Princeton University, the University of Maryland, and Arizona State University 
+for suggestions and comments. We’re grateful to Ray Han and Kate Bradley for outstanding research assistance, and 
+to Eryn Heying for invaluable administrative support.
+† Go to https://doi.org/10.1257/aer.20172040 to visit the article page for additional materials and author  
+disclosure statements.
+
+
+--- PAGE 2 ---
+1503
+ABDULKADIRO ˇGLU ET AL.: DO PARENTS VALUE SCHOOL EFFECTIVENESS?
+VOL. 110 NO. 5
+could be achieved by a centralized accountability system (Peterson and Campbell 
+2001). Choice may also improve outcomes by allowing students to sort into schools 
+that suit their particular educational needs, resulting in improved match quality 
+(Hoxby 2000). These arguments have motivated recent policy efforts to expand 
+school choice (e.g., DeVos 2017).
+If choice is to improve educational effectiveness, parents’ choices must result in 
+rewards for effective schools and sanctions for ineffective ones. Our use of the term 
+“effective” follows Rothstein (2006): an effective school is one that generates causal 
+improvements in student outcomes. Choice need not improve school effectiveness 
+if it is not the basis for how parents choose between schools. For example, parents 
+may value attributes such as facilities, convenience, student satisfaction, or peer 
+composition in a manner that does not align with educational impacts (Hanushek 
+1981, Jacob and Lefgren 2007). Moreover, while models in which parents value 
+schools according to their effectiveness are an important benchmark in the academic 
+literature (e.g., Epple, Figlio, and Romano 2004), it may be difficult for parents to 
+separate a school’s effectiveness from the composition of its student body (Kane 
+and Staiger 2002). If parent choices reward schools that recruit ­higher-achieving 
+students rather than schools that improve outcomes, school choice may increase 
+resources devoted to screening and selection rather than better instruction (Ladd 
+2002, MacLeod and Urquiola 2015). Consistent with these possibilities, Rothstein 
+(2006) shows that ­cross-district relationships among school choice, sorting patterns, 
+and student outcomes fail to match the predictions of a model in which school effec-
+tiveness is the primary determinant of parent preferences.
+This paper offers new evidence on the links between preferences, school effec-
+tiveness, and peer quality based on choice and outcome data for more than 250,000 
+applicants in New York City’s centralized high school assignment mechanism. Each 
+year, thousands of New York City high school applicants ­rank-order schools, and 
+the mechanism assigns students to schools using the deferred acceptance (DA) algo-
+rithm (Gale and Shapley 1962; Abdulkadiroˇglu, Pathak, and Roth 2005). The DA 
+mechanism is ­strategy-proof: truthfully ranking schools is a weakly dominant strat-
+egy for students (Dubins and Freedman 1981, Roth 1982). This fact motivates our 
+assumption that applicants’ rankings measure their true preferences for schools.1 
+We summarize these preferences by fitting discrete choice models to applicants’ 
+­rank-ordered preference lists.
+We then combine the preference estimates with estimates of school treatment 
+effects on test scores, high school graduation, college attendance, and college 
+choice. Treatment effect estimates come from “­value-added” regression models of 
+the sort commonly used to measure causal effects of teachers and schools (Todd and 
+Wolpin 2003; Koedel, Mihaly, and Rockoff 2015). We generalize the conventional 
+­value-added approach to allow for match effects in academic outcomes and to relax 
+the ­selection-on-observables assumption underlying standard models. Recent evi-
+dence suggests that ­value-added models controlling only for observables provide 
+1 As we discuss in Section I, DA is ­strategy-proof when students are allowed to rank every school, but the 
+New York City mechanism only allows applicants to rank 12 choices. Most students do not fill their preference 
+lists, however, and truthful ranking is a dominant strategy in this situation (Haeringer and Klijn 2009, Pathak and 
+Sönmez 2013). Fack, Grenet, and He (2015) proposes empirical approaches to measuring student preferences with-
+out requiring that ­truth-telling is the unique equilibrium.
+
+
+--- PAGE 3 ---
+1504
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+­quantitatively useful but biased estimates of causal effects due to selection on unob-
+servables (Rothstein 2010, 2017; Chetty, Friedman, and Rockoff 2014a; Angrist 
+et al. 2017). We therefore use the rich information on preferences contained in stu-
+dents’ ­rank-ordered choice lists to correct our estimates for selection on unobserv-
+ables. This selection correction is implemented by extending the classic multinomial 
+logit control function estimator of Dubin and McFadden (1984) to a setting where 
+rankings of multiple alternatives are known. We show that predictions from our 
+models match the effects of randomized lottery assignment for a subset of schools 
+where lottery ­quasi-experiments are available, suggesting that our methods provide 
+accurate measures of causal effects.
+The final step of our analysis relates the choice model and treatment effect esti-
+mates to measure preferences for school effectiveness. The choice and outcome 
+models we estimate allow preferences and causal effects to vary flexibly with stu-
+dent characteristics. Our specifications accommodate the possibility that schools 
+are more effective for specific types of students and that applicants choose schools 
+that are a good match for their student type. We compare the degree to which parent 
+preferences are explained by overall school effectiveness, match quality, and peer 
+quality, defined as the component of a school’s average outcome due to selection 
+rather than effectiveness. We explore these relationships for test scores as well as 
+­longer-run postsecondary outcomes, which is important in view of recent evidence 
+that school quality is ­multidimensional and only imperfectly measured by effects on 
+test scores (Beuermann et al. 2018).
+We find preferences are positively correlated with both peer quality and causal 
+effects on student outcomes. More effective schools enroll ­higher-ability students, 
+however, and preferences are unrelated to school effectiveness after controlling 
+for peer quality. We also find little evidence of selection on match effects: on bal-
+ance, parents do not prefer schools that are especially effective for their own chil-
+dren, and students do not enroll in schools that are a ­better-than-average match. 
+These patterns are similar for ­short-run achievement test scores and ­longer-run 
+postsecondary outcomes. Looking across demographic and baseline achievement 
+groups, we find no evidence that any subgroup places positive weight on school 
+effectiveness once we adjust for peer quality. Our estimates are also similar across 
+applicant cohorts, suggesting that the relationship between demand and effective-
+ness is stable over time.
+The factors driving school popularity we uncover are noteworthy, but to trans-
+late them into implications about the incentives that schools face from ­demand-side 
+forces requires isolating the causal impacts of school attributes on preferences. Since 
+effectiveness and peer quality are not randomly assigned to schools, our estimates 
+need not capture causal effects of these attributes on preferences if other school 
+characteristics that influence demand are correlated with effectiveness or peer qual-
+ity. We assess the potential for such omitted variables bias by conditioning on other 
+school characteristics that predict demand, including measures of violent incidents, 
+teacher education, and the school learning environment. This analysis reveals that 
+parents prefer safer schools and schools with more educated teachers, but adding 
+these covariates does not alter our main results characterizing the partial correla-
+tions between preferences, peer quality, and school effectiveness. This robustness 
+exercise provides some reassurance that our estimates capture causal impacts of 
+
+
+--- PAGE 4 ---
+1505
+ABDULKADIRO ˇGLU ET AL.: DO PARENTS VALUE SCHOOL EFFECTIVENESS?
+VOL. 110 NO. 5
+effectiveness on demand, though we cannot completely rule out the possibility that 
+peer quality and school effectiveness are correlated with other unobservables.
+It is worth cautioning that our findings do not mean that parents choose schools 
+irrationally; they may use peer characteristics to proxy for school effectiveness if 
+the latter is difficult to observe, or value peer quality independently of impacts on 
+academic outcomes. Either way, our results imply that parents’ choices penalize 
+schools that enroll low achievers rather than schools that offer poor instruction. As 
+a result, school choice programs may generate stronger incentives for screening and 
+selection than for improved academic quality. We provide suggestive evidence that 
+schools have responded to these incentives by increasing screening in the years fol-
+lowing the introduction of centralized assignment in New York City.
+Our analysis complements Rothstein’s (2006) indirect test with a direct assess-
+ment of the relationships among parent preferences, peer quality, and school effec-
+tiveness based on unusually rich choice and outcome data. The results also contribute 
+to a large literature studying preferences for school quality (Black 1999; Figlio and 
+Lucas 2004; Bayer, Ferreira, and McMillan 2007; Hastings and Weinstein 2008; 
+Burgess et al. 2015; Imberman and Lovenheim 2016). These studies show that hous-
+ing prices and household choices respond to school performance levels, but they 
+do not typically separate responses to causal school effectiveness and peer quality. 
+Our findings are also relevant to theoretical and empirical research on the impli-
+cations of school choice for sorting and stratification (Epple and Romano 1998; 
+Epple, Figlio, and Romano 2004; Hsieh and Urquiola 2006; Barseghyan, Clark, 
+and Coate 2014; Altonji, Huang, and Taber 2015; Avery and Pathak 2015; MacLeod 
+and Urquiola 2015; MacLeod et al. 2017). In addition, our results help to reconcile 
+some surprising findings from recent studies of school choice. Cullen, Jacob, and 
+Levitt (2006) finds limited achievement effects of admission to preferred schools 
+in Chicago, while Walters (2018) documents that disadvantaged students in Boston 
+are less likely to apply to charter schools than more advantaged students despite 
+experiencing larger achievement benefits. Angrist, Pathak, and Walters (2013) and 
+Abdulkadiroˇglu, Pathak, and Walters (2018) report on two settings where parents 
+opt for schools that reduce student achievement. These patterns are consistent with 
+our finding that school choices are not driven by school effectiveness.
+Finally, our analysis adds to a recent series of studies leveraging preference data 
+from centralized school assignment mechanisms to investigate school demand 
+(Hastings, Kane, and Staiger 2009; Harris and Larsen 2014; Fack, Grenet, and He 
+2015; Abdulkadiroˇglu, Agarwal, and Pathak 2017; Glazerman and Dotter 2016; 
+Kapor, Neilson, and Zimmerman 2017; Agarwal and Somaini 2018). Some of these 
+studies analyze assignment mechanisms that provide incentives to strategically mis-
+report preferences, while others measure academic quality using average test scores 
+rather than distinguishing between peer quality and school effectiveness or look-
+ing at ­longer-run outcomes. We build on this previous work by using data from a 
+­strategy-proof mechanism to separately estimate preferences for peer quality and 
+causal effects on multiple measures of academic performance.
+The rest of the paper is organized as follows. The next section describes school 
+choice in New York City and the data used for our analysis. Section II develops 
+a conceptual framework for analyzing school effectiveness and peer quality, and 
+Section  III details our empirical approach. Section  IV summarizes estimated 
+
+
+--- PAGE 5 ---
+1506
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+distributions of student preferences and school treatment effects. Section V links 
+­preferences to peer quality and school effectiveness, and Section VI discusses impli-
+cations of these relationships. Section VII concludes and offers some directions for 
+future research.
+I.  Setting and Data
+A. New York City High Schools
+The New York City public school district annually enrolls roughly 90,000 ninth 
+graders at more than 400 high schools. Rising ninth graders planning to attend New 
+York City’s public high schools submit applications to the centralized assignment 
+system. Before 2003 the district used an uncoordinated school assignment process in 
+which students could receive offers from more than one school. Motivated in part by 
+insights derived from the theory of market design, in 2003 the city adopted a coordi-
+nated ­single-offer assignment mechanism based on the ­student-proposing deferred 
+acceptance (DA) algorithm (Gale and Shapley 1962; Abdulkadiroˇglu, Pathak, and 
+Roth 2005, 2009). Abdulkadiroˇglu, Agarwal, and Pathak (2017) shows that intro-
+ducing coordinated assignment reduced the share of administratively assigned stu-
+dents and likely improved average student welfare.
+Applicants report their preferences for schooling options to the assignment mech-
+anism by submitting ­rank-ordered lists of up to 12 academic programs. An individual 
+school may operate more than one program. To aid families in their ­decision-making, 
+the New York City Department of Education (DOE) distributes a directory that pro-
+vides an overview of the high school admission process, key dates, and an information 
+page for each high school. A school’s information page includes a brief statement of 
+its mission, a list of offered programs, courses and extracurricular activities, pass rates 
+on New York Regents standardized tests, and the school’s graduation rate (New York 
+City Department of Education 2003). DOE also issues annual schools reports that list 
+basic demographics, teacher characteristics, school expenditures, and Regents perfor-
+mance levels. During the time period of our study (­2003–2007) these reports did not 
+include measures of test score growth, though such measures have been added more 
+recently (New York City Department of Education 2004, 2017).
+Academic programs prioritize applicants in the centralized admission sys-
+tem using a mix of factors. Priorities depend on whether a program is classified 
+as unscreened, screened, or an educational option program. Unscreened programs 
+give priority to students based on residential zones and (in some cases) to those 
+who attend an information session. Screened programs use these factors and may 
+also assign priorities based on prior grades, standardized test scores, and atten-
+dance. Educational option programs use screened criteria for some of their seats and 
+unscreened criteria for the rest. Random numbers are used to order applicants with 
+equal priority. A small group of selective high schools, including New York City’s 
+exam schools, admit students in a parallel system outside the main round of the 
+assignment process (Abdulkadiroˇglu, Angrist, and Pathak 2014).
+The DA algorithm combines student preferences with program priorities to gen-
+erate a single program assignment for each student. In the initial step of the algo-
+rithm, each student proposes to her ­first-choice program. Programs provisionally 
+
+
+--- PAGE 6 ---
+1507
+ABDULKADIRO ˇGLU ET AL.: DO PARENTS VALUE SCHOOL EFFECTIVENESS?
+VOL. 110 NO. 5
+accept students in order of priority up to capacity and reject the rest. In subsequent 
+rounds, each student rejected in the previous step proposes to her ­most-preferred 
+program among those that have not previously rejected her, and programs reject pro-
+visionally accepted applicants in favor of new applicants with higher priority. This 
+process iterates until all students are assigned to a program or all unassigned stu-
+dents have been rejected by every program they have ranked. During our study time 
+period, students left unassigned in the main round participate in a supplementary 
+DA round in which they rank up to 12 additional programs with available seats. Any 
+remaining students are administratively assigned by the district. About 82 percent, 8 
+percent, and 10 percent of applicants are assigned in the main, supplementary, and 
+administrative rounds, respectively (Abdulkadiroˇglu, Agarwal, and Pathak 2017).
+An attractive theoretical property of the DA mechanism is that it is ­strategy-proof: 
+since ­high-priority students can displace those with lower priority in later rounds of 
+the process, listing schools in order of true preferences is a dominant strategy in the 
+mechanism’s canonical version. This property, however, requires students to have 
+the option to rank all schools (Haeringer and Klijn 2009, Pathak and Sönmez 2013). 
+As we show below, more than 70 percent of students rank fewer than 12 programs, 
+meaning that truthful ranking of schools is a dominant strategy for the majority of 
+applicants. The instructions provided with the New York City high school applica-
+tion also directly instruct students to rank schools in order of their true preferences 
+(New York City Department of Education 2003). In the analysis to follow, we inter-
+pret students’ ­rank-ordered lists as truthful reports of their preferences. We also 
+probe the robustness of our findings to violations of this assumption by reporting 
+results based on students who rank fewer than 12 choices.2
+B. Data and Samples
+The data used here are extracted from a DOE administrative information sys-
+tem covering all students enrolled in New York City public schools between the 
+­2003–2004 and ­2012–2013 school years (New York City Department of Education 
+2013). These data include school enrollment, student demographics, home addresses, 
+scores on New York Regents standardized tests, Preliminary SAT (PSAT) scores, 
+and high school graduation records, along with preferences submitted to the cen-
+tralized high school assignment mechanism. A supplemental file from the National 
+Student Clearinghouse (NSC) reports college enrollment for students graduating 
+from New York City high schools between 2009 and 2012. A unique student identi-
+fier links records across these files.
+We analyze high school applications and outcomes for four cohorts of students 
+enrolled in New York City public schools in eighth grade between ­2003–2004 and 
+­2006–2007. This set of students is used to construct several samples for statistical 
+analysis. The choice sample, used to investigate preferences for schools, consists 
+of all high school applicants with baseline (eighth grade) demographic, test score, 
+and address information. Our analysis of school effectiveness uses subsamples 
+of the choice sample corresponding to each outcome of interest. These outcome 
+2 Along similar lines, Abdulkadiroˇglu, Agarwal, and Pathak (2017) shows that preference estimates using only 
+the top-ranked school, the top three schools, and all but the last ranked school are similar.
+
+
+--- PAGE 7 ---
+1508
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+­samples include students with observed outcomes, baseline scores, demographics, 
+and addresses, enrolled for ninth grade at one of 316 schools with at least 50 stu-
+dents for each outcome. The outcome samples also exclude students enrolled at the 
+nine selective high schools that do not admit students via the main DA mechanism. 
+Online Appendix Section A and Appendix Table A1 provide further details on data 
+sources and sample construction.
+Key outcomes in our analysis include Regents math standardized test scores, 
+PSAT scores, high school graduation, college attendance, and college quality. The 
+high school graduation outcome equals 1 if a student graduates within five years of 
+her projected high school entry date given her eighth grade cohort. Likewise, college 
+attendance equals 1 for students who enroll in any college (two or four year) within 
+two years of projected ­on-time high school graduation. The college quality variable, 
+derived from Internal Revenue Service tax record statistics reported by Chetty et al. 
+(2017), equals the mean 2014 income for children born between 1980 and 1982 
+who attended a student’s college. The mean income for the ­non-college population 
+is assigned to students who do not enroll in a college. While this metric does not 
+distinguish between student quality and causal college effectiveness, it provides a 
+measure of the selectivity of a student’s college. It has also been used elsewhere to 
+assess effects of education programs on the intensive margin of college attendance 
+(Chetty et al. 2011; Chetty, Friedman, and Rockoff 2014b). College attendance and 
+quality are unavailable for the ­2003–2004 cohort because the NSC data window 
+does not allow us to determine whether students in this cohort were enrolled in col-
+lege within two years of projected high school graduation.
+Descriptive statistics for the choice and outcome samples appear in Table 1. These 
+statistics show that New York City schools serve a disadvantaged urban population. 
+­Seventy-three percent of students are black or Hispanic, and 65 percent are eligible 
+for a subsidized lunch. Data from the ­2011–2015 American Community Surveys 
+show that the average student in the choice sample lives in a census tract with a 
+median household income of $50,136 in 2015 dollars. Observed characteristics are 
+generally similar for students in the choice and outcome samples. The average PSAT 
+score in New York City is 116, about 1 standard deviation below the US average (the 
+PSAT is measured on a 240-point scale, normed to have a mean of 150 and a stan-
+dard deviation of 30). The ­five-year high school graduation rate is 61 percent, and 48 
+percent of students attend some college within two years of graduation.
+C. Choice Lists
+New York City high school applicants tend to prefer schools near their homes, 
+and most do not fill their choice lists. These facts are shown in Table 2, which 
+summarizes ­rank-ordered preference lists in the choice sample. As shown in col-
+umn 1, 93 percent of applicants submit a second choice, about one-half submit 8 or 
+more choices, and 28 percent submit the maximum 12 allowed choices. Column 2 
+shows that students prefer schools located in their home boroughs: 85 percent of 
+­first-choice schools are in the same borough as the student’s home address, and 
+the fraction of other choices in the home borough are also high. Abdulkadiroˇglu, 
+Agarwal, and Pathak (2017) reports that for ­2003–2004, 193 programs restricted 
+eligibility to applicants who reside in the same borough. The preference analysis 
+
+
+--- PAGE 8 ---
+1509
+ABDULKADIRO ˇGLU ET AL.: DO PARENTS VALUE SCHOOL EFFECTIVENESS?
+VOL. 110 NO. 5
+Table 1—Descriptive Statistics for New York City Eighth Graders
+Outcome samples
+Choice sample
+Regents math
+PSAT
+HS graduation
+College
+(1)
+(2)
+(3)
+(4)
+(5)
+Female
+0.497
+0.518
+0.532
+0.500
+0.500
+Black
+0.353
+0.377
+0.359
+0.376
+0.372
+Hispanic
+0.381
+0.388
+0.384
+0.399
+0.403
+Subsidized lunch
+0.654
+0.674
+0.667
+0.680
+0.700
+Census tract median income
+$50,136
+$50,004
+$49,993
+$49,318
+$49,243
+Bronx
+0.231
+0.221
+0.226
+0.236
+0.239
+Brooklyn
+0.327
+0.317
+0.335
+0.339
+0.333
+Manhattan
+0.118
+0.118
+0.119
+0.116
+0.116
+Queens
+0.259
+0.281
+0.255
+0.250
+0.253
+Staten Island
+0.065
+0.063
+0.064
+0.059
+0.059
+Regents math score
+0.000
+−0.068
+0.044
+−0.068
+−0.044
+PSAT score
+120
+116
+116
+116
+115
+High school graduation
+0.587
+0.763
+0.789
+0.610
+0.624
+Attended college
+0.463
+0.588
+0.616
+0.478
+0.478
+College quality
+$31,974
+$33,934
+$35,010
+$31,454
+$31,454
+Observations
+270,157
+155,850
+149,365
+230,087
+173,254
+Notes: This table shows descriptive statistics for applicants to New York City public high schools between the 
+2003–2004 and 2006–2007 school years. Column 1 reports average characteristics and outcomes for all applicants 
+with complete information on preferences, demographics, and eighth-grade test scores. Columns 2–5 display char-
+acteristics for the Regents math, PSAT, high school graduation, and college outcome samples. Outcome samples are 
+restricted to students with data on the relevant outcome, enrolled in ninth grade at schools with at least 50 students 
+for each outcome. Regents math scores are normalized to mean 0 and standard deviation 1 in the choice sample. 
+High school graduation equals 1 for students who graduate from a New York City high school within five years of 
+the end of their eighth grade year. College attendance equals 1 for students enrolled in any college within two years 
+of projected high school graduation. College quality is the mean 2014 income for individuals in the 1980–1982 
+birth cohorts who attended a student’s college. This variable equals the mean income in the non-college population 
+for students who did not attend college. The college outcome sample excludes students in the 2003–2004 cohort. 
+Census tract median income is median household income measured in 2015 dollars using data from the 2011–2015 
+American Community Surveys. Regents math, PSAT, graduation, and college outcome statistics exclude students 
+with missing values.
+Table 2—Correlates of Preference Rankings for New York City High Schools
+Fraction reporting
+Same borough
+Distance
+Regents math score
+(1)
+(2)
+(3)
+(4)
+Choice 1
+1.000
+0.849
+2.71
+0.200
+Choice 2
+0.929
+0.844
+2.94
+0.149
+Choice 3
+0.885
+0.839
+3.04
+0.116
+Choice 4
+0.825
+0.828
+3.12
+0.085
+Choice 5
+0.754
+0.816
+3.18
+0.057
+Choice 6
+0.676
+0.803
+3.23
+0.030
+Choice 7
+0.594
+0.791
+3.28
+0.009
+Choice 8
+0.523
+0.780
+3.29
+−0.013
+Choice 9
+0.458
+0.775
+3.31
+−0.031
+Choice 10
+0.402
+0.773
+3.32
+−0.051
+Choice 11
+0.345
+0.774
+3.26
+−0.071
+Choice 12
+0.278
+0.787
+3.04
+−0.107
+Notes: This table reports average characteristics of New York City high schools by student pref-
+erence rank. Column 1 displays fractions of student applications listing each choice. Column 2 
+reports the fraction of listed schools located in the same borough as a student’s home address. 
+Column 3 reports the mean distance between a student’s home address and each ranked school, 
+measured in miles. This column excludes schools outside the home borough. Column 4 shows 
+average Regents math scores in standard deviation units relative to the New York City average.
+
+
+--- PAGE 9 ---
+1510
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+to follow, therefore, treats schools in a student’s home borough as her choice set 
+and aggregates schools in other boroughs into a single outside option. Column 3, 
+which reports average distances (measured as ­great-circle distance in miles) for 
+each choice restricted to schools in the home borough, shows that students rank 
+nearby schools higher within boroughs as well.
+Applicants also prefer schools with strong academic performance. The last col-
+umn of Table 2 reports the average Regents high school math score for schools at 
+each position on the rank list. Regents scores are normalized to have mean 0 and 
+standard deviation 1 in the New York City population. To earn a high school diploma 
+in New York state, students must pass a Regents math exam. These results reveal that 
+­higher-ranked schools enroll students with better math scores. The average score at 
+a ­first-choice school is 0.2 standard deviations (​σ​) above the city average, and aver-
+age scores monotonically decline with rank. PSAT, graduation, college enrollment, 
+and college quality indicators also decline with rank. Students and parents clearly 
+prefer schools with high achievement levels. Our objective in the remainder of this 
+paper is to decompose this pattern into components due to preferences for school 
+effectiveness and peer quality.
+II.  Conceptual Framework
+Consider a population of students indexed by ​i​, each of whom attends one of  
+​J​ schools. Let ​​Y​ij​​ denote the potential value of some outcome of interest for student  
+​i​ if she attends school ​j​. The projection of ​​Y​ij​​ on a vector of observed characteris-
+tics, ​​X​i​​, is written as
+(1)	
+​​Y​ij​  =  ​α​j​ + ​X​ i​ ′ ​ ​β​j​ + ​ϵ​ij​,​
+where ​E​[​ϵ​ij​]​  =  E​[​X​i​ ​ϵ​ij​]​  =  0​ by definition of ​​α​j​​ and ​​β​j​​. The coefficient vector ​​β​j​​ 
+measures the returns to observed student characteristics at school ​j​, while ​​ϵ​ij​​ reflects 
+variation in potential outcomes unexplained by these characteristics. We further 
+normalize ​E​[​X​i​]​  =  0​, so ​​α​j​  =  E​[​Y​ij​]​​ is the population mean potential outcome at 
+school ​j​. The realized outcome for student ​i​ is ​​Y​i​  =  ​∑ j​   ​1​{​S​i​  =  j}​ ​Y​ij​​, where ​​S​i​  ∈ ​
+{1, …, J}​​ denotes school attendance.
+We decompose potential outcomes into components explained by student abil-
+ity, school effectiveness, and idiosyncratic factors. Let ​​A​i​  =  ​(1/J)​∑ j​   ​Y​ij​​ denote 
+student ​i​’s general ability, defined as the average of her potential outcomes across 
+all schools. This variable describes how the student would perform at the average 
+school. Adding and subtracting ​​A​i​​ on the ­right-hand side of (1) yields
+(2)	
+​​Y​ij​  =  ​α 
+– ​ + ​X​ i​ ′ ​β 
+– ​ + ​ϵ 
+–​i​ 
+ 
+​ 
+​A​i​
+​ 
+​ + ​(​α​j​ − ​α 
+– ​)​ 
+⏟
+​ 
+AT​E​j​
+​  ​ + ​X​ i​ ′ ​(​β​j​ − ​β 
+– ​)​ + ​(​ϵ​ij​ − ​ϵ 
+–​i​)​ 
+ 
+​ 
+ 
+​M​ij​
+​ 
+​,​
+where ​α 
+– ​  =  ​(1/J)​∑ j​   ​α​j​​, ​β 
+– ​  =  ​(1/J)​∑ j​   ​β​j​​, and ​ϵ 
+–​i​  =  ​(1/J)​∑ j​   ​ϵ​ij​​. Equation (2) shows 
+that student ​i​’s potential outcome at school ​j​ is the sum of three terms: the student’s 
+general ability, ​​A​i​​; the school’s average treatment effect, ​AT​E​j​​, defined as the causal 
+effect of school ​j​ relative to an average school for an average student; and a match 
+effect, ​​M​ij​​, which reflects student ​i​’s idiosyncratic suitability for school ​j​. Match 
+
+
+--- PAGE 10 ---
+1511
+ABDULKADIRO ˇGLU ET AL.: DO PARENTS VALUE SCHOOL EFFECTIVENESS?
+VOL. 110 NO. 5
+effects may arise either because of an interaction between student ​i​’s observed 
+characteristics and the extra returns to characteristics at school ​j​ (captured by 
+​X​ i​ ′ ​(​β​j​ − ​β 
+– ​)​​) or because of unobserved factors that make student ​i​ more or less suit-
+able for school ​j​ (captured by ​​ϵ​ij​ − ​ ϵ 
+– ​i​​).
+This decomposition allows us to interpret variation in observed outcomes across 
+schools using three terms. The average outcome at school ​j​ is given by
+(3)	
+​E​[​Y​i​ | ​S​i​  =  j]​  =  ​Q​j ​ + AT​E​j​ + E​[​M​ij​ | ​S​i​  =  j]​.​
+Here ​​Q​j​  =  E​[​A​i​ | ​S​i​  =  j]​​ is the average ability of students enrolled at school ​j​, a 
+variable we label “peer quality.” The quantity ​E​[​M​ij​ | ​S​i​  =  j]​​ is the average suitabil-
+ity of ​j​’s students for this particular school. In a Roy (1951)-style model in which 
+students sort into schools on the basis of comparative advantage in the production 
+of ​​Y​i​​, we would expect these average match effects to be positive. Parents and stu-
+dents may also choose schools on the basis of peer quality ​​Q​j​​, overall school effec-
+tiveness ​AT​E​j​​, or the idiosyncratic match ​​M​ij​​ for various outcomes.
+III.  Empirical Methods
+The goal of our empirical analysis is to assess the roles of peer quality, school 
+effectiveness, and academic match quality in applicant preferences. Our analysis 
+proceeds in three steps. We first use ­rank-ordered choice lists to estimate prefer-
+ences, thereby generating measures of each school’s popularity. Next, we estimate 
+schools’ causal effects on test scores, high school graduation, college attendance, 
+and college choice. Finally, we combine these two sets of estimates to characterize 
+the relationships among school popularity, peer quality, and causal effectiveness.
+A. Estimating Preferences
+Let ​​U​ij​​ denote student ​i​’s utility from enrolling in school ​j​, and let ​  =  ​{1, …, J}​​ 
+represent the set of available schools. We abstract from the fact that students rank 
+programs rather than schools by ignoring repeat occurrences of any individual 
+school on a student’s choice list. Therefore, ​​U​ij​​ may be interpreted as the indirect 
+utility associated with student ​i​’s favorite program at school ​j​. The school ranked 
+first on a student’s choice list is
+	
+​​R​i1​  =  ​arg max​ 
+j∈​  ​ ​U​ij​​,
+while subsequent ranks satisfy
+	
+​​R​ik​  =  ​  arg max​ 
+j∈ \​{​R​im​:m<k}​
+​U​ij​,  k  >  1​.
+Student ​i​’s ­rank-order list is then ​​R​i​  =  ​(​R​i1​, …, ​R​iℓ​(i)​​)​​′, where ​ℓ​(i)​​ is the length of 
+the list submitted by this student.
+
+
+--- PAGE 11 ---
+1512
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+We summarize these preference lists by fitting random utility models with param-
+eters that vary according to observed student characteristics. Student ​i​’s utility from 
+enrolling in school ​j​ is modeled as
+(4)	
+​​U​ij​  =  ​δ​c​(​X​i​)​j​ − ​τ​c​(​X​i​)​​ ​D​ij​ + ​η​ij​,​
+where the function ​c​(​X​i​)​​ assigns students to covariate cells based on the variables in 
+the vector ​​X​i​​, and ​​D​ij​​ records distance from student ​i​’s home address to school ​j​. The 
+parameter ​​δ​cj​​ is the mean utility of school ​j​ for students in covariate cell ​c​, and ​​τ​c​​ 
+is a ­cell-specific distance parameter or “cost.” We include distance in the model 
+because a large body of evidence suggests it plays a central role in school choices 
+(e.g., Hastings, Kane, and Staiger 2009 and Abdulkadiroˇglu et al. 2017). We model 
+unobserved tastes ​​η​ij​​ as following independent extreme value type I distributions 
+conditional on ​​X​i​​ and ​​D​i​  =  ​(​D​i1​, …, ​D​iJ​)​​′. Equation (4) is therefore a ­rank-ordered 
+multinomial logit model (Hausman and Ruud 1987).
+The logit model implies the conditional likelihood of the rank list ​​R​i​​ is
+	
+​​(​R​i​ | ​X​i​, ​D​i​)​  =  ​ ∏ 
+k=1​ 
+ℓ​(i)​
+ ​ 
+exp​(​δ​c​(​X​i​)​R​ik​​ − ​τ​c​(​X​i​)​​ ​D​i​R​ik​​)​ 
+ 
+ 
+_________________________ 
+ 
+ 
+ 
+​∑ j∈ \​{​R​im​:m<k}​​ 
+  
+​exp​(​δ​c​(​X​i​)​j​ − ​τ​c​(​X​i​)​​ ​D​ij​)​ ​​.
+We allow flexible heterogeneity in tastes by estimating preference models sep-
+arately for 360 covariate cells defined by the intersection of borough, sex, ­ 
+race/ethnicity (black, Hispanic, or other), subsidized lunch status, ­above-median cen-
+sus tract income, and terciles of the mean of eighth grade math and reading scores. 
+This specification follows several recent studies that flexibly parametrize preference 
+heterogeneity in terms of observable characteristics (e.g., Hastings, Hortaçsu, and 
+Syverson 2017 and Langer 2016). Students rarely rank schools outside their home bor-
+oughs, so covariate cells often include zero students ranking any given ­out-of-borough 
+school. We therefore restrict the choice set ​​ to schools located in the home borough 
+and aggregate all other schools into an outside option with utility normalized to zero. 
+Maximum likelihood estimation of the preference parameters produces a list of school 
+mean utilities along with a distance coefficient for each covariate cell.
+B. Estimating School Effectiveness
+Our analysis of school effectiveness aims to recover the parameters of the poten-
+tial outcome equations defined in Section II. We take two approaches to estimating 
+these parameters.
+Approach 1: Selection on observables.
+The first set of estimates is based on the assumption
+(5)	
+​E​[​Y​ij​ | ​X​i​, ​S​i​]​  =  ​α​j​ + ​X​ i​ ′ ​ ​β​j​,  j  =  1, …, J.​
+This restriction, often labeled “selection on observables,” requires school enroll-
+ment to be as good as random conditional on the covariate vector ​​X​i​​, which includes 
+
+
+--- PAGE 12 ---
+1513
+ABDULKADIRO ˇGLU ET AL.: DO PARENTS VALUE SCHOOL EFFECTIVENESS?
+VOL. 110 NO. 5
+sex, race, subsidized lunch status, the log of median census tract income, and eighth 
+grade math and reading scores. Assumption (5) implies that an ordinary least 
+squares (OLS) regression of ​​Y​i​​ on school indicators interacted with ​​X​i​​ recovers 
+unbiased estimates of ​​α​j​​ and ​​β​j​​ for each school. This fully interacted specification 
+is a ­multiple-treatment extension of the ­Oaxaca-Blinder (1973) treatment effects 
+estimator (Kline 2011).3 By allowing school effectiveness to vary with student char-
+acteristics, we generalize the constant effects “­value-added” approach commonly 
+used to estimate the contributions of teachers and schools to student achievement 
+(Koedel, Mihaly, and Rockoff 2015).
+The credibility of the selection on observables assumption underlying ­value-added 
+estimators is a matter of continuing debate (Rothstein 2010, 2017; Kane et al. 2013; 
+­Bacher-Hicks, Kane, and Staiger 2014; Chetty, Friedman, and Rockoff 2014a, 2016, 
+2017; Guarino, Reckase, and Wooldridge 2015). Comparisons to results from admis-
+sion lotteries indicate that school ­value-added models accurately predict the impacts 
+of random assignment but are not perfectly unbiased (Deming 2014; Angrist et al. 
+2016b, 2017). Selection on observables may also be more plausible for test scores 
+than for ­longer-run outcomes, for which lagged measures of the dependent variable 
+are not available (Chetty, Friedman, and Rockoff 2014a). We therefore report OLS 
+estimates as a benchmark and compare these to estimates from a more general strat-
+egy that relaxes assumption (5).
+Approach 2: ­Rank-ordered control functions.
+Our second approach is motivated by the restriction 
+(6) ​E​[​Y​ij​ | ​X​i​, ​D​i​, ​η​i1​, …, ​η​iJ​, ​S​i​]​  =  ​α​j​ + ​X​ i​ ′ ​ ​β​j​ + ​g​j​(​D​i​, ​η​i1​, …, ​η​iJ​)​,  j  =  1, …, J.​
+This restriction implies that any omitted variable bias afflicting OLS ­value-added 
+estimates is due either to spatial heterogeneity captured by distances to each school 
+(​​D​i​​) or to the preferences underlying the ­rank-ordered lists submitted to the assign-
+ment mechanism (​​η​ij​​). The function ​​g​j​( · )​​ allows potential outcomes to vary arbi-
+trarily across students with different preferences over schools. Factors that lead 
+students with the same observed characteristics, spatial locations, and preferences 
+to ultimately enroll in different schools, such as school priorities, random rationing 
+due to oversubscription, or noncompliance with the assignment mechanism, are pre-
+sumed to be unrelated to potential outcomes.
+Under assumption (6), comparisons of matched sets of students with the same 
+covariates, values of distance, and ­rank-ordered choice lists recover causal effects 
+of school attendance. This model is therefore similar to the “­self-revelation” model 
+proposed by Dale and Krueger (2002, 2014) in the context of postsecondary enroll-
+ment. Dale and Krueger assume that students reveal their unobserved “types” via the 
+selectivity of their college application portfolios, so college enrollment is as good as 
+random among students who apply to the same schools. Similarly, (6) implies that 
+3 We also include main effects of borough so that the model includes the same variables used to define covariate 
+cells in the preference model.
+
+
+--- PAGE 13 ---
+1514
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+high school applicants reveal their types through the content of their ­rank-ordered 
+preference lists.
+Though intuitively appealing, full nonparametric matching on ­rank-ordered lists 
+is not feasible in practice because few students share the exact same rankings. We 
+therefore use the structure of the logit choice model in equation (4) to derive a para-
+metric approximation to this matching procedure. Specifically, we replace equation 
+(6) with the assumption
+(7)  ​E​[​Y​ij​ | ​X​i​, ​D​i​, ​η​i1​, …, ​η​iJ​, ​S​i​]​ 
+
+=  ​α​j​ + ​X​ i​ ′ ​ ​β​j​ + ​D​ i​ ′ ​ γ + ​ ∑ 
+k=1
+​ 
+J
+  ​ψ​k​ × ​(​η​ik​ − ​μ​η​)​ + φ × ​(​η​ij​ − ​μ​η​)​,  j  =  1, …, J,​
+where ​​μ​η​  =  E​[​η​ij​]​​ is Euler’s constant.4 As in the multinomial logit selection model 
+of Dubin and McFadden (1984), equation (7) imposes a linear relationship between 
+potential outcomes and the unobserved logit errors. Functional form assumptions of 
+this sort are common in multinomial selection models with many alternatives, where 
+requirements for nonparametric identification are very stringent (Lee 1983; Dahl 
+2002; Heckman, Urzua, and Vytlacil 2008).5
+Equation (7) accommodates a variety of forms of selection on unobservables. 
+The coefficient ​​ψ​k​​ represents an effect of the preference for school ​k​ common to 
+all potential outcomes. This permits students with strong preferences for particu-
+lar schools to have higher or lower general ability ​​A​i​​. The parameter ​φ​ captures 
+an additional match effect of the preference for school ​j​ on the potential outcome 
+at this specific school. The model therefore allows for “essential” heterogeneity 
+linking preferences to unobserved match effects in student outcomes (Heckman, 
+Urzua, and Vytlacil 2006). A Roy (1951)-style model of selection on gains would 
+imply ​φ  >  0​, but we do not impose this restriction.
+By iterated expectations, equation (7) implies that mean observed outcomes at 
+school ​j​ are
+(8)      ​E​[​Y​i​ | ​X​i​, ​D​i​, ​R​i​, ​S​i​  =  j]​ 
+	
+    =  ​α​j​ + ​X​ i​ ′ ​ ​β​j​ + ​D​ i​ ′ ​ γ + ​ ∑ 
+k=1
+​ 
+J
+  ​ψ​k​ ​λ​k​(​X​i​, ​D​i​, ​R​i​)​ + φ​λ​j​(​X​i​, ​D​i​, ​R​i​)​,​
+where ​​λ​k​(​X​i​, ​D​i​, ​R​i​)​  =  E​[​η​ik​ − ​μ​η​ | ​X​i​, ​D​i​, ​R​i​]​​ gives the mean preference for school  
+​k​ conditional on a student’s characteristics, spatial location, and preference list. The ​​λ​k​
+( · )​​s serve as “control functions” correcting for selection on unobservables (Heckman 
+and Robb 1985, Blundell and Matzkin 2014, Wooldridge 2015). As shown in online 
+Appendix Section B.1, these functions are generalizations of the formulas derived by 
+Dubin and McFadden (1984), extended to account for the fact that we observe a list 
+of several ranked alternatives rather than just the most preferred choice.
+Note that equation (8) includes main effects of distance to each school; we do not 
+impose an exclusion restriction for distance. Identification of the selection parame-
+ters ​​ψ​k​​ and ​φ​ comes from variation in preference rankings for students who enroll at 
+4 The means of both ​​X​i​​ and ​​D​i​​ are normalized to zero to maintain the interpretation that ​​α​j​  =  E​[​Y​ij​]​​.
+5 As discussed in Section V, we also estimate an alternative model that includes fixed effects for first choice schools.
+
+
+--- PAGE 14 ---
+1515
+ABDULKADIRO ˇGLU ET AL.: DO PARENTS VALUE SCHOOL EFFECTIVENESS?
+VOL. 110 NO. 5
+the same school conditional on covariates and distance. Intuitively, if students who 
+rank school ​j​ highly do better than expected given their observed characteristics at 
+all schools, we will infer that ​​ψ​j​  >  0​. If these students do better than expected at 
+school ​j​ but not elsewhere, we will infer that ​φ  >  0​.
+We use the choice model parameters to build ­first-step estimates of the con-
+trol functions, then estimate equation (8) in a ­second-step OLS regression of ​​Y​i​​ 
+on school indicators and their interactions with ​​X​i​​, controlling for ​​D​i​​ and the esti-
+mated ​​λ​k​( · )​​ functions.6 We adjust inference for estimation error in the control func-
+tions via a ­two-step extension of the score bootstrap procedure of Kline and Santos 
+(2012). As detailed in online Appendix Section B.2, the score bootstrap avoids the 
+need to recalculate the ­first-step logit estimates or the inverse variance matrix of the 
+­second-step regressors in the bootstrap iterations.
+The Joint Distribution of Peer Quality and School Effectiveness.—Estimates of 
+equations (5) and (7) may be used to calculate each school’s peer quality. A stu-
+dent’s predicted ability in the ­value-added model is
+(9)	
+​​A ˆ ​i​  =  ​ 1 
+_ 
+J ​ ​ ∑ 
+j=1
+​ 
+J
+ ​[​α ˆ ​j​ + ​X​ i​ ′ ​ ​β ˆ ​j​]​,​
+where ​​α ˆ ​j​​ and ​​β ˆ ​j​​ are OLS ­value-added coefficients. Predicted ability in the control 
+function model adds estimates of the distance and control function terms in equation 
+(8). Estimated peer quality at school ​j​ is then ​​Q ˆ ​j​  =  ​∑ i​   ​ 1​{​S​i​  =  j}​ ​A ˆ ​i​/​∑ i​   ​ 1​{​S​i​  =  j}​​, 
+the average predicted ability of enrolled students.
+The end result of our school quality estimation procedure is a vector of estimates 
+for each school, ​​θ ˆ ​j​  =  ​(​α ˆ ​j​, ​β ˆ ​ j​ ′ ​, ​Q ˆ ​j​)​​′. The vector of parameters for the control function 
+model also includes an estimate of the selection coefficient for school ​j​, ​​ψ ˆ ​j​​. These 
+estimates are unbiased but noisy measures of the underlying ­school-specific param-
+eters ​​θ​j​​. We investigate the distribution of ​​θ​j​​ using the following hierarchical model:
+(10)	
+​​θ ˆ ​j​ | ​θ​j​  ∼  N​(​θ​j​, ​Ω​j​)​,​
+	
+​​θ​j​  ∼  N​(​μ​θ​, ​Σ​θ​)​.​
+Here ​​Ω​j​​ is the sampling variance of the estimator ​​θ ˆ ​j​​, while ​​μ​θ​​ and ​​Σ​θ​​ govern the dis-
+tribution of latent parameters across schools. In a hierarchical Bayesian framework  
+​​μ​θ​​ and ​​Σ​θ​​ are hyperparameters describing a prior distribution for ​​θ​j​​. We estimate 
+these hyperparameters by maximum likelihood applied to model (10), approximat-
+ing ​​Ω​j​​ with an estimate of the asymptotic variance of ​​θ ˆ ​j​​.7 The resulting estimates 
+of ​​μ​θ​​ and ​​Σ​θ​​ characterize the joint distribution of peer quality and school treatment 
+effect parameters, purged of the estimation error in ​​θ ˆ ​j​​.
+6 The choice model uses only preferences over schools in students’ home boroughs, so ​​λ​k​( · )​​ is undefined for 
+students outside school ​k​’s borough. We therefore include dummies for missing values and code the control func-
+tions to 0 for these students. We similarly code ​​D​ik​​ to 0 for students outside of school ​k​’s borough and include bor-
+ough indicators so that the distance coefficients are estimated using only ­within-borough variation. Our key results 
+are not sensitive to dropping students attending ­out-of-borough schools from the sample.
+7 The peer quality estimates ​​Q ˆ ​j​​ are typically very precise, so we treat peer quality as known rather than estimated 
+when fitting the hierarchical model. 
+
+
+--- PAGE 15 ---
+1516
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+This hierarchical model can also be used to improve estimates of parameters for 
+individual schools. An empirical Bayes (EB) posterior mean for ​​θ​j​​ is given by
+	
+​​θ​ j​ ∗​  =  ​(​Ω ˆ ​ j​ −1​ + ​Σ ˆ ​ θ​ 
+−1​)​​ 
+−1​(​​Ω ˆ ​ j​ −1​ ​θ ˆ ​j​ + ​Σ ˆ ​ θ​ 
+−1​ ​μ ˆ ​θ​)​​,
+where ​​Ω ˆ ​j​​, ​​μ ˆ ​θ​​, and ​​Σ 
+ˆ ​θ​​ are estimates of ​​Ω​j​​, ​​μ​θ​​, and ​​Σ​θ​​. Relative to the unbiased but 
+noisy estimate ​​θ ˆ ​j​​, this EB shrinkage estimator uses the prior distribution to reduce 
+sampling variance at the cost of increased bias, yielding a minimum mean squared 
+error (MSE) prediction of ​​θ​j​​ (Robbins 1956, Morris 1983). This approach paral-
+lels recent work applying shrinkage methods to estimate causal effects of teachers, 
+schools, neighborhoods, and hospitals (Chetty, Friedman, and Rockoff 2014a; Hull 
+2016; Angrist et al. 2017; Chetty and Hendren 2017; Finkelstein et al. 2017). Online 
+Appendix Section B.3 further describes our EB estimation strategy. In addition to 
+reducing MSE, empirical Bayes shrinkage eliminates attenuation bias that would 
+arise in models using elements of ​​θ ˆ ​j​​ as regressors (Jacob and Lefgren 2008). We 
+exploit this property by regressing estimates of school popularity on EB posterior 
+means in the final step of our empirical analysis.
+C. Linking Preferences to School Effectiveness
+We relate preferences to peer quality and causal effects with regressions of the 
+form
+(11)	
+​​δ ˆ ​cj​  =  ​κ​c​ + ​ρ​1​ ​Q​ j​ ∗​ + ​ρ​2​ AT​E​ j​ ∗​ + ​ρ​3​ ​M​ cj​ 
+∗ ​ + ​ξ​cj​,​
+where ​​δ ˆ ​cj​​ is an estimate of the mean utility of school ​j​ for students in covariate 
+cell ​c​, ​​κ​c​​ is a cell fixed effect, and ​​Q​ j​ ∗​​ and ​AT​E​ j​ ∗​​ are EB posterior mean predictions 
+of peer quality and average treatment effects. The variable ​​M​ cj​ 
+∗ ​​ is an EB prediction 
+of the mean match effect of school ​j​ for students in cell ​c​. Observations in equa-
+tion (11) are weighted by the inverse sampling variance of ​​δ ˆ ​cj​​. We use the vari-
+ance estimator proposed by Cameron, Gelbach, and Miller (2011) to ­double-cluster 
+inference by cell and school. ­Two-way clustering accounts for correlated estimation 
+errors in ​​δ ˆ ​cj​​ across schools within a cell as well as unobserved determinants of pop-
+ularity common to a given school across cells. We estimate equation (11) separately 
+for Regents test scores, PSAT scores, high school graduation, college attendance, 
+and college quality. The parameters ​​ρ​1​​, ​​ρ​2​​, and ​​ρ​3​​ measure how preferences relate to 
+peer quality, school effectiveness, and match quality.8
+8 The control function version of our estimation procedure is closely related to classic ­selection-correction 
+methods from studies of labor supply decisions. In their review of identification of labor supply models, French 
+and Taber (2011) details a procedure that estimates labor market participation probabilities in a first step, uses these 
+probabilities to ­selection-correct a wage equation in a second step, then relates participation to the unselected wage 
+equation parameters in a third “structural probit” step. Similarly, we use preference estimates to ­selection-correct 
+equations for student outcomes, then link the ­selection-corrected outcome estimates back to preferences to under-
+stand relationships between choices and treatment effects.
+
+
+--- PAGE 16 ---
+1517
+ABDULKADIRO ˇGLU ET AL.: DO PARENTS VALUE SCHOOL EFFECTIVENESS?
+VOL. 110 NO. 5
+IV.  Parameter Estimates
+A. Preference Parameters
+Table 3 summarizes the distribution of household preference parameters across 
+the 316 high schools and 360 covariate cells in the choice sample. The first row 
+reports estimated standard deviations of the mean utility ​​δ​cj​​ across schools and cells, 
+while the second row displays the mean and standard deviation of the ­cell-specific 
+distance cost ​​τ​c​​. School mean utilities are deviations from cell averages to account 
+for differences in the reference category across boroughs, and calculations are 
+weighted by cell size. We adjust these standard deviations for sampling error in the 
+estimated preference parameters by subtracting the average squared standard error 
+from the sample variance of mean utilities.
+Consistent with the descriptive statistics in Table 1, the preference estimates indi-
+cate that households dislike more distant schools. The mean distance cost is 0.33. This 
+implies that increasing the distance to a particular school by one mile reduces the odds 
+that a household prefers this school to another in the same borough by 33 percent. 
+The standard deviation of the distance cost across covariate cells is 0.12. While there 
+is significant heterogeneity in distastes for distance, all of the estimated distance costs 
+are positive, suggesting that all subgroups prefer schools closer to home.
+The estimates in Table 3 reveal significant heterogeneity in tastes for schools both 
+within and between subgroups. The ­within-cell standard deviation of school mean 
+utilities, which measures the variation in ​​δ​cj​​ across schools ​j​ for a fixed cell ​c​, equals 
+1.12. This is equivalent to roughly 3.4 (1.12/0.33) miles of distance, implying that 
+households are willing to travel substantial distances to attend more popular schools. 
+The ­between-cell standard deviation, which measures variation in ​​δ​cj​​ across ​c​ for a 
+Table 3—Variation in Student Preference Parameters
+Standard deviations
+Mean
+Within cells
+Between cells
+Total
+(1)
+(2)
+(3)
+(4)
+School mean utility
+—
+1.117
+0.500
+1.223
+(0.045)
+(0.003)
+(0.018)
+Distance cost
+0.330
+—
+0.120
+0.120
+(0.006)
+(0.005)
+(0.005)
+Number of students
+270,157
+Number of schools
+316
+Number of covariate cells
+360
+Notes: This table summarizes variation in school value-added and utility parameters across 
+schools and covariate cells. Utility estimates come from rank-ordered logit models fit to stu-
+dent preference rankings. These models include school indicators and distance to school and 
+are estimated separately in covariate cells defined by borough, gender, race, subsidized lunch 
+status, an indicator for above or below the median of census tract median income, and tercile 
+of the average of eighth grade math and reading scores. Column 1 shows the mean of the dis-
+tance coefficient across cells weighted by cell size. Column 2 shows the standard deviation of 
+school mean utilities across schools within a cell, and column 3 shows the standard deviation 
+of a given school’s mean utility across cells. School mean utilities are deviated from cell aver-
+ages to account for differences in the reference category across cells. Estimated standard devi-
+ations are adjusted for sampling error by subtracting the average squared standard error of the 
+parameter estimates from the total variance.
+
+
+--- PAGE 17 ---
+1518
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+fixed ​j​, is 0.50, equivalent to about 1.5 (0.5/0.33) miles of distance. The larger 
+­within-cell standard deviation indicates that students in different subgroups tend to 
+prefer the same schools.
+B. School Effectiveness and Peer Quality
+Our estimates of school treatment effects imply substantial variation in both 
+causal effects and sorting across schools. Table 4 reports estimated means and 
+standard deviations of peer quality ​​Q​j​​, average treatment effects ​AT​E​j​​, and slope 
+coefficients ​​β​j​​. We normalize the means of ​​Q​j​​ and ​AT​E​j​​ to 0 and quantify the vari-
+ation in these parameters relative to the average school. As shown in column 2, 
+the ­value-added model produces standard deviations of ​​Q​j​​ and ​AT​E​j​​ for Regents 
+math scores equal to ​0.29σ​. This is somewhat larger than corresponding estimates 
+of variation in school ­value-added from previous studies (usually around ​0.15–0.2σ​; 
+see, e.g., Angrist et al. 2017). One possible reason for this difference is that most 
+Table 4—Distributions of Peer Quality and Treatment Effect Parameters for Regents Math Scores
+Value-added model
+Control function model
+Mean
+SD
+Mean
+SD
+(1)
+(2)
+(3)
+(4)
+Peer quality
+0
+0.288
+0
+0.305
+—
+(0.012)
+—
+(0.012)
+ATE
+0
+0.290
+0
+0.233
+—
+(0.012)
+—
+(0.014)
+Female
+−0.048
+0.062
+−0.029
+0.062
+(0.005)
+(0.006)
+(0.005)
+(0.006)
+Black
+−0.112
+0.130
+−0.108
+0.120
+(0.011)
+(0.011)
+(0.010)
+(0.011)
+Hispanic
+−0.097
+0.114
+−0.085
+0.105
+(0.010)
+(0.011)
+(0.010)
+(0.012)
+Subsidized lunch
+0.001
+0.052
+0.026
+0.054
+(0.005)
+(0.006)
+(0.005)
+(0.006)
+log census tract median income
+0.020
+0.037
+0.013
+0.045
+(0.005)
+(0.007)
+(0.005)
+(0.006)
+Eighth grade math score
+0.622
+0.105
+0.599
+0.105
+(0.007)
+(0.006)
+(0.007)
+(0.006)
+Eighth grade reading score
+0.159
+0.048
+0.143
+0.052
+(0.004)
+(0.004)
+(0.004)
+(0.004)
+Preference coefficient (​ψ​j​)
+—
+—
+−0.001
+0.007
+(0.001)
+(0.000)
+Match coefficient (φ)
+—
+—
+0.006
+—
+(0.001)
+Notes: This table reports estimated means and standard deviations of peer quality and school treatment effect 
+parameters for Regents math scores. Peer quality is a school’s average predicted test score given the characteristics 
+of its students. The ATE is a school’s average treatment effect, and other treatment effect parameters are school-spe-
+cific interactions with student characteristics. Estimates come from maximum likelihood models fit to school-spe-
+cific regression coefficients. Columns 1 and 2 report estimates from an OLS regression that includes interactions 
+of school indicators with sex, race, subsidized lunch, the log of the median income in a student’s census tract, and 
+eighth grade reading and math scores. This model also includes main effects of borough. Columns 3 and 4 show 
+estimates from a control function model that adds distance to each school and predicted unobserved preferences 
+from the choice model. Control functions and distance variables are set to 0 for out-of-borough schools and indica-
+tors for missing values are included.
+
+
+--- PAGE 18 ---
+1519
+ABDULKADIRO ˇGLU ET AL.: DO PARENTS VALUE SCHOOL EFFECTIVENESS?
+VOL. 110 NO. 5
+students in our sample attend high school for two years before taking Regents math 
+exams, while previous studies look at impacts after one year.
+As shown in columns 3 and 4 of Table 4, the control function model attributes 
+some of the variation in Regents math ­value-added parameters to selection bias. 
+Adding controls for unobserved preferences and distance increases the estimated 
+standard deviation of ​​Q​j​​ to ​0.31σ​ and reduces the estimated standard deviation 
+of ​AT​E​j​​ to ​0.23σ​. Figure 1, which compares ­value-added and control function esti-
+mates for all five outcomes, demonstrates that this pattern holds for other outcomes 
+as well: adjusting for selection on unobservables compresses the estimated distri-
+butions of treatment effects. This compression is more severe for high school grad-
+uation, college attendance, and college quality than for Regents math and PSAT 
+scores. Our findings are therefore consistent with previous evidence that bias in OLS 
+­value-added models is more important for ­longer-run and ­non-test score outcomes 
+(see, e.g., Chetty, Friedman, and Rockoff 2014b).
+The bottom rows of Table 4 show evidence of substantial treatment effect hetero-
+geneity across students. For example, the standard deviation of the slope coefficient 
+on a black indicator equals ​0.12σ​ in the control function model. This implies that 
+holding the average treatment effect ​AT​E​j​​ fixed, a one standard deviation improve-
+ment in a school’s match quality for black students boosts scores for these students 
+by about a tenth of a standard deviation relative to whites. We also find signifi-
+cant variation in slope coefficients for gender (​0.06σ​), Hispanic (​0.11σ​), subsidized 
+lunch status (​0.05σ​), the log of median census tract income (​0.05σ​), and eighth 
+grade math and reading scores (​0.11σ​ and ​0.05σ​). The final row of column 3 reports 
+a control function estimate of ​φ​, the parameter capturing matching between unob-
+served preferences and Regents scores. This estimate indicates a positive relation-
+ship between preferences and the unobserved component of ­student-specific test 
+score gains, but the magnitude of the coefficient is very small.9
+Our estimates imply that ­high-ability students tend to enroll in more effec-
+tive schools. Table 5 reports correlations between ​​Q​j​​ and key school treatment 
+effect parameters based on control function estimates for Regents math scores. 
+Corresponding ­value-added estimates appear in online Appendix Table  A2. The 
+estimated correlation between peer quality and average treatment effects is 0.59. 
+This may reflect either positive peer effects or ­higher-achieving students’ tendency 
+to enroll in schools with better inputs. Our finding that schools with ­high-ability 
+peers are more effective contrasts with recent studies of exam schools in New York 
+City and Boston, which show limited treatment effects for highly selective pub-
+lic schools (Abdulkadiroˇglu, Angrist, and Pathak 2014; Dobbie and Fryer 2014). 
+Within the broader New York public high school system, we find a strong positive 
+association between school effectiveness and average student ability.
+Table 5 also reports estimated correlations of ​​Q​j​​ and ​AT​E​j​​ with the slope coeffi-
+cients ​​β​j​​. Schools with larger average treatment effects tend to be especially good 
+for girls: the correlation between ​AT​E​j​​ and the female slope coefficient is positive 
+and statistically significant. This is consistent with evidence from Deming et al. 
+9 The average predicted value of ​​(​η​ij​ − ​μ​η​)​​ for a student’s enrolled school in our sample is 2.0. Our estimate 
+of ​φ​ therefore implies that unobserved match effects increase average test scores by about 1 percent of a standard 
+deviation (​0.006σ × 2.0  =  0.012σ)​.
+
+
+--- PAGE 19 ---
+1520
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+(2014) showing that girls’ outcomes are more responsive to school ­value-added. We 
+estimate a very high positive correlation between black and Hispanic coefficients, 
+suggesting that match effects tend to be similar for these two groups.
+The slope coefficient on eighth grade reading scores is negatively correlated with 
+peer quality and the average treatment effect. Both of these estimated correlations 
+are below −0.4 and statistically significant. In other words, schools that enroll 
+­higher-ability students and produce larger achievement gains are especially effec-
+tive at teaching ­low-achievers. In contrast to our estimate of the parameter ​φ​, this 
+suggests negative selection on the observed component of match effects in ­student 
+achievement. A similar selection pattern is documented by Walters (2018), which 
+Panel A. Regents math scores
+Panel B. PSAT scores
+Panel D. College attendance
+Panel E. log college quality
+−1
+−0.1
+0
+0.1
+0.2
+0.3
+−0.2
+−0.5
+0
+0.5
+1
+Control function estimate
+−0.5
+−1
+0
+0.5
+1
+Value-added estimate
+Value-added estimate
+Value-added estimate
+Value-added estimate
+−10
+0
+10
+20
+30
+Control function estimate
+−10
+0
+10
+20
+30
+Control function estimate
+0
+0.1
+−0.1
+−0.2
+0.2
+0.3
+−0.2
+−0.1
+0
+0.1
+0.2
+0.3
+Control function estimate
+0
+0.1
+−0.1
+−0.2
+0.2
+0.3
+Panel C. High school graduation
+Value-added estimate
+Control function estimate
+−0.1
+−0.2
+−0.3
+−0.3
+0
+0.1
+0.2
+−0.2
+−0.1
+0
+0.1
+0.2
+Figure 1. Comparison of Value-Added and Control Function Estimates  
+of School Average Treatment Effects
+Notes: This figure plots school average treatment effect (ATE) estimates from value-added models against corre-
+sponding estimates from models including control functions that adjust for selection on unobservables. Value-added 
+estimates come from regressions of outcomes on school indicators interacted with gender, race, subsidized lunch 
+status, the log of census tract median income, and eighth grade math and reading scores. Control function mod-
+els add distance to school and predicted unobserved tastes from the choice model. Points in the figure are empiri-
+cal Bayes posterior means from models fit to the distribution of school-specific estimates. Dashed lines show the 
+45-degree line.
+
+
+--- PAGE 20 ---
+1521
+ABDULKADIRO ˇGLU ET AL.: DO PARENTS VALUE SCHOOL EFFECTIVENESS?
+VOL. 110 NO. 5
+shows that ­lower-scoring students in Boston are less likely to apply to charter schools 
+despite receiving larger achievement benefits. Section V presents a more systematic 
+investigation of relationships between preferences and match effects.
+Patterns of estimates for PSAT scores, high school graduation, college atten-
+dance, and college quality are generally similar to results for Regents math scores. 
+Online Appendix Tables ­A3–A6 present estimated distributions of peer quality and 
+school effectiveness for these ­longer-run outcomes. For all five outcomes, we find 
+substantial variation in peer quality and average treatment effects, a strong positive 
+correlation between these variables, and significant effect heterogeneity with respect 
+to student characteristics. Overall, causal effects for the ­longer-run outcomes are 
+highly correlated with effects on Regents math scores. This is evident in Figure 2, 
+which plots EB posterior mean predictions of average treatment effects on Regents 
+scores against corresponding predictions for the other four outcomes. These results 
+are consistent with recent evidence that ­short-run test score impacts reliably pre-
+dict effects on ­longer-run outcomes (Chetty et  al. 2011; Dynarski, Hyman, and 
+Schanzenbach 2013; Angrist et al. 2016a).
+C. Decomposition of School Average Outcomes
+We summarize the joint distribution of peer quality and school effectiveness by 
+implementing the decomposition introduced in Section II. Table 6 uses the control 
+function estimates to decompose variation in school averages for each outcome into 
+Table 5—Correlations of Peer Quality and Treatment Effect Parameters for Regents Math Scores
+Control function parameters
+Peer
+quality
+ATE
+Female
+Black
+Hispanic
+Sub.  
+lunch
+Math 
+score
+Reading 
+score
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+ATE
+0.588
+(0.052)
+Female
+0.078
+0.299
+(0.078)
+(0.101)
+Black
+0.006
+0.107
+−0.177
+(0.077)
+(0.106)
+(0.142)
+Hispanic
+−0.013
+0.115
+−0.235
+0.922
+(0.080)
+(0.112)
+(0.150)
+(0.028)
+Subsidized lunch
+0.045
+−0.168
+0.066
+−0.038
+0.004
+(0.086)
+(0.117)
+(0.140)
+(0.153)
+(0.159)
+Eighth grade math score
+−0.075
+0.037
+−0.074
+−0.005
+−0.007
+0.060
+(0.064)
+(0.083)
+(0.099)
+(0.102)
+(0.109)
+(0.113)
+Eighth grade reading score −0.418
+−0.452
+−0.193
+−0.090
+−0.078
+0.004
+0.256
+(0.068)
+(0.094)
+(0.117)
+(0.130)
+(0.138)
+(0.135)
+(0.099)
+Preference coefficient (​ψ​j​)
+0.429
+0.247
+0.212
+−0.083
+−0.058
+−0.127
+−0.241
+−0.281
+(0.063)
+(0.092)
+(0.104)
+(0.106)
+(0.111)
+(0.116)
+(0.083)
+(0.099)
+Notes: This table reports estimated correlations between peer quality and school treatment effect parameters for 
+Regents math scores. The ATE is a school’s average treatment effect, and other treatment effect parameters are 
+school-specific interactions with student characteristics. Estimates come from maximum likelihood models fit to 
+school-specific regression coefficients from a control function model controlling for observed characteristics, dis-
+tance to school, and unobserved tastes from the choice model.
+
+
+--- PAGE 21 ---
+1522
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+components explained by peer quality, school effectiveness, average match effects, 
+and covariances of these components.
+Consistent with the estimates in Table 4, both peer quality and school effective-
+ness play roles in generating variation in school average outcomes, but peer quality 
+is generally more important. Peer quality explains 47 percent of the variance in 
+average Regents scores (0.093/0.191), while average treatment effects explain 28 
+percent (0.054/0.191). The explanatory power of peer quality for other outcomes 
+ranges from 49 percent (PSAT scores) to 83 percent (high school graduation), while 
+the importance of average treatment effects ranges from 10 percent (PSAT scores) 
+to 19 percent (log college quality).
+Despite the significant variation in slope coefficients documented in Table 4, match 
+effects are unimportant in explaining dispersion in school average outcomes. The vari-
+ance of match effects accounts for only 5 percent of the variation in average Regents 
+scores, and corresponding estimates for the other outcomes are also small. Although 
+school treatment effects vary substantially across subgroups, there is not much sorting 
+of students to schools on this basis, so the existence of potential match effects is of 
+little consequence for realized variation in outcomes across schools.
+Panel A. Regents math scores 
+and PSAT scores
+Panel B. Regents math scores and
+high school graduation
+Panel C. Regents math scores and 
+college attendance
+Panel D. Regents math scores and 
+log college quality
+−10
+−5
+0
+5
+10
+PSAT effect
+−0.5
+0
+0.5
+1
+Regents math effect
+−0.1
+−0.05
+0
+0.05
+0.1
+0.15
+High school graduation effect
+−0.5
+0
+0.5
+1
+Regents math effect
+−0.2
+−0.1
+0
+0.1
+0.2
+College attendance effect
+−0.5
+0
+0.5
+1
+Regents math effect
+−0.1
+−0.05
+0
+0.05
+0.1
+log college quality effect
+−0.5
+0
+0.5
+1
+Regents math effect
+Figure 2. Relationships between Effects on Test Scores and Effects on Long-Run Outcomes
+Notes: This figure plots estimates of causal effects on Regents math scores against estimates of effects on lon-
+ger-run outcomes. Treatment effects are empirical Bayes posterior mean estimates of school average treatment 
+effects from control function models. Panel A plots the relationship between Regents math effects and effects on 
+PSAT scores. Panels B, C, and D show corresponding results for high school graduation, college attendance, and 
+log college quality.
+
+
+--- PAGE 22 ---
+1523
+ABDULKADIRO ˇGLU ET AL.: DO PARENTS VALUE SCHOOL EFFECTIVENESS?
+VOL. 110 NO. 5
+The final three rows of Table 6 quantify the contributions of covariances among 
+peer quality, treatment effects, and match effects. As a result of the positive rela-
+tionship between peer quality and school effectiveness, the covariance between ​​Q​j​​ 
+and ​AT​E​j​​ substantially increases ­cross-school dispersion in mean outcomes. The 
+covariances between match effects and the other variance components are negative. 
+This indicates that students at highly effective schools and schools with ­higher-ability 
+students are less appropriately matched on the heterogeneous component of treat-
+ment effects, slightly reducing variation in school average outcomes.
+D. Testing for Bias in Estimates of School Effectiveness
+As described in Section  I, New York City’s centralized assignment mecha-
+nism breaks ties at random for students with the same preferences and priorities. 
+Abdulkadiroˇglu et al. (2017, 2019) derive methods for using the random assign-
+ment implicit in such systems for impact evaluation. The core of this approach 
+uses student preferences and priorities along with the structure of the assignment 
+mechanism to derive a probability of assignment (propensity score) for each student 
+to each school where random ­tie-breaking occurs. Conditioning on the propensity 
+score is sufficient to isolate the random component of school assignment, generating 
+valid instruments for school enrollment (Rosenbaum and Rubin 1983). The priority 
+information necessary to produce lottery propensity scores is only available for the 
+2003 New York City high school applicant cohort, and random assignment occurs 
+for only a minority of schools. While these data constraints prevent us from produc-
+ing a ­lottery-based estimate of effectiveness for every school, we can use the shifts 
+in school attendance resulting from these lottery assignments to test the accuracy of 
+our ­value-added and control function estimates.
+To implement these tests we first construct DA ­mechanism-based propensity 
+scores and then apply the ­lottery-based test for bias in ­non-experimental estimators 
+Table 6—Decomposition of School Average Outcomes
+Regents  
+math
+PSAT 
+score/10
+High school 
+graduation
+College 
+attendance
+log college 
+quality
+(1)
+(2)
+(3)
+(4)
+(5)
+Total variance of average outcome
+0.191
+1.586
+0.012
+0.016
+0.021
+Variance of peer quality
+0.093
+0.781
+0.010
+0.010
+0.009
+Variance of ATE
+0.054
+0.160
+0.002
+0.003
+0.004
+Variance of match
+0.008
+0.027
+0.002
+0.002
+0.001
+2cov(peer quality, ATE)
+0.081
+0.745
+0.005
+0.008
+0.011
+2cov(peer quality, match)
+−0.023
+−0.061
+−0.003
+−0.003
+−0.002
+2cov(ATE, match)
+−0.022
+−0.068
+−0.004
+−0.005
+−0.003
+Notes: This table decomposes variation in average outcomes across schools into components explained by student 
+characteristics, school average treatment effects (ATE), and the match between student characteristics and school 
+effects. Estimates come from control function models adjusting for selection on unobservables. Column 1 shows 
+results for Regents math scores in standard deviation units, column 2 reports estimates for PSAT scores, column 3 
+displays estimates for high school graduation, column 4 reports results for college attendance, and column 5 shows 
+results for log college quality. The first row reports the total variance of average outcomes across schools. The sec-
+ond row reports the variance of peer quality, defined as the average predicted outcome as a function of student 
+characteristics and unobserved tastes. The third row reports the variance of ATE, and the fourth row displays the 
+variance of the match effect. The remaining rows show covariances of these components.
+
+
+--- PAGE 23 ---
+1524
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+of school effectiveness proposed by Angrist et al. (2016b, 2017). For a set of ​L​ lot-
+teries, this test is implemented by estimating the following ­two-stage least squares 
+(2SLS) system:
+(12)	
+​​Y​i​  =  ​κ​0​ + ϕ ​Y ˆ ​i​ + ​ ∑ 
+ℓ=1
+​ 
+L
+ ​κ​ℓ​ ​p​iℓ​ + ​e​i​,​
+(13)	
+​​Y ˆ ​i​  =  ​π​0​ + ​ ∑ 
+ℓ=1
+​ 
+L
+ ​[​π​ℓ​ ​Z​iℓ​ + ​ω​ℓ​ ​p​iℓ​]​ + ​υ​i​,​
+where ​​Y ˆ ​i​​ is the fitted value generated by a ­non-experimental estimation proce-
+dure (either ­value-added or control function), ​​Z​iℓ​​ is an indicator equal to 1 if stu-
+dent ​i​ is assigned to school ​ℓ​, and ​​p​iℓ​​ is the propensity score measuring student ​i​’s 
+probability of assignment to school ​ℓ​. The first-stage coefficients ​​π​ℓ​​ describe the 
+­non-experimental estimator’s predicted effects of assignment in each lottery, which 
+are ­nonzero because lottery offers shift students across schools. Angrist et al. (2017) 
+shows that the “forecast coefficient” ​ϕ​ should equal 1 if the estimator used to gen-
+erate ​​Y ˆ ​i​​ correctly predicts the effects of random lottery assignments on average, 
+while the overidentification test for the system defined by (12) and (13) measures 
+whether the estimator has the same predictive validity in every lottery. As discussed 
+in Angrist et al. (2016b), the combination of these restrictions can be viewed as a 
+Hausman (1983)-style test comparing ­lottery-based instrumental variables (IV) and 
+OLS ­value-added estimates. If the restrictions underlying the ­value-added model are 
+true, the ­value-added estimates should match ­lottery-based estimates of the same 
+causal parameters.
+As shown in Table 7, this ­lottery-based test suggests that our ­value-added and 
+control function estimates accurately capture the causal effects of schools on stu-
+dent outcomes.10 Column 1 reports tests of an “uncontrolled” model that measures 
+school effectiveness as the unadjusted mean outcome at the school. This model gen-
+erates forecast coefficients far from one and decisive rejections of the overiden-
+tification test for all three outcomes available for the 2003 cohort (Regents math, 
+PSAT scores, and high school graduation), indicating that the available lotteries 
+have power to detect bias in the most naïve nonexperimental estimators. Columns 2 
+and 3 show that the addition of controls for observed student characteristics gener-
+ates forecast coefficients much closer to 1 and overidentification tests that generally 
+do not reject at conventional levels. Unfortunately, we cannot use lotteries to vali-
+date our estimates for postsecondary outcomes since college attendance data are not 
+available for the 2003 applicant cohort, so estimates for these outcomes should be 
+viewed more cautiously.
+While the estimates in Table 7 are encouraging, it’s worth noting that the lotteries 
+available in New York may have weak power to detect bias in our ­value-added and 
+control function models. Specifically, the first stage ­F-statistics for equation (13) 
+are below the ­rule-of-thumb value of 10 commonly used to diagnose weak instru-
+ments (Staiger and Stock 1997), implying that the lotteries tend to shift students 
+10 We validate our approach to reconstructing school lotteries by reporting relationships between lottery offers 
+and students characteristics in Appendix Table  A7. Without controls for propensity scores, school offers are 
+strongly correlated with baseline test scores and other observables, but we cannot reject that offers at all schools are 
+independent of observed characteristics after controlling for the propensity scores. This indicates that our strategy 
+successfully isolates randomized lottery assignments.
+
+
+--- PAGE 24 ---
+1525
+ABDULKADIRO ˇGLU ET AL.: DO PARENTS VALUE SCHOOL EFFECTIVENESS?
+VOL. 110 NO. 5
+across schools with similar estimated effectiveness. Columns 4–6 demonstrate that 
+we obtain similar results based on the Unbiased Jackknife Instrumental Variables 
+(UJIVE) estimator proposed by Kolesár (2013). The UJIVE estimator performs 
+well with weak instruments and (unlike other common approaches such as limited 
+information maximum likelihood) it is robust to the presence of treatment effect 
+heterogeneity. The UJIVE estimates suggest that our ­non-experimental estimators 
+are accurate, particularly the control function estimator, for which we cannot reject 
+forecast unbiasedness or the overidentifying restrictions for any outcome (we reject 
+forecast unbiasedness for the ­value-added estimator for PSAT scores). The similar-
+ity of 2SLS and UJIVE also eases concerns about weak instrument bias in 2SLS, 
+though the weak first stage also indicates that tests based on both estimators are 
+Table 7—Lottery-Based Tests for Bias in Estimates of School Effectiveness
+2SLS
+UJIVE
+Uncontrolled Value-added
+Control 
+function
+Uncontrolled Value-added
+Control 
+function
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+Panel A. Math
+Forecast coefficient
+0.599
+0.965
+0.967
+0.598
+0.961
+0.963
+(0.040)
+(0.038)
+(0.038)
+(0.040)
+(0.046)
+(0.045)
+p-value
+0.000
+0.354
+0.388
+0.000
+0.343
+0.376
+Overid. ​χ​ 2​(123) stat.
+174.1
+84.88
+86.50
+174.1
+84.88
+86.50
+p-value
+0.000
+0.996
+0.995
+0.002
+0.996
+0.995
+First-stage F-stat.
+91.1
+6.1
+5.9
+91.1
+6.1
+5.9
+Number of lotteries
+124
+124
+Number of students
+22,515 
+22,515 
+Panel B. PSAT
+Forecast coefficient
+0.306
+0.879
+0.912
+0.296
+0.815
+0.862
+(0.049)
+(0.048)
+(0.048)
+(0.050)
+(0.083)
+(0.084)
+p-value
+0.000
+0.012
+0.066
+0.000
+0.025
+0.101
+Overid. ​χ​ 2​(123) stat.
+145.8
+112.9
+106.8
+145.7
+111.7
+106.1
+p-value
+0.079
+0.732
+0.851
+0.0792
+0.759
+0.861
+First-stage F-stat.
+62.9
+2.3
+2.1
+62.9
+2.3
+2.1
+Number of lotteries
+124
+124
+Number of students
+16,554 
+16,554 
+Panel C. High school graduation
+Forecast coefficient
+0.333
+0.905
+0.914
+0.329
+0.893
+0.901
+(0.063)
+(0.076)
+(0.076)
+(0.064)
+(0.093)
+(0.094)
+p-value
+0.000
+0.214
+0.262
+0.000
+0.245
+0.295
+Overid. ​χ​ 2​(123) stat.
+205.1
+145.6
+147.7
+205.1
+145.6
+147.7
+p-value
+0.000
+0.080
+0.064
+0.000
+0.080
+0.064
+First-stage F-stat.
+92.1
+5.4
+5.0
+92.1
+5.4
+5.0
+Number of lotteries
+124
+124
+Number of students
+32,131 
+32,131 
+Notes: This table reports the results of lottery-based tests for bias in estimates of school effectiveness. The sample 
+is restricted to students who have nondegenerate risk for at least one school and lotteries with 100 or more students 
+at risk. Students are considered to have risk at a given school if their propensity score is strictly between 0 and 1 and 
+they are in a score cell with variation in school offers. Columns 1 and 4 measure school effectiveness as the school 
+mean outcome, columns 2 and 5 use value-added estimates, and columns 3 and 6 use control function estimates. 
+Forecast coefficients and overidentification tests in columns 1–3 come from two-stage least squares regressions of 
+test scores on the fitted values from the non-lottery estimation procedure, instrumenting with school-specific lot-
+tery offer indicators and controlling for school-specific propensity scores. Columns 4–6 use the Unbiased Jackknife 
+Instrumental Variables (UJIVE) estimator of Kolesár (2013) instead of 2SLS.
+
+
+--- PAGE 25 ---
+1526
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+likely to have low power. Taken together, the results in Table 7 suggest that our esti-
+mation strategies generate reliable measures of causal effects, though the available 
+lottery variation may be insufficient to detect modest violations.
+V.  Preferences, Peer Quality, and School Effectiveness
+A. Productivity versus Peers
+The last step of our analysis compares the relative strength of peer quality and 
+school effectiveness as predictors of parent preferences. Table 8 reports estimates 
+of equation (11) for Regents math scores, first including ​​Q​ j​ ∗​​ and ​AT​E​ j​ ∗​​ one at a time 
+and then including both variables simultaneously. Mean utilities, peer quality, and 
+treatment effects are scaled in standard deviations of their respective ­school-level 
+distributions, so the estimates can be interpreted as the standard deviation change in 
+mean utility associated with a 1 standard deviation increase in ​​Q​j​​ or ​AT​E​j​​.
+Bivariate regressions show that school popularity is positively correlated with 
+both peer quality and school effectiveness. Results based on the OLS ­value-added 
+model, reported in columns 1 and 2 of panel A, imply that a 1 standard deviation 
+increase in ​​Q​j​​ is associated with a 0.42 standard deviation increase in mean utility, 
+while a 1 standard deviation increase in ​AT​E​j​​ is associated with a 0.24 standard devi-
+ation increase in mean utility. The latter result contrasts with studies reporting no 
+average test score impact of attending preferred schools (Cullen, Jacob, and Levitt 
+2006; Hastings, Kane, and Staiger 2009). These studies rely on admission lotteries 
+that shift relatively small numbers of students across a limited range of schools. Our 
+results show that looking across all high schools in New York City, more popular 
+schools tend to be more effective on average.
+While preferences are positively correlated with school effectiveness, however, 
+this relationship is entirely explained by peer quality. Column 3 of panel A shows 
+that when both variables are included together, the coefficient on peer quality is 
+essentially unchanged, while the coefficient on the average treatment effect is ren-
+dered small and statistically insignificant. The ​AT​E​j​​ coefficient also remains precise: 
+we can rule out increases in mean utility on the order of 0.06 standard deviations 
+associated with a 1 standard deviation change in school ­value-added at conventional 
+significance levels. The control function estimates in columns 5–7 are similar to the 
+­value-added estimates, showing no association between school effectiveness and 
+popularity after controlling for peer quality.
+Columns 4 and 8 of Table 8 explore the role of treatment effect heterogeneity by 
+adding posterior mean predictions of match quality to equation (11), also scaled 
+in standard deviation units of the distribution of match effects across schools and 
+cells.11 The match coefficient is negative for both the ­value-added and control func-
+tion models, and the control function estimate is statistically significant. This reflects 
+the negative correlation between baseline test score slope coefficients and peer 
+11 Equation (11) captures the projection of cell mean utility on peer quality and cell mean treatment effects. 
+In the control function model the projection of ­student-specific utility on ­student-specific treatment effects also 
+includes the idiosyncratic match component ​φ ​η​ij​​. Our small estimate of the matching coefficient ​φ​ implies this 
+term is negligible, so we focus on relationships at the cell mean level for both the ­value-added and control function 
+models.

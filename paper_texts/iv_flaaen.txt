@@ -1,0 +1,1751 @@
+
+
+--- PAGE 1 ---
+American Economic Review 2020, 110(7): 2103–2127 
+https://doi.org/10.1257/aer.20190611
+2103
+The Production Relocation and Price Effects of US Trade 
+Policy: The Case of Washing Machines†
+By Aaron Flaaen, Ali Hortaçsu, and Felix Tintelnot*
+We estimate the price effect of US import restrictions on washers. The 
+2012 and 2016 antidumping duties against South Korea and China 
+were accompanied by downward or minor price movements along 
+with production relocation to other export platform countries. With 
+the 2018 tariffs, on nearly all source countries, the price of washers 
+increased nearly 12 percent. Interestingly, the price of dryers—not 
+subject to tariffs—increased by an equivalent amount. Factoring in 
+dryer prices and price increases by domestic brands, the 2018 tariffs 
+on washers imply a tariff elasticity of consumer prices of above one. 
+(JEL F13, F14, F23, L68, 019, P33)
+To an extent not seen in nearly a quarter century, trade policy occupied the 
+­forefront of economic policy debates in the United States in 2018. In that year, 
+the United States imposed a series of tariffs on a wide range of goods—largely 
+from China—using a variety of trade policy measures that have little precedent. 
+The economic impacts of these tariffs on trade flows, prices, and production are 
+highly uncertain because the magnitude of these tariff changes is extraordinary for 
+an advanced country integrated with the global economy. On the one hand, increases 
+in production sharing across global value chains and the corresponding decline in 
+the value-added share of a given country’s exports have led tariffs to become more 
+punitive, as they are levied on the gross value of an imported good. On the other 
+hand, given the prominence of multinational firms in global production, it may be 
+easier than ever to relocate ­production across country borders, undoing the effects 
+of tariffs.
+Set against the uncertainties of how trade policy plays out in an integrated global 
+economy are ­long-standing questions of international trade theory with little or 
+­conflicting empirical evidence. One such question is the incidence of tariffs: whether 
+the amount of import taxes is passed on to consumers in the form of higher prices 
+* Flaaen: Board of Governors of the Federal Reserve (email: aflaaen@gmail.com); Hortaçsu: University of 
+Chicago and NBER (­email: hortacsu@uchicago.edu); Tintelnot: University of Chicago and NBER (email: tintel-
+not@uchicago.edu). Liran Einav was the coeditor for this article. We are grateful to Xianglong Kong, Ari Boyarsky, 
+and Vivi Gregorich for superb research assistance. We thank Christine Edwards for helpful discussions about wash-
+ing machine and dryer pricing. Suggestions by Jonathan Dingel, Thomas Holmes, and Harry Li, and four anon-
+ymous referees have substantially improved this paper. Ali Hortaçsu and Felix Tintelnot gratefully acknowledge 
+financial support from the Becker Friedman Institute for Economics at the University of Chicago. Any opinions 
+and conclusions expressed herein are those of the authors and do not necessarily represent the views of the Board 
+of Governors or its research staff.
+† Go to https://doi.org/10.1257/aer.20190611 to visit the article page for additional materials and author  
+disclosure statements.
+
+
+--- PAGE 2 ---
+2104
+THE AMERICAN ECONOMIC REVIEW
+JULY 2020
+or absorbed by foreign producers by lowering their export price. Irwin (2019) notes 
+that direct evidence on the consumer price effect of tariffs is scarce, particularly for a 
+large economy such as the United States with potential monopsony power. Although 
+new tariffs offer many possibilities for study, most are placed on intermediate goods 
+where tracking price effects through the economy is particularly challenging. This 
+paper focuses on a final consumer good (washing machines) and provides evidence 
+of the effects of recent trade policies on trade flows, domestic production, and, most 
+notably, prices.
+The study of washing machines offers useful lessons for how trade policies affect 
+the economy for several reasons. First, washing machine imports have been subject 
+to ­wide-ranging trade policies in recent years. The contrasting effects of these poli-
+cies offer lessons for how the characteristics of any particular trade policy (specifi-
+cally, whether it’s multilateral or unilateral) will alter their impact. Second, the new 
+tariffs on washing machines in early 2018 were the first of a long string of subsequent 
+trade policy actions enacted by the Trump administration, and therefore the full 
+effect of these tariffs is more readily evident than the effect of those imposed later 
+on, specifically on China. Finally, features of the product in question—­relatively 
+simple means of classification, clear channels for complementarities (washers and 
+dryers), and a reasonable concentration of production—make this episode relatively 
+straightforward for detailed study.
+The first round of trade policy measures against imported washing machines 
+­consisted of ­country-specific antidumping duties, targeting specific companies pro-
+ducing in particular locations. These antidumping duties, first imposed on Mexican 
+and South Korean production in 2012 and later on Chinese production in 2016, 
+resulted in a shift in production to other countries, while keeping the overall mag-
+nitude of US imports roughly the same. Such “­country-hopping” behavior is intu-
+itive from existing theories of tariff avoidance and models with export platform 
+foreign direct investment (FDI). The second round utilized a ­little-used area of US 
+trade law, enacting “safeguard” tariffs on virtually all source countries for washing 
+machine imports to the United States. Apart from notable shifts in the timing of 
+imports based on when these tariffs went into effect (i.e., anticipatory increases—
+or ­front-running—of imports before the tariffs were first applied), the ­so-called 
+Section 201 tariffs coincided with new domestic production, as both LG Electronics 
+and Samsung Electronics opened plants in the United States in 2018. To summarize, 
+firms shifted production following each new trade policy—first from Korea/Mexico 
+to China, then to Thailand/Vietnam, and finally to the United States—to avoid pay-
+ing import tariffs.
+Coincident with these changes in production and trade flows were significant 
+price movements, as measured by the published consumer price index (CPI). In the 
+12 months following the Korea/Mexico antidumping duties, the CPI for laundry 
+equipment actually declined by about 5 percent, reversing the previous trend of 
+moderate increases in the years before. The 12 months after the China antidumping 
+duties saw the CPI continuing on its prior trend. Conversely, the index jumped in the 
+months following the Section 201 safeguard tariffs and was up by about 9 percent 
+by February 2019.
+To more fully assess the price impacts of these tariffs, we use detailed weekly 
+retail price data on major appliances. A concern with comparing the prices of 
+
+
+--- PAGE 3 ---
+2105
+FLAAEN ET AL.: PRICE EFFECTS OF US TRADE POLICY
+VOL. 110 NO. 7
+­washing machines before and after trade policy changes is the presence of other 
+shocks that changed the price of washers independently of the trade policy under 
+study. For example, washer prices may respond to changes in the price of steel 
+or general changes in retail markups. We therefore use other appliances as con-
+trol products for the change in washing machine prices. In addition, a diverse set 
+of product features in the data allow us to remove ­non-tariff-related price move-
+ments based on the life cycle feature of product pricing and also account for product 
+characteristics and brand- or ­model-specific differences in pricing. The approach of 
+using untreated appliance products as controls has been used before by Ashenfelter, 
+Hosken, and Weinberg (2013) in their study of the effects of the ­Maytag-Whirlpool 
+merger in 2006.
+The implications of the 2016 antidumping duties on Chinese imports were 
+­strikingly different from the safeguard tariffs on many countries in 2018. Although 
+China accounted for a whopping 80 percent of washing machine imports to the 
+United States prior to the application of tariffs, we find little evidence of any mean-
+ingful consumer price changes due to the 2016 ­China-specific tariffs. This difference 
+could be explained by the relative ease with which large foreign brands (Samsung, 
+LG) appeared to subsequently shift production to Thailand and Vietnam, with coin-
+ciding increases in washing machine parts exports from Korea to these countries. 
+By contrast, washer prices in the months following the new 2018 global safeguard 
+tariffs notably spiked: about 12 percent more than the corresponding change in our 
+control group. Moreover, prices of a complementary good—clothes dryers—also 
+jumped at the same time by a similar magnitude, even though these products were 
+not subject to any new tariffs during this period.
+A key metric for evaluating the effects of tariffs is the degree of tariff ­pass-through 
+to consumer prices. Yet, data limitations have made it difficult to capture the com-
+plicated effects on prices due to production relocation, complementary goods, and 
+the responses by domestic producers. With our available data, we calculate the tariff 
+elasticity of consumer prices, which measures the price changes encompassing the 
+overall bundle of goods available to consumers (both imported and domestically pro-
+duced) relative to the average change in tax applied to these goods via import tariffs. 
+Although our sample of ­microlevel prices does not overlap with the Korea/‌Mexico 
+antidumping duties, we report evidence—a drop in import prices from subsequent 
+production in China, along with declines in the CPI index—pointing to a negative 
+­pass-through of tariffs, and hence, increased consumer surplus from these duties. 
+Our estimates of the tariff elasticity of consumer prices for the ­country-specific 
+­antidumping duties on Chinese production, though positive, are small. Production 
+relocation plays a prominent role in the differences in these estimates. Indeed, we 
+show theoretically in online Appendix A that the potential for production reloca-
+tion by multinationals to other export platform countries leads to a ­non-monotonic 
+response of prices to tariff changes.
+We find a much higher tariff elasticity of consumer prices for the global 2018 
+safeguard tariffs. Due to the price increases by domestic brands, and incorporat-
+ing the additional effect on dryer prices, our estimates imply a ­pass-through of the 
+safeguard tariffs to consumer prices of above 100 percent with estimates ranging 
+between 108 and 225  percent. Our estimates indicate that the safeguard tariffs 
+raised the median price of washing machines and clothes dryers by about US$86 
+
+
+--- PAGE 4 ---
+2106
+THE AMERICAN ECONOMIC REVIEW
+JULY 2020
+and US$92  per unit, respectively. Using the level of shipments to construct an 
+aggregate, we calculate that these tariffs resulted in increased consumer costs of 
+just over US$1.5 billion annually. By comparison, the total amount of tariff revenue 
+collected was relatively small, aggregating to about US$82 million annually. Absent 
+­additional factors, the reports of increases in domestic employment attributed to this 
+­policy of roughly 1,800 workers would result in an average annual cost to consum-
+ers of over US$815,000 per job created (after netting out tariff revenues).
+Our analysis contributes to the literature on the incidence of tariffs. Irwin (2019) 
+studies the sugar price response to import tariffs from 1880 to 1930, finding a roughly 
+40 percent ­pass-through to consumer prices of import tariff increases and a complete 
+­pass-through of import tariff reductions. Huber (1971) and Bernhofen and Brown 
+(2004) compare ­nineteenth-century autarky price levels of several goods in Japan 
+with price levels after trade liberalization. Bai and Stumpner (2019) and Jaravel 
+and Sager (2019) measure the US consumer gains from Chinese imports using retail 
+price data. Dating back to at least Feenstra (1989), several papers have analyzed 
+the response of import prices to tariff changes (e.g., Winkelmann and Winkelmann 
+1998; Trefler 2004; Broda and Weinstein 2006; Broda, Limao, and Weinstein 2008; 
+Spearot 2012; Ludema and Yu 2016; Fitzgerald and Haller 2018). In an analysis of 
+the 2018 trade policies enacted by the United States, the comprehensive reviews 
+of both Amiti, Redding, and Weinstein (2019) and Fajgelbaum et al. (2020) find 
+­complete ­pass-through of tariffs to import prices.
+Availability and coverage of retail price data offer a number of advantages in 
+analyzing the economic effects of policy. The US retail prices we study capture the 
+impacts of tariffs on domestic competitors, production relocation, and complemen-
+tary goods—channels that would be more difficult to assess using import prices 
+alone.1 For example, we find either flat or increasing import prices of imported 
+washers from Korea in response to the 2012 antidumping duties. Domestic prices in 
+the United States, however, fell as foreign production relocated to China.
+Our paper also contributes by providing evidence on the response of multina-
+tional firms to tariff changes. A large literature on the proximity concentration 
+­trade-off documents the ratio of foreign affiliate sales to exports rises in the import 
+tariff level (e.g., Brainard 1997; Helpman, Melitz, and Yeaple 2004). Horstmann 
+and Markusen (1992) show that in response to an import tariff, a foreign multina-
+tional may set up a plant in the home country which could lead to lower domestic 
+prices than without the tariff. Blonigen (2002) studies the tariff-jumping behavior 
+of foreign firms to US antidumping measures in the 1980s. He finds an economi-
+cally small increase in the probability that a foreign firm establish US production 
+in response to the antidumping rulings. Consistent with the predictions of models 
+of export platform FDI (e.g., Yeaple 2003; Ekholm, Forslid, and Markusen 2007; 
+Tintelnot 2017), our findings illustrate the relocation of production to third markets 
+as export platforms in response to bilateral tariff changes.2
+1 Using Belgian manufacturing data, Amiti, Itskhoki, and Konings (2016) document that large firms respond to 
+competitors’ cost changes induced by exchange rate changes. Using the 2015 Swiss Franc appreciation as a natural 
+experiment, Auer, Burstein, and Lein (2018) find that prices of ­Swiss-produced goods fell by more in product cat-
+egories with larger reductions in border prices. 
+2 These findings reflect a ­third-country effect from trade policy discussed in various works by Bagwell and 
+Staiger (see Bagwell, Bown, and Staiger 2016, for a review). Our findings are also related to work by Ruhl (2014), 
+
+
+--- PAGE 5 ---
+2107
+FLAAEN ET AL.: PRICE EFFECTS OF US TRADE POLICY
+VOL. 110 NO. 7
+I.  Import Restrictions and Changes in Trade Flows
+Throughout the latter half of the twentieth century, a series of major domestic 
+brands of washing machines—including Maytag, Whirlpool, G.E., and Kenmore—
+competed for market share in the United States. In 2006, the Whirlpool Corporation 
+(“Whirlpool”) cemented its position as the dominant domestic producer after acquir-
+ing Maytag, its main competitor. This merger substantially increased the concentra-
+tion of both washing machines and clothes dryers: according to research on the 
+effects of this merger in Ashenfelter, Hosken, and Weinberg (2013), Whirlpool and 
+Maytag together (­pre-merger) accounted for 60 percent of total revenue for washing 
+machines and 65 percent for clothes dryers.
+Imported washing machines occupied a small share—less than 10 percent—of 
+US sales during this time. Around the same time as the Whirlpool/Maytag merger, 
+­however, two large South Korean electronics companies, LG Electronics and 
+Samsung, were beginning to enter the US appliance market.3
+A. Antidumping and Global Safeguard Investigations
+Following steady gains in US market share by the two South Korean companies, 
+in December 2011, Whirlpool filed an antidumping petition (as part of Section 731 
+of the Tariff Act of 1930) with the US International Trade Commission (USITC), 
+alleging that imports of large residential washers from Mexico and South Korea were 
+being sold in the United States at less than fair value and that the US industry was 
+being “materially injured or threatened with material injury as a result.” In this form of 
+investigation, the petitioning firm must prove a particular type of unfair pricing behav-
+ior as well as actual (or threat of ) material injury resulting from that behavior. Any 
+remedial measures—meant to be corrective rather than punitive—are then applied to 
+the US imports of the importing firm, but only on imports from the particular country 
+in question. In February 2012, the USITC issued a ruling recommending antidumping 
+measures; in July, the US Department of Commerce announced ­firm-specific import 
+duties ranging from 9.3 to 82.4 percent—see online Appendix Table B2 for details.4
+After LG and Samsung maneuvered production around the antidumping 
+duties, in December 2015 Whirlpool filed another antidumping petition with the 
+USITC, this time against the imports of washing machines produced in China. 
+In February 2016, the USITC issued another ruling in favor of antidumping mea-
+sures; final ­antidumping duties announced by the commerce department ranged 
+from 32.1 ­percent (LG) to 52.5 percent (Samsung).5
+Following additional “­country-hopping” responses to these localized 
+­antidumping  duties, in May 2017 Whirlpool petitioned for a global safeguard 
+­investigation into large residential washing machines. Known colloquially by 
+who finds a large aggregate impact of US antidumping policies. For a literature survey on the effects of trade policy, 
+see Goldberg and Pavcnik (2016).
+3 Indeed, Ashenfelter, Hosken, and Weinberg (2013) note that competitive forces from increased foreign entry 
+into this market was a key argument by the US Department of Justice in approving the merger. 
+4 Preliminary antidumping duties were first applied in August of 2012 (first dashed line in Figure 1).
+5 The new antidumping duties on Chinese imports began five months later in July 2016 (second dashed line in 
+Figure 1).
+
+
+--- PAGE 6 ---
+2108
+THE AMERICAN ECONOMIC REVIEW
+JULY 2020
+its ­section  ­number of the Trade Act of 1974, a “Section  201” global safeguard 
+­investigation is not required to prove unfair trade practices; rather, the USITC 
+­simply  determines “whether an article is being imported in such increased 
+­quantities that it is a substantial cause of serious injury, or threat thereof, to the 
+US  ­industry ­producing an article like or directly competitive with the imported 
+­article” (US Code: Title 19, Code 2252). Moreover, the global safeguard remedy 
+differs from ­antidumping and countervailing duties in that it is generally applied 
+on a global basis.6 Use of this trade measure has been rare; Section 201 safeguard 
+tariffs were last implemented in 2002 on steel and steel products.
+The USITC issued a positive determination in the case in October 2017 and 
+­published recommendations for temporary safeguard tariffs in December. The final 
+result, published as a presidential proclamation in January 2018, was a tariff rate 
+quota: a tariff rate of 20 percent on the first 1.2 million imported units (per year) 
+entering the United States, with all subsequent units subject to a 50 percent tariff. 
+Select imported components of washing machines were also subject to a tariff rate 
+quota: in the first year, any imported parts above 50,000 units would be subject to an 
+additional tariff of 50 percent. These tariff rates went into effect in February 2018 (for 
+washing machines and their component parts) and are scheduled to expire after three 
+years. Online Appendix Table B1 provides a summary of the key dates ­associated 
+with the three rounds of import restrictions against washing machine imports.
+B. Trade Policy Effects on Production and Trade Flows
+Panel A of Figure 1 shows the striking response of US imports to the series of 
+trade restrictions on washing machines. In the two years following the antidumping 
+duties on Korean imports, the quantity of these imports fell by roughly 75 percent 
+(blue line in panel A). Contemporaneous with the drop in imports from Korea (and to 
+a lesser extent, Mexico) was a substantial increase in imports from China (red line). 
+The results of the later antidumping duties on Chinese imports were nearly identical 
+to the 2012 ruling: imports from China fell from 3 million units per year in 2015 to 
+roughly 300,000 units in 2017. This time, imports of washing machines produced in 
+Thailand and Vietnam (purple and yellow lines) increased sharply, from essentially 
+zero in 2015 to nearly 3.3 million units (combined) in 2017.
+As expected, the Section 201 safeguard tariffs in 2018 had differing effects given 
+their global nature. In the midst of the global safeguard investigation of 2017, both 
+Samsung and LG announced plans to begin US production of large residential 
+washing machines. The Samsung factory in Newberry, South Carolina, opened in 
+January 2018 with plans to produce 1 million washing machines that year; Samsung 
+claims the plant will create around 1,000 new jobs by 2020 (Samsung 2017). 
+An LG Electronics factory in Clarksville, Tennessee, opened in May 2019 with 
+an ­advertised creation of roughly 600 new jobs (LG Electronics 2017). Similarly, 
+Whirlpool reported adding 200 workers in 2018 explicitly due to the new tariffs.
+6 There were ultimately a few country exclusions to the Section 201 safeguard tariffs. Canada was excluded, as 
+well as imports from a set of developing countries were also excluded from the tariff, provided that the country’s 
+share of total imports remains below a certain threshold. The Section 201 safeguard tariffs are imposed in addition 
+to the standard MFN rates under Chapter 84 of the tariff schedule (which, in 2019, were 1 percent for washing 
+machines).
+
+
+--- PAGE 7 ---
+2109
+FLAAEN ET AL.: PRICE EFFECTS OF US TRADE POLICY
+VOL. 110 NO. 7
+As shown in panel A of Figure 1, imports surged in late 2017 and early 2018 as 
+foreign producers rushed to ship washing machines to the United States before the 
+Section 201 tariffs went into effect. Imports subsequently fell sharply in February 
+and March of 2018, rising again through September 2018 just before the quota limit 
+of 1.2 million imported units was reached and subsequent tariffs rose to 50 percent.7 
+Imports fell sharply again through the remaining months of 2018.8
+7 According to Commodity Status Reports published by the US Customs Bureau, the quota limit on washers 
+was reached on October 22, 2018.
+8 Panel A of Figure 1 may understate the responsiveness of import quantities to the Section 201 safeguard tariffs; 
+at Whirlpool’s request, not all washers within the selected HS product codes were included as ­within-scope for the 
+investigation. See online Appendix C.2 .
+Figure 1. Trade Flows of Washing Machines and Washing Machine Parts
+Notes: Residential washing machines are classified under HS8450110040, HS8450110080, HS8450200040, 
+HS8450200080, and HS8450200090. Washing machine parts are classified under HS845090. The seasonally 
+adjusted version of panel A is shown in online Appendix Figure D1.
+Sources: US International Trade Commission (2010–2019), Korea Customs Service (2010–2019), Canadian 
+International Merchandise Trade Database (2010–2019)
+0
+0.2
+0.4
+0.6
+0.8
+2010:1
+2011:1
+2012:1
+2013:1
+2014:1
+2015:1
+2016:1
+2017:1
+2018:1
+2019:1
+2010:1
+2011:1
+2012:1
+2013:1
+2014:1
+2015:1
+2016:1
+2017:1
+2018:1
+2019:1
+2010:1
+2011:1
+2012:1
+2013:1
+2014:1
+2015:1
+2016:1
+2017:1
+2018:1
+2019:1
+2010:1
+2011:1
+2012:1
+2013:1
+2014:1
+2015:1
+2016:1
+2017:1
+2018:1
+2019:1
+Panel B. Monthly Korean exports of washing 
+machine parts (millions of US dollars)
+Panel D. Monthly Korean imports of washing 
+machines by country (millions of US dollars)
+Panel A. Monthly US imports of washing 
+machines by country (quantity in million)
+Panel C. Monthly Canadian imports of washing 
+machines by country (quantity in million)
+0
+5
+10
+15
+20
+25
+0
+0.02
+0.04
+0.06
+0
+10
+20
+30
+40
+USA
+Mexico
+Korea
+China
+Vietnam
+Thailand
+World
+
+
+--- PAGE 8 ---
+2110
+THE AMERICAN ECONOMIC REVIEW
+JULY 2020
+To confirm the ­country-hopping and ­front-running patterns in panel A are the 
+result of adjustments by existing manufacturers in response to the tariff actions, we 
+turn to the PIERS dataset derived from detailed bill of lading documents. From this 
+­shipment-level dataset we identify the quantity of imported washing machines and 
+the relevant producer from variables such as the “shipper,” “consignee,” or “notify” 
+fields. Figure 2 demonstrates that US imports by LG and Samsung follow the ­pattern 
+evident in panel A of Figure 1, with sharp changes in the prevailing country of 
+production.9
+These changes in sourcing locations can also be viewed through the lens of 
+Korean exports of washing machine parts, given that both Samsung and LG have 
+their global headquarters in Korea. Panel B of Figure 1 plots the value of Korean 
+exports of washing machine parts (under HS845090) to the various countries high-
+lighted above. Panel B shows that exports of parts to China jump in 2013 and 2014 
+before falling in 2016 and 2017 as exports of parts to Thailand and Vietnam rise. 
+Overall Korean washing machine parts exports (not shown) rise nearly 60 percent 
+between 2010 and 2016, consistent with the reduced amount of parts used in Korea 
+for washing machine production for export.10 Together, panel A and panel B of 
+Figure 1 illustrate the changes in supply chains induced by US tariffs.
+Beyond supply chain effects, US policy also had notable implications for 
+third-country trade flows. Panels C and D of Figure  1 show that Canadian and 
+Korean consumers were affected by US trade policy; the pattern of imports of 
+9 The greater lumpiness evident in the PIERS data are likely due to differences in the timing between when the 
+bill of ladings are submitted and the imports are processed by US Customs. Indeed, this lumpiness (and subsequent 
+degree of ­misalignment between PIERS and official statistics) appears to be greatest when an uncharacteristically 
+large mass of US imports occurs directly before the application of the China antidumping and Section 201 tariffs. 
+See online Appendix C.14 for more details.
+10 Panel B of Figure 1 highlights that imported components may lower the domestic ­value-added share of 
+washer exports. For Thailand and Vietnam, imported washing machine parts (HS845090) accounted for 12 to 17 
+percent of the value of washing machine exports.
+Figure 2. Firm-Level Imports of Washing Machines
+Note: See online Appendix C.14 for more details.
+Source: PIERS (2012–2019) bill of lading data
+Panel A. LG
+0
+100
+200
+300
+400
+Quantity, thousand
+Quantity, thousand
+2011:1
+2012:1
+2013:1
+2014:1
+2015:1
+2016:1
+2017:1
+2018:1
+2019:1
+2011:1
+2012:1
+2013:1
+2014:1
+2015:1
+2016:1
+2017:1
+2018:1
+2019:1
+Korea
+China
+Vietnam
+Thailand
+Panel B. Samsung
+0
+100
+200
+300
+400
+
+
+--- PAGE 9 ---
+2111
+FLAAEN ET AL.: PRICE EFFECTS OF US TRADE POLICY
+VOL. 110 NO. 7
+­washers largely follows that of the United States.11 During the period shown, Korea 
+went from being a net exporter to a net importer of washing machines (see online 
+Appendix Figure C6a for Korean washer exports). One might also suspect spillovers 
+in the production location of clothes dryers, but there is little change in the dryer 
+import patterns; the production locations for dryers do not closely align with those 
+of washers (see online Appendix Figure C5).
+II.  Effects of Trade Policy Measures on Prices
+The overall impact of tariffs depends on the extent to which they are passed on 
+to consumers. In this section, we use detailed, ­high-frequency microdata from retail 
+stores to study the effect of these tariffs on consumers.
+A. Evidence Using Import Prices
+Figure 3 reports the pattern of import prices for the main trading partners during 
+our sample. Unit values decreased following the Korea/Mexico antidumping 
+duties as production relocated to China; import prices from China (red line) tend 
+to be lower than import prices from Korea (blue line). With the Chinese prices not 
+­subject to the tariff, this negative price response to tariff changes is consistent with 
+a ­negative tariff ­pass-through.12
+In contrast, import prices tend to be roughly equivalent during the switch from 
+China to Thailand/Vietnam (the purple line). Similarly, no systematic changes 
+in the behavior of import prices are evident following the Section 201 safeguard 
+tariffs. Figure 3 illustrates the shortcomings of inferring the tariff elasticity based 
+on a regression evaluating the relationship between changes in import prices and 
+tariff rates at the ­country-product level. We describe the differences between this 
+approach and our elasticity calculations below, using retail prices in greater detail in 
+online Appendix C.8.
+B. Data and Price Trends of Washers and Dryers
+Properly identifying the consumer price impact of the US tariffs on washing 
+machines requires data on final ­point-of-sale prices that are both high frequency and 
+include details on brand, features, and retailer. We obtain data with these features 
+from Gap Intelligence (­2013–2018), a market research firm that gathers data across 
+a wide range of products and markets in the United States. The raw dataset contains 
+weekly data entries of price and product characteristics at the ­retailer-model level 
+from March 2013 to December 2018.
+11 These third country effects also allay suspicion that the increase in US imports from Thailand and Vietnam 
+was due to ­trans-shipments rather than true production relocation. See online Appendix C.4.
+12 We demonstrate the theoretical underpinnings of a negative price response to tariff changes (or negative 
+rate of tariff ­pass-through) in online Appendix A, but the evidence from import prices for the Korea / Mexico 
+antidumping case is more suggestive than conclusive. Changing product composition, transfer pricing strategies, 
+and unaccounted for cost information may influence the evidence from reported values and quantities used in this 
+calculation. But as Figure 4 shows, the CPI for laundry equipment declines considerably just after the production 
+relocation from Korea / Mexico to China in ­mid-2012, consistent with the negative ­pass-through interpretation of 
+the changes in unit values.
+
+
+--- PAGE 10 ---
+2112
+THE AMERICAN ECONOMIC REVIEW
+JULY 2020
+We have information on five major household appliances: washers, dryers, ranges, 
+dishwashers, and refrigerators. In addition to the posted retail price, we observe 
+the brand, model, date of first appearance in the market, and various other product 
+characteristics such as capacity, color, load type, and energy efficiency rating. The 
+dataset contains records from both ­brick-and-mortar and online stores (separately 
+for stores with an online and physical presence); the data also contain the number 
+of each retailer’s ­brick-and-mortar stores in a given quarter. Gap Intelligence pays 
+weekly visits to major retailers in 22 metropolitan areas and records the availability 
+and price of each product. The company provides two price variables: the sticker 
+price and the net price after applying promotions or discounts. We work with the 
+net price in our analysis throughout. Some heterogeneity in prices across retail loca-
+tions may exist, but the provided weekly ­retailer-product specific price information 
+is what Gap Intelligence considers the nationally representative price.13 The Gap 
+Intelligence data contain no ­product-level quantities purchased, so we corroborate 
+our analysis with annual, ­brand-level market share data by Traqline Market Research 
+(­2010–2018), another market research firm.
+We apply several sample restrictions to the Gap Intelligence data. To account 
+for the life cycle effects of appliances we calculate each product’s age from the 
+initial debut date in our data. The initial debut date is truncated by the first week 
+13 Nakamura (2008); Hitsch, Hortacsu, and Lin (2017); and DellaVigna and Gentzkow (2019) report evidence 
+suggesting ­chain-level pricing across stores located in different geographic markets.
+Figure 3. Average Unit Values (Exclusive of Tariffs and Duties) by Production Location
+Notes: Includes residential washing machines classified under HS8450200040, HS8450200080, and HS8450200090. 
+Solid lines display ­country-level unit values with at least 10,000 unit imports in the data. Dotted lines represent 
+­periods that did not satisfy a threshold of at least 10,000 unit imports.
+Source: US International Trade Commission (2010–2019)
+200
+400
+600
+800
+Average unit value, USD
+2010:1
+2011:1
+2012:1
+2013:1
+2014:1
+2015:1
+2016:1
+2017:1
+2018:1
+2019:1
+Korea
+China
+Vietnam/Thailand
+
+
+--- PAGE 11 ---
+2113
+FLAAEN ET AL.: PRICE EFFECTS OF US TRADE POLICY
+VOL. 110 NO. 7
+in which the retail price data was collected. As this introduces large measurement 
+error in products’ ages for dates near March 2013 and we find particularly strong 
+price discounts of appliances in the first few months, we start our price analysis from 
+­mid-July 2014 onward. We remove laundry machines with both washing and drying 
+functions (­all-in-one or laundry center) and focus attention on the five major brands 
+of washing machines: LG, Samsung, Whirlpool, Maytag, and G.E. These brands 
+account for more than 80 percent of the total observations on washers and dryers 
+in the raw data. We further concentrate our analysis on the five national retailers 
+in the United States: JC Penney, Best Buy, Lowes, Sears, and Home Depot, which 
+together account for more than 50 percent of the observations in the data. In the 
+online Appendix we show results where we include all available brands and retailers.
+As a first step to document the trends in prices of washers and dryers, we first ­filter 
+out changes in price that are accounted for by changes in the product mix, product 
+features, and timeline of the product ­life-cycle. To do so, we apply the ­following 
+hedonic regression of ​log​ prices of washers and dryers:
+(1)	
+​​p​ irt​  =  ​λ​C​(i )​t​ + ​X​i​ β + ​b​ B​(i)​C​(i)​​ + ​ ∑ 
+a=2
+​ 
+25
+ ​ ​α​ C​(i)​​ 
+a  ​ 1​(​age​ it​  =  a)​ + ​γ​r​ + ​ϵ​irt​ ​,
+where subscripts ​i​, ​r​, ​t​ stand for model, retailer, and time (measured by week) 
+respectively. The notation ​C​(i)​​ refers to the product category (e.g., washer, dryer) 
+whereas ​B​(i)​​ refers to the brand (e.g., Samsung, Whirlpool) of product ​i​. The ​​X​i​​ 
+term is a vector of specifications for model ​i​, which includes characteristics such 
+as total capacity, energy star, smart appliance, and load type (see online Appendix 
+Table C8 for a full list of characteristics by product category). The ​​λ​C​(i)​t​​ term refers 
+to a product category week fixed effect, and the ​​b​ B​(i)​C​(i)​​​ term captures a brand and 
+product category specific fixed effect.14 The term ​​γ​r​​ denotes a retailer fixed effect. 
+To account for life cycle effects of product pricing, the ​age​ it​ variable captures the 
+age of a product measured in months. We omit a dummy variable for the first month 
+of the product after initial debut in our dataset and then include dummies for the 
+following 23 months, as well as a dummy for whether the product has debuted more 
+than two years ago.
+Figure 4 plots the ​​λ​C​(i)​t​​ fixed effects, which depict trends in washer and dryer 
+prices during our sample period. The red line displays the ­washer-week fixed 
+effect from the log price regression in equation (1) (averaged by month), the blue 
+line the ­dryer-week fixed effect (again averaged to its monthly level). These fixed 
+effects summarize the average (log) price level in those periods after controlling for 
+­life-cycle factors and product/brand characteristics. The dashed line represents the 
+CPI for laundry equipment from the Bureau of Labor Statistics (­2010–2019). The 
+residualized price series patterns align well with the CPI during our sample. For 
+example, from July 2014 to January 2018 (shortly before the introduction of the 
+safeguard tariffs in February 2018), the Gap Intelligence data suggests a decline in 
+washer prices of about 20 percent and a decline in dryer prices of about 7 percent. 
+The CPI for laundry equipment (a price index for washers and dryers combined) 
+14 Note that any linear age effects of washer/dryer models will be captured by the ​​λ​C​(i)​t​​ term.
+
+
+--- PAGE 12 ---
+2114
+THE AMERICAN ECONOMIC REVIEW
+JULY 2020
+declined by about 15 percent during this period. One noticeable difference is that 
+our series contains more seasonality, whereas the CPI for laundry equipment is sea-
+sonally adjusted. However, we find similar seasonal patterns for all five household 
+appliances, so seasonality will not drive our estimates of the tariff effects discussed 
+below. The ­product-category-time fixed effects for all five appliances are shown in 
+Figure D2 in the online Appendix.
+Figure 4 demonstrates that prices of washing machines jump shortly after the 
+safeguard tariffs were applied. A more striking feature of Figure 4, however—and 
+one that would not be evident without the more disaggregated data at our disposal—
+is that the price of dryers jumps by a similar magnitude as washers, despite not being 
+directly affected by tariffs during this period. We explore this feature of the data in 
+greater detail below.
+C. Estimating the Price Effects of Washing Machine Import Restrictions
+We now turn our attention to estimating the price effects of US trade policy. 
+Although our sample is not long enough to evaluate the first antidumping duties 
+(on Mexican and Korean imports), we can separately assess the effects of the 2016 
+China antidumping duties and the 2018 safeguard tariffs.
+By leveraging the additional appliances in our data, we can account for other 
+factors influencing costs and demand conditions in the overall appliance market 
+in the United States. One important factor during this time period was new import 
+Figure 4. Time Fixed Effects from log Price Regression, CPI for Laundry Equipment
+Notes: We plot the ­year-week fixed effects for washers or dryers, averaged over each month, obtained from esti-
+mating equation (1). We omit the week dummy for the week of April 1, 2015. In that month, the CPI for laundry 
+equipment was close to 100 points and therefore the left and right axes are simple to compare. The dates of the three 
+vertical lines are August 2012, July 2016, and February 2018, discussed in the text.
+70
+85
+100
+115
+130
+CPI
+−0.3
+−0.15
+0
+0.15
+0.3
+log price, year-week fxed effects
+2010:1
+2011:1
+2012:1
+2013:1
+2014:1
+2015:1
+2016:1
+2017:1
+2018:1
+2019:1
+Washers
+Dryers
+CPI (right)
+
+
+--- PAGE 13 ---
+2115
+FLAAEN ET AL.: PRICE EFFECTS OF US TRADE POLICY
+VOL. 110 NO. 7
+restrictions affecting steel and aluminum. Using the rarely invoked “Section 232” 
+trade remedy based on national security considerations, in March of 2018 the 
+United States imposed tariffs of 25 percent on steel and 10 percent on aluminum. 
+The result of these measures, however, was a jump in the domestic prices of steel 
+and aluminum—which together represent a significant input cost in US production 
+of washing machines. Our strategy allows us to isolate the particular effects of wash-
+ing machine tariffs given that all appliances were similarly affected by these changes 
+in input costs. The product category closest to washers and dryers with respect to 
+steel content is ranges; therefore we choose it as the control product group. This 
+appliance also has the most similar import share (see online Appendix C.5 for a 
+discussion of the metals content and import share of appliances).
+To estimate the price effect of the antidumping duties against China (effective 
+from July 2016) and the safeguard tariffs (effective from February 2018), we regress 
+the log price on product and brand controls, a retailer fixed effect, ­year-week fixed 
+effects, and the interaction of each product category with weekly fixed effects. As 
+ranges are the omitted product category, all estimates of the interaction terms are 
+relative to the average log price of ranges before and after the event:
+(2)	
+​​p​ irt​  =  ​λ​ C​(i)​t​ 
+d  ​ + ​X​i​ β + ​b​ B​(i)​C​(i)​​ + ​ ∑ 
+a=2
+​ 
+25
+ ​ ​α​ C​(i)​​ 
+a  ​ 1​(​age​ it​  =  a)​ + ​γ​r​ + ​ℓ​t​ + ​ϵ​irt​ .​
+Most of the coefficients in equation (2) are the same as in equation (1), the 
+­difference being that ​​λ​ C​(i)​t​ 
+d  ​​ measures the product category week fixed effect ­relative 
+to the week fixed effect from ranges.15 To better illustrate our results, we estimate 
+equation (2) twice, once with the week effect of the antidumping duties against 
+China (week of July 17, 2016) normalized to zero and again with the week fixed 
+effect of the safeguard tariffs (​t  =  − 1​ of January 28, 2018) set to zero. The term ​​ℓ​t​​ 
+absorbs price shocks that commonly affect all household appliances, such as changes 
+in the price of steel.
+Panel A of Figure 5 reports the estimates of ​​λ​ C​(i)​t​ 
+d  ​​ for the categories of washers, 
+dryers, refrigerators, and dishwashers before and after the 2016 China antidumping 
+duties. Panel B reports equivalent estimates for the Section 201 safeguard tariffs. We 
+include refrigerators and dishwashers in the analysis as placebo effects—a check for 
+the plausibility of our estimates. Though the patterns for both washers and dryers 
+are striking in panel B in particular, we report 48 weeks of estimates before the 
+policy dates to illustrate the effects of any ­pre-trends in the estimates. For example, 
+refrigerator prices (panel A) appear to be growing differentially from ranges before 
+and after July 2016. As we know from Figure 4, over a long horizon, the prices of 
+washers have fallen more than the prices of dryers or other appliances (see online 
+Appendix Figure D2 for price changes in all five appliances). Hence, though the pat-
+terns evident in Figure 5 are informative, we must factor in the different trends (e.g., 
+Finkelstein 2007) to arrive at the true effect of tariff changes on prices. To do this, we 
+calculate the estimated change in prices after the introduction of import ­restrictions 
+15 Additional details on the other covariates in regression (2) are available in online Appendix Table  C8. 
+Standard errors are ­clustered by model.
+
+
+--- PAGE 14 ---
+2116
+THE AMERICAN ECONOMIC REVIEW
+JULY 2020
+relative to the change in prices prior to the import restrictions. Specifically, we cal-
+culate the ­four-month effect of a tariff/
+‌
+antidumping event as
+(3)	
+​​Δ​ event​ 
+4m  ​ ​p 
+– ​​C​  =  ​(​λ 
+– ​​ C, −28 to −20 weeks from event​ 
+ 
+d 
+​ − ​λ 
+– ​ C, −8 to 0 weeks from event ​ 
+ 
+d 
+​)​
+	
+​−  ​(​λ 
+– ​ C, −8 to 0 weeks from event​ 
+ 
+d 
+​ − ​λ 
+– ​ C, +12 to +20 weeks from event​ 
+ 
+d 
+​)​,
+and an ­eight-month effect analogously, where we define the end points using periods 
+−44 to −36 weeks and +28 to +36 weeks relative to the policy date.
+Our baseline specification includes controls for product characteristics and an 
+interaction of brand and product category fixed effects. We also present results with 
+model fixed effects. In that specification the estimated policy effect is identified 
+from the price changes of the products existing both before and after the policy 
+change, whereas the baseline specification estimates price effects including price 
+level changes for new products.
+As shown in Table 1, after accounting for differential ­pre-trends, we find only 
+modest price changes caused by the antidumping case against China. Our ­baseline 
+estimates in columns 1 and 2 suggest a price increase of only 1.5 to 3.5 percent for 
+washers and dryers in the 4- and 8-months periods. Columns 3 and 4 show the spec-
+ification using model fixed effects, which show slightly higher ­estimates‌; ‌though the 
+price estimates of the two placebo appliances suggest that not all of this increase 
+was due to tariffs.16
+16 In columns 3 and 4, when compared with dishwashers and refrigerators, the price increases for washers and 
+dryers are comparable to columns 1 and 2. See Tables C6 and C7 in the online Appendix for analogous tables when 
+refrigerators or dishwashers are used as the control group; the coefficients are identical to the difference between 
+the washer or dryer coefficients and the other appliance category from Table 1.
+Figure 5. Price Effects of Safeguard Tariffs and Antidumping Duties against China
+Notes: These figures report the regression coefficients ​λ​C​(i)​t​ from equation (2). In panel A the estimates are relative 
+to the week of July 17, 2016, and in panel B the estimates are relative to the week of January 28, 2018. The dotted 
+lines denote 95 percent confidence intervals for the coefficient estimates for washers and dryers, based on standard 
+errors clustered by model.
+Panel A. Antidumping against China
+−0.1
+−0.05
+0
+0.05
+0.1
+0.15
+−48
+−36
+−24
+−12
+0
+12
+24
+36
+48
+−48
+−36
+−24
+−12
+0
+12
+24
+36
+48
+Washers
+Dryers
+Refrigerators
+Dishwashers
+Panel B. Safeguard tarifs, 2018
+−0.1
+−0.05
+0
+0.05
+0.1
+0.15
+
+
+--- PAGE 15 ---
+2117
+FLAAEN ET AL.: PRICE EFFECTS OF US TRADE POLICY
+VOL. 110 NO. 7
+By contrast, and consistent with the preliminary evidence from panel B of 
+Figure 5, the estimated price effects of the Section 201 safeguard tariffs are much 
+more striking. We find that the price of washers jumps by around 11 percent four to 
+eight months following the application of these tariffs. As noted above, equally dra-
+matic is the relative price estimate for dryers which rises by an equivalent amount. 
+In this case the estimates pertaining to the alternative specification are essentially 
+unchanged.
+The price effects on dryers are initially puzzling as these appliances were not 
+subject to any new tariffs during this time. Residential washing machines are typ-
+ically sold together (often, as paired models) with clothes dryers. Indeed, a prom-
+inent ­counterargument from respondents to the Section 201 investigation was that 
+paired washer and dryer units are often sold at essentially identical prices; dryers 
+are substantially less costly to produce, so considering profits on washers alone 
+would understate the overall margins these companies expect to make on the laun-
+dry equipment market as a whole (see US International Trade Commission 2017a).
+To explore this point further, we identify the set of matched ­washer-dryer models 
+within each brand, as discussed in online Appendix C.9. Roughly ­three-quarters of 
+the washers in our data have a matched dryer model (often with either gas or electric 
+versions). Focusing solely on the electric models, we find that in over 85 percent of 
+our weekly observations, these matched models report the exact same dollar price. 
+Hence, the price correlation between these matched models is very high—over 
+0.95—while the correlation of price changes is 0.82.17 These facts are consistent 
+across all major brands in our data.
+For another perspective, we scrape major online retailer websites and capture 
+the “best selling” sales rank for both washers and dryers, in addition to the model 
+name and number. We use these data to calculate the correlations of sales rank 
+17 The correlation of average prices across all models within a brand / merchant is 0.87. The ­washer-dryer 
+­correlation of average price changes across all models within a brand / merchant is 0.74.
+Table 1—­Difference-in-Difference Estimates: Price Effects of Washing Machine Tariffs
+Antidumping against China
+Safeguard tariffs 2018
+­4-month
+(1)
+­8-month
+(2)
+­4-month
+(3)
+­8-month
+(4)
+­4-month
+(5)
+­8-month
+(6)
+­4-month
+(7)
+­8-month
+(8)
+Washers
+0.026
+0.034
+0.046
+0.058
+0.109
+0.115
+0.110
+0.119
+(0.015)
+(0.017)
+(0.012)
+(0.013)
+(0.014)
+(0.018)
+(0.011)
+(0.012)
+Dryers
+0.016
+0.023
+0.033
+0.047
+0.111
+0.114
+0.112
+0.119
+(0.012)
+(0.014)
+(0.009)
+(0.010)
+(0.013)
+(0.017)
+(0.009)
+(0.009)
+Refrigerators
+0.025
+0.008
+0.039
+0.028
+0.001
+−0.035
+−0.002
+−0.018
+(0.010)
+(0.013)
+(0.007)
+(0.007)
+(0.010)
+(0.015)
+(0.006)
+(0.007)
+Dishwashers
+0.012
+−0.006
+0.035
+0.024
+−0.010
+−0.021
+−0.012
+−0.017
+(0.013)
+(0.014)
+(0.008)
+(0.008)
+(0.012)
+(0.018)
+(0.007)
+(0.009)
+Model characteristics
+✓
+✓
+✓
+✓
+Model FE
+✓
+✓
+✓
+✓
+Observations
+1,637,298
+1,637,298
+1,637,298
+1,637,298
+Notes: The table reports estimates for ​Δ​ event​ 
+4m  ​ ​p 
+– ​​C​​ and ​​Δ​ event​ 
+8m  ​ ​p 
+– ​​C​​ defined in equation (3) and the text below it. The right 
+hand side of equation (3) is a linear combination of the estimates from equation (2). Standard errors in parentheses.
+
+
+--- PAGE 16 ---
+2118
+THE AMERICAN ECONOMIC REVIEW
+JULY 2020
+for washers and dryers for the major brands we study. The correlation of sales 
+ranks for a brand’s washers and dryers at a given retailer is quite high, 0.9 to 0.95, 
+and typically lower, 0.3 to 0.9, for other appliance pairs (online Appendix C.10 
+and online Appendix Figure C10). As a whole, our data offer clear evidence of 
+­complementarities between washers and dryers. As such, the firms in our sample 
+may have chosen to split the effects of new tariffs on prices between washers and 
+dryers, maintaining the ­convention of identical prices. Nevertheless, this behavior 
+raises significant questions. If dryers are indeed significantly less costly to produce, 
+why doesn’t competition drive down the price? One possibility is that consumers 
+might be more informed about (and thus, have a more elastic demand for) the 
+washer unit, while treating the dryer as an “­add-on” good, for which demand is 
+less elastic, as in Ellison (2005) and Gabaix and Laibson (2006). In addition, the 
+­aesthetics of ­similar design and style features of matched ­washer-dryer pairs is 
+likely an ­important ­component of consumer behavior as well.
+Reassuringly, in Table 1 we find little evidence of any differential price effects for 
+refrigerators and dishwashers for the results pertaining to the 2018 safeguard tariffs. 
+It is worth pointing out that some of the other appliances used in our analysis were 
+subsequently subject to new tariffs later in 2018. A third round of ­tariffs imposed 
+on Chinese imports included refrigerators and electric/gas ranges; ­household 
+­dishwashers were not subject to new tariffs. These tariffs went into effect in 
+September (roughly ​t  =  28​ in panel B of Figure 5) at a rate of 10 percent. Although 
+one might wonder whether these Section  301 tariffs may affect our results,  the 
+scope of impact of these ­China-specific tariffs on refrigerators and ranges was quite 
+small by comparison. Prior to these tariffs, the Chinese import share for refrigera-
+tors was around 15 percent, leading to an increase in the trade-weighted tariff rate 
+of less than 2 ­percentage points. For ranges, the Chinese import share was about  
+10  percent, and hence the increase in the effective tariff rate was less than  
+1 ­percentage point. See online Appendix C.5 for more details.
+The evidence in Table 1 demonstrates that, as a whole, washers and dryers expe-
+rienced notable price increases following the safeguard tariffs of 2018. Multiplying 
+these estimates by the median ­pre-period price of washers (US$749 per unit) and 
+dryers (US$809 per unit) yields that the dollar price increase attributable to these 
+tariffs on washers and dryers was US$86 per unit and US$92 per unit, respectively.
+Because the tariffs under consideration were not evenly applied across all 
+­models in the data, these estimates could mask much larger price changes by foreign 
+producers (primarily LG and Samsung) with little to no price changes by domestic 
+producers. To explore this heterogeneity, we rerun specification (2) but allow for 
+separate coefficients for each brand. Specifically, we estimate
+(4)	
+​​p​ irt​  =  ​λ​ C​(i)​B​(i)​t​ 
+′ 
+​ + ​X​i​ β′ + ​ ∑ 
+a=2
+​ 
+25
+ ​ ​α′​ C​(i)​​ 
+a  ​ 1​(​age​ it​  =  a)​ + ​γ​ r​ ′ ​ + ​ℓ​ B​(i)​t​ 
+′ 
+​ + ​ϵ​ irt​ 
+′ ​,​
+where now ​​λ​ C​(i)​B​(i)​t​ 
+′ 
+​​ denotes a product category ​×​ brand-week fixed effect and  
+​ℓ​ Bit​ 
+′  ​​ denotes the ­brand-specific week fixed effect applied to all product cat-
+egories. The product category of ranges does not have a separate product  
+category ​×​ ­brand-week fixed effect. We then apply a suitably modified equation (3) 
+to arrive at price change estimates that vary by both appliance and brand.
+
+
+--- PAGE 17 ---
+2119
+FLAAEN ET AL.: PRICE EFFECTS OF US TRADE POLICY
+VOL. 110 NO. 7
+Our estimates, reported in Table 2, show that all major brands increased prices 
+­following the safeguard tariffs. There is no clear distinction between domestic and 
+foreign brands in these results, all within a range of 5 and 17 percent. Depending 
+on the time horizon, Whirlpool increased washer prices between 13 and 17 ­percent; 
+dryer prices increased at least as much. Maytag raised washer prices by about 
+14 ­percent, dryer prices between 17 and 20 percent. G.E. had lower price increases: 
+around 5 and 11 percent for washers and dryers, respectively. LG raised prices 
+over four months by 8 percent and over eight months by about 13 percent for both 
+­washers and dryers. Samsung increased prices by 15 to 17 percent for washers and 
+about 10 percent for dryers.
+Why did the price of domestic brands increase in line with foreign brands, 
+despite being excluded from the additional costs of tariffs? One possibility is that 
+the domestic brands are expanding their market shares and have rising marginal 
+costs (the standard argument in most undergraduate textbook treatments of tariff 
+analysis). To consider this possibility, we utilize data on annual ­brand-level market 
+shares from Traqline. Following the China antidumping and safeguard tariffs, brand 
+market shares were roughly stable and even declined slightly in 2017 and 2018 
+for Whirlpool and Maytag. Moreover, the observed differences in market shares 
+between 2017 and 2018 align well with the estimated changes in relative prices 
+Table 2—­Difference-in-Difference Estimates: ­Brand-Specific Price Effects of 
+Washing Machine Tariffs
+Washers
+Dryers
+Refrigerators
+Dishwashers
+­4-month
+­8-month
+­4-month
+­8-month
+­4-month
+­8-month
+­4-month
+­8-month
+Antidumping against China
+Whirlpool
+−0.031
+−0.034
+−0.034
+−0.003
+0.007
+−0.012
+−0.030
+−0.046
+(0.028)
+(0.036)
+(0.025)
+(0.034)
+(0.017)
+(0.024)
+(0.021)
+(0.028)
+Maytag
+0.142
+0.190
+0.114
+0.148
+0.031
+−0.014
+0.012
+−0.011
+(0.044)
+(0.053)
+(0.037)
+(0.046)
+(0.049)
+(0.053)
+(0.043)
+(0.048)
+LG
+0.010
+−0.011
+−0.008
+−0.036
+0.042
+0.036
+0.012
+−0.024
+(0.039)
+(0.049)
+(0.029)
+(0.042)
+(0.028)
+(0.042)
+(0.058)
+(0.069)
+Samsung
+0.083
+0.057
+0.093
+0.060
+0.116
+0.030
+0.026
+−0.054
+(0.041)
+(0.050)
+(0.036)
+(0.041)
+(0.037)
+(0.044)
+(0.061)
+(0.070)
+G.E.
+−0.002
+0.024
+−0.017
+−0.018
+−0.015
+−0.008
+0.012
+0.011
+(0.018)
+(0.024)
+(0.017)
+(0.023)
+(0.016)
+(0.022)
+(0.015)
+(0.018)
+Safeguard tariffs, 2018
+Whirlpool
+0.174
+0.129
+0.175
+0.142
+0.008
+−0.029
+0.041
+−0.001
+(0.033)
+(0.037)
+(0.028)
+(0.033)
+(0.023)
+(0.029)
+(0.024)
+(0.032)
+Maytag
+0.146
+0.137
+0.169
+0.201
+0.030
+0.148
+0.018
+0.009
+(0.035)
+(0.050)
+(0.031)
+(0.047)
+(0.028)
+(0.048)
+(0.029)
+(0.058)
+LG
+0.081
+0.131
+0.082
+0.125
+0.040
+0.022
+0.136
+0.158
+(0.022)
+(0.031)
+(0.020)
+(0.028)
+(0.021)
+(0.030)
+(0.036)
+(0.072)
+Samsung
+0.153
+0.175
+0.104
+0.099
+0.008
+−0.071
+−0.016
+0.054
+(0.031)
+(0.039)
+(0.028)
+(0.035)
+(0.021)
+(0.028)
+(0.024)
+(0.050)
+G.E.
+0.072
+0.051
+0.123
+0.108
+−0.035
+−0.064
+−0.052
+−0.066
+(0.023)
+(0.031)
+(0.023)
+(0.030)
+(0.017)
+(0.026)
+(0.017)
+(0.029)
+Notes: The table reports results analogous to Table 1, based on separate estimates for each brand. Specifically, first 
+equation (4) is estimated (with model characteristics as controls) and then a linear combination of these estimates is 
+used to compute the left hand side of equation (3), separately for each brand and product category. Figure D3 in the 
+online Appendix displays the corresponding weekly price estimates by brand. Standard errors are in parentheses.
+
+
+--- PAGE 18 ---
+2120
+THE AMERICAN ECONOMIC REVIEW
+JULY 2020
+reported in Table 2. The firm with the lowest price increase (G.E.) experienced the 
+largest gain in market share between 2017 and 2018. Annual shipment data from the 
+Association of Home Appliance Manufacturers (AHAM) indicate that total sales of 
+both washers and dryers declined by 3 percent during this period.
+The Section 201 safeguard investigation also included new tariffs on washing 
+machine parts. This could have raised the cost of domestic production, with subse-
+quent ­pass-through to retail prices of washing machines. Further inspection reveals 
+that the effective tariff rate on parts hardly changed following the Section  201 
+­tariffs, consistent with this provision being a targeted measure to prevent foreign 
+firms from importing ­semi-assembled pieces to get around the tariffs on fully 
+assembled machines. Further details on washing machine parts is available in 
+online Appendix C.6. The effect of the increase in steel prices is differenced out, 
+as it also applies to ranges (the control group) and the other appliances. In light 
+of these results, a more plausible explanation is that the domestic brands are using 
+their market power to raise prices. Indeed, as shown by Pierce (2011) for a broader 
+set of industries, domestic plants protected from antidumping duties tend to exhibit 
+increased prices and markups.
+Finally, we explore whether the increase in prices following the Section 201 
+­safeguard tariffs reflected increased prices by wholesalers or changes in margins 
+by retailers. We turn to proprietary data from AHAM, which includes monthly 
+­aggregate value and quantity (and, hence, a calculated average unit value) 
+for ­shipments of broad categories of appliances (e.g., ­top-load washers and 
+­side-by-side refrigerators). Replicating the analysis above on this data, we find 
+similar ­wholesale price changes for washers and dryers: an increase of roughly 
+10 percent in both washers and dryers following the Section 201 safeguard tariffs. 
+Further details are available in online Appendix C.7.
+D. Robustness
+Online Appendix D contains additional results indicating that our findings from 
+Section IIC are robust to alternative assumptions. We modify the sample to include 
+all available stores and brands and to restrict to only ­brick-and-mortar stores. We 
+have tried alternative specifications for how we treat the age of a model in our spec-
+ification and run versions that remove the life cycle effects completely. We also run 
+a specification using weights based on the number of ­brick-and-mortar stores for 
+each retailer.
+Our results are robust to these alternative assumptions. Focusing on our results 
+pertaining to the safeguard tariffs, we see that the smallest estimate of price changes 
+comes from the sample including all brands and retailers, with ­8-month price 
+increase estimates for washers and dryers of 8 percent. Our largest estimate of price 
+changes comes from the weighted sample restricted to only ­brick-and-mortar stores, 
+with ­eight-month price increase estimates for washers and dryers of 13 percent.
+E. The Tariff Elasticity of Consumer Prices
+The tariff elasticity of prices (or tariff ­pass-through) is a useful metric for 
+­policymakers attempting to understand the likely consequences of increased 
+
+
+--- PAGE 19 ---
+2121
+FLAAEN ET AL.: PRICE EFFECTS OF US TRADE POLICY
+VOL. 110 NO. 7
+­tariffs  on economic activity. In an environment pertaining to worldwide tariffs 
+on a homogeneous goods market with a competitive retail sector, this elasticity 
+would follow directly from the changes in import prices following a tariff change.  
+A number of features, however, such as imperfect competition, changes in 
+­wholesaler‌/‌retailer margins, production relocation (including to the domestic 
+­market), and complementary goods, complicate the calculation of this metric.
+We construct a measure of the tariff elasticity of consumer prices that can 
+­accommodate these complications. Formally, let ​​Δ​t​ ln ​P​ C​(Δτ)​​ denote the log change 
+in the consumer price index of product category ​C​ in response to a tariff change. 
+The measure is meant to capture the change in expenditure required to obtain the 
+same utility as under ­pre-tariff prices (i.e., ​(e​(​p​ 1​, ​u​ 0​)​ − e​(​p​ 0​, ​u​ 0​)​)​/e​(​p​ 0​, ​u​ 0​)​​). Then, 
+we define the tariff elasticity of consumer prices (TECP) as
+(5)	
+​​TECP​ C, t​  =  ​ 
+​Δ​t​ ln ​P​ C​ ​(Δτ)​ 
+ 
+_______________ 
+ 
+​[​ 
+​M​ C, t−1​ 
+_ 
+​D​ C, t−1​ ​]​∑ K​ 
+   ​s​ C, t−1​ 
+k 
+​ Δ ​τ ​ C, t​ 
+k  ​
+ ​,​
+where ​​M​ C, t−1​​ and ​​D​ C, t−1​​ are aggregate imports and consumption of product cate-
+gory ​C​, measured in period ​t − 1​ before tariffs are applied. The term ​​s​ C, t−1​ 
+k 
+​​ denotes 
+lagged import shares of country ​k​ to apply to the ­country-specific tariff rate changes 
+(​​Δ​t​ ​τ ​ C​ 
+k ​​). Equation (5) more accurately captures the indirect price effects of tariffs 
+by measuring the aggregate price and tariff changes separately while using lagged 
+import weights to reflect the effective tariff burden facing firms and therefore 
+­applicable to the initial price level. The focus on the overall consumer prices—
+made possible by our data—and an adjustment for the share of domestic production 
+facing no tariff changes (the ​​M​ C, t−1​ / ​D​ C, t−1​​ term in the denominator) ensure that the 
+measure reflects an overall elasticity for products consumed.18 Finally, the measure 
+allows one to identify the product category ​C​ to assess whether broader categories 
+of products experience price changes.
+The TECP measure has intuitive properties. If import prices on the selected coun-
+tries subject to tariffs rise proportionally with the tariff change and prices of goods 
+from other countries do not change, the TECP measure takes a value of one, indi-
+cating a full ­pass-through of tariffs to consumers.19 If firms substitute their import 
+locations to other countries and increase prices by less than the tariff change, and 
+domestic competitors do not change their prices, the TECP measure will be less than 
+one. Finally, if competitors not subject to tariffs themselves increase their prices as 
+well, the TECP measure can be larger than one.
+To implement equation (5) in our data, we require two adjustments. First, as 
+a measure of the price index, we are effectively taking the average log change 
+of prices  from our data. While this may insufficiently capture the substitution 
+­possibilities of consumers across brands, our ­brand-level analysis demonstrates 
+18 For washing machines, we measure aggregate consumption using shipments data from AHAM.
+19 To see this, consider a ­first-order approximation of the expenditure function. Applying Shephard’s lemma, 
+one obtains ​(e​(​p​ 1​, ​u​ 0​)​ − e​(​p​ 0​, ​u​ 0​)​)​/e​(​p​ 0​, ​u​ 0​)​  ≈  ​∑ k​ 
+  ​ ​s​ 0​ 
+k​ ​(​(​p​ 1​ 
+k​ − ​p​ 0​ 
+k​)​/​p​ 0​ 
+k​)​​. Hence, under these conditions, the numerator 
+and denominator of the TECP formula will be the same.
+
+
+--- PAGE 20 ---
+2122
+THE AMERICAN ECONOMIC REVIEW
+JULY 2020
+­similar price changes and stable market shares during the periods we study.20 And, 
+as shown in Figure 4, our estimates mirror the CPI quite well. Second, to capture 
+the causal impact on prices (defined as ​​Δ​t​ ln ​P​ C​ ​(Δτ)​​ above), we follow our approach 
+from Section C and utilize our estimates ​ˆ 
+​Δ​ t​ 8m​ ​p 
+– ​​C​​ in equation (3), which uses a set 
+of control group (​J​) products. This is to difference out factors apart from tariffs 
+that could be influencing consumer prices for product category ​C​ during this time 
+period. This leads to the modified expression
+(6)	
+​​ˆ 
+TECP​C, t​  =  ​ 
+​ˆ 
+​Δ​ t​ 8m​ ​p 
+– ​​C​ 
+ 
+ 
+_________________________________ 
+ 
+ 
+ 
+ 
+​[​ 
+​M​ C, t−1​ 
+_ 
+​D​ C, t−1​ ​]​∑ ​K​ C​​ 
+   ​ ​s​ C, t−1​ 
+k 
+​Δ​t​ ​τ  ​ C​ 
+k ​ − ​[​ 
+​M​ J, t−1​ 
+_ 
+​D​ J, t−1​ ​]​∑ ​K​J​​ 
+   ​ ​s​ J, t−1​ 
+k 
+​Δ​t​ ​τ ​ J​ 
+k​
+ ​​ .
+Implementing equation (6) in our data presents a number of complications. First, 
+calculating the statutory tariff rate change is complicated. For the two antidumping 
+cases in which the application of antidumping duties is firm specific, there is the 
+question of how to aggregate. In order to best approximate the aggregate change 
+in duties we utilize the ­firm-level bill of lading data (see online Appendix C.14) 
+to ­construct ­pre-period ­firm-level shares to use as weights. For the Section  201 
+safeguard case, the complication comes from a number of ­product-level exclu-
+sions (within ­HS-10 codes) which we are unable to identify in the retail price data 
+(see online Appendix C.2). Online Appendix Figure C3 demonstrates that imports 
+­identified under the Section 201 rate provision code display an applied tariff rate 
+that matches those specified in the statute, while the average effective tariff rate 
+across all washer imports is significantly lower. Because it is unclear which washers 
+were excluded, and to what brands/models they belong, we adopt the conservative 
+convention and simply apply the statutory rate in our calculations in equation (6).
+In addition, the Section  201 safeguard measure is a ­tariff-rate quota and 
+­therefore  exhibits multiple tariff rates during the sample period we study. As 
+­mentioned, the quota of 1.2 million units subject to the lower (20 percent) addi-
+tional tariff rate was reached in October 2018, and all relevant units thereafter paid 
+a higher rate of 50 percent. In our results below we report two estimates based on 
+whether we use the ­trade-weighted average of these two rates or the maximum rate. 
+The ­maximum rate may be appropriate if companies perceive the opportunity cost 
+of selling a washer imported under the lower rate to be importing it at the higher rate 
+in the future.
+Finally, a third issue is how to account for the price changes of dryers, which had 
+no tariff change during this period. We found that prices of dryers rose in line with 
+washers, consistent with evidence for broader complementarities between these 
+products. Firms likely spread out the increase in prices across both ­washers and 
+­dryers to keep the retail prices similar between matching models sold as pairs. To 
+add the dryer effect to equation (6), we modify the product category ​C​ to include 
+both washers and dryers. Because we estimate the price change to be nearly 
+20 One would ideally estimate a structural model of demand across washers and dryers to estimate substitution 
+parameters, and to calculate the consumer welfare effect of the policy induced prices changes. Although we lack the 
+quantity data for this exercise, we will use the observed decline in the aggregate consumption of washers for our 
+quantification of the consumer cost increases due to the 2018 safeguard tariffs on washers in Section III.
+
+
+--- PAGE 21 ---
+2123
+FLAAEN ET AL.: PRICE EFFECTS OF US TRADE POLICY
+VOL. 110 NO. 7
+­identical (the numerator), the main difference arises in a smaller average tariff rate 
+change (a smaller denominator, reflecting a zero tariff rate change for dryers).
+Panel C of Table 3 presents the estimates of the tariff elasticity of consumer prices 
+for the three tariff changes we study. (We separate out the numerator and denom-
+inator components in panels A and B, respectively, and report estimates for both 
+washers and washers including dryers.) Although we lack detailed ­micro-level retail 
+prices for the first Korea/Mexico antidumping duties, we provide an estimate of 
+price changes using the published CPI for laundry equipment relative to the CPI 
+for “other appliances.” For the Section 201 safeguard tariffs, we report estimates 
+separately based on whether we use the ­trade-weighted average or the maximum 
+value of the tariff rate applied during the ­12-month period following tariffs being 
+implemented.
+Evident in Table 3 is a wide range of the consumer elasticity of tariffs. Our sug-
+gestive estimate for the 2012 antidumping duties against Korea and Mexico indi-
+cates a decline in prices and hence a negative elasticity. (See online Appendix A 
+for a theoretical discussion.) Consistent with this estimate, the ­brand-level market 
+share data in online Appendix Table C12 indicate that both LG and Samsung gained 
+market share in 2013 and 2014 (whereas their combined market shares were flat 
+in the two years prior to the Korea antidumping case). However, the small price 
+increase we estimate for the 2016 antidumping duties against China results in a 
+modest elasticity of 0.21 (washers only) to 0.31 (washers and dryers combined). 
+Finally, the estimates for the Section 201 safeguard tariffs are considerably higher: 
+1.25 to 2.26 using the ­trade-weighted average tariff increase or 0.58 to 1.08 using 
+Table 3—Calculation of the Tariff Elasticity of Consumer Prices
+Antidumping
+Safeguard Tariffsa
+Korea and
+Mexico
+­Trade-weighted
+average
+China
+Maximum
+(1)
+(2)
+(3)
+(4)
+Panel A. Average consumer price change(%)b
+Washers only
+N/A
+3.40
+11.50
+11.50
+Washers and dryers
+−8.55
+2.85
+11.45
+11.45
+Panel B.  ­Pre-period ­trade-weighted average statutory tariff rate change(%)
+Washers only
+9.57
+16.32
+9.18
+19.94
+Washers and dryers
+5.27
+9.15
+5.09
+10.64
+Panel C. Tariff elasticity of consumer prices
+Washers only
+N/A
+0.21
+1.25
+0.58
+Washers and dryers
+−1.62
+0.31
+2.25
+1.08
+Notes: Panels A and B follow the numerator and denominator of equation (6), respectively. The denominator cal-
+culates import shares in a ­pre-period defined as ­July–December 2011, ­July–December 2015, and ­February–August 
+2017 for the Korea / Mexico antidumping, China antidumping, and safeguard tariffs, respectively. Statutory tariff 
+rate changes for antidumping duties use ­firm-level weights from PIERS Bill of Lading data (see online Appendix 
+Table B2).
+a   The two columns pertaining to the Section 201 safeguard tariffs correspond to the method of accounting for 
+the heterogeneity in tariff rates over time. The Trade-weighted average uses import shares as weights during 
+the period of study, and the Maximum column uses the maximum (50 percent) rate.
+b  Columns 2, 3, and 4 in panel A are calculated based on estimates presented in column 2 of Table 1, where 
+the estimates for washers and dryers are the simple average of the two coefficients. Column 1 is calculated 
+using changes in the CPI for “laundry equipment” relative to “other appliances” during the relevant period 
+(following equation (3)).
+
+
+--- PAGE 22 ---
+2124
+THE AMERICAN ECONOMIC REVIEW
+JULY 2020
+the maximum tariff rate. Our results demonstrate markedly different consumer price 
+effects between single- and ­multi-country tariffs. They further highlight that price 
+increases by domestic competitors and for complementary goods can push this elas-
+ticity well above one.
+III.  Discussion and Conclusions
+A common summary measure for evaluating the effects of a policy combines 
+the impact on consumer prices with the added domestic employment into an esti-
+mate of the consumer cost per domestic job created in that industry. In the period 
+following the 2018 safeguard tariffs, US employment rose as existing producers 
+claimed an additional 200 jobs and foreign producers added 1,600 jobs from new 
+US  ­production.21 As shown, these job gains were accompanied by substantially 
+higher consumer prices. To arrive at an overall cost increase to consumers, we 
+­multiply the dollar value increases in washer/dryer prices by the annual level of 
+washer/dryer shipments. We use the average level of shipments between 2017 and 
+2018, based on AHAM numbers indicating that washing machine sales fell in 2018. 
+These numbers are roughly 10 million washing machines and 7.7 million clothes 
+dryers, indicating an annual cost to consumers of US$1.55 billion.22
+Tariff revenues offset these costs to a small extent. According to USITC records, 
+calculated duties from February 2018 to January 2019 amounted to just under 
+US$82 million for washing machines and about US$355,000 for washing machine 
+parts. After netting out the tariff revenue from the annual costs to consumers, the 
+consumer cost per job for the 2018 safeguard tariffs amounts to roughly US$817,000 
+annually. This number is of the same order of magnitude as in other similar exer-
+cises. Hufbauer and Lowry (2012) calculate such a metric from the Section 421 
+tariffs on Chinese tire imports, finding a cost of roughly US$900,000 per job. These 
+calculations are made in partial equilibrium and focus only on the direct effects of 
+these policies on the washing machine sector. Upstream linkages to domestic suppli-
+ers could create a multiplier effect on the number of domestic jobs created from this 
+policy. But higher prices of appliances at retail stores may reduce available income 
+for expenditures on other goods, leading to job losses in other industries.
+Three broader lessons regarding firm behavior following new import tariffs 
+emerge from our study. First, we find that complementary goods complicate the 
+measurement of the tariff elasticity of prices, as dryer prices rose markedly in 2018 
+despite not being subject to new tariffs. Spillovers from complementarities across 
+goods could operate more broadly, as complementary goods (mattresses and box 
+springs; tables and chairs; printers and ink cartridges; and video game consoles, 
+games, and accessories) are common and widespread. Firms being increasingly 
+sophisticated in their models of pricing such goods (e.g., bundling, subscription 
+21 Of course, the effect on overall employment from these policies depends in large degree on the extent of slack 
+in the economy. In February 2018, the unemployment rates in Newberry County, South Carolina (Samsung plant), 
+Montgomery County, Tennessee (LG plant), and Sandusky County, Ohio (main Whirlpool plant) were 3.7, 3.8, and 
+5.1 percent, respectively.
+22 Hence, US$86  ​×​ 9.78 million ​≈​ US$841 million plus US$92 ​×​ 7.72 million ​≈​ US$710 million. Together, 
+they equal US$1.552 billion.
+
+
+--- PAGE 23 ---
+2125
+FLAAEN ET AL.: PRICE EFFECTS OF US TRADE POLICY
+VOL. 110 NO. 7
+plans), so tariff policies for a particular good may lead to unexpected price changes 
+in other products unaffected by tariffs.
+Second, production relocation plays a large role in the extent of tariff 
+­pass-through to prices. The large shifts in production and trade following the 
+two sets of ­antidumping duties imply that duties were ultimately not applied to 
+a ­significant share of imports. Retail prices rose only modestly after the 2016 
+China ­antidumping duties; more strikingly, import prices even declined ­following 
+the 2012 Korea/Mexico antidumping duties (see Figure 3). But what conditions 
+­govern whether production will relocate in response to a change in trade policy? 
+Any response will necessarily rely on idiosyncratic features of the particular firms 
+and policies, but the experience of washing machines offers several useful ­lessons. 
+First, the product specificity of capital and the structure of existing production 
+­networks appear to play important roles. During the transitions from Korea to 
+China and China to Thailand/Vietnam, both LG and Samsung utilized existing 
+plants used previously for other products in the destination countries to adjust 
+­production of washing machines while keeping overall trade flows to their large 
+markets roughly unchanged. In contrast, the shift of production to the United States 
+following ­safeguard tariffs took comparatively longer as both firms opened new 
+facilities (online Appendix C.12). Whether and when relocation occurs may also 
+depend on the magnitude of import duties, the timing of when they are imple-
+mented, and the expectations for how long they will last.23
+Finally, domestic producers increase prices following the global safeguard tariff 
+by a similar margin to importers. Price increases by domestic brands are consistent 
+with a model of oligopoly in which prices are strategic complements (see Amiti, 
+Itskhoki, and Konings 2016). The extent of competition is a key determinant for 
+how domestic producers will respond following an increase in import tariffs. Using 
+the Traqline data to calculate the ­Herfindahl-Hirschmann index (HHI), we find 
+the washing machine industry would be classified as “Moderately Concentrated” 
+(an HHI between 1,500 and 2,500). Similar calculations for industries subject to 
+new tariffs would be a useful exercise to better understand the overall impact of 
+changes in trade policy on consumer prices.
+REFERENCES
+Amiti, Mary, Oleg Itskhoki, and Jozef Konings. 2016. “International Shocks and Domestic Prices: 
+How Large Are Strategic Complementarities?” NBER Working Paper 22119. 
+Amiti, Mary, Stephen J. Redding, and David Weinstein. 2019. “The Impact of the 2018 Trade War on 
+U.S. Prices and Welfare.” Journal of Economic Perspectives 33 (4): 187–210.
+Ashenfelter, Orley C., Daniel S. Hosken, and Matthew C. Weinberg. 2013. “The Price Effects of a 
+Large Merger of Manufacturers: A Case Study of Maytag-Whirlpool.” American Economic Jour-
+nal: Economic Policy 5 (1): 239–61. 
+Association of Home Appliance Manufacturers. 2013–2019. “Factory Shipments Database.” Confi-
+dential dataset. 
+Auer, Raphael, Ariel T. Burstein, and Sarah M. Lein. 2018. “Exchange Rates and Prices: Evidence 
+from the 2015 Swiss Franc Appreciation.” BIS Working Paper 751. 
+23 As shown in online Appendix Table B1, there were effectively five months in between the USITC initial 
+report and preliminary duties for the two antidumping cases and a slightly shorter lead time (four months) for the 
+safeguard duties. Antidumping duties are subject to sunset reviews after five years, whereas safeguard tariffs are 
+typically granted for a period of four years or less.
+
+
+--- PAGE 24 ---
+2126
+THE AMERICAN ECONOMIC REVIEW
+JULY 2020
+Bagwell, Kyle, Chad P. Bown, and Robert W. Staiger. 2016. “Is the WTO Passé?” Journal of Economic 
+Literature 54 (4): 1125–1231.
+Bai, Liang, and Sebastian Stumpner. 2019. “Estimating US Consumer Gains from Chinese Imports.” 
+American Economic Review: Insights 1 (2): 209–24.
+Bernhofen, Daniel M., and John C. Brown. 2004. “A Direct Test of the Theory of Comparative Advan-
+tage: The Case of Japan.” Journal of Political Economy 112 (1): 48–67.
+Blonigen, Bruce A. 2002. “Tariff-Jumping Antidumping Duties.” Journal of International Economics 
+57 (1): 31–49. 
+Brainard, S. Lael. 1997. “An Empirical Assessment of the Proximity-Concentration Trade-Off between 
+Multinational Sales and Trade.” American Economic Review 87 (4): 520–44. 
+Broda, Christian, Nuno Limao, and David E. Weinstein. 2008. “Optimal Tariffs and Market Power: 
+The Evidence.” American Economic Review 98 (5): 2032–65. 
+Broda, Christian, and David E. Weinstein. 2006. “Globalization and the Gains from Variety.” Quar-
+terly Journal of Economics 121 (2): 541–85. 
+Canadian International Merchandise Trade Database. 2010–2019. https://www5.statcan.gc.ca/cimt-
+cicm/home-accueil?lang=eng (accessed July 19, 2019). 
+DellaVigna, Stefano, and Matthew Gentzkow. 2019. “Uniform Pricing in US Retail Chains.” Quarterly 
+Journal of Economics 134 (4) : 2011–84. 
+Ekholm, Karolina, Rikard Forslid, and James R. Markusen. 2007. “Export-Platform Foreign Direct 
+Investment.” Journal of the European Economic Association 5 (4): 776–95.
+Ellison, Glenn. 2005. “A Model of Add-On Pricing.” Quarterly Journal of Economics 120 (2): 585–
+637.
+Fajgelbaum, Pablo D., Pinelopi K. Goldberg, Patrick J. Kennedy, and Amit K. Khandelwal. 2020. 
+“The Return to Protectionism.” Quarterly Journal of Economics 135 (1): 1–55. 
+Feenstra, Robert C. 1989. “Symmetric Pass-Through of Tariffs and Exchange Rates under Imperfect 
+Competition: An Empirical Test.” Journal of International Economics 27 (1): 25–45. 
+Finkelstein, Amy. 2007. “The Aggregate Effects of Health Insurance: Evidence from the Introduction 
+of Medicare.” Quarterly Journal of Economics 122 (1): 1–37.
+Fitzgerald, Doireann, and Stefanie Haller. 2018. “Exporters and Shocks.” Journal of International 
+Economics 113: 154–71. 
+Gabaix, Xavier, and David Laibson. 2006. “Shrouded Attributes, Consumer Myopia, and Information 
+Suppression in Competitive Markets.” Quarterly Journal of Economics 121 (2): 505–40. 
+Gap Intelligence. 2013–2018. “Weekly Consumer Appliance Retail Price Series.” Confidential dataset.
+Goldberg, Pinelopi K., and Nina Pavcnik. 2016. “The Effects of Trade Policy.” In Handbook of Com-
+mercial Policy, Vol. 1A, edited by Kyle Bagwell and Robert W. Staiger, 161–206. Amsterdam: 
+North-Holland. 
+Grant, Matthew. 2020. “Why Special Economic Zones? Using Trade Policy to Discriminate across 
+Importers.” American Economic Review 110 (5): 1540–71.
+Helpman, Elhanan, Marc J. Melitz, and Stephen R. Yeaple. 2004. “Export versus FDI with Heteroge-
+neous Firms.” American Economic Review 94 (1): 300–16.
+Hitsch, Günter, Ali Hortaçsu, and Xiliang Lin. 2017. “Pricing in US Retail Chains.” Chicago Booth 
+Research Paper 17-18. 
+Horstmann, Ignatius J., and James R. Markusen. 1992. “Endogenous Market Structures in Interna-
+tional Trade (Natura Facit Saltum).” Journal of International Economics 32 (1): 109–29.
+Huber, J. Richard. 1971. “Effect on Prices of Japan’s Entry into World Commerce after 1858.” Journal 
+of Political Economy 79 (3): 614–28. 
+Hufbauer, Gary C., and Sean Lowry. 2012. “US Tire Tariffs: Saving Few Jobs at High Cost.” Peterson 
+Institute for International Economics Policy Brief 12-9. 
+Irwin, Douglas A. 2019. “Tariff Incidence: Evidence from U.S. Sugar Duties, 1890–1930.” National 
+Tax Journal 72 (3): 599–616. 
+Jaravel, Xavier, and Erick Sager. 2019. “What Are the Price Effects of Trade? Evidence from the US 
+and Implications for Quantitative Trade Models.” Center for Economic Policy Research DP-13902. 
+Korea Customs Service. 2010–2019. “Trade Statistics.” http://www.customs.go.kr/english/cm/cntnts/
+cntntsView.do?mi=8042&cntntsId=2724 (accessed July 12, 2019).
+LG Electronics. 2017. “LG Electronics to Build U.S. Factory for Home Appliances in Tennessee.” 
+Press Release, https://www.lg.com/us/press-release/lg-electronics-to-build-us-factory-for-home-
+appliances-in-tennessee. 
+Ludema, Rodney D., and Zhi Yu. 2016. “Tariff Pass-Through, Firm Heterogeneity and Product Qual-
+ity.” Journal of International Economics 103: 234–49. 
+Nakamura, Emi. 2008. “Pass-Through in Retail and Wholesale.” American Economic Review 98 
+(2): 430–37. 
+
+
+--- PAGE 25 ---
+2127
+FLAAEN ET AL.: PRICE EFFECTS OF US TRADE POLICY
+VOL. 110 NO. 7
+Pierce, Justin R. 2011. “Plant-Level Responses to Antidumping Duties: Evidence from U.S. Manufac-
+turers.” Journal of International Economics 85 (2): 222–33. 
+Port Input/Export Reporting Service (PIERS). 2012–2019. “Bill of Lading Database.” Confidential 
+dataset. 
+Ruhl, Kim J. 2014. “The Aggregate Impact of Antidumping Policies.” Unpublished. 
+Sales Rank Dataset. 2019. “Online Sales Rank by Retailer.” Compiled from http://www.bestbuy.com, 
+http://www.homedepot.com, and http://www.jcpenney.com (accessed January 30, 2019 and Feb-
+ruary 1, 2019). 
+Samsung. 2017. “Samsung to Expand U.S. Operations, Open $380 Million Home Appliance Manu-
+facturing Plant in South Carolina.” Press Release, https://news.samsung.com/us/samsung-south-
+carolina-home-appliance-manufacturing-plant-investment-newberry/. 
+Spearot, Alan C. 2012. “Firm Heterogeneity, New Investment and Acquisitions.” Journal of Industrial 
+Economics 60 (1): 1–45. 
+Tintelnot, Felix. 2017. “Global Production with Export Platforms.” Quarterly Journal of Economics 
+132 (1): 157–209. 
+TraQline Market Research. 2010–2018. “Brand-Level Retail Market Share Series.” Confidential data-
+set. 
+Trefler, Daniel. 2004. “The Long and Short of the Canada–US Free Trade Agreement.” American Eco-
+nomic Review 94 (4): 870–95. 
+United Nations. 2010–2019. “Comtrade Database.” https://comtrade.un.org/ (accessed July 15, 2019). 
+United States Bureau of Labor Statistics. 2010–2019. “Consumer Price Index.” https://www.bls.gov/
+cpi/ (accessed May 20, 2019). 
+United States Census Bureau. 2000–2019. “Related Party Trade Database.” https://relatedparty.ftd.
+census.gov/ (accessed December 15, 2018). 
+United States International Trade Commission. 2010–2019. “DataWeb.” https://dataweb.usitc.gov/ 
+(accessed April 20, 2019). 
+United States International Trade Commission. 2017a. “Large Residential Washers.” USITC, Investi-
+gation No: TA-201-076 Report 4745. 
+United States International Trade Commission. 2017b. “Large Residential Washers: Pre-Hearing 
+Report.” USITC, Investigation No: TA-201-076 Report Doc ID: 621175. 
+Winkelmann, Liliana, and Rainer Winkelmann. 1998. “Tariffs, Quotas and Terms-of-Trade: The Case 
+of New Zealand.” Journal of International Economics 46 (2): 313–32. 
+Yeaple, Stephen R. 2003. “The Complex Integration Strategies of Multinationals and Cross Country 
+Dependencies in the Structure of Foreign Direct Investment.” Journal of International Economics 
+60 (2): 293–314.

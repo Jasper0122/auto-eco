@@ -1,0 +1,3272 @@
+
+
+--- PAGE 1 ---
+American Economic Review 2020, 110(2): 364–400 
+https://doi.org/10.1257/aer.20181478
+364
+Outsourcing Education: 
+Experimental Evidence from Liberia†
+By Mauricio Romero, Justin Sandefur, and Wayne Aaron Sandholtz*
+In 2016, the Liberian government delegated management of 93 
+randomly selected public schools to private providers. Providers 
+received US$50 per pupil, on top of US$50 per pupil annual expen-
+diture in control schools. After one academic year, students in out-
+sourced schools scored 0.18​σ​ higher in English and mathematics. We 
+do not find heterogeneity in learning gains or enrollment by student 
+characteristics, but there is significant heterogeneity across provid-
+ers. While outsourcing appears to be a ­cost-effective way to use new 
+resources to improve test scores, some providers engaged in unfore-
+seen and potentially harmful behavior, complicating any assessment 
+of welfare gains. (JEL H41, I21, I28, O15)
+Governments often enter into ­public-private partnerships as a means to raise cap-
+ital or to leverage the efficiency of the private sector (World Bank 2015b). But con-
+tracts are inevitably incomplete, and thus contracting out the provision of public 
+services to private providers will have theoretically ambiguous impacts on service 
+quality (Hart, Shleifer, and Vishny 1997; Holmström and Milgrom 1991). While pri-
+vate contractors may face stronger incentives for cost efficiency than civil servants, 
+they may also cut costs through actions that are contractually permissible but not in 
+the public interest.
+* Romero: Centro de Investigación Económica, ITAM (email: mtromero@itam.mx); Sandefur: Center for 
+Global Development (email: jsandefur@cgdev.org); Sandholtz: Department of Economics, UC San Diego (email: 
+wasandholtz@ucsd.edu). Esther Duflo was the coeditor for this article. Romero acknowledges financial sup-
+port from the Asociación Mexicana de Cultura. Sandefur acknowledges financial support from the Research on 
+Improving Systems of Education (RISE) program. Sandholtz acknowledges financial support from the Institute for 
+Humane Studies. We are grateful to the Minister of Education, George K. Werner, Deputy Minister Romelle Horton, 
+Binta Massaquoi, Nisha Makan, and the Partnership Schools for Liberia (PSL) team, as well as Susannah Hares, 
+Robin Horn, and Joe Collins from Ark EPG for their commitment throughout this project to ensuring a rigorous and 
+transparent evaluation of the PSL program. Thanks to Arja Dayal, Dackermue Dolo, and their team at Innovations 
+for Poverty Action who led the data collection. Avi Ahuja, Miguel Jimenez, Dev Patel, and Benjamin Tan provided 
+excellent research assistance. We’re grateful to Michael Kremer, Karthik Muralidharan, and Pauline Rose who pro-
+vided detailed comments on the government report of the independent evaluation of the PSL program. The design 
+and analysis benefited from comments and suggestions from Maria Atuesta, Prashant Bharadwaj, Jeffrey Clemens, 
+Joe Collins, Mitch Downey, Susannah Hares, Robin Horn, Isaac Mbiti, Gordon McCord, Craig McIntosh, Karthik 
+Muralidharan, Owen Ozier, Olga Romero, Santiago Saavedra, Diego Vera-Cossio, and seminar participants at the 
+Center for Global Development and UC San Diego. A randomized controlled trials registry entry is available at 
+https://www.socialscienceregistry.org/trials/1501 as well as the pre-analysis plan. IRB approval was received from 
+IPA (protocol 14227) and the University of Liberia (protocol 17-04-39) prior to any data collection. UCSD IRB 
+approval (protocol 161605S) was received after the first round of data collection but before any other activities were 
+undertaken. The evaluation was supported by the UBS Optimus Foundation and Aestus Trust. The views expressed 
+here are ours, and not those of the Ministry of Education of Liberia or our funders. All errors are our own.
+† Go to https://doi.org/10.1257/aer.20181478 to visit the article page for additional materials and author  
+disclosure statements.
+
+
+--- PAGE 2 ---
+365
+ROMERO ET AL.: OUTSOURCING EDUCATION
+VOL. 110 NO. 2
+In this paper we study the Partnership Schools for Liberia (PSL) program, which 
+delegated management of 93 public schools (3.4 percent of all public primary 
+schools, serving 8.6 percent of students enrolled in public primary or ­preschool) to 
+8 different private organizations. Providers received an additional US$50 per pupil 
+as part of the program, on top of the yearly US$50 per-pupil expenditure in control 
+schools, and some providers independently raised and spent far more. PSL schools 
+also negotiated successfully for more government teachers: they had an average of 1 
+teacher per grade, compared to 0.78 teachers per grade in traditional public schools. 
+In exchange, providers were responsible for the daily management of the schools. 
+These schools were to remain free and ­nonselective (i.e., providers were not allowed 
+to charge fees or screen students based on ability or other characteristics). PSL 
+school buildings remained under the ownership of the government. Teachers in PSL 
+schools were civil servants, drawn from the existing pool of government teachers.
+We study the impact of this program by randomly assigning existing public 
+schools to be managed by a private provider. We paired schools (based on infrastruc-
+ture and geography), then assigned pairs to providers, and subsequently randomly 
+assigned treatment within each matched pair. Thus, we are able to estimate both the 
+average impact of the PSL program as well as treatment effects across providers. 
+Since treatment assignment may change the student composition across schools, we 
+sampled students from ­pretreatment enrollment records. We associate each student 
+with their “original” school, regardless of what school (if any) they attend in later 
+years. The combination of random assignment of treatment at the school level with 
+sampling from a fixed and comparable pool of students allows us to provide clean 
+estimates of the program’s ­intention-to-treat (ITT) effect on test scores, uncontam-
+inated by selection effects.
+The ITT effect on student test scores after one year of the program is 0.18​σ​ for 
+English and 0.18​σ​ for mathematics. These gains do not reflect teaching to the test, as 
+they are also seen in new questions administered only at the end of the school year 
+and in questions with a new format. Taking into account that some providers refused 
+to work in some schools randomly assigned to them and some students moved 
+schools, the treatment effect on the treated (ToT) after one year of the program is 
+0.21​σ​ for English test scores and 0.22​σ​ for mathematics.1 We find no evidence of 
+heterogeneity by students’ ­socioeconomic status, gender, or grade, suggesting that 
+efficiency gains need not come at the expense of equity concerns. There is also no 
+evidence that providers engaged in student selection: the probability of remaining in 
+a treatment school is unrelated to age, gender, household wealth, or disability.
+These gains in test scores reflect a combination of additional inputs and improved 
+management. As a lower bound, the program spent an additional US$50 per 
+pupil, which was the government’s budget target for PSL and the transfer made 
+to ­operators. While some operators spent more than this, others reported spending 
+near this amount. When the cost of additional teachers is included, the cost rises to 
+approximately US$70 per student, and when the actual cost reported by providers 
+1 Consistent with the design of the experiment, we focus on the ITT effect. The ToT is estimated using the 
+assigned treatment as an instrument for whether the student is in fact enrolled in a PSL school during the 2016-2017 
+academic year. The percentage of students originally assigned to treatment schools who are actually in treatment 
+schools at the end of the 2016-2017 school year is 81 percent. The percentage of students assigned to control 
+schools who are in treatment schools at the end of the 2016-2017 school year is 0 percent.
+
+
+--- PAGE 3 ---
+366
+THE AMERICAN ECONOMIC REVIEW
+FEBRUARY 2020
+for the first year is included, the average increases to US$238 (see Section IA for 
+details). The program also increased management quality, as proxied by teacher 
+time on task. Teachers in PSL schools were 50 percent more likely to be in school 
+during a spot check (a ­20 percentage point increase, from a base of 40 percent) 
+and 43 percent more likely to be engaged in instruction during class time (a ­15 
+percentage point increase, from a base of 35 percent). Teacher attendance and time 
+on task improved for incumbent teachers, which we interpret as evidence of better 
+management.
+Since each provider was assigned schools in a ­matched-pair design, we are able to 
+estimate (internally valid) treatment effects for each provider. While the assignment 
+of treatment within matched pairs was random, the assignment of pairs to providers 
+was not, resulting in ­nonrandom differences in schools and locations across providers. 
+Therefore, the raw treatment effects for each individual provider are internally valid 
+but they are not comparable without further assumptions (see Section III for more 
+details). In the online Appendix, we also present treatment effects adjusting for base-
+line differences and “shrinking” the estimates using a Bayesian hierarchical model, 
+with qualitatively similar results. While the ­highest-performing providers generated 
+increases in learning of over 0.36​σ​, the ­lowest-performing providers had no impact on 
+learning. The group of ­highest-performing providers includes both the highest spender 
+and some of the ­lowest-cost organizations. These results suggest that higher spending 
+by itself is neither necessary nor sufficient for improving learning outcomes.2
+Turning to whether PSL is a good use of scarce funds, we make two comparisons: 
+a comparative ­cost-effectiveness calculation comparing PSL to ­business-as-usual 
+expansion of Liberia’s public school system, and a ­cost-benefit calculation based 
+on the net present value of the Mincerian earnings returns to the education provided 
+by PSL. Both calculations require strong assumptions (Dhaliwal et al. 2014), which 
+we discuss in Section IV. While some providers incurred larger costs in the first 
+year, assuming all providers will eventually reach the budget target of US$50 per 
+pupil implies that the program can increase test scores for treated students by 0.44​σ​ 
+per US$100 spent. We estimate this yields a positive net present value for the pro-
+gram investment after considering the income gains associated with schooling, and 
+is more ­cost-effective than additional spending under ­business-as-usual.
+However, test score gains and expenditures fail to tell the entire story of the conse-
+quences of this ­public-private partnership. Some providers took unforeseen actions 
+that may be socially undesirable. While the contract did not allow ­cream-skimming, 
+it did not prohibit providers from capping enrollment in oversubscribed schools 
+or from shifting underperforming teachers to other schools.3 While most providers 
+kept students in oversubscribed schools and retained existing teachers, one provider 
+did not. This provider, Bridge International Academies, removed pupils after taking 
+2 See Hanushek and Woessmann (2016) for a review on how school resources affect academic achievement.
+3 In principle, removing underperforming teachers could be positive for the school system. In practice, dis-
+missed teachers ended up either teaching at other public schools or receiving pay without work (as firing public 
+teachers was almost impossible). Reshuffling teachers is unlikely to raise average performance in the system as a 
+whole, and Liberia already has a tight budget and short supply of teachers (the literacy rate is below 50 percent). 
+Similarly, reducing class sizes may be good policy, but shifting students from PSL schools to other schools is 
+unsustainable and may lead us to overstate the scalable impact of the program. While the experiment was designed 
+to overcome any bias from student reallocation and we can track teacher reallocations, it is not designed to measure 
+negative spillovers.
+
+
+--- PAGE 4 ---
+367
+ROMERO ET AL.: OUTSOURCING EDUCATION
+VOL. 110 NO. 2
+control of schools with large class sizes, and removed 74 percent of incumbent 
+teachers from its schools.
+More worryingly, news media have revealed serious sexual abuse scandals involv-
+ing two of the private providers, one of them a ­US-based ­nonprofit that was well 
+regarded by the international community. Over the course of multiple years prior to 
+the launch of the program and this study, a More than Me employee, who died of 
+AIDS in 2016, raped over 30 girls in a More than Me school.4,5 In 2016, the Board 
+Chair of the Liberian Youth Network (the previous name for the Youth Movement 
+for Collective Action) was found guilty of raping a teenage boy.6 It is possible that 
+similar scandals take place in regular schools but that these were uncovered due to 
+the heightened scrutiny of the ­public-private partnership. But at a minimum it shows 
+that private providers are far from an obvious solution to sexual violence issues in 
+public schools.
+Some of these issues could arguably have been solved with more complete con-
+tracts or better partner selection. The first year was a pilot and a learning year, and 
+the government deliberately tried to select “mission aligned” contractors and left the 
+contracts quite open. However, some of the providers engaged in the worst behavior 
+were considered some of the most promising. These events underscore the challenge 
+of ensuring that private providers act in the public interest in a world of incomplete 
+contracts. Thus, our results suggest that outsourcing has some promising features, 
+but also presents its own set of difficulties.
+We make several contributions to both research and policy. Proponents of 
+outsourcing in education argue that combining public finance with private man-
+agement has the potential to overcome a ­trade-off between efficiency and equity 
+(Patrinos, Barrera-Osorio, and Guáqueta 2009). On the efficiency side, private 
+schools tend to be better managed than their public counterparts (Bloom et al. 2015, 
+Muralidharan and Sundararaman 2015). On the equity side, ­fee-charging private 
+schools may increase inequality and induce ­socioeconomic stratification in educa-
+tion (Hsieh and Urquiola 2006, Lucas and Mbiti 2012, Zhang 2014). Thus, in theory, 
+­publicly-financed but ­privately-managed schools may increase efficiency without 
+compromising equity. Most of the empirical evidence to date on outsourcing educa-
+tion comes from the United States, where charter schools appear to improve learn-
+ing outcomes when held accountable by a strong commissioning body (Cremata 
+et al. 2013, Woodworth et al. 2017). However, there is limited evidence on whether 
+private administration of public schools can improve learning outcomes in develop-
+ing countries, where governments tend to have limited capacity to write complete 
+contracts and enforce them. Two noteworthy studies which examine close analogs 
+to PSL in the United States are Abdulkadiroˇglu et al. (2016), which studies charter 
+takeovers (where traditional public schools are restarted as charter schools, similar 
+4 Finlay Young, “Unprotected,” ProPublica, October 11, 2018 (https://features.propublica.org/liberia/
+unprotected-more-than-me-katie-meyler-liberia-sexual-exploitation/).	
+5 Note that while these incidents occurred prior to the launch of the program, they were revealed in full only 
+after the program launched, which enabled More than Me to dramatically expand its operations. The exhaustive 
+investigation by Young (ibid.) exposes two wrongs. One is the systematic rape of Liberian children. The other is 
+the refusal of More than Me’s leadership to accept responsibility, and their (successful) efforts to conceal the case 
+from public scrutiny.
+6 Akoi M. Baysah, “Liberia: Police Charge Youth Activist for Sodomy,” The New Republic Liberia, November 
+2, 2016 (web.archive.org/web/20161103182507/https://allafrica.com/stories/201611020824.html).	
+
+
+--- PAGE 5 ---
+368
+THE AMERICAN ECONOMIC REVIEW
+FEBRUARY 2020
+to our setting) in Boston and New Orleans; and Fryer (2014), which studies the 
+implementation of a bundle of best practices from ­high-performing charter schools 
+into ­low-performing, traditional public schools in Houston, Texas. In line with our 
+results, both studies find increases in test scores. We provide some of the first exper-
+imental estimates on contracting out management of existing public schools in a 
+developing country.7
+An additional contribution is related to our experimental design and the treatment 
+effects we are able to identify. Most US studies use admission lotteries to overcome 
+endogeneity issues (for a review, see Chabrier, Cohodes, and Oreopoulos 2016; 
+Betts and Tang 2014). But oversubscribed charter schools are different (and likely 
+better) than undersubscribed ones, truncating the distribution of estimated treatment 
+effects (Tuttle, Gleason, and Clark 2012). We provide treatment effects from across 
+the distribution of outsourced schools, and across the distribution of students within 
+a school. Relatedly, relying on school lotteries implies that the treatment estimates 
+capture the joint impact of outsourcing and oversubscribed schools’ providers. We 
+provide treatment effects across a list of providers, vetted by the government, and 
+show that the provider matters.
+Finally, we contribute to the broader literature on outsourcing service delivery. 
+Hart, Shleifer, and Vishny (1997) argues that the bigger the adverse consequences of 
+­noncontractible quality shading, the stronger the case for governments to provide ser-
+vices directly. Empirically, in cases where quality is easy to measure and to enforce, 
+such as water services (Galiani, Gertler, and Schargrodsky 2005) or food distribution 
+(Banerjee et al. 2019), outsourcing seems to work. Similarly, for primary health care, 
+where quality is measurable (e.g., immunization and antenatal care coverage), out-
+sourcing improves outcomes in general (Loevinsohn and Harding 2005, Bloom et al. 
+2007). In contrast, for services whose quality is difficult to measure, such as prisons 
+(Useem and Goldstone 2002; Cabral, Lazzarini, and de Azevedo 2013), outsourcing 
+seems to be detrimental. In contrast to primary health care, there is some evidence 
+that contracting out advanced care (where quality is harder to measure) increases 
+expenditure without increasing quality (Duggan 2004). Some quality aspects of edu-
+cation are easy to measure (e.g., enrollment and basic learning metrics), but oth-
+ers are harder (e.g., socialization and selection). In our setting, while outsourcing 
+management improves most indices of school quality on average, the effect varies 
+across providers. In addition, some providers’ actions had negative unintended con-
+sequences and may have generated negative spillovers for the broader education sys-
+tem, underscoring the importance of robust contracting and monitoring for this type 
+of program.
+7 For a review on the few existing ­nonexperimental studies, see Aslam, Rawal, and Saeed (2017). A related 
+paper to ours (­Barrera-Osorio et al. 2017) increased the supply of schools through a ­public-private partnership 
+in Pakistan. However, it is difficult to disentangle the effect of increasing the supply of schools from the effect of 
+privately managed but publicly funded schools.
+
+
+--- PAGE 6 ---
+369
+ROMERO ET AL.: OUTSOURCING EDUCATION
+VOL. 110 NO. 2
+I.  Research Design
+A. The Program
+Context.—The PSL program broke new ground in Liberia by delegating man-
+agement of government schools and employees to private providers. Nonetheless, 
+private actors, such as NGOs and USAID contractors, are already common in 
+government schools. Over the past decade, Liberia’s basic education budget has 
+been roughly US$40 million per year (about ­2–3 percent of GDP), while external 
+donors contribute about US$30 million. This distinguishes Liberia from most other 
+­low-income countries in Africa, which finance the vast bulk of education spend-
+ing through domestic tax revenue (UNESCO 2016). The Ministry spends roughly 
+80 percent of its budget on teacher salaries (Ministry of Education–Liberia 2017a), 
+while almost all the aid money bypasses the Ministry, flowing instead through an 
+array of donor contractors and NGO programs covering ­nonsalary expenditures. 
+For instance, in 2017 USAID tendered a US$28 million education program to be 
+implemented by a US contractor in public schools over a five-year period (USAID 
+2017). The net result is that many “public” education services in Liberia, beyond 
+teacher salaries, are provided by ­non-state actors. On top of that, more than one-half 
+of children enrolled in preschool and primary attend private schools (Ministry of 
+Education–Liberia 2016a).
+A second broad feature of Liberia’s education system, relevant for the PSL pro-
+gram, is its performance: not only are learning levels low, but access to basic educa-
+tion and progression through school remains inadequate. The Minister of Education 
+has cited the perception that “Liberia’s education system is in crisis” as the core 
+justification for the PSL program.8 While the world has made great progress toward 
+universal primary education in the past three decades (worldwide net enrollment 
+was almost 90 percent in 2015), Liberia has been left behind. Net primary enroll-
+ment stood at only 38 percent in 2014 (World Bank 2014). Low net enrollment is 
+partially explained by an extraordinary backlog of ­over-age children due to the civil 
+war (see online Appendix Figure A.1): the median student in early childhood edu-
+cation is 8 years old and over 60 percent of 15-year-olds are still enrolled in early 
+childhood or primary education (Liberia Institute of Statistics and ­Geo-Information 
+Services 2016). Learning levels are low: only 25 percent of adult women (there is 
+no information for men) who finish elementary school can read a complete sentence 
+(Liberia Institute of Statistics and ­Geo-Information Services 2014).
+Intervention.—The Partnership Schools for Liberia (PSL) program is a 
+­public-private partnership (PPP) for school management. The Government of 
+Liberia contracted multiple ­nonstate providers to run ­93 existing public primary 
+and ­pre-primary schools. There are nine grades per school: three early childhood 
+education grades (Nursery, K1, and K2) and six primary grades (grade 1 to grade 6). 
+8 George K. Werner, “Liberia Has to Work with International Private School Companies If We Want to 
+Protect Our Children’s Future,” Quartz Africa, January 3, 2017 (https://qz.com/876708/why-liberia-is-work-
+ing-with-bridge-international-brac-and-rising-academies-by-education-minister-george-werner/).
+
+
+--- PAGE 7 ---
+370
+THE AMERICAN ECONOMIC REVIEW
+FEBRUARY 2020
+Providers receive funding on a ­per-pupil basis. In exchange they are responsible for 
+the daily management of the schools.
+The government allocated rights to eight providers to manage public schools 
+under the PSL program. The organizations are as follows: Bridge International 
+Academies (23 schools), BRAC (20 schools), Omega Schools (19 schools), Street 
+Child (12 schools), More than Me (6 schools), Rising Academies (5 schools), Youth 
+Movement for Collective Action (4 schools), and Stella Maris (4 schools). See 
+online Appendix A.5 for more details about each organization.
+Rather than attempting to write a complete contract specifying private provid-
+ers’ full responsibilities, the government opted instead to select organizations it 
+deemed aligned with its mission of raising learning levels (i.e., “­mission-matching” 
+à la Besley and Ghatak 2005, Akerlof and Kranton 2005). After an open and com-
+petitive bidding process led by the Ministry of Education with the support of the 
+Ark Education Partnerships Group, the Liberian government selected seven of 
+the eight organizations listed above, of which six passed financial due diligence. 
+Stella Maris did not complete this step and, although included in our sample, was 
+never paid. While Stella Maris never actually took control of their assigned schools, 
+the government still considers them part of the program (e.g., they were allocated 
+more schools in an expansion of the program not studied in this paper (Ministry 
+of Education–Liberia 2017b)). The government made a separate agreement with 
+Bridge International Academies (not based on a competitive tender), but also con-
+siders Bridge part of the PSL program.
+PSL schools remain public schools and all grades are required to be free of charge 
+and ­nonselective (i.e., providers are not allowed to charge fees or to discriminate 
+in admissions). In contrast, traditional public schools are not free for all grades. 
+Public primary education is nominally free starting in Grade 1, but tuition for early 
+childhood education in traditional public schools is stipulated at LBD 3,500 per year 
+(about US$38).
+PSL school buildings remain under the ownership of the government. Teachers 
+in PSL schools are civil servants, drawn from the existing pool of government 
+teachers. The Ministry of Education’s financial obligation to PSL schools is the 
+same as all ­government-run schools: it provides teachers and maintenance, valued 
+at about US$50 per student. A noteworthy feature of PSL is that providers receive 
+additional funding of US$50 per student (with a maximum of US$3,250 or 65 stu-
+dents per grade). Donors paid for the transfers made to providers in the first year. 
+Donor money was attached to the PSL program and would not have been available 
+to the government otherwise. Neither Bridge International Academies nor Stella 
+Maris received the extra US$50 per pupil. As mentioned above, Stella Maris did not 
+complete financial due diligence. Bridge International Academies had a separate 
+agreement with the Ministry of Education and relied entirely on direct grants from 
+donors. Providers have complete autonomy over the use of these funds (e.g., they 
+can be used for teacher training, school inputs, or management personnel).9 On top 
+of that, providers may raise more funds on their own.
+9 Providers may spend funds hiring more teachers (or other school staff). Thus, it is possible that some of the 
+teachers in PSL schools are not civil servants. However, this rarely occurred. Only 8 percent of teachers in PSL 
+schools were paid by providers at the end of the school year. Informal interviews with providers indicate that in 
+
+
+--- PAGE 8 ---
+371
+ROMERO ET AL.: OUTSOURCING EDUCATION
+VOL. 110 NO. 2
+Providers must teach the Liberian national curriculum, but may supplement it with 
+remedial programs, prioritization of subjects, longer school days, and ­nonacademic 
+activities. They are welcome to provide more inputs such as extra teachers, books, 
+or uniforms, as long as they pay for them.
+The intended differences between treated (PSL) and control (traditional public) 
+schools are summarized in Table 1. First, PSL schools are managed by private orga-
+nizations. Second, PSL schools are theoretically guaranteed (as per the contract) 
+one teacher per grade in each school, plus extra funding. Third, private providers 
+are authorized to cap class sizes. Finally, while both PSL and traditional public 
+schools are free for primary students starting in first grade, public schools charge 
+­early-childhood education (ECE) fees.
+What Do Providers Do?—Providers enjoy considerable flexibility in defining the 
+intervention. They are free to choose their preferred mix of, say, new teaching materi-
+als, teacher training, and managerial oversight of the schools’ ­day-to-day operations. 
+Rather than relying on providers’ own description of their model, where there may be 
+incentives to exaggerate and activities may be defined in ­noncomparable ways across 
+providers, we administered a survey module to teachers in treatment schools, asking 
+if they had heard of the provider, and if so, what activities the provider had engaged 
+in. We summarize teachers’ responses in Figure 1, which shows considerable varia-
+tion in the specific activities and the total activity level of providers.
+For instance, teachers reported that two providers (Omega and Bridge) provided 
+computers to schools, which fits with the stated approach of these two interna-
+tional, ­for-profit firms. Other providers, such as BRAC and Street Child, put more 
+focus on teacher training and observing teachers in the classroom, though these 
+most cases providers are paying these salaries while awaiting placement of the teachers on the government payroll. 
+Providers expect to be reimbursed by the government once this occurs.
+Table 1—Policy Differences between Treatment and Control Schools
+Control schools
+PSL treatment schools
+Management
+  Who owns school building?
+Government
+Government
+  Who employs and pays teachers?
+Government
+Government
+  Who manages the school and teachers?
+Government
+Provider
+  Who sets curriculum?
+Government
+Government ​+​ provider supplement
+Funding
+  Primary user fees (annual US$)
+Zero
+Zero
+  ECE user fees (annual US$)
+US$38
+Zero
+  Extra funding per pupil (annual US$)
+NA
+US$50a ​+​ independent fund-raising
+Staffing
+  Pupil-teacher ratios
+NA
+Promised one teacher per grade,
+allowed to cap class sizes at 45–65 pupilsb
+  New teacher hiring
+NA
+First pick of new teacher-training graduatesc
+a Neither Bridge International Academies nor Stella Maris received the extra US$50 per pupil.
+b Bridge International Academies was authorized to cap class sizes at 55 (but in practice capped them at 45 in 
+most cases as this was allowed by the MOU), while other providers were authorized to cap class sizes at 65.
+c Bridge International Academies had first pick, before other providers, of the new teacher-training graduates.
+
+
+--- PAGE 9 ---
+372
+THE AMERICAN ECONOMIC REVIEW
+FEBRUARY 2020
+­differences were not dramatic. In general, providers such as More than Me and 
+Rising Academies showed high activity levels across dimensions, while teacher sur-
+veys confirmed administrative reports that Stella Maris conducted almost no activi-
+ties in its assigned schools.
+Cost Data and Assumptions.—The government designed the PSL program 
+based on the estimate that it spends roughly US$50 per child in all public schools 
+(mostly on teacher salaries), and it planned to continue to do so in PSL schools.10 As 
+shown in Section II, PSL led to reallocation of additional teaching staff to treatment 
+schools and reduced ­pupil-teacher ratios in treatment schools, raising the Ministry’s 
+­per-pupil cost to close to US$70. On top of this, providers were offered a US$50 
+­per-pupil payment to cover their costs. As noted above, neither Bridge International 
+Academies nor Stella Maris received the extra US$50 per pupil. This cost figure 
+10 Werner, “Liberia Has to Work with International Private School Companies If We Want to Protect Our 
+Children’s Future,” Quartz Africa.	
+Figure 1. What Did Providers Do?
+Notes: The figure reports simple proportions (not treatment effects) of teachers surveyed in PSL schools who 
+reported whether the provider responsible for their school had engaged in each of the activities listed. The sample 
+size, ​n​, of teachers interviewed with respect to each provider is: Stella Maris, 26; Omega, 141; YMCA, 26; BRAC, 
+170; Bridge, 157; Street Child, 80; Rising Academy, 31; More than Me, 46. This sample only includes compliant 
+treatment schools.
+42
+46
+42
+0
+85
+96
+88
+54
+61
+100
+100
+13
+42
+95
+94
+93
+87
+100
+100
+76
+90
+100
+100
+94
+68
+100
+99
+91
+85
+100
+100
+96
+0
+12
+4
+0
+0
+0
+23
+0
+0
+0
+69
+96
+65
+92
+0
+77
+46
+12
+54
+8
+75
+73
+30
+30
+94
+62
+58
+25
+27
+2
+54
+94
+92
+86
+0
+85
+45
+24
+69
+1
+97
+99
+18
+70
+99
+87
+50
+53
+73
+1
+94
+71
+97
+97
+3
+97
+81
+52
+87
+10
+68
+94
+94
+88
+3
+93
+58
+13
+83
+0
+98
+96
+91
+98
+2
+96
+37
+93
+91
+17
+42
+0
+0
+4
+0
+0
+0
+0
+0
+0
+23
+19
+4
+4
+0
+12
+12
+12
+8
+12
+43
+45
+45
+24
+7
+54
+8
+23
+9
+36
+56
+81
+17
+33
+5
+36
+10
+11
+2
+16
+39
+65
+18
+18
+10
+38
+7
+13
+5
+8
+19
+45
+26
+58
+6
+6
+0
+13
+0
+6
+66
+74
+29
+44
+18
+51
+21
+35
+10
+16
+70
+85
+50
+43
+9
+63
+41
+65
+28
+35
+Stella M
+YMCA
+Omega
+BRAC
+Bridge
+Rising
+St. Child
+MtM
+Has anyone from (provider) been to this school? (%)
+Heard of (provider) (%)
+Heard of PSL (%)
+Provider staff visits at least once a week (%)
+Computers, tablets, electronics (%)
+Copybooks (%)
+Food programs (%)
+Organization of community meetings (%)
+Paper (%)
+School repairs (%)
+Teacher guides (or teacher manuals) (%)
+Teacher received training since Aug 2016 (%)
+Teacher training (%)
+Textbooks (%)
+Ask students questions to test learning (%)
+Check attendance and collect records (%)
+Deliver information (%)
+Meet with principal (%)
+Meet with PTA committee (%)
+Monitor health/sanitation issues (%)
+Monitor other school−based government programs (%)
+Monitor/observe PSL program (%)
+Observe teaching practices and give suggestions (%)
+Provide/deliver educational materials (%)
+Provider
+Provider support
+Ever provided
+Most recent visit
+
+
+--- PAGE 10 ---
+373
+ROMERO ET AL.: OUTSOURCING EDUCATION
+VOL. 110 NO. 2
+was chosen because US$100 was deemed a realistic ­medium-term goal for public 
+expenditure on primary education nationwide.11
+In the first year, some providers spent far more than this amount. Ex ante ­per-pupil 
+budgets submitted to the program secretariat before the school year started (on 
+top of the Ministry’s costs) ranged from a low of approximately US$57 for Youth 
+Movement for Collective Action to a high of US$1,050 for Bridge International 
+Academies (see panel A of Figure 2). Ex post ­per-pupil expenditure submitted to 
+the evaluation team at the end of the school year (on top of the Ministry’s costs) 
+ranged from a low of approximately US$48 for Street Child to a high of US$663 
+for Bridge International Academies (see panel B of Figure 2). These differences in 
+costs are large relative to differences in treatment effects on learning, implying that 
+­cost-effectiveness may be driven largely by cost assumptions.
+In principle, the costs incurred by private providers would be irrelevant for pol-
+icy evaluation in a ­public-private partnership with this structure. If the providers 
+are willing to make an agreement in which the government pays US$50 per pupil, 
+providers’ losses are inconsequential to the government (philanthropic donors have 
+stepped in to fund some providers’ high costs under PSL).12 Thus, we present anal-
+yses using both the Ministry’s US$50 ­long-term cost target and providers’ actual 
+budgets.13
+11 Ibid.
+12 These costs matter to the government under at least two scenarios. First, if providers are spending more 
+during the first years of the program to prove effectiveness, they may lower expenditure (and quality) once they 
+have locked in ­long-term contracts. Second, if private providers are not financially sustainable, they may close 
+schools and disrupt student learning.
+13 While some providers relied almost exclusively on the US$50 per child subsidy from the PSL pool fund, 
+others have raised more money from donors. Bridge International Academies relied entirely on direct grants from 
+donors and opted not to take part in the competitive bidding process for the US$50 per-pupil subsidy which closed 
+in June 2016. Bridge did subsequently submit an application for this funding in January 2017, which was not 
+approved, but allows us access to their budget data.
+Figure 2. Budget and Costs as Reported by Providers
+Notes: Numbers in panel A are based on ­ex ante budgets submitted to the program secretariat in a uniform tem-
+plate (inclusive of both fixed and variable costs). Stella Maris did not provide budget data. Numbers in panel B are 
+based on ­self-reports on ­ex post expenditures (inclusive of both fixed and variable costs) submitted to the evaluation 
+team by five providers in various formats. Numbers do not include the cost of teaching staff borne by the Ministry 
+of Education.
+Panel A. Ex ante budget per pupil
+YMCA
+St. Child
+Omega
+BRAC
+Rising
+MtM
+Bridge
+US$
+0
+200
+400
+600
+800
+1,000
+US$
+0
+200
+400
+600
+800
+1,000
+57
+60
+60
+72
+181
+322
+1,052
+Panel B. Ex post cost per pupil
+St. Child
+Omega
+Rising
+MtM
+Bridge
+Start-up costs
+Year 1
+48
+40
+270
+256
+663
+Start-up costs
+Year 1
+
+
+--- PAGE 11 ---
+374
+THE AMERICAN ECONOMIC REVIEW
+FEBRUARY 2020
+Providers’ budgets for the first year of the program are likely a naïve measure 
+of program cost, as they combine ­start-up costs, fixed costs, and variable costs. It 
+is possible to distinguish ­start-up costs from other costs as shown in Figure 2, and 
+these make up a small share of the ­first-year totals for most providers. It is not pos-
+sible to distinguish fixed from variable costs in the budget data. In informal inter-
+views, some providers (e.g., Street Child) profess operating a ­variable-cost model, 
+implying that each additional school costs roughly the same amount to operate. 
+Others (e.g., Bridge) report that their costs are almost entirely fixed, and unit costs 
+would fall if scaled; however, we have no direct evidence of this. Our estimate is 
+that Bridge’s international operating cost, at scale, is between US$191 and US$220 
+per pupil annually.14
+B. Experimental Design
+Sampling and Random Assignment.—Liberia has 2,619 public primary schools. 
+Private providers and the government agreed that potential PSL schools should have 
+at least six classrooms and six teachers, good road access, a single shift, and should 
+not contain a secondary school on their premises. A few schools were added to the 
+list at the request of Bridge International Academies. Some of these schools had 
+double shifts. Only 299 schools satisfied all the criteria, although some of these are 
+“soft” constraints that can be addressed if the program expands. For example, the 
+government can build more classrooms and add more teachers to the school staff. On 
+average, schools in the experiment are closer to the capital (Monrovia), have more 
+students, greater resources, and better infrastructure. While schools in the RCT gen-
+erally have better facilities and infrastructure than most schools in the country, they 
+still have deficiencies. For example, the average school in Liberia has 1.8 permanent 
+classrooms, and the median school has 0 permanent classrooms, while the average 
+school in the RCT has 3.16 classrooms. Panel A of Figure 3 shows all public schools 
+in Liberia and those within our sample. Online Appendix Table A.1 has details on 
+the differences between schools in the experiment and other public schools.
+Two providers (Omega Schools and Bridge International Academies) required 
+schools with 2G connectivity. Each provider submitted to the government a list of 
+the regions in which they were willing to work (Bridge International Academies 
+had first pick of schools). Based on preferences and requirements the list of eligible 
+schools was partitioned across providers. We paired schools in the experiment sam-
+ple within each district according to a principal component analysis (PCA) index of 
+school resources.15 This pairing stratified treatment by school resources within each 
+14 In written testimony to the UK House of Commons, Bridge stated that its fees were between US$78 and 
+US$110 per annum in private schools, and that it had approximately 100,000 students in both private and PPP 
+schools (Bridge International Academies 2017, Kwauk and Robinson 2016). Of these, roughly 9,000 are in PPP 
+schools and pay no fees. In sworn oral testimony, ­cofounder Shannon May stated that Bridge had supplemented its 
+fee revenue with more than US$12 million in the previous year (May 2017). This is equal to an additional US$120 
+per pupil, and implies Bridge spends between US$191 and US$220 per pupil at its current global scale.
+15 We calculated the index using the first eigenvector of a principal component analysis that included the fol-
+lowing variables: students per teacher; students per classroom; students per chair; students per desk; students per 
+bench; students per chalkboard; students per book; whether the school has a permanent building; whether the school 
+has piped water, a pump, or a well; whether the school has a toilet; whether the school has a staff room; whether the 
+school has a generator; and the number of enrolled students.
+
+
+--- PAGE 12 ---
+375
+ROMERO ET AL.: OUTSOURCING EDUCATION
+VOL. 110 NO. 2
+private provider, but not across providers. We gave a list of pairs to each provider 
+based on their location preferences and requirements, so that each list had twice the 
+number of schools they were to operate. Once each provider approved this list, we 
+randomized the treatment assignment within each pair. There is one triplet due to 
+logistical constraints in the assignment across counties, which resulted in one extra 
+treatment school. In short, schools are assigned to a provider, then paired, and then 
+randomly assigned to treatment or control.
+Private providers did not manage all the schools originally assigned to treatment 
+and we treat these schools as ­noncompliant, presenting results in an ­intention-to-treat 
+framework. After providers visited their assigned schools to start preparing for the 
+upcoming school year, two treatment schools turned out to be private schools that were 
+incorrectly labeled in the government data as public schools. Two other schools had 
+only two classrooms each. Of these four schools, two had originally been assigned 
+to More Than Me and two had been assigned to Street Child. Omega Academies 
+opted not to operate two of their assigned schools and Rising Academies opted not 
+to operate one of their assigned schools. In total, there are seven ­noncompliant treat-
+ment schools.16 Panel B of Figure 3 shows the treatment assignment.
+16 More than Me and Street Child were provided with replacement schools, presenting them with a new list 
+of counterparts and informing them, as before, that they would operate one of each pair of schools (but not which 
+one). Providers approved the list before we randomly assigned replacement schools from it. However, we do not 
+use this list as our main sample since it is not fully experimental. We analyzed results for this “final” treatment and 
+control school list, and they are almost identical to the results for the “original” list. Results for this final list of 
+treatment and control schools are available upon request. Bridge International Academies is managing two extra 
+demonstration schools that were not randomized and are not part of our sample. Rising Academies was given one 
+­nonrandomly assigned school, which is not part of our sample either. Thus, the set of schools in our analysis is 
+Figure 3. Public Primary Schools in Liberia
+Notes: Data on school location are from Ministry of Education–Liberia (2015-2016) data. Geographical informa-
+tion on the administrative areas of Liberia comes from DIVA-GIS (2016).
+Panel A. Geographical distribution of all public 
+schools in Liberia and those within the RCT
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+  
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Lofa
+Margibi
+Maryland
+Montserrado
+Nimba
+River Cess
+River Gee
+Sinoe
+Bomi
+Bong
+Gbapolu
+Grand Cape Mount
+GrandBassa
+GrandGedeh
+GrandKru
+
+Public schools
+RCT
+0
+50
+100
+km
+Panel B. Geographical distribution 
+of treatment and control schools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lofa
+Margibi
+Maryland
+Montserrado
+Nimba
+River Cess
+River Gee
+Sinoe
+Bomi
+Bong
+Gbapolu
+Grand Cape Mount
+GrandBassa
+GrandGedeh
+GrandKru
+
+Treatment
+Control
+0
+50
+100
+km
+
+
+--- PAGE 13 ---
+376
+THE AMERICAN ECONOMIC REVIEW
+FEBRUARY 2020
+Treatment assignment may change the student composition across schools. To 
+prevent differences in the composition of students from driving differences in test 
+scores, we sampled 20 students per school (from K1 to grade 5) from enrollment 
+logs from 2015-2016, the year before the treatment was introduced. We associate 
+each student with his or her “original” school, regardless of what school (if any) he 
+or she attended in subsequent years. The combination of random treatment assign-
+ment at the school level with measuring outcomes of a fixed and comparable pool 
+of students allows us to provide clean estimates of the program’s ­intention-to-treat 
+(ITT) effect on test scores within the student population originally attending study 
+schools, uncontaminated by selection.
+Time Line of Research and Intervention Activities.—We collected data in schools 
+twice: at the beginning of the school year in September-October 2016 and at the 
+end of the school year in May-June 2017.17 We collected the first round of data 
+two to eight weeks after the beginning of treatment. While we intended the first 
+survey wave to serve as a baseline, logistical delays led it to take place shortly after 
+the beginning of the school year. We see evidence of treatment effects within this 
+­1–2-month time frame and treat this early wave as a very ­short-term outcome sur-
+vey. Hence, we do not control for test scores collected during the first wave of data 
+collection.18 We focus on ­time-invariant covariates and administrative data collected 
+before the program began when checking balance between treatment and control 
+schools (see Section IB).
+Test Design.—In our sample, literacy cannot be assumed at any grade level, pre-
+cluding the possibility of written tests. In addition, tests administered by schools 
+would be contaminated by shifts in enrollment and attendance due to treatment. We 
+opted to conduct one-on-one tests in which an enumerator sits with the student (either 
+at school or at home), asks questions, and records answers. For the math part of the test 
+we provided students with scratch paper and a pencil. We designed the tests to capture 
+a wide range of student abilities. To make the test scores comparable across grades, 
+we constructed a single adaptive test for all students. The test has stop rules that skip 
+­higher-order skills if the student is not able to answer questions related to more basic 
+skills. Online Appendix Section A.3 has details on the construction of the test.
+We estimate an item response theory (IRT) model for each round of data col-
+lection. IRT models are the standard in the assessments literature for generating 
+not identical to the set of schools actually managed by PSL providers. Online Appendix Table A.2 summarizes the 
+overlap between schools in our main sample and the set of schools actually managed by PSL providers.
+17 A third round of data collection took place in March-April 2019 (see online Appendix Figure A.2 for a 
+detailed time line of intervention and research activities).
+18 Our ­pre-analysis plan was written on the assumption that we would be able to collect baseline data (Romero, 
+Sandefur, and Sandholtz 2017). Hence, the ­pre-analysis plan includes a specification that controls for test scores col-
+lected during the first wave of data collection along with the main specifications used in this paper. We report these 
+results in online Appendix Table A.4. We view the differences in ­short-term outcomes as treatment effects rather than 
+“chance bias” in randomization for the following reasons. First, ­time-invariant student characteristics are balanced 
+across treatment and control (see Table 2). Second, the effects on English and math test scores appear to materialize 
+in the later weeks of the fieldwork, as shown in online Appendix Figure A.3. Third, there is no significant effect on 
+abstract reasoning, which is arguably less amenable to ­short-term improvements through teaching (although the 
+difference between a significant English-math effect and an insignificant abstract reasoning effect here is not itself 
+significant).
+
+
+--- PAGE 14 ---
+377
+ROMERO ET AL.: OUTSOURCING EDUCATION
+VOL. 110 NO. 2
+­comparative test scores.19 There are two relevant characteristics of IRT models in 
+this setting. First, they simultaneously estimate the test taker’s ability and the dif-
+ficulty of the questions, which allows the contribution of “correct answers” to the 
+ability measure to vary from question to question. Second, they provide a compara-
+ble measure of student ability across different grades and survey rounds, even if the 
+question overlap is imperfect. A common scale across grades allows us to estimate 
+treatment effects as additional years of schooling. Following standard practice, we 
+normalize the IRT scores with respect to the control group.
+Additional Data.—We surveyed all the teachers in each school and conducted 
+­in-depth surveys with those teaching math and English. We asked teachers about 
+their time use and teaching strategies. We also obtained teacher opinions on the 
+PSL program. For a randomly selected class within each school, we conducted a 
+classroom observation using the Stallings Classroom Observation Tool (World Bank 
+2015a). Furthermore, we conducted ­school-level surveys to collect information 
+about school facilities, the teacher roster, input availability (e.g., textbooks), and 
+expenditures.
+Enumerators collected information on some school practices. Specifically, enu-
+merators recorded whether the school has an enrollment log and what information 
+it stores; whether the school has an official time table and whether it is posted; 
+whether the school has a ­parent-teacher association (PTA) and if the principal 
+knows the PTA head’s contact information (or where to find it); and whether the 
+school has a written budget and keeps a record (and receipts) of past expenditures.20 
+Additionally, we asked principals to complete two commonly used human resource 
+instruments to measure their “intuitive score” (Agor 1989) and “time management 
+profile” (Schermerhorn et al. 2011).
+For the second wave of data collection, we surveyed a random subset of house-
+holds from our student sample, recording household characteristics and attitudes of 
+household members. We also gathered data on school enrollment and learning levels 
+for all children ­4–8 years old living in these households.
+Balance and Attrition.—As mentioned above, the first wave of data was collected 
+2 to 8 weeks after the beginning of treatment. Hence, we focus on ­time-invariant 
+characteristics when checking balance across treatment and control. Observable 
+(­time-invariant) characteristics of students and schools are balanced across treatment 
+and control (see Table 2). Eighty percent of schools in our sample are in rural areas, 
+over an hour away from the nearest bank (which is usually located in the nearest 
+19 For example, IRT models are used to estimate students’ ability in the Graduate Record Examinations (GRE), 
+the Scholastic Assessment Test (SAT), the Program for International Student Assessment (PISA), the Trends in 
+International Mathematics and Science Study (TIMSS), and the Progress in International Reading Literacy Study 
+(PIRLS) assessments. The use of IRT models in the development and education literature in economics is less prev-
+alent, but becoming common. For example, see Das and Zajonc (2010); Andrabi et al. (2011); Andrabi, Das, and 
+Khwaja (2017); Singh (2015, forthcoming); Muralidharan, Singh, and Ganimian (2019); and Mbiti et al. (2019). Das 
+and Zajonc (2010) provide an introduction to IRT models, while van der Linden (2018) provides a full treatment of 
+IRT models.
+20 While management practices are difficult to measure, previous work has constructed detailed instruments 
+to measure them in schools (e.g., see Bloom et al. 2015, Crawfurd 2017, Lemos and Scur 2016). Due to budget 
+constraints, we only checked easily observable differences in school management.
+
+
+--- PAGE 15 ---
+378
+THE AMERICAN ECONOMIC REVIEW
+FEBRUARY 2020
+urban center), and over 10 percent need to hold some classes outside due to insuffi-
+cient classrooms. Boys make up 55 percent of our students and the students’ average 
+age is 12. According to ­pretreatment administrative data (Ministry of Education–
+Liberia ­2015–2016), the number of students, infrastructure, and resources available 
+to students were not statistically different across treatment and control schools (for 
+details, see online Appendix Table A.3).
+We took great care to avoid attrition: enumerators conducting student assess-
+ments participated in extra training on tracking and its importance, and dedicated 
+generous time to tracking. Students were tracked to their homes and tested there 
+Table 2—Balance: Observable, Time-Invariant School and Student Characteristics 
+Treatment
+Control
+Difference
+Difference (FE)
+(1)
+(2)
+(3)
+(4)
+Panel A. School characteristics (observations = 185)
+Facilities (PCA)
+−0.080
+−0.003
+−0.077
+−0.070
+(1.504)
+(1.621)
+(0.230)
+(0.232)
+Percent holds some classes outside
+13.978
+14.130
+−0.152
+−0.000
+(34.864)
+(35.024)
+(5.138)
+(5.094)
+Percent rural
+79.570
+80.435
+−0.865
+−0.361
+(40.538)
+(39.888)
+(5.913)
+(4.705)
+Travel time to nearest bank (minutes)
+75.129
+68.043
+7.086
+7.079
+(69.099)
+(60.509)
+(9.547)
+(8.774)
+Panel B. Student characteristics (observations = 3,508)
+Age in years
+12.394
+12.291
+0.104
+0.059
+(2.848)
+(2.935)
+(0.169)
+(0.112)
+Percent male
+54.949
+56.146
+−1.197
+−1.459
+(49.769)
+(49.635)
+(2.041)
+(1.247)
+Wealth index
+−0.006
+0.024
+−0.030
+0.011
+(1.529)
+(1.536)
+(0.140)
+(0.060)
+Percent in top wealth quartile
+0.199
+0.219
+−0.020
+−0.018
+(0.399)
+(0.413)
+(0.026)
+(0.014)
+Percent in bottom wealth quartile
+0.267
+0.284
+−0.017
+−0.011
+(0.442)
+(0.451)
+(0.039)
+(0.019)
+ECE before grade 1
+0.832
+0.818
+0.014
+0.013
+(0.374)
+(0.386)
+(0.025)
+(0.017)
+Panel C. Attrition in the second wave of data collection (observations = 3,511)
+Percent interviewed
+95.60
+95.74
+−0.14
+−0.35
+(20.52)
+(20.20)
+(0.64)
+(0.44)
+Notes: The first wave of data was collected 2 to 8 weeks after the beginning of treatment; hence, the focus here is 
+on time-invariant characteristics (some of these characteristics may vary in response to the program in the long run, 
+but are time-invariant given the duration of our study). This table presents the mean and standard error of the mean 
+(in parentheses) for the control (column 1) and treatment (column 2), as well as the difference between treatment 
+and control (column 3), and the difference taking into account the randomization design (i.e., including pair fixed 
+effects) in column 4. Panel A has two measures of school infrastructure: the first is a school infrastructure index 
+made up of the first component in a principal component analysis of indicator variables for classrooms, staff room, 
+student and adult latrines, library, playground, and an improved water source. The second is whether the school ever 
+needs to hold classes outside due to lack of classrooms. There are two measures of school rurality. First, a binary 
+variable and second, the time it takes to travel by motorcycle to the nearest bank. Panel B has student characteris-
+tics. The wealth index is the first component of a principal component analysis of indicator variables for whether the 
+student’s household has a television, radio, electricity, a refrigerator, a mattress, a motorcycle, a fan, and a phone. 
+Panel C shows the attrition rate (proportion of students interviewed at the first round of data collection who we were 
+able to interview in the second wave). Standard errors are clustered at the school level.
+
+
+--- PAGE 16 ---
+379
+ROMERO ET AL.: OUTSOURCING EDUCATION
+VOL. 110 NO. 2
+when not available at school. Attrition in the second wave of data collection from 
+our original sample is balanced between treatment and control and is below 4 per-
+cent (see panel C). Online Appendix Section A.2 has more details on the tracking 
+and attrition that took place during data collection.
+II.  Experimental Results
+In this section, we first explore how the PSL program affected access to and 
+quality of education. We then turn to mechanisms, looking at changes in material 
+inputs, staffing, and school management. Replication data are available at Romero, 
+Sandefur, and Sandholtz (2018).
+A. Test Scores
+Following our ­pre-analysis plan (Romero, Sandefur, and Sandholtz 2017), we 
+report ­treatment-effect estimates from two specifications:
+(1)	
+​​Y​isg​  =  ​α​g​ + ​β​1​ trea​t​s​ + ​ε​isg​​,
+(2)	
+​​Y​isg​  =  ​α​g​ + ​β​2​ trea​t​s​ + ​γ​2​ ​X​i​ + ​δ​2​ ​Z​s​ + ​ε​isg​​.
+The first specification amounts to a simple comparison of ­post-treatment outcomes 
+for treatment and control individuals, in which ​​Y​isg​​ is the outcome of interest for 
+student ​i​ in school ​s​ and group ​g​ (denoting the matched pairs used for randomiza-
+tion); ​​α​g​​ is a ­matched-pair fixed effect (i.e., ­stratification-level dummies); ​trea​t​s​​ is 
+an indicator for whether school ​s​ was randomly chosen for treatment; and ​​ε​isg​​ is an 
+error term. The second specification adds controls for ­time-invariant characteristics 
+measured at the individual level (​​X​i​​) and school level (​​Z​s​​).21 We estimate both speci-
+fications via ordinary least squares, clustering the standard errors at the school level.
+Table 3 shows results from student tests. The first three columns show dif-
+ferences between control and treatment schools’ test scores after ­1–2 months of 
+treatment (September-October 2016), while the last three columns show the dif-
+ference after ­9–10 months of treatment (May-June 2017). Columns 1, 2, 4, and 
+5 show ­intention-to-treat (ITT) treatment estimates, while columns 3 and 6 show 
+­treatment-on-the-treated (ToT) estimates (i.e., the treatment effect for students 
+that actually attended a PSL school in 2016-2017). The ToT is estimated using the 
+21 These controls were specified in the ­pre-analysis plan and are listed in online Appendix Table A.5 (Romero, 
+Sandefur, and Sandholtz 2017). We had committed in the ­pre-analysis plan to a specification that controlled for 
+­pretreatment individual outcomes:
+(3)	
+​​Y​isg​​  = ​α​g​​ + ​β​3​​ trea​t​s​​ + ​γ​3​​ ​X​i​​ + ​δ​3​​ ​Z​s​​ + ​ζ​3​​ ​Y​isg,−1​​ + ​ε​isg​​​.
+However, as mentioned before, the first wave of data was collected after the beginning of treatment, so we lack a 
+true baseline of student test scores. We report this specification in online Appendix Table A.4. The results are still 
+statistically significant, but mechanically downward biased.
+
+
+--- PAGE 17 ---
+380
+THE AMERICAN ECONOMIC REVIEW
+FEBRUARY 2020
+assigned treatment as an instrument for whether the student is in fact enrolled in a 
+PSL school during the 2016-2017 academic year.22
+After ­1–2 months of treatment, student test scores increased by 0.05​σ​ in math 
+(  ­p-value = 0.09) and 0.07​σ​ in English (­  p-value = 0.04). Part of these ­short-term 
+improvements can be explained by the fact that most providers started the school 
+year on time, while most traditional public schools began classes ­1–4 weeks later. 
+Hence, most students were already attending classes on a regular basis in treatment 
+schools during our field visit, while their counterparts in control schools were not. 
+We estimate the treatment effect separately for students tested during the first and 
+the second half of the first round of data collection (see online Appendix Figure 
+A.3), and show that the treatment effects fade in during the course of field work, 
+further supporting our conclusion that these results represent early treatment effects 
+as opposed to baseline imbalance.
+In our preferred specification (column 5), the treatment effect of PSL after 
+one academic year is 0.18​σ​ for English (­  p-value ​<  0.001​) and 0.18​σ​ for math 
+(­p-value ​<  0.001​). We focus on the ITT effect, but the ToT effect is 0.21​σ​ for 
+English (­  p-value ​<  0.001​) and 0.22​σ​ for math (­  p-value ​<  0.001​). Our results are 
+22 The percentage of students originally assigned to treatment schools who were actually in treatment schools 
+at the end of the 2016-2017 school year is 81 percent. The percentage of students assigned to control schools who 
+were in treatment schools at the end of the 2016-2017 school year is 0 percent.
+Table 3—ITT Treatment Effects on Learning
+First wave
+(1–2 months after treatment)
+Second wave
+(9–10 months after treatment)
+ITT
+ToT
+ITT
+ToT
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+English
+0.09
+0.07
+0.08
+0.17
+0.18
+0.21
+(0.05)
+(0.03)
+(0.04)
+(0.04)
+(0.03)
+(0.04)
+Math
+0.07
+0.05
+0.06
+0.19
+0.18
+0.22
+(0.04)
+(0.03)
+(0.04)
+(0.04)
+(0.03)
+(0.04)
+Abstract
+0.05
+0.03
+0.04
+0.05
+0.05
+0.06
+(0.05)
+(0.04)
+(0.04)
+(0.04)
+(0.04)
+(0.05)
+Composite
+0.08
+0.06
+0.07
+0.19
+0.18
+0.22
+(0.05)
+(0.03)
+(0.04)
+(0.04)
+(0.03)
+(0.04)
+New modules
+0.20
+0.19
+0.23
+(0.04)
+(0.04)
+(0.04)
+Conceptual
+0.13
+0.12
+0.15
+(0.04)
+(0.04)
+(0.05)
+Controls
+No
+Yes
+Yes
+No
+Yes
+Yes
+Observations
+3,508
+3,508
+3,508
+3,492
+3,492
+3,492
+Notes: Columns 1–3 are based on the first wave of data and show the difference between treatment and control 
+schools taking into account the randomization design, i.e., including “pair” fixed effects (column 1), the difference 
+taking into account other student and school controls (column 2), and the treatment-on-the-treated (ToT) estimates 
+(column 3). Columns 4–6 are based on the second wave of data and show the difference between treatment and 
+control taking into account the randomization design, i.e., including “pair” fixed effects (column 4), the difference 
+taking into account other student and school controls (column 5), and the treatment-on-the-treated (ToT) estimates 
+(column 6). The treatment-on-the-treated effects are estimated using the assigned treatment as an instrument for 
+whether the student was in fact enrolled in a PSL school at the time of data collection. Standard errors are clustered 
+at the school level.
+
+
+--- PAGE 18 ---
+381
+ROMERO ET AL.: OUTSOURCING EDUCATION
+VOL. 110 NO. 2
+robust to different measures of student ability (see online Appendix Table A.6 for 
+details).
+An important concern when interpreting these results is whether they repre-
+sent real gains in learning or better ­test-taking skills resulting from “teaching to 
+the test.” We show suggestive evidence that these results represent real gains. First, 
+the treatment effect is significant (0.19​σ​, ­p-value ​<  0.001​) for new modules that 
+were not in the first wave test (and unknown to the providers or the teachers), and 
+statistically indistinguishable from the treatment effect over all the items (0.18​σ​, 
+­p-value ​<  0.001​). Second, the treatment effect is positive and significant (0.12​σ​, 
+­p-value 0.0014) for the conceptual questions (which do not resemble the format of 
+standard textbook exercises). We cannot rule out that providers narrowed the cur-
+riculum by focusing on English and mathematics or, conversely, that they generated 
+additional learning gains in other subjects that we did not test.23 We find no evidence 
+of heterogeneous treatment effects by students’ ­socioeconomic status, gender, or 
+grade (see online Appendix Table A.8).
+B. Enrollment, Attendance, and Student Selection
+The previous section showed that education quality, measured using test scores in 
+an ITT framework, increased in PSL schools. We now ask whether the PSL program 
+increased access to education. To explore this question we focus on three outcomes 
+which were committed to in the ­pre-analysis plan: enrollment, student attendance, 
+and student selection (Romero, Sandefur, and Sandholtz 2017). PSL increased enroll-
+ment overall, but in schools where enrollment was already high and classes were 
+large, the program led to a significant decline in enrollment. This does not appear to 
+be driven by selection of “better” students, but by providers capping class sizes and 
+eliminating double shifts.24 As shown in online Appendix Section A.5, almost the 
+entirety of this phenomenon is explained by Bridge International Academies.
+Enrollment changes across treatment and control schools are shown in panel A 
+of Table 4. There are a few noteworthy items. First, treatment schools are slightly 
+larger before treatment: they have 34 (­  p-value 0.095) more students on average 
+before treatment. Online Appendix Table A.3 uses administrative data, while Table 4 
+uses data independently collected by our survey teams. While the difference in 
+enrollment in the 2015-2016 academic year is only significant in the latter, the point 
+estimates are similar across both tables. Second, PSL schools on average have 57 
+(  ­p-value ​<  0.001​) more students than control schools in the 2016-2017 academic 
+year, which results in a net increase (after controlling for ­pretreatment differences) 
+of 25 (­  p-value 0.09) students per school.
+23 As shown in Table 7, PSL schools have longer school days. As a result, treatment schools spend about 45 min-
+utes per week more in both English and math. However, they do not spend a larger fraction of the school day in 
+English or math (see online Appendix Table A.7). More broadly, we cannot rule out that PSL spent disproportion-
+ately more resources improving English and math instruction.
+24 Three Bridge International Academies treatment schools (representing 28 percent of total enrollment in 
+Bridge treatment schools) had double shifts in 2015-2016, but not in 2016-2017. One Omega Schools treatment 
+school (representing 7.2 percent of total enrollment in Omega treatment schools) had double shifts in 2015-2016, 
+but not in 2016-2017. The MOU between Bridge and the Ministry of Education authorized eliminating double shifts 
+(Ministry of Education–Liberia 2016b).
+
+
+--- PAGE 19 ---
+382
+THE AMERICAN ECONOMIC REVIEW
+FEBRUARY 2020
+Since provider compensation is based on the number of students enrolled rather 
+than the number of students actively attending school, increases in enrollment may 
+not translate into increases in student attendance. An independent measure of stu-
+dent attendance conducted by our enumerators during a spot check shows that stu-
+dents in treatment schools are 16 ( p-value ​<  0.001​) percentage points more likely 
+to be in school during class time (see panel A of Table 4).
+Turning to the question of student selection, we find no evidence that any group 
+of students is systematically excluded from PSL schools. The proportion of students 
+with disabilities is not statistically different in PSL schools and control schools 
+(panel A of Table 4).25 Among our sample of students (i.e., students sampled from 
+the 2015-2016 enrollment log), students are equally likely across treatment and con-
+trol to be enrolled in the same school in the 2016-2017 academic year as they were 
+in 2015-2016, and equally likely to be enrolled in any school (see panel B). Finally, 
+selection analysis using ­student-level data on wealth, gender, and age finds no evi-
+dence of systematic exclusions (see online Appendix Table A.9).
+25 However, the fraction of students identified as disabled in our sample is an order of magnitude lower than 
+estimates for the percentage of disabled students in the United States and worldwide using roughly the same criteria 
+(both about 5 percent: see Brault 2011, UNICEF 2013).
+Table 4—ITT Treatment Effects on Enrollment, Attendance, and Selection
+Treatment
+Control
+Difference
+Difference (FE)
+(1)
+(2)
+(3)
+(4)
+Panel A. School-level data (observations = 175)
+Enrollment, 2015-2016
+298.45
+264.11
+34.34
+34.18
+(169.74)
+(109.91)
+(21.00)
+(20.28)
+Enrollment, 2016-2017
+309.71
+252.75
+56.96
+56.89
+(118.96)
+(123.41)
+(18.07)
+(16.29)
+2015-2016 to 2016-2017 enrollment change
+11.55
+−6.06
+17.61
+24.60
+(141.30)
+(82.25)
+(17.19)
+(14.35)
+Attendance percent (spot check)
+48.02
+32.83
+15.19
+15.57
+(24.52)
+(26.55)
+(3.81)
+(3.13)
+Percent of students with disabilities
+0.59
+0.39
+0.20
+0.21
+(1.16)
+(0.67)
+(0.14)
+(0.15)
+Panel B. Student-level data (observations = 3,639)
+Percent enrolled in the same school
+80.50
+83.16
+−2.66
+0.71
+(39.63)
+(37.43)
+(3.66)
+(2.06)
+Percent enrolled in school
+94.13
+93.99
+0.14
+1.23
+(23.52)
+(23.77)
+(1.33)
+(0.87)
+Days missed, previous week
+0.85
+0.85
+−0.00
+−0.06
+(1.41)
+(1.40)
+(0.10)
+(0.07)
+Notes: This table presents the mean and standard error of the mean (in parentheses) for the control (column 1) and 
+treatment (column 2) groups, as well as the difference between treatment and control (column 3), and the differ-
+ence taking into account the randomization design (i.e., including “pair” fixed effects) in column 4. Panel A presents 
+school-level data including enrollment (taken from enrollment logs) and student attendance measure by our enu-
+merators during a spot check in the middle of a school day. If the school was not in session during a regular school 
+day we mark all students as absent. Panel B presents student-level data including whether the student is still enrolled 
+in the same schools, whether he is enrolled in school at all, and whether it missed school in the previous week (con-
+ditional on being enrolled in school). Standard errors are clustered at the school level.
+
+
+--- PAGE 20 ---
+383
+ROMERO ET AL.: OUTSOURCING EDUCATION
+VOL. 110 NO. 2
+Providers are authorized to cap class sizes, which could lead to students being 
+excluded from their previous school (and either transferred to another school or to no 
+school at all). We estimate whether the caps are binding for each student by compar-
+ing the average enrollment before treatment in her grade cohort and the two adjacent 
+grade cohorts (i.e., one grade above and below) to the theoretical ­class-size cap under 
+PSL. We average over three cohorts because some providers used placement tests to 
+reassign students across grade levels. Thus, the “constrained” indicator is defined 
+by the number of students enrolled in the student’s 2016-2017 “expected grade” (as 
+predicted based on normal progression from their 2015-2016 grade) and adjacent 
+grades, divided by the “maximum capacity” in those three grades in ­2016-2017 (as 
+specified in our ­pre-analysis plan in Romero, Sandefur, and Sandholtz 2017):
+	
+​​c​igso​  =  ​ Enrollmen​t​is,g−1​ + Enrollmen​t​is,g​ + Enrollmen​t​is,g+1​ 
+ 
+ 
+ 
+ 
+____________________________________ 
+ 
+ 
+3 × Maximu​m​o​ 
+​,​
+where ​​c​igso​​ is our “constrained” measure for student ​i​, expected to be in grade ​g​ in 
+2016-2017, at school ​s​, in a “pair” assigned to provider ​o​; ​Enrollmen​t​is,g−1​​ is enroll-
+ment in the grade below the student’s expected grade, ​Enrollmen​t​is,g​​ is enrollment in 
+the student’s expected grade, and ​Enrollmen​t​is,g+1​​ is enrollment in the grade above 
+the student’s expected grade; ​Maximu​m​o​​ is the class cap approved for provider ​o​. We 
+label a student’s ­grade-school combination as “constrained” if ​​c​igso​  >  1​.
+Enrollment in constrained ­school-grades decreases, while enrollment in uncon-
+strained ­school-grades increases (see column 1 in Table 5). Thus, schools far below 
+the cap have positive treatment effects on enrollment and schools near or above the 
+cap offset it with declining enrollment. Our student data reveal this pattern as well: 
+columns 2 and 3 in Table 5 show the ITT effect on enrollment depending on whether 
+students were enrolled in a constrained class in 2015-2016. In unconstrained classes 
+students are more likely to be enrolled in the same school (and in any school). But in 
+constrained classes students are less likely to be enrolled in the same school. While 
+there is no effect on overall school enrollment, switching schools may be disruptive 
+for children (Hanushek, Kain, and Rivkin 2004). Finally, ­test scores improve for 
+students in constrained classes. This result is difficult to interpret as it includes the 
+positive treatment effect over students who did not change schools (compounded by 
+smaller class sizes) with the effect over students removed from their schools. These 
+results are robust to excluding adjacent grades from the “constrained” measure (see 
+online Appendix Table A.10).
+C. Intermediate Inputs
+In this section we explore the effect of the PSL program on school inputs (includ-
+ing teachers), school management (with a special focus on teacher behavior and 
+pedagogy), and parental behavior.
+Inputs and Resources.—Teachers, one of the most important inputs of educa-
+tion, change in several ways in treatment schools (see panels A and B in Table 6). 
+PSL schools have 2.6 more teachers on average (­  p-value ​<  0.001​), but this is 
+not merely the result of operators hiring more teachers. Rather, the Ministry of 
+
+
+--- PAGE 21 ---
+384
+THE AMERICAN ECONOMIC REVIEW
+FEBRUARY 2020
+Education agreed to release some underperforming teachers from PSL schools, 
+replace those teachers, and provide additional ones. Ultimately, the extra teachers 
+result in lower ­pupil-teacher ratios (despite increased student enrollment). This 
+­reshuffling of teachers means that PSL schools have younger and ­less-experienced 
+teachers, who are more likely to have worked in private schools in the past and 
+have higher test scores (we conducted simple memory, math, word association, and 
+abstract thinking tests). Replacement and extra teachers are recent graduates from 
+the Rural Teacher Training Institutes (see King et al. 2015 for details on this pro-
+gram). While the program’s contracts made no provisions to pay teachers differently 
+in treatment and control schools, teachers in PSL schools report higher wages. A 
+potential explanation is that there are many teachers who are paid by the commu-
+nity in public schools (commonly known as “volunteer” teachers). If higher salaries 
+for teachers in PSL schools are conditional on them working in program schools, 
+then this would create an incentive to perform well. However, we could not find an 
+explanation for these higher salaries. Hence, it is unclear whether higher salaries 
+are tied to the program. But large unconditional increases in teacher salaries have 
+been shown elsewhere to have no effect on student performance in the short run  
+(de Ree et al. 2018).
+Our enumerators conducted a “materials” check during classroom observations 
+(see panel C of Table 6). Since we could not conduct classroom observations in 
+schools that were out of session during our visit, online Appendix Table A.11 pres-
+ents Lee (2009) bounds on these treatment effects (control schools are more likely 
+to be out of session). Conditional on the school being in session during our visit, 
+students in PSL schools are 23 percentage points (  ­p-value ​<  0.001​) more likely to 
+have a textbook and 8.2 percentage points (­  p-value 0.051) more likely to have writ-
+ing materials (both a pen and a copybook). However, we cannot rule out that there 
+is no overall effect as zero is within the Lee (2009) bounds.
+Table 5—ITT Treatment Effects, by Whether Class Size Caps Are Binding
+​Δ​ enrollment
+Percent  
+same school
+Percent  
+in school
+Test scores
+(1)
+(2)
+(3)
+(4)
+Constrained  =  0 ​×​ treatment
+5.30
+3.90
+1.65
+0.15
+(1.11)
+(1.40)
+(0.73)
+(0.034)
+Constrained  =  1 ​×​ treatment
+−11.7
+−12.5
+0.085
+0.35
+(6.47)
+(7.72)
+(4.12)
+(0.11)
+Observations
+1,635
+3,637
+3,485
+3,490
+Mean control (unconstrained)
+−0.75
+81.89
+93.38
+0.13
+Mean control (constrained)
+−7.73
+83.85
+94.81
+−0.08
+​​α​0​  =​  constrained − unconstrained
+−17.05
+−16.36
+−1.56
+0.20
+p-value (​​H​0​: ​α​0​  =  0​)
+0.01
+0.04
+0.71
+0.07
+Notes: Column 1 uses school-grade level data and the outcome is the change in enrollment 
+(between 2015-2016 and 2016-2017) at the grade level. Columns 2–4 use student-level data. 
+The outcomes are whether the student is in the same school (column 2), whether the student is 
+still enrolled in any school (column 3), and the composite test score (column 4). There were 
+194 constrained classes before treatment (holding 30 percent of students), and 1,468 uncon-
+strained classes before treatment (holding 70 percent of students). Standard errors are clustered 
+at the school level.
+
+
+--- PAGE 22 ---
+385
+ROMERO ET AL.: OUTSOURCING EDUCATION
+VOL. 110 NO. 2
+School Management.—Two important management changes are shown in 
+Table 7: PSL schools are 8.7 percentage points more likely to be in session (i.e., the 
+school is open, students and teachers are on campus, and classes are taking place) 
+during a regular school day (  ­p-value 0.058), and have a longer school day that trans-
+lates into 3.2 more hours per week of instructional time (­  p-value 0.0011). Although 
+principals in PSL schools have scores in the “intuitive” and “time management pro-
+file” scale that are almost identical to their counterparts in traditional public schools, 
+they spend more of their time on ­management-related activities (e.g., supporting 
+Table 6—ITT Treatment Effects on Inputs and Resources 
+Treatment
+Control
+Difference
+Difference (FE)
+(1)
+(2)
+(3)
+(4)
+Panel A. School-level outcomes (observations = 185)
+Number of teachers
+9.62
+7.02
+2.60
+2.61
+(2.82)
+(3.12)
+(0.44)
+(0.37)
+Pupil-teacher ratio (PTR)
+32.20
+39.95
+−7.74
+−7.82
+(12.29)
+(18.27)
+(2.31)
+(2.12)
+New teachers
+4.81
+1.77
+3.03
+3.01
+(2.56)
+(2.03)
+(0.34)
+(0.35)
+Teachers dismissed
+3.27
+2.12
+1.15
+1.13
+(3.81)
+(2.62)
+(0.48)
+(0.47)
+Panel B. Teacher-level outcomes (observations = 1,167)
+Age in years
+39.09
+46.37
+−7.28
+−7.10
+(11.77)
+(11.67)
+(1.02)
+(0.68)
+Experience in years
+10.59
+15.79
+−5.20
+−5.26
+(9.20)
+(10.77)
+(0.76)
+(0.51)
+Percent has worked at a private school
+47.12
+37.50
+9.62
+10.20
+(49.95)
+(48.46)
+(3.76)
+(2.42)
+Test score in standard deviations
+0.13
+−0.01
+0.14
+0.14
+(1.02)
+(0.99)
+(0.07)
+(0.06)
+Percent certified (or tertiary education)
+60.11
+58.05
+2.06
+4.20
+(48.99)
+(49.39)
+(4.87)
+(2.99)
+Salary (US$/month): conditional on salary  ​>  0​
+121.36
+104.54
+16.82
+13.90
+(44.42)
+(60.15)
+(6.56)
+(4.53)
+Panel C. Classroom observation (observations = 143)
+Number of seats
+20.64
+20.58
+0.06
+0.58
+(13.33)
+(13.57)
+(2.21)
+(1.90)
+Percent with students sitting on the floor
+2.41
+4.23
+−1.82
+−1.51
+(15.43)
+(20.26)
+(2.94)
+(2.61)
+Percent with chalk
+96.39
+78.87
+17.51
+16.58
+(18.78)
+(41.11)
+(5.29)
+(5.50)
+Percent of students with textbooks
+37.08
+17.60
+19.48
+22.60
+(43.22)
+(35.25)
+(6.33)
+(6.32)
+Percent of students with pens/pencils
+88.55
+79.67
+8.88
+8.16
+(19.84)
+(30.13)
+(4.19)
+(4.10)
+Notes: This table presents the mean and standard error of the mean (in parentheses) for the control (column 2) and 
+treatment (column 1) groups, as well as the difference between treatment and control (column 3), and the differ-
+ence taking into account the randomization design (i.e., including “pair” fixed effects) in column 4. Panel A has 
+school-level outcomes. Panel B presents teacher-level outcomes including their score in tests conducted by our sur-
+vey teams. Panel C presents data on inputs measured during classroom observations. Since we could not conduct 
+classroom observations in schools that were out of session during our visit, online Appendix Table A.11 presents 
+Lee (2009) bounds on these treatment effects (control schools are more likely to be out of session). Standard errors 
+are clustered at the school level.
+
+
+--- PAGE 23 ---
+386
+THE AMERICAN ECONOMIC REVIEW
+FEBRUARY 2020
+other teachers, monitoring student progress, meeting with parents) than actually 
+teaching. This suggests a change in the role of the principal in these schools: perhaps 
+as a result of additional teachers, principals in PSL schools did not have to double 
+as teachers. Additionally, management practices (as measured by a “good practices” 
+PCA index normalized to a mean of 0 and standard deviation of 1 in the control 
+group) are 0.4​σ​ (­  p-value 0.0011) higher in PSL schools.26 This effect size can be 
+viewed as a boost for the average treated school from the fiftieth to the sixty-sixth 
+percentile in management practices.
+Teacher Behavior.—An important component of school management is teacher 
+accountability and its effects on teacher behavior. As mentioned above, teachers 
+in PSL schools are drawn from the pool of unionized civil servants with lifetime 
+appointments and who are paid by the Liberian government. In theory, private pro-
+viders have limited authority to request teacher reassignments and no authority to 
+promote or dismiss civil service teachers. Thus, a central hypothesis underlying the 
+PSL program is that providers can hold teachers accountable through monitoring 
+and support, rather than rewards and threats.27
+26 The index includes whether the school has an enrollment log and what information is in it, whether the school 
+has an official time table and whether it is posted, whether the school has a ­parent-teacher association (PTA) and 
+whether the principal has the PTA head’s number at hand, and whether the school keeps a record of expenditures 
+and a written budget. Online Appendix Table A.12 has details on every component of the good practices index.
+27 As mentioned above, in practice the Ministry of Education agreed to release some underperforming teachers 
+from PSL schools at the request of providers. While providers could have provided teachers with performance 
+incentives, we have no evidence that any of them did.
+Table 7—ITT Treatment Effects on School Management
+Treatment
+Control
+Difference
+Difference (FE)
+(1)
+(2)
+(3)
+(4)
+Percent school in session at spot check
+92.47
+83.70
+8.78
+8.66
+(26.53)
+(37.14)
+(4.75)
+(4.52)
+Instruction time (hours/week)
+17.84
+14.69
+3.15
+3.17
+(4.84)
+(4.04)
+(0.66)
+(0.65)
+Intuitive score (out of 12)
+4.08
+4.03
+0.04
+0.02
+(1.35)
+(1.38)
+(0.20)
+(0.19)
+Time management score (out of 12)
+5.60
+5.69
+−0.09
+−0.10
+(1.21)
+(1.35)
+(0.19)
+(0.19)
+Principal’s working time (hours/week)
+21.43
+20.60
+0.83
+0.84
+(11.83)
+(14.45)
+(1.94)
+(1.88)
+Percent of principal’s time spent on management
+74.06
+53.64
+20.42
+20.09
+(27.18)
+(27.74)
+(4.12)
+(3.75)
+Index of good practices (PCA)
+0.41
+−0.00
+0.41
+0.40
+(0.64)
+(1.00)
+(0.12)
+(0.12)
+Observations
+93
+92
+185
+185
+Notes: This table presents the mean and standard error of the mean (in parentheses) for the control (column 1) and 
+treatment (column 2) groups, as well as the difference between treatment and control (column 3), and the differ-
+ence taking into account the randomization design (i.e., including “pair” fixed effects) in column 4. Intuitive score is 
+measured using Agor’s (1989) instrument and time management profile using Schermerhorn et al.’s (2011) instru-
+ment. The index of good practices is the first component of a principal component analysis of the variables in online 
+Appendix Table A.12. The index is normalized to have mean zero and standard deviation of 1 in the control group. 
+Standard errors are clustered at the school level.
+
+
+--- PAGE 24 ---
+387
+ROMERO ET AL.: OUTSOURCING EDUCATION
+VOL. 110 NO. 2
+To study teacher behavior, we conducted unannounced spot checks of teacher 
+attendance and collected student reports of teacher behavior (see panels A and B in 
+Table 8). Also, during these spot checks we used the Stallings classroom observa-
+tion instrument to study teacher time use and classroom management (see panel C 
+in Table 8).
+Teachers in PSL schools are 20 percentage points (­  p-value ​<  0.001​) more likely 
+to be in school during a spot check (from a base of 40 percent) and the uncon-
+ditional probability of a teacher being in a classroom increases by 15 percentage 
+points (­  p-value ​<  0.001​). Our spot checks align with student reports on teacher 
+behavior. According to students, teachers in PSL schools are 7.5 percentage points 
+(­ p-value  ​<  0.001​) less likely to have missed school the previous week. Students in 
+PSL schools also report that teachers are 6.6 percentage points (­  p-value 0.011) less 
+likely to hit them.
+Classroom observations also show changes in teacher behavior and pedagogical 
+practices. Teachers in PSL schools are 15 percentage points (­ p-value 0.0027) more 
+likely to engage in either active instruction (e.g., teacher engaging students through 
+lecture or discussion) or passive instruction (e.g., students working in their seat 
+while the teacher monitors progress) and 25 percentage points (­ p-value ​<  0.001​) 
+Table 8—ITT Treatment Effects on Teacher Behavior 
+Treatment
+Control
+Difference
+Difference (FE)
+(1)
+(2)
+(3)
+(4)
+Panel A. Spot checks (observations = 185)
+Percent on schools’ campus
+60.32
+40.38
+19.94
+19.79
+(23.10)
+(25.20)
+(3.56)
+(3.48)
+Percent in classroom
+47.02
+31.42
+15.60
+15.37
+(26.65)
+(25.04)
+(3.80)
+(3.62)
+Panel B. Student reports (observations = 185)
+Teacher missed school previous week (percent)
+17.72
+25.12
+−7.41
+−7.53
+(10.79)
+(14.93)
+(1.92)
+(1.95)
+Teacher never hits students (percent)
+54.73
+48.20
+6.52
+6.59
+(18.76)
+(17.07)
+(2.64)
+(2.53)
+Teacher helps outside the classroom (percent)
+50.02
+46.59
+3.42
+3.56
+(18.24)
+(18.01)
+(2.67)
+(2.28)
+Panel C. Classroom observations (observations = 185)
+Instruction (active + passive) (percent of class time)
+49.68
+35.00
+14.68
+14.51
+(32.22)
+(37.08)
+(5.11)
+(4.70)
+Classroom management (percent class time)
+19.03
+8.70
+10.34
+10.25
+(20.96)
+(14.00)
+(2.62)
+(2.73)
+Teacher off-task (percent class time)
+31.29
+56.30
+−25.01
+−24.77
+(37.71)
+(42.55)
+(5.91)
+(5.48)
+Student off-task (percent class time)
+50.41
+47.14
+3.27
+2.94
+(33.51)
+(38.43)
+(5.30)
+(4.59)
+Notes: This table presents the mean and standard error of the mean (in parentheses) for the control (column 2) and 
+treatment (column 1) groups, as well as the difference between treatment and control (column 3), and the difference 
+taking into account the randomization design (i.e., including “pair” fixed effects) in column 4. Panel A presents data 
+from spot checks conducted by our survey teams in the middle of a school day. Panel B presents data from our panel 
+of students where we asked them about their teachers’ behavior. Panel C presents data from classroom observa-
+tions. If the school was not in session during a regular school day we mark all teachers not on campus as absent and 
+teachers and students as off-task in the classroom observation. Online Appendix Table A.11 has the results without 
+imputing values for schools not in session. Standard errors are clustered at the school level.
+
+
+--- PAGE 25 ---
+388
+THE AMERICAN ECONOMIC REVIEW
+FEBRUARY 2020
+less likely to be ­off-task.28 Although these are considerable improvements, the treat-
+ment group is still far off the Stallings, Knight, and Markham (2014) good practice 
+benchmark of 85 percent of total class time used for instruction, and below the 
+average time spent on instruction across five countries in Latin America (Bruns and 
+Luque 2014).
+These estimates combine the effects on individual teacher behavior with changes 
+to teacher composition. To estimate the treatment effect on teacher attendance over a 
+fixed pool of teachers, we perform additional analyses in online Appendix A.1 using 
+administrative data (EMIS) to restrict our sample to teachers who worked at the 
+school the year before the intervention began (2015-2016). We treat teachers who 
+no longer worked at the school in the 2016-2017 school year as (­nonrandom) attrit-
+ers and estimate Lee (2009) bounds on the treatment effect. Online Appendix Table 
+A.11 shows an ITT treatment effect of 14 percentage points (­  p-value ​<  0.001​) on 
+teacher attendance. Importantly, zero is not part of the Lee (2009) bounds for this 
+effect. This aligns with previous findings showing that management practices have 
+significant effects on worker performance (Bloom, Liang et al. 2015; Bloom, Eifert 
+et al. 2013; Bennedsen et al. 2007).
+D. Other Outcomes
+Student data (panel C of Table 9) and household data (panel A) show that the 
+program also increases student and parental satisfaction. Students in PSL are more 
+likely to think going to school is fun, and parents with children in PSL schools 
+(enrolled in 2015-2016) are 7.5 percentage points (­  p-value 0.022) more likely to be 
+satisfied with the education their children are receiving.
+Providers are not allowed to charge fees and PSL should be free at all levels, 
+including ­early-childhood education (ECE) for which fees are permitted in govern-
+ment schools. We interviewed both parents and principals regarding fees. In both 
+treatment and control schools parents are more likely to report paying fees than 
+schools are to report charging them. The amount parents claim to pay in school 
+fees is much higher than the amount schools claim to charge (see panels A and B in 
+Table 9). Since principals may be reluctant to disclose the full amount they charge 
+parents, especially in primary school (which is nominally free), this discrepancy is 
+normal. While the likelihood of charging fees decreases in PSL schools by 26 per-
+centage points according to parents and by 19 percentage points according to princi-
+pals, 48 percent of parents still report paying some fees in PSL schools.
+Providers often provide textbooks and uniforms free of charge to students (see 
+Section IA). Indeed, household expenditures on fees, textbooks, and uniforms drop 
+(see online Appendix Table A.13 for details). In total, annual household expendi-
+tures on children’s education decrease by US$6.6 (­  p-value 0.11). A reduction in 
+household expenditure in education reflects a crowding-out response (i.e., parents 
+decrease private investment in education as school investments increase). To explore 
+whether crowding out goes beyond expenditure we ask parents about engagement in 
+their child’s education. However, we see no change on this margin (we summarize 
+28 See Stallings, Knight, and Markham (2014) for more details on how active and passive instruction, as well as 
+time ­off-task and student engagement, are coded.

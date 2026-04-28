@@ -1,0 +1,1806 @@
+
+
+--- PAGE 1 ---
+American Economic Review 2020, 110(5): 1572–1602 
+https://doi.org/10.1257/aer.20180805
+1572
+Building Nations through Shared Experiences: 
+Evidence from African Football†
+By Emilio ­Depetris-Chauvin, Ruben Durante, and Filipe Campante*
+We examine whether shared collective experiences help build a 
+national identity, by looking at the impact of national football teams’ 
+victories in ­sub-Saharan Africa. We find that individuals surveyed 
+in the days after an important victory of their country’s national 
+team are 37 percent less likely to identify primarily with their eth-
+nic group, and 30 percent more likely to trust other ethnicities, than 
+those interviewed just before. Crucially, national team achievements 
+also reduce violence: countries that (barely) qualified to the Africa 
+Cup of Nations experience less civil conflict (9 percent fewer epi-
+sodes) in the following months than countries that (barely) did not. 
+(JEL D74, J15, L83, O15, O17, Z21)
+What has made sport so uniquely effective a medium for inculcating 
+national feelings […] is the ease with which even the least political or 
+public individuals can identify with the nation as symbolized by young 
+persons excelling […]. The imagined community of millions seems more 
+real as a team of eleven named people. The individual, even the one who 
+only cheers, becomes a symbol of his nation himself.
+—Eric Hobsbawm, Nations and Nationalism since 1780
+Few things stir national passions as much as sports, and from Hitler to Mandela, 
+political leaders have frequently tried to harness that power to strengthen national 
+identities (Hobsbawm 1990, Allison 2000, Carlin 2008, Hilton 2011). Yet, there is 
+little empirical evidence as to how effective shared experiences such as those created 
+by sporting achievements are, when it comes to ­nation-building.
+This paper studies this question, focusing on the impact of association foot-
+ball (henceforth, “football”) in ­sub-Saharan Africa, by investigating the impact of 
+national football team performance in major international competitions. Football is 
+* Depetris-Chauvin: Instituto de Economía, Pontificia Universidad Católica de Chile (email: edepetris@
+uc.cl); Durante: ICREA, Universitat Pompeu Fabra, Barcelona GSE, IPEG, and CEPR (email: ruben.durante@upf.
+edu); Campante: Johns Hopkins University and NBER (email: fcampante@jhu.edu). Esther Duflo was the coeditor 
+for this article. We thank three anonymous referees for many helpful suggestions, as well as Alberto Alesina, Sam 
+Bazzi, Francesco Drago, Leopoldo Fergusson, Matthieu Couttounier, Quoc-Anh Do, Marcel Fafchamps, Ignacio 
+Munyo, Jeff Staton, Wolfgang Stojetz, Jorge Tovar, Oliver Vanden Eynde, Joachim Voth, David Yanagizawa-Drott, 
+Ekaterina Zhuravskaya, and especially Leonard Wantchekon for insightful comments. We also thank audiences at 
+numerous seminars and conferences for comments. Christine Cai, Florin Cucu, Carlos Molina Guerra, Sebastian 
+Melo, Francisco Eslava, José Miguel Pascual, and Catalina Morales provided excellent research assistance. Emilio 
+Depetris-Chauvin acknowledges financial support from CONICYT, FONDECYT Iniciación 11160290.
+† Go to https://doi.org/10.1257/aer.20180805 to visit the article page for additional materials and author  
+disclosure statements.
+
+
+--- PAGE 2 ---
+1573
+DEPETRIS-CHAUVIN ET AL.: BUILDING NATIONS
+VOL. 110 NO. 5
+perhaps the one sport most associated with nationalistic fervor around the world, 
+and the sub-Saharan African context is one in which ­nation-building, and the tension 
+between particular versus national identities, are especially salient (Miguel 2004).1
+In this context, we find evidence confirming the intuition regarding the 
+­nation-building power of sports: national football team success weakens ethnic 
+identification, as opposed to national identity, improves attitudes toward other eth-
+nicities, and reduces actual ­interethnic violence.
+For our first set of findings, we match data from five waves of the Afrobarometer 
+survey with information on 69 official matches involving African teams between 
+2002 and 2015, covering over 37,000 respondents in 25 countries. We exploit plau-
+sibly exogenous differences in the timing of the interviews relative to the timing of 
+the matches, by comparing ­self-reported attitudes between individuals interviewed 
+in the days immediately before a match of their national team and individuals with 
+the same ethnic background and in the same country, but interviewed in the days 
+immediately after that same match.
+We find that individuals interviewed after a national team match are less likely to 
+report a strong sense of ethnic identity than those interviewed just before the match. 
+This is entirely driven by national team victories, whereas defeats have no discern-
+ible impact on that ­self-identification, suggesting that the experience of success is 
+what galvanizes supporters and tilts the balance between ethnic and national identity 
+in favor of the latter.2 The effect of victories is over 5 percentage points, which is 
+sizable, as it corresponds to a 37 percent decrease in the average probability of eth-
+nic ­self-identification, and quite persistent within the limited time window for which 
+data are available (i.e., up to 30 days before and after the match), becoming even 
+larger several days after the match.
+­Post-victory respondents are also significantly more likely to trust and interact 
+with members of other ethnicities, an increase which is not matched, quantitatively, 
+by increased dislike of foreigners. Crucially, respondents’ lower emphasis on ethnic 
+identity and higher trust in others do not merely reflect a generally positive mood 
+due to ­post-victory euphoria. In fact, we find no effect of national teams’ victories 
+on trust in the ruling party or approval for the incumbent, a result which suggests 
+that politicians’ effort to use national teams’ achievements to boost their own pop-
+ularity may not pay off, nor on respondents’ optimism about their own or the coun-
+try’s economic prospects.
+1 We use the term “football,” as opposed to “soccer,” in deference to how the sport is commonly known in 
+Africa. Interest in football in Africa is exceptionally high by international standards: the survey data from the World 
+Football report (Repucom 2014) (available from Nielsen Sports) indicate that 75 percent of respondents in Africa 
+report being interested in football, against a 46 percent global average. Sports in general, and football in particular, 
+has traditionally played a key role in ­nation-building in Africa (Darby 2002), as illustrated by examples such as 
+the historic qualification of the Ivory Coast to the 2006 FIFA World Cup, or the unexpected success of the South 
+African national rugby team in the 1995 Rugby World Cup (Carlin 2008). Outside of Africa, other cases of sports 
+victories that spurred great patriotic fervor and primed national unity over racial and regional cleavages include the 
+surprising victory of the US ice hockey team against the USSR in the 1980 Winter Olympics (the ­so-called “Miracle 
+on Ice”), and the success of France and Spain in the 1998 and the 2010 editions of the FIFA World Cup, respectively.
+2 This seems consistent with the social psychology literature on success/failure attributional bias, whereby 
+people tend to internalize success and externalize failure (Miller and Ross 1975, Wann and Dolan 1994). Relatedly, 
+Heere et al. (2013) interviews South African individuals before and after the realization of the 2010 FIFA World 
+Cup in that country, and finds no evidence of a change in national versus ethnic identification, though the same 
+authors (Heere et al. 2016) find that there is a decrease in the impact of ethnic identity on social cohesion.
+
+
+--- PAGE 3 ---
+1574
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+For our second key set of findings, we combine the football data with data on 
+the occurrence and severity of political violence events, available from the Armed 
+Conflict Location and Event Data Project (ACLED) for the period ­1997–2015. Our 
+approach exploits the ­quasi-randomness of qualification to the final tournament of 
+the Africa Cup of Nations (ACN) for teams that, prior to the last round of group 
+stage matches, could still qualify: for each two teams in the same group that, going 
+into the very last round of matches, could still qualify, we attribute the one that 
+actually qualified to the treatment group, and the one that barely failed to do so to 
+the control group.
+We find that countries whose teams (barely) qualified to the ACN tournament 
+experience significantly less ethnic conflict in the following six months than coun-
+tries whose teams (barely) did not. This effect is sizable, significant, and appears to 
+be quite persistent, lasting up to several months after the event.
+A number of additional results shed light on the mechanism behind these key 
+effects. First, there is a central role for the experience of national team success: the 
+impact on ethnic identification is driven only by victories in ­high-stakes official 
+games (i.e., Africa Cup of Nations and FIFA World Cup qualifiers and finals), as 
+opposed to friendly matches; the effect is substantially larger for victories against 
+traditional rivals, which are likely to trigger a stronger emotional reaction; and it is 
+similar for wins in home and in away games, indicating that it is not driven by direct 
+participation in the event.
+Second, there is evidence suggesting a “role model” mechanism, whereby vic-
+tories showcase how ­interethnic cooperation can lead to achievement against a for-
+eign opposing group: the effect of victories is stronger the more diverse the ethnic 
+composition of the national team. In addition, there seems to be some degree of 
+substitutability between the shared experiences created by national team success 
+and other, more expensive forms of ­nation-building: the effect is weaker where the 
+state is more present, specifically in ways that might lead to a stronger connection to 
+the nation (roads, post office, schools).
+We also find that the effect of national sporting achievement in reducing violence 
+is greater when that achievement is unexpected: it is stronger for teams that had 
+never qualified to the ACN tournament before, or that had not qualified in a long 
+time.3 In addition, the reduction occurs in areas with politically weak ethnic groups, 
+and with relatively large ethnic diversity, which is where one would expect the issue 
+of national identity to be particularly fraught.
+Taken together, our findings indicate that shared collective experiences, such as 
+important sporting achievements, can be effective at priming sentiments of national 
+unity and at attenuating even ­deeply-rooted ethnic mistrust. Moreover, we find that 
+they have tangible effects on the prevalence of conflict. Even if they are transient, 
+our results suggest that they may last long enough to open a precious window of 
+3 Our finding that unexpected results are more consequential than expected ones is in line with previous evi-
+dence on the effect of sports events on various outcomes. For example, in a study on the impact of National Football 
+League (NFL) games on ­intra-household violence, Card and Dahl (2011) finds that upset losses are associated with 
+a 10 percent increase in violence toward female partners while expected ones have no impact. Similarly, Munyo and 
+Rossi (2013) finds that upset losses increase violent property crime whereas unexpected victories strongly reduce it, 
+though both effects are extremely ­short-lived and mainly due to incapacitation.
+
+
+--- PAGE 4 ---
+1575
+DEPETRIS-CHAUVIN ET AL.: BUILDING NATIONS
+VOL. 110 NO. 5
+opportunity for political dialogue, negotiations, and reforms capable of producing 
+­long-lasting improvements.
+Our results shed new light on the mechanisms available for fostering 
+­nation-building. This is evidently an important question, as many countries fea-
+ture strong ethnic, linguistic, or regional cleavages, which can lead to tensions 
+and even outright violence, with detrimental consequences for economic develop-
+ment (Easterly and Levine 1997; Alesina, Baqir, and Easterly 1999; Alesina and 
+La Ferrara 2005; Miguel and Gugerty 2005). Overcoming such cleavages has long 
+been a crucial challenge in the consolidation of modern states, from nineteenth cen-
+tury Europe to ­present-day developing countries and even developed ones (e.g., 
+Spain, Belgium). This has led many countries to adopt policies aimed at forging a 
+common identity, making citizens see themselves as part of the nation as a whole 
+rather than of their specific group, and “feeling a sufficient amount of commonality 
+of interests, goals and preferences [that] they do not wish to separate from each 
+other” (Alesina and Reich 2015, p. 3; Alesina, Reich, and Riboni 2017).
+However, such policies often include the provision of public services: from mass 
+schooling to military conscription, from infrastructure building to resettlement pro-
+grams (Tilly 1975, Weber 1976, Finer 1975, Ramirez and Boli 1987, Bandiera et al. 
+2019, Conversi 2008, Bel 2011, Bazzi et al. 2019). This requires a substantial level 
+of state capacity, and, as such, poses a clear conundrum: if internal fractionalization 
+is an obstacle to the consolidation of a capable state, it can itself become a major 
+hurdle for the adoption of policies that could overcome it. On the other end of the 
+spectrum are other “softer” and less tangible ­nation-building tools involving the use 
+of symbols, such as the national flag or the national anthem, meant to evoke and 
+reinforce national identity. Yet, while such “banal nationalism” (Billig 1995) may 
+help maintain a national identity that has already been established, it is unlikely to 
+be strong enough to make one emerge.
+Our results point at a middle ground between these two extremes: the experiences 
+perceived by the citizens of a country as being collectively shared between them. 
+Indeed, as pointed out by Anderson (1983) in his seminal work on nationalism, 
+nations are fundamentally “imagined communities,” and highly symbolic and emo-
+tionally charged experiences, such as those created by sporting achievements, can 
+help make the image of the national communion live in each citizen’s mind.
+Our research contributes to various other streams of literature. First, it relates to 
+previous work on the determinants of ethnic identification which indicates that the 
+strength of ethnic identification may be malleable by factors such as electoral com-
+petition, economic modernization, or whether an ethnic group holds power (Eifert, 
+Miguel, and Posner 2010; Robinson 2014; Green forthcoming).4 Yet, due to data 
+limitations and identification issues, it has been difficult for these contributions to go 
+beyond correlations and draw causal conclusions. Our paper fills this gap by provid-
+ing robust causal evidence that the patriotic sentiments primed by important sport-
+ing achievements can affect the strength of ethnic versus national identity. In doing 
+so, we add to the ­micro-level experimental evidence that sports affiliation can reduce 
+4 Berge et al. (2015) finds evidence that priming national identity is not very effective in affecting interethnic 
+cooperation, in the context of an experiment in Kenya, though they also find little evidence of ethnic bias in that 
+context in the first place.
+
+
+--- PAGE 5 ---
+1576
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+ethnic identification (Kurzban, Tooby, and Cosmides 2001) and favor ­cross-group 
+integration (Lowe 2018). We also add to the literature that has shown how shared 
+collective experiences can affect individual attitudes in politically relevant ways 
+(Clingingsmith, Khwaja, and Kremer 2009; Madestam and ­Yanagizawa-Drott 2011; 
+Kaplan and Mukand 2014), which itself builds on a long literature in social psychol-
+ogy, going back to Durkheim, that has addressed the emotional impact of collec-
+tive experiences. As aptly summarized by Páez et al. (2015, p. 172), “doing things 
+together [has] been demonstrated to enhance ­self-categorization as a member of a 
+group, sense of union with others, positive affect, and prosocial behavior. … When 
+expressed collectively, human feelings intensify.”
+Our paper also relates to previous work on the determinants of interpersonal trust 
+which has documented how historical episodes had ­long-lasting effect on contem-
+porary trust attitudes (Nunn and Wantchekon 2011, Buggle 2016, Jacob and Tyrell 
+2010). Our findings indicate that other, more transitory factors, can also have a sub-
+stantial impact on trust attitudes, particularly toward people of other ethnicities. In 
+this respect, our results are especially related to recent work by Robinson (2016), 
+which shows that manipulating the salience of national identity in a “­lab-in-the-field” 
+experiment improves ­interethnic trust, and by Miguel (2004), which argues that 
+­nation-building policies can improve ­interethnic cooperation.
+Our work contributes to the vast literature on the determinants of civil conflict, 
+by documenting that sporting achievements associated with national identity can 
+contribute to reducing violence. On a related note, Bertoli (2017) finds an impact of 
+international football on increasing the likelihood of interstate conflict. This is con-
+sistent with our findings, in that a stronger national identity may come in opposition 
+to outsiders. We find some evidence of increased animosity toward foreigners in the 
+Afrobarometer data, though not conclusively due to low precision.
+The paper is organized as follows. Section  I introduces the data. Sections  II 
+and III present and discuss the empirical strategy and results for the individual- and 
+­country-level analysis, respectively. Section IV concludes.
+I.  Data
+A. National Football Teams’ Matches
+We collect information on all official matches played by men’s national teams of 
+various ­sub-Saharan African countries over the period ­1990–2015; these data are 
+available from the FIFA statistical office (FIFA Statistical Office 2018). (We disre-
+gard countries from the Maghreb region because, for these countries, Afrobarometer 
+surveys did not include questions on ethnic identity.) In particular, we focus on 
+matches played for both the qualifying and the tournament phases of the two most 
+important competitions for African national football teams: the Africa Cup of 
+Nations (ACN) and the FIFA World Cup (WC). For each match we have informa-
+tion on the date, the location, the opponent, the competition, the phase, and the final 
+score. We use the information on the date of the match to combine the data with both 
+the individual survey data and the conflict data described below.
+Overall, for the ­individual-level analysis, we use information from 69 official 
+matches played between 2002 and 2015, for which Afrobarometer surveys were 
+
+
+--- PAGE 6 ---
+1577
+DEPETRIS-CHAUVIN ET AL.: BUILDING NATIONS
+VOL. 110 NO. 5
+administered within a window of 15 days before or after each match. Out of our 
+sample of matches, 31 were wins by the respondent’s national team, 29 were losses, 
+and 9 were draws, with 22 ­country-years (out of 57) experiencing at least 1 victory. 
+We also consider a ­30-day window, for robustness, which increases the number of 
+official matches to 85, and collect information on 66 friendly matches over the same 
+period, for a placebo check.
+For the ­country-level conflict analysis, we also collect information on teams’ 
+standings in ten ACN qualifying rounds held between 1997 and 2015. In particular, 
+we record all teams’ standings before and after the final match of the qualifying 
+stage to identify teams that, prior to the last game, could still qualify to the tourna-
+ment phase, and, among these, those that eventually did. The full list of countries 
+and years exploited in the analysis is shown in online Appendix Table A.1.
+B. Survey Data on Individual Attitudes
+We use individual survey data from the Afrobarometer, a series of nationally 
+representative surveys covering several African countries (Afrobarometer 2016). 
+Specifically, we use five waves (rounds 2 through 6) of the survey, conducted 
+between 2002 and 2015. Interviews are conducted in the local languages, and ques-
+tions are standardized so that responses can be compared across countries. Questions 
+are designed to assess respondents’ attitudes on a range of issues, including attitudes 
+toward democracy, political actors, markets, and civil society.
+For our analysis, we focus on the questions regarding individuals’ identification 
+with the nation and with their own ethnic group, and trust in others, particularly in 
+people from other ethnicities. (We exclude round 1 of the Afrobarometer because it 
+did not ask questions comparing ethnic and national identity.) In addition, we also 
+use information on a range of respondents’ personal characteristics, with particular 
+regard to the main language spoken at home which, following Eifert, Miguel, and 
+Posner (2010), we use as a proxy for ethnic background.5 Overall, we use data from 
+57 survey rounds conducted in 25 sub-Saharan African countries.
+Our main outcome variable is a measure of ethnic identification, which captures 
+the strength of an individual’s ethnic identity relative to national identity. The vari-
+able is based on responses to the following question: “Let us suppose that you had to 
+choose between being a [National ] and being a [respondent’s ethnic group]. Which 
+of these two groups do you feel most strongly attached to? ” Respondents could 
+pick any of the following five options: 0 (“only [National]”), 1 (“more [National] 
+than [Ethnic group]), 2 (“equally [National] and [Ethnic group]),” 3 (“more [Ethnic 
+group] than [National]”), and 4 (“only [Ethnic group]”). We construct a binary mea-
+sure of ethnic identity that takes a value of 1 for all respondents who report feeling 
+“only ethnic” or “more ethnic than national.” 6
+5 Language is the best proxy for ethnic background available in all the waves of the Afrobarometer we use in our 
+analysis. In fact, the Afrobarometer questionnaires did not include explicit questions about the respondent’s ethnic-
+ity for its first two rounds. We exclude from our main analysis individuals with unknown language spoken at home. 
+We also exclude those reporting an ­Indo-European or Arabic language. In online Appendix Table A.2 we show that, 
+for the waves for which data on ethnicity are available, our results are analogous if we include ethnic group fixed 
+effects instead of language group fixed effects.
+6 We use the binary variable because, in Round 2, the information is obtained in binary fashion. More precisely, 
+the respondent first chooses between “national” and “group” identity, and in the latter case may then choose to 
+
+
+--- PAGE 7 ---
+1578
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+In Figure 1, we plot the share of respondents that reported stronger ethnic than 
+national identity, for a selected group of countries over our sample. (The full list is 
+shown in online Appendix Figure A.1.) We can see that the relative strength of eth-
+nic identity varies considerably across countries, and even in the same country over 
+time, possibly also due to the impact of the type of major sports events we inves-
+tigate. One suggestive example in this regard is given by Mali, where more than 
+30 percent of the individuals interviewed in 2002 emphasized ethnic over national 
+identity, but where less than 15 percent did so in 2013, when the Malian national 
+football team achieved third place in the Africa Cup of Nations, its best performance 
+in the history of the competition. Similarly, the share of Zambians who report a 
+strong sense of ethnic identification was greatly reduced in 2013, a year after the 
+country’s historic and unexpected victory in the 2012 ACN. In contrast, the strength 
+of ethnic identity appears to be lower and more stable in a place like Tanzania, 
+which is known for its effective ­nation-building policies (Miguel 2004).
+To explore the impact of national team’s victories on key respondents’ attitudes, 
+we use a number of additional variables. First, we use the standard measure of trust 
+(“trust in fellow countrymen”), defined on a ­4-point scale from 0 (“not at all”) to 3 
+(“a lot”) (This measure is only available in Round 4.) Second, using questions on 
+respondents’ trust in people from other ethnic groups (available only in Round 3), 
+we construct a measure of ­interethnic trust, also defined over the same ­4-point scale. 
+Third, we use two questions from Round 6, asking whether respondents would like 
+having people from a certain group as neighbors, focusing on “People from other 
+ethnic groups” and “Immigrants or foreign workers” (answers from 1 “strongly dis-
+like” to 5 “strongly like”), reversing the original order so that 5 means “strongly 
+dislike.” Fourth, to assess the effect of national team’s victories on support for the 
+government, we code two additional variables: trust in the ruling party (with answers 
+declare his/her group identity as “Language/tribe/ethnic group.” (Other options in the second question included 
+gender or political party, for instance.) In that case, we code the binary variable as equal to 1 for all respondents who 
+chose a group identity of the “Language/tribe/ethnic group” type.
+Figure 1.  Ethnic Identification over Time and across Selected Countries
+0.25
+0.05
+0.10
+0.20
+0.30
+0.15
+Fraction of respondents identifed
+as ethnic over national
+2002−2003
+2005−2006
+2008−2009
+2011−2013
+2014−2015
+Mali
+Tanzania
+Zambia
+
+
+--- PAGE 8 ---
+1579
+DEPETRIS-CHAUVIN ET AL.: BUILDING NATIONS
+VOL. 110 NO. 5
+ranging from 0 “not at all” to 3 “a lot”) and approval of the president (with answers 
+ranging from 1 “strongly disapprove” to 4 “strongly approve”). Finally, to examine 
+whether victories influence respondents’ overall mood, we code two measures of 
+respondents’ assessment of their current living conditions and of the country’s eco-
+nomic situation, as well two measures of how they expect these conditions to evolve 
+in the future.
+In all cases, we code dummy variables for our main analysis: depending on 
+the variables, the dummy takes a value of 1 for “somewhat” / “a lot,” “somewhat 
+like” / “strongly like,” “somewhat approve” / “strongly approve,” “same” / “fairly 
+good” / “very good,” “same” / “better” / “much better.”
+C. ­Country-Level Conflict Data
+To study the impact of national teams’ victories on actual violence, in the last 
+part of our analysis we use ­country-level data on conflict from the Armed Conflict 
+Location and Event Data Project (ACLED). The data, available for the period 
+­1997–2015, include information on the date and location of any episode of politi-
+cal violence (i.e., battles, killings, riots) that involve either the government, rebel 
+groups, militias, or civilians (Raleigh et al. 2010). The data also include informa-
+tion on the severity of the events, measured by the number of associated fatalities. 
+Based on this information we construct three measures of conflict intensity at the 
+­country-week level: (i) the number of conflict events occurred, (ii) a dummy for 
+whether any conflict event occurred, and (iii) the number of casualties associated 
+with these events.
+We also construct analogous measures specifically for ­ethnically related conflict. 
+Though the ACLED data do not explicitly distinguish between ethnic and ­non-ethnic 
+conflict, some of the information in the ACLED records can be used to indirectly 
+make this distinction. Specifically, we code as ­ethnically relevant conflict events that 
+involve the participation of actors classified as ethnic militia or whose denomination 
+refers to an ethnic faction (e.g., “Bete Ethnic Group”), or any event for which the 
+ACLED records include a specific reference to ethnic tensions as cause of violence. 
+Such procedure is of course vulnerable to substantial measurement error, namely to 
+the risk of coding as ­non-ethnic episodes that are in fact driven by ethnic motives. 
+Yet, to the extent that it affects the dependent variable and is unrelated to the timing 
+of qualification, measurement error should only reduce the precision of our esti-
+mates. According to our classification, about 7.2 percent of ­country-week observa-
+tions in our sample have at least one ­ethnically related conflict event.
+To shed further light on the potential mechanisms, we exploit the information on 
+the spatial location of different conflict episodes. We first link the location of conflict 
+events to the location of ethnic groups surveyed in the Ethnic Power Relations (EPR) 
+dataset (Cederman, Wimmer, and Min 2010). The EPR (and its ­geo-coded version, 
+the GeoEPR 2018 dataset (Wucherpfennig et al. 2011)) provides ­ethnic-specific 
+information on political representation (or exclusion) in the national government 
+across space and time, and it classifies ethnic groups as politically relevant if “at 
+least one political organization claims to represent it in national politics or if its 
+members are subjected to ­state-led political discrimination” (Cederman, Wimmer, 
+and Min 2010, p. 99). We distinguish conflict events occurring in areas inhabited by 
+
+
+--- PAGE 9 ---
+1580
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+­politically strong groups (“monopoly” or “dominant” groups, according to EPR) 
+from those in places inhabited by politically weak ones (“discriminated,” “power-
+less,” or “­self-excluded”). About 6 percent and 21 percent of ­country-week observa-
+tions in our sample have at least one conflict event in areas of politically strong and 
+politically weak ethnic groups, respectively.
+Finally, we classified conflict events as occurring in areas with high and low 
+­ethnolinguistic diversity. To do so, we use the Ethnologue dataset (Lewis 2009) 
+to compute the number of languages spoken in each (­first-level) administrative 
+­subnational unit. We classified as low linguistic diversity (high linguistic diversity) 
+location the ­subnational units wherein only one language is (more than 5 different 
+languages are) spoken. About 20 percent (50 percent) of the almost 600 ­first-level 
+­subnational administrative units in ­sub-Saharan Africa host only one language 
+(more than 5 languages). According to our classification, about 9 percent (35 per-
+cent) of ­country-week observations in our sample have at least one ­low-diversity 
+(­high-diversity) conflict event. Summary statistics for the different measures of con-
+flict used in our analysis are reported in online Appendix Tables A.3 and A.4.
+II.  ­Individual-Level Analysis: Ethnic Identification and Trust
+A. Empirical Strategy
+Our empirical strategy to estimate the impact of national team performance on 
+individual attitudes is summarized by the following equation:
+(1)	
+​Outcom​e​i,e,c,m,d,t​  =  α + β Pos​t​i,e,c,m,d,t​
+	
++ γ′ ​X​i​ + ​θ​c,m​ + ​δ​e,t​ + λ′ ​Λ​d​ + ​ε​i,e,c,m,d,t​​ ,
+where ​i​, ​e​, ​c​, ​m​, ​d​, and ​t​ denote respectively individual, language group (a proxy 
+for ethnicity), country, match, date of the interview, and year. ​Outcome​ is one of 
+the attitudinal variables described in the previous section. Post is the main regressor 
+of interest, and takes value 1 if the respondent was interviewed in the days after an 
+official match (or victory) of her national team, and 0 otherwise. The variable ​​X​i​​ is 
+a vector of baseline individual controls (i.e., education, gender, age, age squared, 
+unemployment status, and an indicator for living in a rural area); ​θ​ and ​δ​ are coun-
+try × match and language group × year fixed effects, respectively; ​​Λ​d​​ is a vector 
+of dummies for day of the week, day of the month, and month of the year to which 
+the interview date belongs, to account for possible ­within-year, -month, or -week 
+patterns in survey responses; ​ε​ is an error term.
+The presence of ­country-match fixed effects means that, when estimating equa-
+tion (1), we identify the effect of Post by comparing respondents interviewed after 
+a given match (or victory) of their national team with all other respondents of the 
+same country and language group before that very same match. As for standard 
+errors, we will show results under different clustering approaches, but in our bench-
+mark specifications we cluster by country × year, to be relatively conservative. Also, 
+since we run our econometric model on multiple outcomes and we test ­multiple 
+
+
+--- PAGE 10 ---
+1581
+DEPETRIS-CHAUVIN ET AL.: BUILDING NATIONS
+VOL. 110 NO. 5
+­heterogeneous effects, we report False Discovery Rate (FDR) adjusted ­p-values fol-
+lowing Anderson (2008).
+We mainly focus on the sample of individuals interviewed in the 15 days before 
+and after official matches of their national football team. We consider, in particular, 
+the sample of respondents exposed to only one match, which includes over 37,000 
+individuals between treatment and control groups.7 Descriptive statistics are pre-
+sented in online Appendix Table A.5. In particular, 47 percent of the individuals 
+were exposed to a match in the 15 days prior to the interview; of these roughly 
+42 percent experienced a victory, while 41 percent and 16 percent saw their national 
+team losing and drawing, respectively.
+Our identification strategy relies on the ­quasi-random nature of the date and final 
+result of matches relative to the timing of the Afrobarometer interviews. Hence, our 
+identifying assumption is that national teams’ matches did not interfere with the 
+implementation of the survey, nor did victories interfere differently compared to 
+­nonvictories. Such possibilities seem especially unlikely since, as emphasized by 
+Eifert, Miguel, and Posner (2010), the logistics involved in the implementation of 
+the Afrobarometer survey (selection of the enumeration sites, setting up of the field 
+teams, etc.) requires many months if not years of preparation, and are hardly related 
+to the occurrence of sports events let alone to their unpredictable result.
+To assess the validity of our strategy, we conduct a balance test for several respon-
+dent characteristics that may potentially correlate with the timing of the interview 
+and the outcomes of interest. These include: gender, education, age, unemployment 
+status, religious membership, whether the respondent belongs to the country’s ethnic 
+majority, whether (s)he lives in a rural area, and whether (s)he lives in an area where 
+basic public goods are available.8 To control for the possibility of social desirability 
+bias, we also test that several characteristics of the interviewer are not systematically 
+different between treatment and control groups. These include: gender, education, 
+whether the interviewer speaks the same language as the respondent, and whether 
+the interviewer thought anyone influenced the respondent during the interview.9 We 
+perform two separate balance tests: one comparing individuals interviewed before 
+and after a match, regardless of its outcome, and another comparing individuals 
+interviewed before and after a victory. To ensure that we compare respondents from 
+the same country interviewed around the same match, we regress each variable on 
+7 We chose a rather tight time window to avoid having the same individual be in the treatment group for one 
+game and in the control group for another one. We later show that our results remain virtually unchanged when rep-
+licating the analysis using a larger time window (i.e., 30 days). (Online Appendix Figure A.2 shows the distribution 
+of interviews in the proximity of the relevant matches.) By the same token, focusing on individuals treated by just 
+one game makes the analysis and the interpretation of the results easier, since it does not require aggregating the 
+potentially contrasting results of subsequent games (e.g., one win followed by one loss). For robustness, we also 
+show that the results are similar when using the larger sample of respondents potentially exposed to one or more 
+matches, which includes more than 45,000 individuals (online Appendix Table A.6). In this case the treatment 
+variable is the share of matches won, or the share of available points won. One limitation of looking at the impact of 
+multiple games is that this approach does not allow for the inclusion of ­country-match ­fixed effects.
+8 Evidence suggests that these characteristics can potentially affect ethnic sentiments. For instance, Robinson 
+(2016) shows that urban status, education, gender, and formal employment all positively predict national identifi-
+cation (relative to ethnic). Regarding age, instead, Eifert, Miguel, and Posner (2010) finds no evidence that young 
+people are more likely to ­self-identify in ethnic terms.
+9 A large literature argues that interviewers’ observable traits such as race, ethnicity, and gender can influence 
+respondents’ answers (see West and Blom 2017 for a summary). In particular, using Afrobarometer data, Adida 
+et al. (2015) finds that respondents give systematically different answers to coethnic and ­non-coethnic interviewers.
+
+
+--- PAGE 11 ---
+1582
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+either treatment including ­country-match fixed effects, and cluster standard errors 
+at the same level.
+The results are reported in Table 1. Individual characteristics are largely balanced 
+between respondents interviewed before and after the same match (panel A), as 
+well as when comparing individuals interviewed before and after a victory of the 
+national team (panel B). The only exceptions (all in panel B) are education, gender, 
+and rural status. Regarding the first two variables, the differences between treat-
+ment and control group are very small: on average individuals interviewed after a 
+victory were only 0.9 percent more likely to be men than women ( ­p-value: 0.072), 
+and displayed lower educational attainment ( ­p-value: 0.039) by just 15 percent of 
+a standard deviation (or 10 percent of its mean value). Regarding rural status, the 
+comparison indicates that individuals in rural areas are somewhat more likely to be 
+interviewed after a victory ( ­p-value: 0.023). Since men, people in rural areas, and 
+less educated people are generally more likely to identify themselves with their eth-
+nicity (in our data, as per online Appendix Table A.7, and consistent with Robinson 
+2014), gender is the only imbalance that would work in the direction of finding a 
+negative effect of wins on ethnic identification. In any event, in all regressions pre-
+sented below we control for the entire set of respondents’ individual characteristics, 
+though their inclusion does not affect our results.
+B. Results: National Team’s Victories and Ethnic Identification
+In Table 2, we test the empirical relationship between national team perfor-
+mance and ethnic identification on the baseline sample of all respondents within 
+15 days of just one match. We start off by regressing the dummy for stronger eth-
+nic than national identity on a dummy for being interviewed after a match, con-
+trolling for ­country-match and language group × year dummies. The inclusion of 
+Table 1—Balance in Covariates
+Panel A. ­Post-game
+Panel B. Post-victory
+ 
+Covariate
+ 
+Observations
+ 
+Mean
+ 
+Estimate
+Standard 
+errors
+ 
+Estimate
+Standard 
+errors
+Male
+37,134
+0.50
+0.006
+0.004
+0.009
+0.005
+Education
+37,134
+3.08
+−0.136
+0.150
+−0.317
+0.155
+Age
+37,134
+36.9
+0.804
+0.702
+1.534
+0.800
+Unemployed
+37,134
+0.30
+0.000
+0.013
+−0.003
+0.013
+Major ethnicity
+37,134
+0.46
+−0.016
+0.046
+−0.016
+0.039
+Rural
+37,134
+0.61
+0.098
+0.074
+0.173
+0.076
+Religious group member
+37,005
+0.42
+−0.026
+0.016
+−0.017
+0.024
+Public goods
+37,134
+0.48
+−0.001
+0.020
+−0.030
+0.017
+Same language
+37,134
+0.47
+−0.038
+0.032
+−0.018
+0.042
+Influenced by others
+37,087
+0.05
+−0.004
+0.006
+−0.002
+0.008
+Male interviewer
+37,134
+0.56
+−0.002
+0.011
+−0.004
+0.017
+Education interviewer
+36,480
+7.11
+−0.022
+0.046
+−0.064
+0.057
+Age interviewer
+37,134
+28.6
+0.012
+0.114
+0.147
+0.134
+Notes: Robust standard errors in parentheses clustered at ­country-match level. Each panel presents point estimates 
+and standard errors for 13 regressions of a covariate (listed at the left) on ­Post-game (panel A) and ­Post-victory 
+(panel B). ­Post-game takes value 1 if the respondent was interviewed within 15 days after a game (regardless of 
+the result), 0 otherwise. Post-victory takes value 1 if the respondent was interviewed within 15 days after a victory, 
+0 otherwise. All estimates are based on OLS regressions using 69 ­country-match dummies to ensure that the com-
+parison in the covariates is made between respondents in the proximity of the same game and in the same country.
+
+
+--- PAGE 12 ---
+1583
+DEPETRIS-CHAUVIN ET AL.: BUILDING NATIONS
+VOL. 110 NO. 5
+­country-match fixed effects, in particular, allows us to control for all ­country-level 
+confounds that vary from one match to another, such as political or economic events 
+(e.g., national elections, ethnic conflicts, ­nationwide economic policies, yearly vari-
+ation in commodity prices, etc.).
+The result, in column 1, indicates that national team matches have a significant 
+negative effect on the probability of ­self-identifying with one’s own ethnicity as 
+opposed to the country as a whole. The coefficient becomes slightly larger and more 
+significant in columns 2 and 3, where we include the baseline set of individual con-
+trols, as well as seasonal fixed effects to deal with the possibility that attitudes may 
+vary over the year.
+The collective experience of a national team match therefore affects the likeli-
+hood of ethnic identification. What column 4 shows, however, is that it is actually 
+the experience of victory that really weakens ethnic identity. In fact, as can be seen in 
+column 5, drawing or losing a match has no distinct effect. The absence of an effect 
+in the case of defeats is especially interesting, as it suggests that negative collective 
+experiences do not necessarily undermine national unity.10 Finally, in ­column 7 we 
+10 The idea that people tend to internalize success and externalize failure is present in the social psychology lit-
+erature on success/failure attributional bias (Miller and Ross 1975). The presence of this type of bias among sports 
+Table 2—National Team’s Performance and Ethnic Identification
+Ethnic over national identity (­0–1 dummy)
+OLS
+OLS
+OLS
+OLS
+OLS
+OLS
+Probit
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+­Post-game
+−0.026
+−0.029
+−0.036
+−0.001
+(0.012)
+(0.014)
+(0.014)
+(0.016)
+­Post-victory
+−0.052
+−0.053
+−0.053
+−0.243
+(0.019)
+(0.017)
+(0.016)
+(0.062)
+[0.010]
+[0.010]
+[0.010]
+­Post-draw
+−0.026
+(0.039)
+­Post-defeat
+−0.000
+(0.017)
+­Post-victory marginal effect
+−0.048
+(0.012)
+Country × match FE
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Language × year FE
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Individual controls
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Seasonal FE
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Observations
+37,060
+37,060
+37,060
+37,060
+37,060
+37,060
+35,305
+R2
+0.094
+0.102
+0.104
+0.104
+0.104
+0.104
+—
+Notes: Robust standard errors clustered by country × year in parentheses. False discovery rate (FDR) adjusted 
+­p-values for Post-victory are reported in square brackets (Anderson 2008). The outcomes (all dummies) accounted 
+for in the ­p-value adjustment are: ethnic over national identity, trust in countrymen, ­interethnic trust, like neigh-
+bors from other ethnicities, dislike foreign neighbors, trust ruling party, president’s approval, and four indicators for 
+the assessment of present and future own and country’s economic conditions. Sample includes respondents inter-
+viewed within 15 days before and after an official game. Post-game, Post-victory, Post-draw, and Post-defeat take 
+value 1 if the respondent was interviewed in the 15 days after a game, a victory, a draw, or a loss, respectively, and 
+0 otherwise.
+
+
+--- PAGE 13 ---
+1584
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+show that the results are qualitatively similar when estimating a ­nonlinear probit 
+model instead of the linear probability model used in the previous columns.
+The estimated effect in column 6 is quite large: individuals interviewed after 
+national team’s victories are 5.3 percentage points less likely to report a strong sense 
+of ethnic identity than other respondents of the same language group interviewed 
+just before; this corresponds to over a 37 percent decrease in the average probability 
+of ethnic ­self-identification.
+Next we examine how the effect on ethnic identification evolves in the days after 
+a victory. In Figure 2, we plot the estimated coefficients and 95 percent confidence 
+intervals for dummies for ­3-day periods before and after the victory. The coefficients 
+are estimated from a unique regression in which we control for individual charac-
+teristics, seasonal, country × match, and language group × year fixed effects. Since 
+we normalize the coefficient for the three days before the victory to 0, the other 
+coefficients indicate how ethnic identification changes over time relative to the eve 
+of the event. The figure confirms that individuals are less likely to report a strong 
+sense of ethnic identification after a victory of the national team, and indicates that 
+the effect persists and, if anything, becomes stronger several days after the match. 
+fans specifically is also ­well established (Wann and Dolan 1994), as is the tendency to associate with successful 
+teams (Wann 2006).
+Figure 2. Ethnic Identity before and after National Team’s Victories
+Notes: The figure plots the coefficients and the 95 percent confidence intervals for nine dummies indicating ­3-day 
+blocks from 15 days before to 15 days after a victory of the national football team. The coefficient for the period 
+between 3 to 1 days before the match is normalized to 0. Confidence intervals are based on ­heteroskedasticity-robust 
+standard errors clustered by country × year. The coefficients are estimated from a unique regression in which we 
+control for individual characteristics, seasonal dummies, country × match and language group × year fixed effects.
+−0.15
+−0.1
+−0.05
+0
+0.05
+Impact on ethnic identifcation
+−15
+−12
+−9
+−6
+−3
++3
++6
++9
++12
++15
+Distance to the match
+
+
+--- PAGE 14 ---
+1585
+DEPETRIS-CHAUVIN ET AL.: BUILDING NATIONS
+VOL. 110 NO. 5
+In contrast, ethnic identification does not seem to evolve in any particular way in the 
+days prior to the match.11
+C. Interpretation
+What drives the effect of national team victories on strengthening national iden-
+tity? To shed light on that question, we first explore what types of victories are more 
+likely to affect the strength of ethnic sentiments. In the first column of Table 3, we 
+look at whether friendly matches affect ethnic identity, and how this compares to the 
+impact of victories in official matches documented above. The results indicate that 
+victories in friendly matches, which typically have a much lower profile and attract 
+relatively little attention, have virtually no effect on ethnic identification. This is 
+11 Our results are robust to a number of specification checks, reported in the online Appendix. We experiment 
+with (i) different levels of clustering and fixed effects combinations (online Appendix Table A.8); (ii) alternative 
+time windows (online Appendix Table A.9); (iii) excluding Afrobarometer waves, countries, and matches, one at 
+a time (online Appendix Figures A.3 and A.4); (iv) dealing with potentially influential matches (weighing regres-
+sions by number of respondents, excluding games with relatively few or many respondents, excluding observations 
+based on their DFBETA) (online Appendix Table A.10). It is also robust to using the original ­five-point measure of 
+ethnic identification (not available in all rounds), when it comes to magnitudes, though with less precision (online 
+Appendix Table A.11).
+Table 3—National Team Victories and Ethnic Identity: Stakes and Heterogeneous Effects
+Ethnic over national identity (­0–1 dummy)
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+­Post-victory
+0.019
+−0.046
+−0.054
+−0.054
+−0.053
+−0.052
+−0.058
+−0.074
+(0.015)
+(0.016)
+(0.016)
+(0.015)
+(0.017)
+(0.015)
+(0.019)
+(0.016)
+[0.013]
+[0.006]
+[0.006]
+[0.006]
+[0.006]
+[0.009]
+[0.001]
+Interaction
+−0.061
+0.014
+−0.012
+0.001
+0.049
+−0.034
+−0.280
+(0.020)
+(0.031)
+(0.031)
+(0.010)
+(0.027)
+(0.157)
+(0.137)
+[0.008]
+[0.867]
+[0.867]
+[0.942]
+[0.13]
+[0.942]
+[0.085]
+Uninteracted term
+—
+—
+—
+—
+—
+−0.023
+—
+—
+(0.012)
+Interaction term
+None
+Rivalry
+Home
+game
+Wide
+margin
+Goals
+in game
+State
+presence
+Diversity
+country
+Diversity 
+team
+Individual controls
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Seasonal FE
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Language × year FE
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Country × match FE
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Sample
+Friendly 
+matches
+Baseline
+Baseline
+Baseline
+Baseline
+Baseline
+Baseline
+Baseline
+Observations
+40,392
+37,060
+37,060
+37,060
+37,060
+37,060
+34,450
+26,186
+­R2
+0.087
+0.104
+0.104
+0.104
+0.104
+0.104
+0.107
+0.113
+Notes: Robust standard errors clustered at the country × year level in parentheses. False Discovery Rate (FDR) 
+adjusted ­p-values are reported in square brackets (Anderson 2008). In addition to all the interacted models pre-
+sented in this table, the following alternative heterogeneous effects were also accounted for in the ­p-value adjust-
+ment (results in the online Appendix): rural status, unemployment status, gender, education, age, and being part 
+of the ethnic majority. ­Post-victory takes value 1 if the respondent was interviewed within 15 days after a victory, 
+0 otherwise. To ease the comparison with previous tables, variables in the interaction terms were demeaned. State 
+presence is computed as the mean value of three indicators coded by Afrobarometer’s interviewer at the enumer-
+ation area: presence of schools, post offices, and paved roads. National diversity is based on the ELF index from 
+Fearon and Laitin (2003). Team diversity is computed as a ELF index based on the ethnic composition of the 
+national team in the same year of the Afrobarometer’s wave.
+
+
+--- PAGE 15 ---
+1586
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+consistent with the view that ­low-stakes games are less effective than ­high-stakes 
+ones at spurring patriotic fervor.
+We then test the hypothesis that victories against traditional rivals are more 
+consequential than other victories. To do so, we interact our ​Post-victory​ 
+variable with an indicator of traditional footballing rivalries.12 The results show 
+that, though all victories negatively affect ethnic identification, the effect is consid-
+erably larger for victories against traditional rivals, which arguably trigger a stron-
+ger emotional reaction. While this result is coming from a relatively small number 
+of observations, as just under 10 percent of the sample involves rivalry matches, 
+it is nevertheless consistent with the idea that national identity is strengthened in 
+opposition to a salient foreign outside group.
+In column 3 we focus on the heterogeneous effect of victories in matches played 
+at home. The fact that the interaction term is small and not statistically significant, 
+and that ​Post-victory​ is still associated with a significant decline in ethnic identifica-
+tion, suggests that the effect is not driven by respondents’ direct participation in the 
+event. This underlines the imagined aspect of the shared experiences triggered by 
+national team performance.
+In column 4 we examine whether winning by a large margin boosts pride in the 
+national team and reduces ethnic identification even further. To do so, we interact 
+the ​Post-victory​ dummy with a dummy for whether the team won by two goals 
+or more (i.e., the top quintile of the distribution). We find a relatively small coef-
+ficient, suggesting that blowouts are not more powerful in terms of shifting iden-
+tities, perhaps because they are generally indicative of less competitive matches.
+In column 5 we examine whether victories in matches with a large number of 
+goals are associated with a larger effect. This exercise allows us to test whether 
+our baseline effect is driven by enthusiasm for witnessing a particularly spectacular 
+game rather than a genuine increase in national pride. Again, we find the interac-
+tion to be small and insignificant, thus providing little support for this alternative 
+hypothesis.
+We then turn attention to whether certain segments of the population are more 
+responsive to the patriotic influence of national teams’ victories. In particular, 
+interacting the dummy ­Post-victory with various individual characteristics, we 
+test whether the effect is larger for men versus women, for younger versus older 
+cohorts, for more versus less educated individuals, for people living in rural versus 
+urban areas, and for people belonging to the largest ethnic group in the country. The 
+results, presented in online Appendix Table A.7, indicate that none of these attri-
+butes are associated with a stronger effect of national team victories. This suggests 
+that important sporting achievements influence the public as a whole, and not just 
+sports fans (arguably disproportionately male), or people who are more likely to 
+12 Traditional rivalries in ­sub-Saharan Africa are often determined by the existence of a shared border or pre-
+vious conflict, but others are more specific to the sporting history. Specifically, the set of rivalries we identified 
+is: ­Benin-Togo, Burkina ­Faso-Ivory Coast, ­Cameroon-Egypt,­ Cameroon-Nigeria, Cape ­Verde-Guinea-Bissau, 
+Congo ­DR-Ghana, Congo DR-Rwanda, ­Ghana-Egypt, ­Ghana-Ivory Coast, ­Ghana-Congo DR, ­Ghana-Nigeria, 
+­Guinea-Guinea-Bissau, Ivory ­Coast-Senegal, Ivory ­Coast-Mali, ­Nigeria-Algeria, ­Senegal-Nigeria, South 
+­Africa-Zambia, and ­Zambia-Zimbabwe. The list is based on Wikipedia (https://en.wikipedia.org/wiki/List_
+of_association_football_rivalries#CAF_zone), the Confederation of African Football website (www.cafonline.
+com), and the news site Jeune Afrique (www.jeuneafrique.com).
+
+
+--- PAGE 16 ---
+1587
+DEPETRIS-CHAUVIN ET AL.: BUILDING NATIONS
+VOL. 110 NO. 5
+have a coethnic in the national team (as members of the ethnic majority), or to come 
+in contact with other ethnicities (arguably in urban areas).13
+We can also study specifically the link between our results and ­nation building. 
+In particular, we examine how the effect of national team victories depends on the 
+presence of the state at the local level. We use the availability of basic public goods 
+as a proxy for state presence since poor public good provision may arguably gener-
+ate a sense of disconnect from the rest of the nation. Specifically, we use informa-
+tion from the Afrobarometer surveys regarding the presence of public schools, post 
+offices, and paved roads in the area where the respondent is located, and consider the 
+average of these three indicators. As shown in column 6 of Table 3, state presence is, 
+unsurprisingly, associated with reduced ethnic sentiment in general. However, state 
+presence also dampens the impact of national team victories in reinforcing national 
+identity over ethnic allegiances.
+This result is suggestive of how different forms of nation building might interact 
+with each other. The indicators that we include in our measure are very much the 
+sort of public goods that are often seen as vehicles for nation building: inculca-
+tion via schooling, as well as easier connection with the rest of the country. In our 
+context, these seem to operate as substitutes for the impact of shared experiences: 
+perhaps there is less scope for further reinforcing national identity where that has 
+already been made stronger through other means.
+We further test this idea by looking at how the effect of national team victo-
+ries varies depending on the level of ethnic diversity in the country. To this end, in 
+column 7 we interact the ​Post-victory​ dummy with ethnic diversity at the national 
+level, as measured by Fearon and Laitin’s (2003) ELF index. While the negative 
+coefficient on the interaction term is suggestive of a stronger effect for more diverse 
+countries, the lack of precision does not allow us to say something more definitive.
+Finally, we ask whether the impact of national team performance may be related 
+to a “role modeling” effect: the idea that showcasing how different groups can coop-
+erate to achieve success against a common foreign adversary. For that we use the 
+data we collected on the ethnic composition of the national team rosters.14 Column 8 
+in Table 3 shows that greater team diversity is associated with a stronger impact 
+of national team victories. This additional effect is quite large: if team diversity is 
+increased by one standard deviation (i.e., 0.126), the total impact of a victory would 
+be approximately 50 percent larger.
+13 Although the lack of a significant difference in the impact of victories between men and women may seem 
+surprising at first, evidence suggests that African women are very much interested in football and very supportive 
+of their national football team. For example, according to a report on “Global Interest in Football” by Nielsen 
+Sports, 83 percent of Nigerians and 66 percent of South Africans report being interested in football (compared to 
+67 percent in Brazil and Italy, and 61 percent in Germany). Similarly, according to a survey conducted by GeoPoll 
+among African fans during the 2018 FIFA World Cup: “a majority of both male and female respondents across all 
+six countries [Ghana, Nigeria, Uganda, Senegal, Kenya, and Tanzania] are aware of the occurrence of the World Cup 
+this year. Across all six countries, there is no significant difference between male and female respondents regarding 
+who will be watching World Cup matches” (GeoPoll 2018, p.17).
+14 To construct the measure of team ethnic diversity, we first downloaded the official team rosters for the 
+relevant year, as well as the basic personal information about each player, from the website https://www.­national-
+football-teams.com/. We then hired ­freelancers from different ­sub-Saharan African countries and asked them to 
+code the (most likely) ethnicity of each player on their country’s national football team based on (i) the player’s 
+first and last name, (ii) the player’s place of birth, (iii) miscellaneous information about the player from local 
+media and/or from the player’s web page (when available). In online Appendix Table A.12 we report the list of 
+all the ­team-years for which we were able to collect information on players’ ethnicity.
+
+
+--- PAGE 17 ---
+1588
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+In sum, the analysis indicates that shared experiences help build national identity 
+in specific ways that are more effective in environments where other nation-building 
+strategies are less so, and that this may work through a “role modeling” mechanism.
+D. National Team Victories and ­Interethnic Trust
+Having shown that national team victories strengthen individual identification 
+with the nation, we now turn to the question of whether they also affect the propen-
+sity to trust others, and particularly those from other ethnicities. First, we look at the 
+effect of victories on trust toward fellow countrymen. In column 1 of Table 4, we 
+estimate our baseline specification with country × match fixed effects using trust 
+in countrymen as the dependent variable. The result indicates that, following a vic-
+tory of the national team, individuals become more likely to trust their compatriots. 
+Specifically, interpersonal trust increases by 6.3 percentage points after a victory 
+(14 percent of its mean value).
+While this could in principle be consistent with a general effect of sporting success 
+on ­prosocial behavior (Platow et al. 1999), in column 2 we test whether the effect 
+is stronger for ­interethnic trust, using as dependent variable the ­self-reported mea-
+sure of trust in people of other ethnic groups. Again the coefficient on ­Post-victory 
+is positive and significant; furthermore, it is larger than the one for trust in fellow 
+countrymen, which suggests a stronger effect on trust outside one’s own ethnicity. 
+The sample size is considerably smaller than in our main analysis, owing to the fact 
+that each trust question was only asked in a single wave of the Afrobarometer, and 
+this poses a challenge from the standpoint of computing standard errors, due to the 
+Table 4—National Team’s Victories and Trust in Others
+Trust in 
+countrymen
+­Interethnic 
+trust
+Like neighbors 
+other ethnicities
+Dislike foreign
+neighbors
+(1)
+(2)
+(3)
+(4)
+­Post-victory
+0.063
+0.140
+0.102
+0.019
+(0.021)
+(0.040)
+(0.030)
+(0.018)
+[0.021]
+[0.018]
+[0.013]
+[0.387]
+Individual controls
+Yes
+Yes
+Yes
+Yes
+Seasonal FE
+Yes
+Yes
+Yes
+Yes
+Language × year FE
+Yes
+Yes
+Yes
+Yes
+Country × match FE
+Yes
+Yes
+Yes
+Yes
+Observations
+9,355
+7,973
+7,511
+7,497
+­R2
+0.140
+0.169
+0.162
+0.153
+Notes: Robust standard errors clustered at the country ​×​ year level in parentheses. False 
+Discovery Rate (FDR) adjusted ­p-values are reported in square brackets (Anderson 2008). The 
+outcomes (all dummies) accounted for in the ­p-value adjustment are: ethnic over national iden-
+tity, trust in countrymen, ­interethnic trust, like neighbors from other ethnicities, dislike foreign 
+neighbors, trust ruling party, president’s approval, and 4 indicators for the assessment of pres-
+ent and future own and country’s economic conditions. ­Post-victory takes value 1 if the respon-
+dent was interviewed in the 15 days after a victory, 0 otherwise. Trust in countrymen takes 
+value 1 if respondent trusts other countrymen “somewhat” or “a lot,” 0 otherwise. ­Interethnic 
+trust takes value 1 if respondent trusts “somewhat” or “a lot” people of other ethnicities, 0 oth-
+erwise. Like neighbors other ethnicities takes value 1 if respondent would “like” or “strongly 
+like” having neighbors from other ethnicities, 0 otherwise. Dislike foreign neighbors takes 
+value 1 if respondent would “dislike” or “strongly dislike” having immigrants or foreign work-
+ers as neighbors, 0 otherwise. For ordered probit estimates, see online Appendix Table A.19.
+
+
+--- PAGE 18 ---
+1589
+DEPETRIS-CHAUVIN ET AL.: BUILDING NATIONS
+VOL. 110 NO. 5
+relatively small number of clusters. It is thus particularly important to note that the 
+magnitude of the estimated coefficient is economically meaningful, as it represents 
+an increase in ­interethnic trust equivalent to 30 percent of its mean value in our 
+sample.
+To further test for the effect on the willingness to interact with members of other 
+ethnic groups, in column 3 we use as dependent variable the response to the question 
+on whether the respondent would like to have ­noncoethnic neighbors. Consistent 
+with the previous findings, national team victories improve respondents’ reported 
+inclination to live near other ethnicities.
+This raises the natural question of whether the more favorable attitudes toward 
+­noncoethnic fellow citizens come at the expense of attitudes toward foreigners. It 
+seems quite plausible that the effect of sporting success on national identity is built 
+in opposition to the outside groups being confronted on the football pitch (Heinilä 
+1985, Hargreaves 1992). For this we take advantage, in column 4, of a similar ques-
+tion on preferences regarding neighbors, from Round 6 of the Afrobarometer, asking 
+about immigrants and foreign workers. The point estimate indicates a 10 percent 
+increase in dislike for foreigners as neighbors, relative to the sample average, but 
+precision is relatively low. While we cannot rule out a quantitatively meaningful 
+impact, the evidence does not particularly support the interpretation that strength-
+ened national identity within the country comes at the price of increased animosity 
+toward outsiders.
+E. National Team Victories and Other Attitudes
+An important question is whether weaker ethnic identity and higher ­interethnic 
+trust reflect a genuine change in attitudes in that domain, or rather a generally 
+euphoric mood due to the national team’s achievements. In particular, it could be 
+the case that the impact of sporting achievements could work through a strictly indi-
+vidual positive predisposition or perception of increased ­well-being (as in Edmans, 
+García, and Norli 2007 or Eren and Mocan 2018), as opposed to (the perception of) 
+a shared collective experience between fellow citizens.
+One way to test this alternative hypothesis is to examine whether victories are 
+also associated with changes in other attitudes unrelated to ethnic sentiments: we 
+would expect that the positive individual sentiment would spill over to dimensions 
+other than ethnic identity. In online Appendix Table A.13 we find that victories do 
+not increase respondents’ trust in the ruling party or the approval rate of the pres-
+ident, indicating that ­football-driven patriotic shocks do not necessarily translate 
+into generally more positive political attitudes and into higher support for incum-
+bent rulers, at least in the ­sub-Saharan African context.15 Neither does the effect of 
+national team victories seem to be driven by general euphoria or optimism, as we 
+find no impact on whether a respondent reports having a positive assessment of the 
+country’s current economic conditions, positive expectations of whether they will 
+improve in the near future, or positive assessments of their own living conditions 
+(see online Appendix Tables A.14 through A.18). While national team victories 
+15 Evidence that sports victories or losses, and the resulting euphoria or disappointment, can affect support for 
+incumbents is available, for example, from Healy, Malhotra, and Mo (2010) and Corbi (2018).
+
+
+--- PAGE 19 ---
+1590
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+could certainly have a general “­warm-glow” effect on individuals, the evidence here 
+seems consistent with a role played by the shared collective experience as such.
+III.  ­Country-Level Analysis
+The results presented so far indicate that ­football-driven positive shocks contrib-
+ute to lower ethnic identification and decreased ­interethnic mistrust. An important 
+related question is whether those shocks may also reduce actual violence, and how 
+­long-lasting this effect may be. An extensive literature has documented the links 
+between ethnicity and civil conflict (Fearon and Laitin 2003, Doyle and Sambanis 
+2006), and noted that ethnic identity can both affect and be affected by conflict 
+(Horowitz 2001, Sambanis and Shayo 2013).
+To shed light on this issue we analyze how civil conflict in ­sub-Saharan African 
+countries evolves following important achievements of the national football teams. 
+For this, we need to focus on achievements that are sufficiently important that they 
+would conceivably have a detectable impact on the prevalence of conflict.
+A. Empirical Strategy
+We exploit ­quasi-experimental variation in whether a team qualified for the tour-
+nament phase of the Africa Cup of Nations (ACN), the most important continen-
+tal competition for African national teams, which generates widespread popular 
+attention. The ACN involves two phases: (i) a qualifying stage in which all teams 
+compete, and (ii) a final (or tournament) stage in which only the teams that ranked 
+highest in the qualifying round compete for the title. In the qualifying round teams 
+are divided into groups, each team plays each of the others twice (one at home and 
+one away) with each match assigning a certain number of points, and the team(s) 
+with the most points (usually one or two) qualify to the final round. The qualifying 
+stage is usually very competitive, and qualification is often decided only in the last 
+match day based on just a narrow point margin or goal difference.16
+Our strategy consists in (i) identifying teams in the same group that, until the last 
+match day of the group stage, were both in a position to qualify, but one of which 
+barely did while the other did not, and (ii) compare the evolution of conflict in the 
+two countries in the six months before and after the qualification.17
+Our identification strategy is summarized by the following equation:
+(2)  ​Con​f​c,q,t​  =  α + βPost-​Qual​c,q,t​ +  ​ ∑ 
+k=1
+​ 
+4
+  ​δ​ k​Conf​c,q,t−k​ + ​ ∑ 
+t=−25
+​ 
+25
+  ​Γ​t​ + ​Π​t​ + ​Δ​c,q​ + ​ε​c,q​​ ,
+16 The qualification phase for the 2013 ACN did not involve a group stage, but rather sequential ­two-legged 
+­knock-out pairs. We thus consider in our analysis only the last match of the final ­two-legged ­knock-out stage. 
+Our quantitative and qualitative results do not depend on the inclusion of the 2013 qualification phase (see online 
+Appendix Figure A.7).
+17 Qualification to the WC provides a potentially similar experiment, but poses challenges regarding the defini-
+tion of control and treatment groups (e.g., Angola barely qualified to the ACN in 1997, while barely missing out on 
+the WC in the same year) and adds relatively little variation. This is because, in addition to the WC only happening 
+every four years, there are few spots for African countries (five, since 1998). What is more, most of those are typi-
+cally taken by a very small number of historically strong teams, many of which are from North Africa. In any case, 
+we will discuss the implications of including WC qualifiers into the sample, and show that results are in line with 
+the ACN results, though with interesting exceptions that help shed light on mechanisms.
+
+
+--- PAGE 20 ---
+1591
+DEPETRIS-CHAUVIN ET AL.: BUILDING NATIONS
+VOL. 110 NO. 5
+where ​c, q​, and ​t​ denote country, qualification, and week to and since qualification 
+(−25 to +25). The variable ​Conf​ is a measure of conflict intensity; ​Post-Qual​, our 
+regressor of interest, is a dummy variable that equals 1 for countries of teams that 
+qualified only in the weeks after qualification, and 0 otherwise; ​∑ t=−25​ 
+25 
+​ ​Γ​t​​ is a set of 
+dummies for each of the weeks before and after the qualification, while ​​Π​t​​ and ​​Δ​c,q​​ 
+are ­calendar-month and country × qualification campaign fixed effects, respec-
+tively. To control for possible auto correlation in conflict events, we also control for 
+the occurrence of conflict in the previous weeks (up to four). (Note that our number 
+of periods is sufficiently large (50), so that the typical Nickell bias (Nickell 1981) 
+from combining lagged dependent variable and fixed effects is less of a concern.) 
+­Heteroskedasticity-robust standard errors are clustered by country × qualification 
+campaign.
+Close Qualification to ACN.—Our key comparison is between countries that 
+barely qualified to the ACN finals (our treatment group) and those that did not (our 
+control group). The underlying identification assumption is that if two teams in the 
+same group got to the last match day with concrete chances of qualifying, which one 
+would actually qualify will be determined by ­quasi-random circumstances, such as a 
+goal scored in the final minutes of the last match by one side or the other. One exam-
+ple of such scenario, depicted in Figure 3, is available from 2012, when three teams 
+in qualifying group A, Mali, Zimbabwe, and Cape Verde, were in position to qualify 
+until the last match day while only one team, Liberia, was already eliminated. In the 
+last two matches while Cape Verde defeated Zimbabwe, Mali was not able to beat 
+Liberia but still managed to qualify due to a ­one-goal difference. In this case Mali 
+would be included in the treatment group while both Cape Verde and Zimbabwe in 
+the control group.
+After we exclude countries that had already qualified or had no shot at qualifying 
+by the time of the last match, we end up with 49 ­country-qualification campaign 
+pairs in the treatment group, and 60 in the control group. (The full list is in online 
+Figure 3. Example of Close Qualification: Group A, ACN 2012
+
+
+--- PAGE 21 ---
+1592
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+Appendix Table A.20.) We test whether the two groups are balanced along a range 
+of characteristics that may affect conflict. As shown in online Appendix Table A.21, 
+the only variable that is unbalanced (at the 10 percent level) is population density, 
+which is somewhat lower for treatment than for control countries. Still, in our empir-
+ical analysis we will control for country × qualification campaign fixed effects, 
+which account for all observable and unobservable factors specific to a country, in a 
+given year, that may affect conflict.
+B. Close Qualification to ACN and Conflict
+We now turn to the effect of national teams’ (close) qualification on conflict, 
+using data from ACLED on the occurrence and severity of violent conflict events in 
+­sub-Saharan African countries between 1997 and 2015, and focusing on the months 
+before and after each ACN qualification campaign.
+Our key results are in Table 5. We start by estimating, in column 1, our base-
+line specification with country × qualifying campaign, week since qualification, 
+and ­calendar-month fixed effects (equation (2)), using as dependent variable the 
+log of the number of conflict events that occurred in the country in a given week. 
+The results indicate that the number of conflict events is significantly lower in the 
+months following the qualification. The effect remains largely unchanged in col-
+umn 2 where we control for conflict in each of the previous four weeks.
+The effect is quantitatively sizable: the point estimate from column 2 indicates 
+that countries whose teams barely qualified to the ACN experience a reduction of 
+8.6 percent in the number of conflict episodes (i.e., ​100 × (​e​ −0.09​ − 1)​), relative to 
+countries whose teams barely did not. The table also reports the ­long-run impact of 
+the qualification, which takes into account the effect of a reduction in today’s con-
+flict on future violence.18 In the online Appendix, we show that results are robust 
+when we use as dependent variable a dummy for the occurrence of conflict events, 
+or the number of conflict victims (online Appendix Tables A.22 and A.23), that 
+no particular country, ACN qualification process, or ­country-qualification campaign 
+drives our main results (online Appendix Figures A.7 and A.8), and that they hold 
+when we weigh observations using country population as of 1990 (online Appendix 
+Table A.24) .
+To further corroborate our identification strategy, we estimate a variant of 
+equation  (2) pooling observations for treatment and control groups and assign-
+ing a fictitious treatment, to countries that will eventually qualify, in the ­12-week 
+period before qualification. If conflict was evolving differently in the two 
+groups in the ­pre-qualification period, which would threaten the validity of our 
+­difference-in-differences approach, we would expect the fictitious treatment to 
+display a significant coefficient. The results, in columns 3 and 4 of Table 5, point 
+against this possibility. In particular, there is no indication that conflict was decreas-
+ing in countries that would eventually qualify, relative to countries that would not.
+How persistent is this effect? To examine that, we ­re-estimate our specifica-
+tions splitting the ­post-qualification period in two ­subperiods: the first 12 weeks 
+18 Specifically, using point estimates from equation (2), the ­long-run impact is computed as ​​β ˆ ​/(1 − ​∑ k=1​ 
+4  ​δ ˆ ​​ k​)​. 
+Standard errors for estimates of ­long-run impacts are computed using the “delta method.”
+
+
+--- PAGE 22 ---
+1593
+DEPETRIS-CHAUVIN ET AL.: BUILDING NATIONS
+VOL. 110 NO. 5
+after qualification, and the subsequent 13 weeks. We see a reduction in conflict of 
+a similar magnitude for the two periods (columns 5 and 6). Columns 7 and 8 then 
+show that we obtain analogous results from maximum likelihood negative binomial 
+regressions, with the number of events as the dependent variable, showing that the 
+message does not hinge on the log functional form. Additionally, online Appendix 
+Table A.25 show that our main results hold when we use an hyperbolic sine inverse 
+transformation of the dependent variable.
+Figure 4 provides graphical evidence of the impact of qualification on conflict 
+events, as well as its persistence, with online Appendix Figures A.5 and A.6 showing 
+analogous plots for the probability of conflict and number of fatalities. In panel A, 
+we plot the estimated coefficients and 95 percent confidence intervals of the interac-
+tion terms between the treatment variable and dummies for 11 ­four-week periods in 
+the months before and after the qualification, with the coefficient on the ­four-week 
+periods immediately before qualification normalized to 0, to facilitate interpretation. 
+The results indicate clearly that the number of conflict events decreases sharply in 
+the weeks following the qualification to the ACN tournament, and remains negative 
+though with some convergence after three months; in fact, the coefficients are sig-
+nificantly negative for up to five months for the conflict dummy, as can be seen in 
+Table 5—ACN Qualification and Conflict
+Dependent variable
+log(1 + number of events)
+Number of events
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+­Post-qualification
+−0.131
+−0.090
+−0.307
+−0.227
+(0.064)
+(0.039)
+(0.156)
+(0.127)
+12 weeks 
+  before qualification
+0.046
+0.028
+(0.062)
+(0.054)
+1–12 weeks post-qualification (a)
+−0.124
+−0.098
+(0.064)
+(0.038)
+13–25 weeks post-qualification (b)
+−0.137
+−0.083
+(0.081)
+(0.053)
+­Long-run impact
+−0.131
+−0.145
+0.046
+0.034
+—
+—
+—
+—
+(0.064)
+(0.065)
+(0.062)
+(0.065)
+—
+—
+—
+—
+Pr  >  F ​​H​0​​: a  =  b
+—
+—
+—
+—
+0.856
+0.750
+—
+—
+Regression method
+OLS
+OLS
+OLS
+OLS
+OLS
+OLS
+Negative binomial
+Country × qualification campaign
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Week FE
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+­Calendar-month FE
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4 lags of dependent variable
+No
+Yes
+No
+Yes
+No
+Yes
+No
+Yes
+Pr  >  F ​​H​0​​: 4 lags jointly  =  0
+—
+0.00
+—
+0.00
+—
+0.00
+—
+0.00
+Observations
+5,450
+5,014
+2,725
+2,289
+5,450
+5,014
+5,450
+5,014
+Within R2
+0.004
+0.080
+0.000
+0.025
+0.004
+0.080
+—
+—
+Notes: Robust standard errors in parentheses clustered at the country × qualification campaign level. Sample in 
+columns 1–2 covers 25 weeks before the end of qualification process (i.e., ­pre-treatment period) for 109 country 
+× qualification campaign. The variable 12 weeks before qualification takes value 1 during the 12 weeks immedi-
+ately before the end of the qualification process for the countries that will eventually qualify to the ACN, 0 other-
+wise. The sample for columns 3–8 includes the 25 weeks before and after the close qualification for 109 country 
+× qualification campaign. The variable ­Post-qualification takes value 1 for the team that qualified for the weeks 
+after the qualification and 0 otherwise. The variable ­13–25 weeks ­post-qualification takes value 1 starting the thir-
+teenth week after the end of the qualification process for the countries that barely qualify to the ACN, 0 otherwise. 
+Pr  >  F ​H​0​: a  =  b refers to the ­F-tests with the null hypothesis ­1–12 weeks ­post-qualification  =  ­13–25 weeks 
+­post-qualification. Conflict data come from the ACLED dataset.
+
+
+--- PAGE 23 ---
+1594
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+Figure 4. Number of Conflict Episodes before and after Qualification
+Notes: Panel A plots coefficients and 95 percent confidence intervals for interactions between the dummy for coun-
+tries that barely qualified to the ACN and 11 dummies for ­4-week period included between 25 weeks before and 
+after the qualification. The regressions also include week FE, ­calendar-month FE, and country × qualifier dummies. 
+Panel B plots coefficients and 95 percent confidence intervals for 11 dummies for ­4-week period included between 
+25 weeks before and after the qualification for the groups of countries that barely qualified to the ACN. The regres-
+sions ­calendar-month FE and country × qualifier dummies (week FE are omitted to avoid perfect multicollinearity). 
+Panel C replicates Panel B for the groups of countries that barely did not qualify to the ACN. The dependent vari-
+able in all regressions is log(1 + number of conflict events). The coefficients for the 4 weeks immediately before 
+the end of the qualification process are normalized to 0. Confidence intervals are based on ­heteroskedasticity-robust 
+standard errors clustered by country × qualifier.
+−0.4
+−0.2
+0.2
+0
+Impact on confict intensity
+−0.4
+−0.3
+−0.2
+−0.1
+0
+0.1
+0.2
+−0.2
+0.2
+0
+Impact on confict intensity
+Impact on confict intensity
+−6 −5 −4 −3 −2 −1
+1
+2
+3
+4
+5
+6
+Months from qualifcation game
+−6 −5 −4 −3 −2 −1
+1
+2
+3
+4
+5
+6
+Months from qualifcation game
+−6 −5 −4 −3 −2 −1
+1
+2
+3
+4
+5
+6
+Months from qualifcation game
+Panel A. Pooled (4-week bandwidths)
+Panel B. Treatment countries (4-week bandwidths)
+Panel C. Control countries (4-week bandwidths)
+
+
+--- PAGE 24 ---
+1595
+DEPETRIS-CHAUVIN ET AL.: BUILDING NATIONS
+VOL. 110 NO. 5
+online Appendix Figure A.5. The coefficients for the periods before qualification, 
+in contrast, are very close to 0, confirming the absence of any differential trend in 
+countries that would later qualify.
+An interesting related question is whether the difference between the two differ-
+ent groups of countries is driven by a reduction in conflict among qualifiers, or alter-
+natively by an increase in conflict among ­nonqualifiers. While either would lead to 
+the pattern detected in our results, they would obviously have rather different impli-
+cations. As we see in panels B and C of Figure 4, the evidence shows a pattern of 
+decreased conflict in the former group, and no corresponding increase in the latter.
+In sum, these findings provide robust evidence that important achievements of the 
+national team can contribute to reducing violence in a tangible and rather persistent 
+way.
+C. “Unexpected ” Qualification
+We then examine whether unexpected qualifications have a stronger effect on 
+conflict. Indeed, it seems plausible that qualification to the ACN tournament may be 
+perceived as an especially important achievement for teams that never qualified in 
+the past or that had not qualified in a long time, as opposed to teams that usually do. 
+This would be in line with previous findings on the effect of sports results on vio-
+lence and crime which indicate that unexpected outcomes are more consequential 
+than expected ones (Card and Dahl 2011; Munyo and Rossi 2013).
+To test this hypothesis, in Table 6 we estimate our baseline specification separately 
+for (i) countries that had not qualified in three years or more (i.e., the sample mean) 
+and (ii) countries that had never qualified. We also estimate our baseline specifica-
+tion for the full sample adding interaction terms accounting for these “unexpected 
+qualifications.” Though relatively imprecise, the results suggest that the reduction in 
+conflict is indeed stronger in the case of overdue and ­first-time qualifications. This 
+is also true for the probability of conflict and number of fatalities, as can be seen in 
+online Appendix Tables A.26 and A.27 (with the exception of the impact ­of first-
+time qualification on number of fatalities for which we find statistically insignificant 
+coefficient for the interaction term).
+This pattern also sheds light on the alternative natural experiment induced by 
+WC qualification. Online Appendix Table A.28 shows that including instances of 
+­last-round qualification for the WC into our sample seems to weaken the results. 
+The table also shows, however, that this is entirely driven by Cameroon and Nigeria, 
+which are by far the most regular ­sub-Saharan African WC participants.19 This 
+underlines the point that a close qualification constitutes a very different kind of 
+shock in countries that regularly qualify: in fact, late qualification might well be per-
+ceived not as a positive shock, in these cases, but rather as a relative disappointment.
+19 Specifically, in the entire history of the WC, there have been 44 African participants. ­Sub-Saharan Africa 
+accounts for only 27 of those; out of these, Cameroon and Nigeria account for 7 and 6, respectively, with Ghana, 
+Ivory Coast, and South Africa next with 3 each. In total, a mere 9 ­sub-Saharan African countries have ever qualified 
+(with one, Zaire, only way back in 1974).
+
+
+--- PAGE 25 ---
+1596
+THE AMERICAN ECONOMIC REVIEW
+MAY 2020
+D. Ethnic Conflict
+Is the impact on conflict related to the role of ethnic identity? To shed light 
+on that, in Table 7 we investigate the effect of qualification to the ACN tourna-
+ment on conflict events classified as ethnically related, according to the procedure 
+described in Section IC. In column 1, corresponding to our most comprehensive 
+specification, with country × qualifier, ­calendar-month, and week fixed effects 
+and lags of conflict, we find that a national team’s qualification to the ACN finals 
+reduced the number of conflict events. (Once again, the results also hold for preva-
+lence of conflict and number of fatalities, as shown in online Appendix Tables A.29 
+and A.30.) Though smaller than for overall conflict, the effect is sizable, with the 
+qualification reducing the intensity of ethnic violence by 3 percent in the ­long run.
+To further interrogate the mechanism, we can exploit the information on the spa-
+tial location of different conflict episodes. In particular, we can consider the ethnic 
+characteristics of the conflict areas, by matching them to ethnic homelands. In col-
+umns 2 and 3, we consider the degree of national political power of the local ethnic 
+group, as classified by the Ethnic Power Relations (EPR) dataset. In particular, we 
+distinguish conflict events occurring in areas inhabited by politically strong groups 
+(“monopoly” or “dominant” groups, according to EPR) from those in places inhab-
+ited by politically weak ones (“discriminated,” “powerless,” or “­self-excluded”). 
+While keeping in mind the caveat that the strength of different ethnic groups is 
+endogenous, we do see a more pronounced effect in the latter case, which is where 
+we would expect issues of national identity to be more fraught.
+Table 6—Overdue and First Qualification Effects
+log(1 + number of events)
+(1)
+(2)
+(3)
+(4)
+(5)
+­Post-qualification
+−0.090
+−0.153
+−0.087
+−0.273
+−0.099
+(0.039)
+(0.070)
+(0.043)
+(0.137)
+(0.042)
+­Post-qualification × overdue
+−0.148
+(0.088)
+­Post-qualification × first time
+−0.226
+(0.176)
+Pr  >  F
+—
+—
+0.10
+—
+0.07
+Sample
+Full
+Overdue 
+qualification
+Full
+First 
+qualification
+Full
+Country × qualification campaign FE
+Yes
+Yes
+Yes
+Yes
+Yes
+Week FE
+Yes
+Yes
+Yes
+Yes
+Yes
+­Calendar-month FE
+Yes
+Yes
+Yes
+Yes
+Yes
+4 lags of dependent variable
+Yes
+Yes
+Yes
+Yes
+Yes
+Pr  >  F ​H​0​: 4 lags jointly  =  0
+0.00
+0.00
+0.00
+0.00
+0.00
+Observations
+5,014
+2,438
+5,014
+736
+5,014
+Within R2
+0.080
+0.097
+0.081
+0.124
+0.081
+Notes: Robust standard errors in parentheses clustered at the country × qualification campaign level. Sample cov-
+ers +/− 25 weeks around the end of qualification process. ­Post-qualification takes value 1 during the 25 weeks fol-
+lowing the qualification to ACN, 0 otherwise. Conflict data come from the ACLED dataset. An overdue (­first-time) 
+qualification is defined as reaching the last ­match-day with chances of qualifying to the ACN finals after 3 or more 
+years (for the very first time). See online Appendix Table A.20. Pr  >  F refers to the ­F-tests with the null hypoth-
+esis that coefficients for ­post-qualification and its interaction with overdue (column 3) or ­first-time qualification 
+(column 5) are jointly equal to 0. Interaction terms were demeaned to ease the comparison of uninteracted terms.

@@ -1,0 +1,1576 @@
+
+
+--- PAGE 1 ---
+American Economic Review 2020, 110(11): 3602–3633 
+https://doi.org/10.1257/aer.20181026
+3602
+Does When You Die Depend on Where You Live?  
+Evidence from Hurricane Katrina†
+By Tatyana Deryugina and David Molitor*
+We follow Medicare cohorts to estimate Hurricane Katrina’s 
+­long-run mortality effects on victims initially living in New Orleans. 
+Including the initial shock, the hurricane improved ­eight-year sur-
+vival by 2.07 percentage points. Migration to ­lower-mortality regions 
+explains most of this survival increase. Those migrating to low-  
+versus ­high-mortality regions look similar at baseline, but their subse-
+quent mortality is 0.83–1.01 percentage points lower per ­percentage 
+point reduction in local mortality, quantifying causal effects of place 
+on mortality among this population. Migrants’ mortality is also 
+lower in destinations with healthier behaviors and higher incomes 
+but is unrelated to local medical spending and quality. (JEL I12, 
+Q51, Q54, R23)
+Hurricane Katrina, the costliest storm in US history, devastated the Gulf Coast 
+in 2005. The immediate impact of the storm killed nearly 2,000 individuals and 
+displaced more than one million residents, resulting in the largest migration of US 
+residents since the Dust Bowl of the 1930s (Nigg, Barnshaw, and Torres 2006). 
+Climate models predict that such extreme weather events will increase in frequency 
+and severity (Field et al. 2012), yet little is known about the effects of environmental 
+catastrophes on ­long-run health and longevity, which represent considerable eco-
+nomic value (Murphy and Topel 2006).
+The disruption induced by extreme weather events can be used to illuminate 
+factors that affect the accumulation or depreciation of health capital (Grossman 
+* Deryugina: University of Illinois at Urbana-Champaign, and NBER (email: deryugin@illinois.edu); 
+Molitor: University of Illinois at Urbana-Champaign, and NBER (email: dmolitor@illinois.edu). Thomas Lemieux 
+was the coeditor for this article. We thank Amy Finkelstein, Don Fullerton, Matthew Gentzkow, Osea Giuntella, 
+Nathaniel Hendren, Robert Kaestner, Jonathan Ketcham, Matthew Notowidigdo, Julian Reif, Nicholas Sanders, 
+David Slusky, and seminar participants at the ASSA Annual Meeting, the AERE Summer Conference, the Annual 
+Health Econometrics Workshop, Arizona State University, the BFI Health Economics Initiative Annual Conference, 
+Cornell University, East Carolina University, Georgia State University, the Heartland Environmental and Resource 
+Economics Workshop, the Illinois pERE seminar, Indiana University, the Junior Health Economics Summit, the 
+London School of Economics, MHEC-X, the National University of Singapore, the CEPRA/NBER Workshop 
+on Ageing and Health, the NBER EEE Spring Meeting, the NBER Summer Institute, SIEPR, the Symposium on 
+Natural Resource Governance for Young Scholars, the University of British Columbia, the University of California 
+at Santa Barbara, the University of Massachusetts at Amherst, the University of South Carolina, and the University 
+of Virginia for helpful comments. Isabel Musse, Prakrati Thakur, Fan Wu, and Zhu Yang provided excellent research 
+assistance. Research reported in this publication was supported by the National Institute on Aging of the National 
+Institutes of Health under award numbers R21AG050795, P01AG005842, and R01AG053350. The content is solely 
+the responsibility of the authors and does not necessarily represent the official views of the National Institutes of 
+Health.
+† Go to https://doi.org/10.1257/aer.20181026 to visit the article page for additional materials and author  
+disclosure statements.
+
+
+--- PAGE 2 ---
+3603
+DERYUGINA AND MOLITOR: MORTALITY EFFECTS AND LOCATION
+VOL. 110 NO. 11
+1972). For example, when a disaster displaces people from their homes, the regions 
+they move to may play an important role in shaping ­long-term health outcomes. 
+While life expectancy varies significantly across US locations (Chetty et al. 2016, 
+­Dwyer-Lindgren et al. 2017), little is known about the extent to which this variation 
+reflects the causal effect of place on health. Because Hurricane Katrina displaced 
+many survivors, it can serve as a natural experiment of how place affects ­long-term 
+health. If the geographic variation in life expectancy reflects causal effects of place, 
+then the widespread migration out of New Orleans to regions with better economic 
+and health conditions may have generated health benefits.
+This paper has two primary aims. The first is to estimate the short- and ­long-run 
+mortality impacts of Hurricane Katrina on the elderly and the ­long-term disabled 
+of New Orleans. Prior studies have evaluated how demographic and economic out-
+comes evolve after environmental catastrophes (e.g., Hornbeck 2012; Hornbeck 
+and Naidu 2014; Nakamura, Sigurdsson, and Steinsson 2017), but little is known 
+about the ­long-run health effects of these events, especially among adults. The sec-
+ond aim is to estimate how the mortality of displaced survivors was shaped by their 
+destinations.
+Quantifying the ­long-run health impacts of events like Hurricane Katrina has 
+proven difficult, largely due to lack of data that capture ­pre-disaster outcomes and 
+track individuals ­post-disaster with minimal attrition. To overcome this challenge, 
+we use Medicare administrative data from 1992 to 2013 that allow us to follow 
+elderly and ­long-term disabled individuals over time and space and provide exact 
+dates of death. We identify Medicare cohorts living in New Orleans just prior to 
+Hurricane Katrina and trace out their mortality rates up to eight years after the 
+storm, regardless of whether or where they move.
+To identify how outcomes would have evolved in the absence of Hurricane 
+Katrina, we measure mortality for comparable Medicare cohorts initially residing 
+in ten cities that were not directly affected by the hurricane, following Deryugina, 
+Kawano, and Levitt (2018). To validate this control group, we show that mortality 
+trends in the New Orleans and control city cohorts were similar prior to Hurricane 
+Katrina as far back as 1992, the earliest year for which we have data. We then esti-
+mate the causal effects of the hurricane by comparing how the New Orleans cohort’s 
+­post-hurricane outcomes changed relative to those of the comparison cohort (i.e., a 
+­cohort-level ­difference-in-differences event study analysis).1
+We find that in 2005, the year of the storm, Hurricane Katrina increased mortal-
+ity by 0.56 percentage points (over 10 percent of the mean). Most of these excess 
+deaths occurred within a week of the hurricane’s landfall, and this immediate effect 
+dissipated over several months. In contrast to the ­short-run mortality increase, we 
+find that Hurricane Katrina led to sustained reductions in mortality from 2006 to 
+2013. This ­long-run mortality decline is not explained by ­short-run mortality dis-
+placement, or “harvesting.” Inclusive of the initial increase in mortality, Hurricane 
+Katrina increased the probability of surviving through 2013, eight years past the 
+1 As we show, our central findings are robust to using the entire United States (except New Orleans) or the top 
+20 mortality regions to define the comparison cohort and to using the synthetic control method to conduct inference 
+that accounts for the aggregate nature of the shock created by Hurricane Katrina.
+
+
+--- PAGE 3 ---
+3604
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+storm, by 2.07 percentage points, a 3.2 percent increase relative to the overall 
+­eight-year survival rate of the 2005 New Orleans cohort.
+We also find that the hurricane led to a massive and lasting dislocation of the 
+elderly and ­long-term disabled, consistent with prior evidence on the demographic 
+effects of the hurricane (Deryugina, Kawano, and Levitt 2018; Eyer et al. 2018). 
+Medicare beneficiaries living in New Orleans as of March 2005 were nearly 50 per-
+centage points more likely to leave their commuting zone of residence than mem-
+bers of the control group. Over one-half of those who left had not returned as of 
+2013, conditional on being alive. New Orleans was one of the highest mortality 
+areas in the country prior to Hurricane Katrina, and displaced individuals gener-
+ally moved to ­lower-mortality regions. To the extent that local mortality outcomes 
+reflect ­place-specific determinants of health, relocation to ­lower-mortality regions 
+may have driven the decline in mortality among Hurricane Katrina victims.
+To directly examine the role of place on health, we examine the mortality patterns 
+among New Orleans residents who had moved away by March 2006. We find that 
+hurricane survivors who moved to ­low-mortality regions subsequently experienced 
+lower mortality than survivors who moved to ­high-mortality regions. Specifically, 
+each ­percentage point increase in the destination region’s mortality rate corre-
+sponds to a 0.83–1.01 ­percentage point increase in the movers’ mortality rate. This 
+effect emerges quickly after the move, suggesting it does not arise entirely through 
+­slow-moving channels such as lifestyle.
+The relationship between local and migrant mortality describes the causal effect 
+of place on individual mortality under the assumption that baseline mortality risk 
+among those who move is uncorrelated with mortality rates in the destination region. 
+Supporting this assumption, we find little correlation between destination mortality 
+rates and movers’ ex ante predicted mortality, which we construct from detailed data 
+on demographic characteristics, past health care utilization, and ­preexisting chronic 
+conditions. In addition, the estimated relationship between movers’ mortality and 
+destination mortality is highly stable, even with rich controls, including variables 
+that are strongly predictive of mortality. Changes in the local mortality rate expe-
+rienced by hurricane victims can explain over 70 percent of the ­long-run mortality 
+decline caused by the hurricane.
+Next, we examine how other local attributes correlate with movers’ mortality. 
+We find that movers’ mortality increases with local rates of obesity and smoking 
+and decreases with average income, home values, and urban population share. 
+Movers’ mortality is not statistically significantly correlated with local physician 
+or hospital bed supply or a hospital quality index. We also do not find a relationship 
+between movers’ mortality and local health care spending, shedding new light on 
+a ­long-standing question of whether ­higher-spending regions generate better health 
+outcomes than ­lower-spending regions and pointing to low returns to living in a 
+­high-spending region.2
+2 Higher-spending regions often have no better or even worse health outcomes than ­lower-spending regions 
+(Fisher et al. 2003a, b; Baicker and Chandra 2004; Sirovich et al. 2006; Skinner 2011), but the direction of cau-
+sality is not clear from these correlations alone. Doyle (2011) and Doyle et al. (2015) address this limitation 
+by analyzing ­quasi-random assignment of patients to hospitals and find that patients have better outcomes when 
+treated at ­higher-spending hospitals. Yet, the returns to being hospitalized in a ­high-spending region may differ 
+
+
+--- PAGE 4 ---
+3605
+DERYUGINA AND MOLITOR: MORTALITY EFFECTS AND LOCATION
+VOL. 110 NO. 11
+Our study adds to a growing body of literature that uses migration to identify 
+how local conditions affect individual outcomes. Song et al. (2010); Finkelstein, 
+Gentzkow, and  Williams (2016); and Molitor (2018) study movers in Medicare 
+to identify local determinants of diagnosis rates, medical spending, and physician 
+practice styles, respectively. Movers have also been used to study how local condi-
+tions affect education and earnings (Chetty, Hendren, and Katz 2016; Nakamura, 
+Sigurdsson, and Steinsson 2017; Chyn 2018; Chetty and Hendren 2018a), income 
+reporting in tax filings (Chetty, Friedman, and  Saez 2013), and brand prefer-
+ences (Bronnenberg, Dubé, and Gentzkow 2012). Black et al. (2015) and Johnson 
+and Taylor (2019) estimate mortality effects of migration but do not study how 
+migrant outcomes depend on destination characteristics.
+We contribute to this literature by studying how the ­long-run mortality outcomes 
+of those displaced by Hurricane Katrina depend on the destination region. Our 
+finding that migrants’ realized mortality outcomes correspond closely to their des-
+tination region’s mortality rate suggests that local conditions are an important deter-
+minant of individual health outcomes. Our study complements contemporaneous 
+work by Finkelstein, Gentzkow, and Williams (2019), who estimate the mortality 
+effects of place among Medicare movers using a novel method to account for poten-
+tially endogenous sorting on unobservables. They also find that current location 
+matters greatly for life expectancy, although the correlation they find between the 
+effect of place on mortality and local mortality is smaller than what we estimate. 
+Because Hurricane Katrina displaced many people who would not have otherwise 
+moved, this pattern suggests that place may matter less for the typical mover than 
+for the typical stayer, analogous to evidence of negative selection on children’s eco-
+nomic gains among movers to better neighborhoods (Chyn 2018).
+Our results also shed light on why life expectancy differs across the United States 
+and how health capital accumulates over the life cycle. Regional differences in life 
+expectancy correlate strongly with numerous demographic factors and health behav-
+iors, like income and smoking (Chetty et al. 2016, ­Dwyer-Lindgren et al. 2017). 
+Our results suggest that geographic variation in life expectancy is at least partly 
+driven by contemporaneous location characteristics and not just by differences in 
+demographics or health behaviors that affect mortality only over long time hori-
+zons. In addition, the sharp and enduring decline in the mortality rate of Hurricane 
+Katrina victims contrasts with the canonical Grossman (1972) model of health cap-
+ital, which posits that health capital changes slowly, although it is consistent with a 
+version of the model in which health capital depreciates rapidly, as may be the case 
+with the elderly and ­long-term disabled.
+We also provide the ­longest-run controlled estimates of the mortality effects of 
+a disaster on adult victims. Prior research on disasters and health has been largely 
+limited to considering birth outcomes and infant health (e.g., Torche 2011, Currie 
+and ­Rossin-Slater 2013, Currie and Schwandt 2016), immediate ­post-disaster mor-
+tality (e.g., Kahn 2005), or ­survey-based measures of ­longer-run health for a subset 
+from the returns to living in a ­high-spending region (e.g., ­higher-quality health systems could reduce the need for 
+hospitalization).
+
+
+--- PAGE 5 ---
+3606
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+of the victims.3 Survey approaches, however, generally suffer from ­nonrandom sam-
+pling, rarely measure ­preexisting outcomes, and usually lack a control group. By con-
+trast, our data track the mortality and location of every ­Medicare-eligible individual. 
+Our finding that Hurricane Katrina reduced ­long-run mortality among the elderly 
+and ­long-term disabled populations builds on recent evidence that the hurricane 
+indirectly generated other ­long-run benefits, including higher earnings among the 
+­working-age population (Groen, Kutzbach, and Polivka 2020; Deryugina, Kawano, 
+and Levitt 2018) and improved test scores among displaced students (Sacerdote 
+2012).
+The paper proceeds as follows. Section  I provides an overview of Hurricane 
+Katrina. Section II describes the data and estimation sample. Section III outlines our 
+research design, and Section IV presents the results. Section V concludes.
+I.  Overview of Hurricane Katrina
+Hurricane Katrina formed as a tropical depression on August 23, 2005 (National 
+Weather Service 2016). As the storm’s strength and path became apparent, Louisiana 
+officials declared a state of emergency on August 26. The next day, an evacuation 
+order was given for New Orleans, resulting in an evacuation rate of 80–90 per-
+cent (Wolshon 2006). On August 29, Hurricane Katrina struck New Orleans as a 
+Category 3 hurricane with sustained winds of 125 miles per hour and a storm surge 
+that breached numerous levees and floodwalls, resulting in widespread flooding 
+(see online Appendix Figure A.1). The heavy winds and flooding severely dam-
+aged thousands of homes and other infrastructure in New Orleans (Rowland 2007). 
+Hospital capacity and utilization in New Orleans fell by over 70 percent (see online 
+Appendix Figure A.2) as all nine large hospitals in the city closed; most remained 
+closed for years or never reopened. In total, Hurricane Katrina caused $161 bil-
+lion (2017 dollars) in direct damages, making it the costliest US natural disaster 
+on record (National Hurricane Center 2018, National Oceanic and Atmospheric 
+Administration 2018).
+Hurricane Katrina’s official death toll was 1,833, also making it the deadliest US 
+natural disaster since the 1928 Okeechobee hurricane (­Beven-II et al. 2008). The 
+storm further displaced an estimated one million individuals living in its path (Nigg, 
+Barnshaw, and Torres 2006), including up to 200,000 Medicare beneficiaries (Super 
+and Biles 2005). The Federal Emergency Management Agency (FEMA) prohibited 
+most New Orleans residents from returning home for months.4 Because of the wide-
+spread damages across Louisiana, many of the displaced were transported to other 
+states. Texas received about 200,000 evacuees, and Arkansas received about 50,000, 
+but refugees were also evacuated to at least 32 other states.5 Storm victims unable to 
+3 See, for example, Armenian, Melkonian, and Hovanesian (1998); Sastry and VanLandingham (2009); Rhodes 
+et al. (2010); Adams et al. (2011); Adeola and Picou (2012); Pietrzak et al. (2012).
+4 Residents in 17 out of 19 New Orleans zip codes were not allowed to return to their homes before December 
+9, 2005 (FEMA 2005). On that date, residents of 10 of the 17 zip codes could return to their homes and stay 
+(“­look-and-stay” zip codes); residents in the other 7 zip codes could visit their homes but only during the day 
+(“­look-and-leave” zip codes).
+5 Peter Grier, “The Great Katrina Migration,” Christian Science Monitor, September 12, 2005, https://www.
+csmonitor.com/2005/0912/p01s01-ussc.html. 	
+
+
+--- PAGE 6 ---
+3607
+DERYUGINA AND MOLITOR: MORTALITY EFFECTS AND LOCATION
+VOL. 110 NO. 11
+find suitable living arrangements were given housing assistance, but little systematic 
+information is available on how victims chose where to relocate in the longer run.
+The aid response to Hurricane Katrina was considerable.6 The federal gov-
+ernment provided about $50 billion in disaster aid to Louisiana, excluding flood 
+insurance payments and loans. Most of these funds were earmarked for rebuilding 
+infrastructure rather than given directly to victims. In total, aid spending for New 
+Orleans was as much as $125,000 per capita, of which about $17,000 consisted of 
+direct transfers to individuals (Deryugina, Kawano, and Levitt 2018). Absent the 
+massive aid response, the ­long-term impacts of Hurricane Katrina could have been 
+much worse than what occurred.
+The losses and disruption caused by Hurricane Katrina could have persistently 
+worsened the health of elderly and ­long-term disabled victims, groups that are 
+thought to be especially vulnerable to environmental catastrophes (Morrow 1999, 
+Fernandez et al. 2002).7 It is also possible that Hurricane Katrina improved ­long-run 
+health if victims relocated to areas that were more conducive to good health. Our 
+goal in the remainder of the paper is to shed light on these possibilities.
+II.  Data and Estimation Sample
+A. Data
+The primary data for our analysis are Medicare administrative records for all 
+Medicare beneficiaries from 1992 to 2013 (Centers for Medicare and Medicaid 
+Services 1992–2013). These data offer three key features for studying health 
+dynamics in our setting. First, Medicare covers nearly all US residents aged 65 
+and older as well as ­non-elderly individuals who have received Social Security dis-
+ability benefits for at least 24 months or have ­end-stage renal disease (ESRD) or 
+amyotrophic lateral sclerosis. Second, annual beneficiary summary files report the 
+­nine-digit beneficiary zip code where Social Security Administration (SSA) benefits 
+and official communication are mailed, which we call the “zip code of residence.” 
+This allows us to identify individuals living in a specific place at a certain time (e.g., 
+New Orleans residents prior to Hurricane Katrina) and to track them over time even 
+if they move.8 Third, Medicare reports exact dates of death based on SSA records.
+We use two sets of annually recorded Medicare variables.9 The first set, which 
+comes from Medicare eligibility files and is available for every Medicare benefi-
+ciary, contains beneficiary zip code, race, sex, birth and death dates, cause of death, 
+and ESRD information. Beneficiary zip code is based on a snapshot taken at the end 
+6 Deryugina, Kawano, and Levitt (2018) describe Hurricane Katrina aid components in greater detail.
+7 Several studies have found deteriorated mental and physical health among Hurricane Katrina victims, but these 
+studies generally lack a control group to account for secular trends, most lack outcomes measured ­pre-Katrina, 
+and almost all have focused on ­short-run effects (see, e.g., Brodie et  al. 2006, Kessler et  al. 2008, Sastry 
+and VanLandingham 2009, Sastry and Gregory 2013). In the only ­longer-run study we are aware of, Paxson et al. 
+(2012) follow 532 ­low-income mothers who lived in New Orleans during Hurricane Katrina and find ­long-lasting 
+increases in ­post-traumatic stress symptoms and psychological distress.
+8 We drop individuals who disappear from the annual beneficiary summary file prior to a recorded death or who 
+have gaps in enrollment. For the 2004 cohort, these restrictions drop 0.8 percent of the full sample.
+9 Online Appendix Section A.1 provides additional details on these data and the definitions of key variables used 
+in our analysis, including beneficiary location, chronic conditions, and cause of death.
+
+
+--- PAGE 7 ---
+3608
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+of the year (file years 1999, 2007, and 2009–2013) or in March of the following 
+year (all other file years in the sample). For individuals who die prior to the location 
+snapshot, the zip code reflects their last address on record. Cause of death codes are 
+available only for years 1999–2008.
+The second set of Medicare variables is available only for beneficiaries enrolled 
+in ­fee-for-service Medicare (over 80 percent of our sample). These variables pro-
+vide information on medical spending and the presence of chronic conditions from 
+­fee-for-service claims. We measure total annual medical spending as the sum of 
+payments due to providers (including hospitals and physicians), excluding pay-
+ments for Part D drugs. We use Medicare indicators for the presence of 27 common 
+chronic conditions inferred from medical claim histories. In most cases, we group 
+the 27 individual conditions into eight broad categories: heart disease and stroke, 
+respiratory disease, blood and kidney disease, cancer, diabetes, musculoskeletal dis-
+eases, Alzheimer’s/dementia, and other. The chronic condition indicators are avail-
+able only for individuals who are continuously enrolled in ­fee-for-service Medicare 
+over a ­condition-specific ­look-back window (usually two years).
+We use counties as the primary unit of geography for the analysis. In some cases, 
+we consider commuting zones (CZs), which aggregate counties into 709 regions 
+based on work commute patterns in 2000. We refer to a county by the primary 
+city located in the county and use the terms “city” and “county” interchangeably. 
+For New Orleans, a consolidated ­city-county, the county and city boundaries are 
+identical.
+We obtain several ­county-level attributes related to public health, the environ-
+ment, and economic conditions, including average Medicare spending, the number 
+of physicians per capita, smoking and obesity rates, fine particulate matter (PM​​2.5​​) 
+levels, frequency of temperature extremes, the crime rate, local government expen-
+diture, and ­per-capita income. The construction of these variables is detailed in 
+online Appendix Section A.1.4.
+Finally, we match Medicare beneficiaries to more detailed flood and neighbor-
+hood income characteristics based on their ­nine-digit zip code of residence at base-
+line.10 We use ­five-meter resolution Hurricane Katrina flood depth data from the 
+National Oceanic and Atmospheric Administration (NOAA 2005). We classify a 
+­nine-digit zip code as “flooded” if the average flood depth within a ­50-meter radius 
+of the centroid is at least two feet. We define neighborhood income for a ­nine-digit 
+zip code to be the 2000 Census median income among household heads age 65 or 
+older in the block group in which it falls. A beneficiary is “below median income” if 
+their neighborhood income measure is below the median in New Orleans.
+B. Estimation Sample
+Identifying the causal effect of Hurricane Katrina on mortality requires estimat-
+ing counterfactual mortality outcomes for New Orleans victims. We do so by exam-
+ining how outcomes evolve among Medicare beneficiaries initially residing in other 
+10 We use GeoLytics to geocode ­nine-digit zip codes. We do not assign flood and income characteristics to the 
+4.4 percent of sample beneficiaries for whom Medicare only reports a ­five-digit zip code or to the additional 8.2 
+percent of sample beneficiaries whose ­nine-digit zip codes are not geocoded by GeoLytics.
+
+
+--- PAGE 8 ---
+3609
+DERYUGINA AND MOLITOR: MORTALITY EFFECTS AND LOCATION
+VOL. 110 NO. 11
+regions. Our primary control regions are the ten US cities with a population of at least 
+100,000 chosen by Deryugina, Kawano, and Levitt (2018) to most closely match 
+the median earnings, population growth, and racial composition of New Orleans in 
+2000–2005: Baltimore, MD; Birmingham, AL; Detroit, MI; Gary, IN; Jackson, MS; 
+Memphis, TN; Newark, NJ; Portsmouth, VA; Richmond, VA; and St. Louis, MO 
+(see online Appendix Figure A.3 for a map). Online Appendix Section A.2.1 reports 
+the robustness of our main results to alternative control groups.
+Our preferred estimation sample consists of individuals who were eligible for 
+Medicare in 2004 and whose baseline location is reported as of March 2005, just 
+prior to Hurricane Katrina (the “2004 cohort”). Table 1 summarizes the baseline 
+(2004) characteristics of this cohort for the 65,457 beneficiaries initially residing 
+in New Orleans (column 1) and the 941,685 beneficiaries from the ten control cit-
+ies (column 2). Gender composition, age distribution, and ­claims-based Medicare 
+spending and chronic condition prevalence were similar for the New Orleans and 
+control city groups. Relative to the control group, New Orleans beneficiaries were 
+more likely to be Black (60.5 percent versus 39.2 percent), more likely to live in a 
+­below-median income neighborhood (49.9 percent versus 34.8 percent), and less 
+likely to be enrolled in ­fee-for-service Medicare (68.6 percent versus 92.5 percent). 
+Over half of the New Orleans beneficiaries lived in a ­nine-digit zip code with two or 
+more feet of flooding caused by Katrina.
+Table 1—Summary Statistics (2004 Medicare Cohort)
+New Orleans
+Ten control 
+cities
+New Orleans 
+movers
+(1)
+(2)
+(3)
+Percent male
+43.0
+41.9
+41.4
+Percent black
+60.5
+39.2
+75.6
+Age
+70.1
+71.0
+67.2
+Percent 65+
+77.7
+81.2
+69.5
+Percent 75+
+40.7
+42.2
+32.9
+Income for 65+ year-olds in 9-digit zip
+28,230
+30,962
+25,005
+Percent below median income
+49.9
+34.8
+55.4
+Percent who experienced 2+ feet of flooding during Katrina
+56.5
+0.0
+67.1
+Percent enrolled in fee-for-service Medicare in 2004
+68.6
+92.5
+69.7
+2004 Medicare spending (fee-for-service only)
+10,460
+9,640
+8,857
+Percent with end-stage renal disease
+2.1
+1.7
+2.0
+Percent with blood and kidney disease
+46.2
+52.7
+43.6
+Percent with heart disease and stroke
+64.8
+69.4
+63.2
+Percent with diabetes
+27.4
+28.5
+28.9
+Percent with musculoskeletal condition
+28.6
+30.4
+27.0
+Percent with respiratory disease
+12.8
+14.0
+12.8
+Percent with cancer
+6.8
+8.3
+4.9
+Percent with Alzheimer’s/dementia
+12.4
+12.6
+8.5
+Percent with other chronic condition
+39.9
+41.1
+38.9
+Number of individuals
+65,457
+941,685
+26,467
+Notes: The table summarizes baseline (2004) characteristics of the 2004 Medicare cohort. The unit of observa-
+tion is a beneficiary. Income and flood variables are available only for individuals with valid nine-digit zip codes 
+(57,314 New Orleans individuals, 23,295 New Orleans movers, and 847,509 individuals from the ten control cit-
+ies). Medicare spending is available only for individuals enrolled in fee-for-service Medicare (44,913 New Orleans 
+individuals, 18,695 New Orleans movers, and 871,007 individuals from the 10 control cities). Chronic condition 
+variables are only available for beneficiaries who have been continuously enrolled in fee-for-service Medicare over 
+a condition-specific look-back window, typically two years. Chronic conditions sample sizes range from 31,027 to 
+37,944 for New Orleans individuals, from 12,532 to 15,797 for New Orleans movers, and from 656,230 to 769,430 
+for individuals from the ten control cities.
+
+
+--- PAGE 9 ---
+3610
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+Between March 2005 and March 2006, 26,467 beneficiaries in the 2004 New 
+Orleans cohort left the New Orleans CZ, a group we call “movers” (see column 3 
+of Table 1). Relative to the average New Orleans beneficiary, movers were younger, 
+were more likely to be Black, and came from poorer and more heavily flooded 
+­neighborhoods. Movers were slightly less likely to have some chronic conditions 
+(e.g., heart disease and cancer) but equally or slightly more likely to have others 
+(e.g., diabetes). New Orleans movers also scattered broadly: the top 20 destination 
+counties accounted for about one-half of all movers, while the other half relocated to 
+counties that each attracted less than 1 percent of the movers (see online Appendix 
+Table A.1).
+We use cohorts based on Medicare eligibility in 1992 and 1999 to assess mortal-
+ity trends prior to Hurricane Katrina. Figure 1 plots raw annual death rates for the 
+1999 Medicare cohort, by initial region of residence.11 For example, the 2005 mor-
+tality rate for New Orleans is the fraction of beneficiaries who died in 2005 out of 
+those who lived in New Orleans in 1999 (regardless of subsequent moves) and sur-
+vived through 2004. Mortality rates for the New Orleans cohort are plotted in black, 
+and mortality rates for cohorts from each of the ten control cities are plotted in blue. 
+For comparison to the rest of the United States, light gray lines plot mortality rates 
+for the cohorts initially residing in each CZ except the one containing New Orleans.
+Figure 1 reveals one of the key findings we formally estimate below. Prior to 
+Hurricane Katrina, the New Orleans cohort had one of the highest mortality rates in 
+the United States. Cohorts from the ten control cities also generally had high mortal-
+ity rates that trended similarly to the New Orleans cohort’s mortality in 1999–2004. 
+11 Online Appendix Table A.2 lists raw annual mortality rates for the 1992, 1999, and 2004 New Orleans cohorts 
+and the corresponding control city cohorts. Online Appendix Figure A.4 shows annual death rates for the 1999 
+Medicare cohort, adjusted for all combinations of beneficiaries’ current age (in ­one-year bins), race, and sex.
+Hurricane Katrina
+4
+6
+8
+10
+Annual mortality rate
+1999
+2001
+2003
+2005
+2007
+2009
+2011
+2013
+New Orleans County
+Control counties
+Commuting zones
+Figure 1. Cohort Annual Mortality Rates for New Orleans versus Other Areas
+Notes: The figure shows raw annual death rates for the 1999 Medicare cohort, by initial region of residence. 
+Mortality rates for the New Orleans county cohort are plotted in black, and mortality rates for the ten control county 
+cohorts are plotted in blue. The light gray lines plot mortality rates for each US commuting zone cohort with at least 
+1,000 beneficiaries, except for the New Orleans commuting zone.
+
+
+--- PAGE 10 ---
+3611
+DERYUGINA AND MOLITOR: MORTALITY EFFECTS AND LOCATION
+VOL. 110 NO. 11
+In 2005, the year of Hurricane Katrina, the New Orleans cohort’s mortality rate 
+increased substantially. But in 2006, mortality among the New Orleans cohort fell to 
+the middle of the mortality rate distribution and remained there through 2013, sug-
+gesting that Hurricane Katrina led to a ­long-run decline in mortality among the New 
+Orleans cohort. This ­long-run decline is not explained by regression to the mean: 
+in other regional cohorts with high ­pre-2005 mortality, ­post-2005 annual mortality 
+rates approximately paralleled those from lower mortality cohorts (online Appendix 
+Figure A.5). As we estimate formally below, the mortality decline also cannot fully 
+be explained by mortality displacement, or harvesting, as would occur if Hurricane 
+Katrina killed individuals who would have died soon anyway.
+III.  Research Design
+A. ­Short-Run Effects of Hurricane Katrina
+We estimate the ­short-run mortality effects of Hurricane Katrina on the New 
+Orleans Medicare population using a ­difference-in-differences event study analysis 
+of the 2004 New Orleans and control city cohorts. We define event week ​t  =  0​ as 
+the ­seven-day period beginning on Monday, August 29, 2005, the day Hurricane 
+Katrina struck New Orleans. We construct a panel dataset with observations for each 
+individual ​i​ and week ​t​ over the ­100-week period beginning 34 weeks prior to and 
+ending 65 weeks after Hurricane Katrina, which corresponds to weeks starting on 
+January 3, 2005, and on November 27, 2006, respectively. We omit any observations 
+for weeks after an individual dies. We then estimate
+(1)  ​Die​d​it​ = ​  ∑ 
+​τ  =−34,​ 
+τ≠−1  ​
+​ 
+65
+  ​ ​β​t​ 1​(t = τ)​ × ​NOLA​i​ + ​[week FE]​ + ​[base ZIP5 FE]​ + ​ε​it​,​
+where the outcome, ​Die​d​it​​, equals 0 if individual ​i​ survived through week ​t​ and 
+equals 1 if he or she died that week. We define a “treatment” indicator ​​NOLA​i​​ as 
+equal to 1 if individual ​i​ lived in New Orleans at baseline and equal to 0 otherwise. 
+Fixed effects for the ­five-digit zip code of an individual’s residence in the base year 
+capture baseline geographic differences in mortality rates, while event week fixed 
+effects capture how mortality evolves over time for the sample as a whole. Standard 
+errors are clustered by baseline zip code.
+The focal parameters in equation (1) are ​​β​t​​, the coefficients on the interactions of 
+event week and treatment indicators. The term ​​β​t​​ nonparametrically captures how 
+the change in the New Orleans cohort’s mortality between the reference week and 
+week ​t​ differs from the change in the control city cohorts’ mortality over the same 
+period. Specifically, ​​β​t​​ identifies the causal effect of Hurricane Katrina on the New 
+Orleans cohort’s mortality rate under the assumption that the mortality rate among 
+the New Orleans cohort would have paralleled the control city cohorts’ mortality 
+rates in the absence of the hurricane. The plausibility of this assumption can be 
+assessed by testing for parallel trends in the weeks prior to the storm (i.e., ​​β​t​ = 0​ 
+for ​t < 0​), which motivates the inclusion of the 34 ­pre-event week indicators in 
+equation (1). To minimize sensitivity of the results to the choice of reference week, 
+
+
+--- PAGE 11 ---
+3612
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+we calculate and report adjusted estimates ​​b​t​  =  ​β​t​ − ​β 
+– ​​pre​​, where ​β 
+– ​​pre​​ is the average 
+value of ​​β​t​​ for ​t < 0​ (including ​​β​−1​​, which is mechanically zero). Thus, ​​b​t​​ reflects 
+Hurricane Katrina’s mortality effect in week ​t​, relative to average mortality rate dif-
+ferences in the 34 weeks prior to the hurricane.
+B. ­Long-Run Effects of Hurricane Katrina
+Annual Mortality and Relocation.—We estimate the ­long-run effects of Hurricane 
+Katrina on mortality and relocation using a cohort approach very similar to our 
+­short-run weekly analysis, except that we define the time dimension of the panel 
+data to be annual and extend our period of analysis to cover up to eight years after 
+2005, the year of Hurricane Katrina. Specifically, we include observations for each 
+individual ​i​ and year ​t​ starting from the base year used to define the cohort (1992, 
+1999, or 2004) through 2013, omitting any observations for years after the individ-
+ual dies. We then estimate
+(2) ​​Y​it​ = ​ 
+∑ 
+​τ  =BaseYear,​ 
+τ  ≠2004  ​
+​ 
+2013
+ 
+​β​t​ 1​(t = τ)​ × ​NOLA​i​ + ​[year FE]​ + ​[base ZIP5 FE]​ + θ​X​it​ + ​ε​it​,​
+where the outcome ​​Y​it​​ measures either mortality or relocation. The mortality out-
+come, ​Die​d​it​​, equals 0 if individual ​i​ survived through year ​t​ and equals 1 if he or she 
+died that year. The relocation outcome, ​​LeftCZ​it​​, equals 0 if the individual resided in 
+their baseline CZ in year ​t​ and equals 1 if he or she was living in another CZ.
+For simplicity, we estimate equation (2) with no demographic controls beyond 
+baseline zip code fixed effects. Because the residual demographic balance between 
+treatment and control group cohorts may shift over time and thereby influence 
+mortality trends through a change in cohort composition, the online Appendix also 
+reports event study results that include fixed effects ​​X​it​​ for all combinations of base-
+line age (in ­one-year bins), race, and sex. All other variables are defined as in equa-
+tion (1), except that the time period ​t​ reflects years instead of weeks and we thus 
+include year fixed effects instead of week fixed effects. Standard errors are clustered 
+by baseline zip code, although for robustness we also carry out inference using the 
+synthetic control method with permutation tests conducted at the county and CZ 
+levels (see online Appendix Section A.2.1).
+We use 2004, the year prior to Hurricane Katrina, as the reference period so 
+that ​​β​t​​ captures how the change in the New Orleans cohort’s mortality between 
+2004 and year ​t​ differs from changes in the control city cohorts’ mortality over 
+the same period. As with the weekly analysis, ​​β​t​​ identifies the causal effect of 
+Hurricane Katrina on the New Orleans cohort’s mortality rate in a given year under 
+the assumption that the New Orleans cohort’s mortality would have paralleled the 
+control city cohorts’ mortality rates in the absence of the hurricane. The plausibility 
+of this assumption can be assessed by testing for parallel trends in the years prior 
+to the storm (i.e., ​​β​t​ = 0​ for ​t < 2004​), which can be done when estimating equa-
+tion (2) for cohorts formed in base years prior to 2004.
+We estimate equation  (2) separately for the 1992, 1999, and 2004 Medicare 
+cohorts. The 1992 and 1999 cohorts allow us to examine ­pretrends over a long time 
+horizon, but these cohorts may only partially capture Hurricane Katrina’s impact on 
+
+
+--- PAGE 12 ---
+3613
+DERYUGINA AND MOLITOR: MORTALITY EFFECTS AND LOCATION
+VOL. 110 NO. 11
+Medicare victims, as about ­two-thirds (­one-third) of individuals in the 1992 (1999) 
+cohort had moved away or died before 2005.12 Thus, we use the 2004 Medicare 
+cohort to calculate our preferred estimates of the magnitude of Hurricane Katrina’s 
+mortality effect.
+Cumulative Mortality.—The annual mortality results obtained from equation (2) 
+can be used to calculate the effect of Hurricane Katrina on changes in cumula-
+tive mortality for the New Orleans cohort.13 Specifically, for each ­post-Katrina 
+year ​t​ between 2005 and 2013, the change in cumulative mortality probability 
+​Δ ​M​t​​ is given by
+(3)	
+​Δ ​M​t​  =  ​  ∏ 
+τ =2005​ 
+t
+  ​(1 − ​m​τ​ + ​β​τ​)​ − ​  ∏ 
+τ  =2005​ 
+t
+ 
+​(1 − ​m​τ​)​,​
+where ​​β​τ​​ are the annual mortality effects of Hurricane Katrina and ​​m​τ​​ is the empir-
+ical fraction of the New Orleans cohort who die in year ​τ​.14 We estimate ​Δ ​M​t​​ and 
+its standard error using the estimates ​​β ˆ ​t​​ from equation (2).
+Concise ­Difference-in-Differences.—Event study estimates from equation  (2) 
+nonparametrically identify treatment effects over time and also help to assess the 
+plausibility of the parallel trends assumption. If there are no ­pretends, and if the 
+treatment effect is constant over a period of time, then a more efficient approach is to 
+combine years into longer periods. To that end, we group years into a ­pretreatment 
+reference period (base year through 2004), the year of treatment (2005) for cap-
+turing ­short-run effects, and a ­post-treatment period (2006–2013) for estimating 
+­long-run effects. Specifically, we estimate
+(4)	
+​​Y​it​ = ​β​SR​ 1​(t  =  2005)​ × ​NOLA​i​ + ​β​LR​ 1​(t  ≥  2006)​ × ​NOLA​i​
+	
++ ​[year FE]​ + ​[base ZIP5 FE]​ + θ ​X​it​ + ​ε​it​.​
+The indicators ​1​(t  =  2005)​​ and ​1​(t  ≥  2006)​​ denote whether the year of obser-
+vation is 2005 or falls within the period 2006–2013, respectively. As with equa-
+tion (2), we include year and baseline zip code fixed effects. For robustness, some 
+specifications include additional controls ​​X​it​​, such as baseline demographics. The 
+coefficients ​​β​SR​​ and ​​β​LR​​ thus describe the average ­short-run (2005) and ­long-run 
+(2006–2013) causal effects, respectively, of Hurricane Katrina on mortality among 
+the New Orleans cohort under the same identification assumption required for inter-
+preting equation (2) estimates as causal.
+12 By 2004, 6,600 of the 71,433 individuals (9.2 percent) from the 1992 New Orleans cohort were living outside 
+of New Orleans and 39,500 (55.3 percent) had died. Among the 1999 New Orleans cohort, 5,310 of the 67,649 
+individuals (7.8 percent) were living outside of New Orleans and 17,434 (25.8 percent) had died by 2004.
+13 Because cumulative mortality converges to 1 for each cohort, any differences in baseline annual mortality 
+rates between the treatment and control cohorts imply that the cumulative mortality rates would not have moved 
+in parallel had treatment not occurred. By contrast, annual mortality risk need not converge or diverge over time. 
+For this reason, we estimate annual mortality effects and use the results to infer changes in cumulative mortality.
+14 To derive equation (3), note that ​Δ ​M​t​ = ​(1 − ​S​ t​ O​)​ − ​(1 − ​S​ t​ C​)​ = ​S​ t​ C​ − ​S​ t​ O​​, where ​​S​ O​ = ​∏ τ  =2005​ 
+t 
+​ ​(1 − ​m​τ​)​​​ 
+is the cohort’s observed survival rate and ​​S​ t​ C​  =  ​∏ τ  =2005​ 
+t 
+​ ​(1 − ​m​τ​ + ​β​τ​)​​​ is the counterfactual survival rate.
+
+
+--- PAGE 13 ---
+3614
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+C. Migration and Place Effects
+To examine the role of relocation in determining mortality risk following 
+Hurricane Katrina, we estimate how mortality outcomes of individuals displaced 
+by the hurricane depend on characteristics of the area they moved to. To do so, we 
+restrict our sample to individuals in the 2004 New Orleans cohort who survived 
+through 2005 and moved to another county at some point between March 2005 
+and March 2006. Plausibly, most of these migrants left New Orleans in the after-
+math of Hurricane Katrina. To avoid conflating local characteristics with Hurricane 
+Katrina’s impact in the vicinity of New Orleans, we further exclude from the movers 
+sample individuals who moved to a county in the same CZ as New Orleans.
+We estimate the relationship between a New Orleans mover’s ­post-Katrina 
+(2006–2013) annual mortality rate and the average annual ­post-Katrina mortality rate 
+of the county in which mover ​i​ resided in 2006, which we denote by ​​MDR​2006C​(i)​​​.15 
+To avoid a mechanical relationship between migrant mortality outcomes and our 
+measure of destination mortality, we calculate ​​MDR​2006C​(i)​​​ as the annual mortality 
+rate of the county’s 2004 Medicare cohort (i.e., of Medicare beneficiaries who lived 
+in that county as of March 2005) averaged over 2006–2013. We then estimate
+(5)	
+​Die​d​it​  =  γ ​MDR​2006C​(i)​​ + ​[year FE]​ + ​[base ZIP5 FE]​ + θ ​X​it​ + ​ε​it​.​
+Because only New Orleans movers are included in this empirical exercise, it is not 
+necessary to have New Orleans indicators in equation (5). All remaining control 
+variables are defined as before. Note that year fixed effects will control for any mor-
+tality effects that are common to all migrants, such as the effect of moving in with 
+relatives. The coefficient ​γ​ describes the causal effect of place, as captured by local 
+mortality, on migrant mortality under the assumption that migrants do not sort to 
+high- or ­low-mortality regions based on unobserved mortality risk. When we present 
+the results, we evaluate the plausibility of this assumption by assessing the degree 
+of sorting along observable risk factors as well as the sensitivity of estimates of ​γ​ to 
+the inclusion of rich controls, including baseline demographics, medical spending, 
+and chronic conditions.
+We also estimate other local correlates of migrant mortality by replac-
+ing ​​MDR​2006C​(i)​​​ in equation (5) with other attributes of each mover’s 2006 desti-
+nation county, such as health behaviors, income, and medical spending and quality. 
+To avoid capturing the outcomes of Hurricane Katrina movers in the destination 
+characteristics, we measure ­Medicare-derived characteristics (mortality and medi-
+cal spending) using the 2004 cohort from each region and, when possible, all other 
+characteristics before 2005 (see online Appendix Section A.1.4).16 As with local 
+mortality, the estimated relationship captures the causal effect of living in a ­low- or 
+15 In principle, we could let the local mortality rate ​​MDR​2006C​​ change each year for individuals who continue 
+moving. However, in our setting, this is problematic because a ­nontrivial share of our movers return to New Orleans 
+in the longer run. As a result, we would either have to drop these individuals from our sample in those years, which 
+would likely bias the estimates, or use the New Orleans mortality rate, which was clearly affected by Hurricane 
+Katrina.
+16 We measure environmental characteristics over the time period 2006–2013 because these are unlikely to be 
+affected by Hurricane Katrina movers.
+
+
+--- PAGE 14 ---
+3615
+DERYUGINA AND MOLITOR: MORTALITY EFFECTS AND LOCATION
+VOL. 110 NO. 11
+­high-attribute place only if unobserved mortality risk is uncorrelated with that attri-
+bute. Additionally, for an estimate to reflect the causal effect of that attribute on 
+mortality, there must be no other unobserved local characteristic that is both cor-
+related with the attribute of interest and affects movers’ mortality.
+IV.  Results
+A. ­Short-Run Effects of Hurricane Katrina
+Panel A of Figure 2 reports raw weekly mortality rates for the 2004 New 
+Orleans and control city cohorts. Panel B reports the corresponding weekly 
+Hurricane Katrina
+0
+1
+2
+3
+4
+5
+Deaths per 1,000
+−30
+−20
+−10
+0
+10
+20
+30
+40
+50
+60
+Weeks since Hurricane Katrina
+−30
+−20
+−10
+0
+10
+20
+30
+40
+50
+60
+Weeks since Hurricane Katrina
+New Orleans
+Control cities
+Panel A. Raw weekly mortality rates
+Hurricane Katrina
+−1
+0
+1
+2
+3
+4
+5
+Change in deaths per 1,000
+Panel B. Diference-in-diferences event study
+Figure 2. ­Short-Run Effects of Hurricane Katrina (2004 Medicare Cohort)
+Notes: Panel A shows raw weekly mortality rates over the 34 weeks preceding and the 65 weeks following 
+Hurricane Katrina for the New Orleans cohort (black line) and for the control cities cohort (blue line). Panel B 
+shows ­difference-in-differences estimates and corresponding 95 percent confidence intervals from equation (1), 
+adjusted such that the reference period is the average of the 34 weeks prior to the hurricane. The dependent variable 
+is a mortality indicator equal to 0 if a beneficiary was alive during the entire week and is equal to 1 if the benefi-
+ciary died in a given week. The week in which Hurricane Katrina struck New Orleans is labeled 0 on the horizontal 
+axis (this week begins on Monday, August 29, 2005). The gray dashed line indicates the week of FEMA’s “­look-
+and-leave”/“­look-and-stay” announcement date (December 9, 2005). Standard errors are clustered by beneficiary 
+baseline zip code. Coefficients and confidence intervals have been scaled by 1,000 to reflect changes in deaths per 
+1,000 beneficiaries. See online Appendix Table A.3 for numerical values of a subset of the statistics plotted here.
+
+
+--- PAGE 15 ---
+3616
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+­difference-in-differences mortality effects of Hurricane Katrina from equation (1), 
+adjusted such that the reference period is the 34 weeks prior to the hurricane (as 
+described in Section IIIA).17 The gray dashed line 14 weeks after the hurricane 
+indicates the week of FEMA’s “­look-and-leave”/“­look-and-stay” announcement on 
+December 9, 2005; prior to this date, most New Orleans residents were formally 
+prohibited from returning to their homes. The lack of differential trends in mortality 
+prior to Hurricane Katrina supports interpreting the ­post-Katrina estimates as causal 
+effects of the hurricane on mortality rather than ­preexisting differences between 
+treatment and control individuals.
+Perhaps unsurprisingly, mortality increases were heavily concentrated in the 
+week of Hurricane Katrina. That week, the New Orleans cohort’s mortality increased 
+by 4.27 deaths per 1,000 (0.427 percentage points), which can account for over 
+three-quarters of the excess 2005 mortality we identify later in our annual analysis. 
+Relative to the sample average of 1.01 deaths per 1,000 beneficiaries, the mortality 
+rate more than quintupled in the week of Katrina. Statistically significant mortal-
+ity increases persisted as long as eight weeks after landfall. While the effects in 
+these eight weeks are about an order of magnitude smaller (0.014–0.056 percentage 
+points) than in the week of the storm, they nonetheless represent large relative mor-
+tality increases (14–55 percent). The remaining 57 weeks show a pattern of declin-
+ing point estimates that, after 30 weeks, are more frequently negative than positive.
+B. ­Long-Run Effects of Hurricane Katrina
+Annual Mortality and Relocation.—Panel A of Figure 3 shows estimated effects 
+of Hurricane Katrina on annual mortality (equation (2), solid black lines) as well 
+as on cumulative mortality (equation  (3), dashed lines) for the 2004 Medicare 
+cohort.18 The hurricane increased mortality in 2005 by 0.56 percentage points 
+(over 10 percent of the mean), which is particularly large given that these additional 
+deaths occurred in the last four months of the year. Remarkably, this initial mortality 
+increase quickly reversed and became a mortality reduction: in 2006, the death rate 
+fell below ­pre-Katrina levels and remained depressed by at least 0.25 percentage 
+points each year through 2013 (all estimates after 2006 are statistically significant 
+at the 5 percent level). The decrease in the mortality rate was approximately con-
+stant over time in absolute terms, corresponding to a declining relative effect as the 
+cohort’s mortality rate grew (see Figure 1).
+After an initial increase in 2005, changes in cumulative mortality (dashed 
+lines) fell and became negative by 2007, indicating that mortality displacement 
+can explain, at most, two years of ­post-Katrina mortality reductions. The change 
+in cumulative mortality became increasingly negative throughout the ­post-Katrina 
+period: the cumulative share of the 2004 New Orleans cohort dying by 2013, the end 
+of the sample period, was 2.07 percentage points lower than if their mortality rates 
+had trended in parallel with the control group. Relative to the 64 percent survival 
+17 Numerical values for a subset of the estimates plotted in Figure 2 are reported in online Appendix Table A.3.
+18 Numerical values of the point estimates and standard errors shown in Figure  3 can be found in online 
+Appendix Table A.4.
+
+
+--- PAGE 16 ---
+3617
+DERYUGINA AND MOLITOR: MORTALITY EFFECTS AND LOCATION
+VOL. 110 NO. 11
+rate of the 2004 cohort over this time period, a decrease in cumulative mortality of 
+2.07 percentage points represents a survival improvement of 3.2 percent.
+Using a value of $150,000 (2017 dollars) per ­life-year (Cutler and Richardson 
+1999) and a discount rate of 3 percent (Siegel 1992), we calculate that the net pres-
+ent value of the changes in cumulative mortality brought about by Hurricane Katrina 
+over the period 2005–2013 is $10,114 per capita ($12,345 per capita without dis-
+counting). Because the cumulative mortality reduction likely persisted beyond 2013, 
+this figure plausibly provides a lower bound on the value of the mortality reduction. 
+For our sample of 62,094 elderly and ­long-term disabled victims from the 2004 
+New Orleans cohort who were alive as of January 1, 2005, the implied aggregate 
+value of the mortality changes over the period 2005–2013 is about $628 million 
+($767 million without discounting). Because Hurricane Katrina had other negative 
+Hurricane Katrina
+−2.07
+−3
+−2
+−1
+0
+1
+Mortality change (percentage points)
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+Annual mortality
+Cumulative mortality
+Panel A. Annual and cumulative mortality
+Hurricane Katrina
+0
+10
+20
+30
+40
+50
+Change in leaving (percentage points)
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+Panel B. Relocation
+Figure 3. ­Long-Run Effects of Hurricane Katrina (2004 Medicare Cohort)
+Notes: The figure shows estimates of changes in the probability that an individual dies (panel A) or is living out-
+side of their 2004 CZ of residence (panel B). The black solid lines reflect estimates from equation (2). The dashed 
+line in panel A tracks the implied changes in cumulative mortality probability (equation (3)). The gray shaded areas 
+represent 95 percent confidence intervals based on standard errors that are clustered by beneficiary baseline zip 
+code. Section IIIB defines the dependent variables. Coefficients and confidence intervals have been scaled by 100 to 
+reflect changes in percentage points. Online Appendix Table A.4 reports numerical values of these point estimates 
+and their standard errors along with the empirical survival rate of the 2004 New Orleans cohort.
+
+
+--- PAGE 17 ---
+3618
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+consequences, improved mortality outcomes do not imply that the storm increased 
+victims’ aggregate welfare.
+Finally, panel B of Figure 3 shows the effect of Hurricane Katrina on Medicare 
+beneficiaries’ ­long-run relocation. In 2005, Hurricane Katrina displaced about 48 
+percentage points more New Orleans victims than would have otherwise left, and 
+most of the displaced stayed away in 2006. They began returning slowly in 2007; 
+however, by 2013, those from the New Orleans cohort who were alive remained 
+about 25 percentage points less likely to be living in their baseline CZ than were 
+individuals from the control city cohorts. Thus, a large share of New Orleans elderly 
+and ­long-term disabled left the city after Hurricane Katrina and never returned. 
+These estimates of ­cohort-level migration responses to Hurricane Katrina over time 
+complement recent evidence on the effect of natural disasters on ­county-level net 
+migration (Strobl 2011, Deryugina 2017, Boustan et al. 2017).
+Robustness.—By construction, individuals in the 2004 Medicare cohort were 
+alive on January 1, 2004, so we use earlier cohorts to compare ­pre-Katrina mortal-
+ity trends of New Orleans and the control city cohorts. In Figure 4, we ­re-estimate 
+equation (2) using the 1992 and 1999 Medicare cohorts.19 For both cohorts, mor-
+tality trends are similar between the New Orleans and control city cohorts, with no 
+statistically significant differences. The ­post-Katrina differences in mortality rates 
+are also broadly similar across the cohorts.20
+Our results are also robust to including detailed demographic controls (online 
+Appendix Figure A.7); estimating a proportional hazard model version of equa-
+tion (2) (online Appendix Figure A.8); using the rest of the United States as the 
+control group (online Appendix Figure A.9); and ­re-estimating the mortality effects 
+of Hurricane Katrina for the 1999 cohort using the synthetic control method of 
+Abadie, Diamond, and Hainmueller (2010, 2015) (online Appendix Figures A.10 
+and A.11). These robustness checks are described in more detail in online Appendix 
+Section A.2.1.
+Concise ­Difference-in-Differences.—Table 2 shows mortality estimates from 
+equation (4) for the 2004 cohort (columns 1–3) and the 1999 cohort (columns 4–6). 
+In addition to our preferred specification (columns 1 and 4, labeled A), we also show 
+results that additionally control for every possible combination of ­one-year age bins, 
+sex, and race (labeled B) and where we further allow the year fixed effects to vary by 
+each ­one-year age bin, sex, and race combination (labeled C).
+Overall, the point estimates remain stable across control specifications and are 
+similar in magnitude to those obtained in the event study but are more precisely 
+estimated. The estimated initial (2005) mortality increase for the 2004 cohort is 
+0.55–0.56 percentage points. In 2006–2013, the 2004 New Orleans cohort expe-
+rienced a statistically significant mortality rate decline of 0.36–0.49 percentage 
+19 Online Appendix Table A.5 reports numerical values of the mortality event study point estimates and standard 
+errors shown in Figure 4. Online Appendix Figure A.6 reports relocation event study estimates for the 1999 cohort.
+20 The 2005 increases in the mortality rate for the 1992 and 1999 New Orleans cohorts are even larger than that 
+of the 2004 cohort. This is likely due to elderly individuals in the former cohorts being at least 77 and 70 years 
+old, respectively, at the time of Hurricane Katrina, which may have made them more susceptible to the disaster’s 
+­short-run negative effects than younger Medicare beneficiaries.
+
+
+--- PAGE 18 ---
+3619
+DERYUGINA AND MOLITOR: MORTALITY EFFECTS AND LOCATION
+VOL. 110 NO. 11
+Hurricane Katrina
+−2.06
+−3.5
+−3
+−2.5
+−2
+−1.5
+−1
+−0.5
+0
+0.5
+1
+1.5
+Mortality change (percentage points)
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+Annual mortality
+Cumulative mortality
+Annual mortality
+Cumulative mortality
+Panel A. 1992 Medicare cohort
+Hurricane Katrina
+−1.99
+−3.5
+−3
+−2.5
+−2
+−1.5
+−1
+−0.5
+0
+0.5
+1
+1.5
+Mortality change (percentage points)
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+Panel B. 1999 Medicare cohort
+Figure 4. ­Long-Run Mortality Effects of Hurricane Katrina (Earlier Medicare Cohorts)
+Notes: The figure shows estimates and 95 percent confidence intervals from equation (2) for the Medicare cohort 
+indicated below each panel. The dependent variable is a mortality indicator equal to 0 if a beneficiary was alive 
+during the entire year and is equal to 1 if the beneficiary died in a given year. Standard errors are clustered by benefi-
+ciary baseline zip code. Coefficients and confidence intervals have been scaled by 100 to reflect changes in percent-
+age points. Online Appendix Table A.5 reports numerical values of these point estimates and their standard errors.
+Table 2—Concise Mortality Difference-in-Differences Estimates 
+2004 cohort
+1999 cohort
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+2005 × New Orleans
+0.56
+0.55
+0.56
+0.91
+0.91
+1.00
+(0.16)
+(0.16)
+(0.16)
+(0.18)
+(0.19)
+(0.15)
+(2006–2013) × New Orleans
+−0.48
+−0.49
+−0.36
+−0.49
+−0.48
+−0.23
+(0.12)
+(0.14)
+(0.11)
+(0.14)
+(0.17)
+(0.09)
+Included controls
+A
+B
+C
+A
+B
+C
+Dependent variable mean
+5.55
+5.55
+5.55
+6.31
+6.31
+6.31
+Observations
+7,987,100
+7,987,100
+7,986,926
+10,470,949
+10,470,949
+10,470,692
+Notes: The table reports difference-in-differences estimates of equation (4) based on the 2004 cohort (columns 
+1–3) and the 1999 cohort (columns 4–6). The dependent variable is a mortality indicator equal to 0 if a beneficiary 
+was alive during the entire calendar year and is equal to 1 if the beneficiary died in a given year. Coefficients, stan-
+dard errors (in parentheses), and the dependent variable mean have been scaled by 100. Controls are as follows: A 
+includes baseline zip code and year fixed effects; B also includes fixed effects for each age (one-year bins), race, 
+and sex combination. C additionally controls for age-race-sex effects by year. Standard errors are clustered by ben-
+eficiary baseline zip code.
+
+
+--- PAGE 19 ---
+3620
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+points. The 1999 New Orleans cohort likewise experienced a ­short-run mortality 
+rate increase, with an estimated magnitude ranging from 0.91 to 1.00 percentage 
+points across control specifications. In the longer run, annual mortality declined by 
+0.23–0.49 percentage points.
+Heterogeneous Treatment Effects.—The ­cohort-level mortality effects presented 
+above could mask heterogeneity in Hurricane Katrina’s effects across subpopula-
+tions of victims. We estimate the annual event study specification in equation (2) 
+separately by gender, race, and age group for the 1992 and 2004 cohorts (see online 
+Appendix Figure A.12). We find no evidence of differential ­pre-Katrina mortality 
+trends for any group, further reinforcing the validity of our counterfactual. The ini-
+tial effect of Hurricane Katrina on mortality was larger for those aged 65 and older, 
+­non-Black individuals, and men, but the mortality declines in 2006–2013 were sim-
+ilar for each group, supporting our decision to combine them in our main analyses.
+To more concisely estimate heterogeneous treatment effects along these and other 
+dimensions, including the extent of flooding in one’s neighborhood and ­preexisting 
+chronic conditions, we also augment equation (4) to include interactions between the 
+treatment indicators and an indicator for the characteristic of interest. We describe 
+this specification in more detail in online Appendix Section A.2.1 and present the 
+results in online Appendix Table A.6. We find that ­long-term mortality reductions 
+following Hurricane Katrina do not appear to be limited to narrow subsets of New 
+Orleans victims. Even individuals that seemed more vulnerable ex ante, such as 
+those with chronic conditions, did not experience increases in ­long-run mortality, 
+and the ­long-run survival gains for ­low-income individuals were statistically larger 
+than those for ­higher-income individuals.
+C. Migration and Place Effects
+Thus far, we have shown that Hurricane Katrina led to significant declines in 
+­long-run mortality among the elderly and ­long-term disabled. This result, in iso-
+lation, is counterintuitive, as natural disasters are unlikely to have positive direct 
+effects on health. A natural hypothesis, then, is that the mortality improvements 
+following Hurricane Katrina came about indirectly, through other effects of the hur-
+ricane. Such indirect benefits of Hurricane Katrina have been demonstrated in other 
+contexts including higher earnings among the ­working-age population (Deryugina, 
+Kawano, and  Levitt 2018) and improved test scores among displaced students 
+(Sacerdote 2012). In this section, we explore the hypothesis that Hurricane Katrina 
+may have increased ­long-run survival rates by causing elderly and ­long-term dis-
+abled individuals to move to areas more conducive to good health.21
+The elderly and ­long-term disabled mortality rate in New Orleans was among the 
+highest in the country prior to Hurricane Katrina, and individuals displaced by the 
+storm generally relocated to places with better health outcomes. To the extent that 
+21 Hurricane Katrina may have also generated health benefits through other channels, including quality improve-
+ments in New Orleans itself: see, e.g., Linda Marsa, “Top-Notch Community Health Care Emerges in New Orleans 
+from Hurricane Katrina’s Rubble,” USA Today, August 28, 2015. As discussed in online Appendix Section A.2.2, 
+we find no evidence of improvements over time in the health of those who stayed in New Orleans (see online 
+Appendix Figure A.13).
+
+
+--- PAGE 20 ---
+3621
+DERYUGINA AND MOLITOR: MORTALITY EFFECTS AND LOCATION
+VOL. 110 NO. 11
+regional mortality differences reflect causal effects of place, migrant health may 
+have improved as a result of the move. To examine the effect of place on mortality 
+outcomes, we focus on individuals who were displaced by the hurricane and relate 
+their mortality outcomes to the local mortality rate of the region they moved to, as 
+outlined in Section IIIC and captured by equation (5).
+Determinants of Migration.—The relationship in equation (5) reflects the causal 
+effect of place, as captured by mortality rates, on individual mortality under the 
+assumption that baseline mortality risk among those who move is uncorrelated with 
+mortality rates in the destination region. This identification assumption would be 
+violated if migrants with lower latent mortality risk systematically sort to destina-
+tions with different mortality rates.
+As a direct test of differential sorting, we estimate how migrants’ predicted mor-
+tality risk varies with the local mortality of the county to which they move. To pre-
+dict mortality risk, we model the relationship between mortality and baseline (2004) 
+characteristics ​​X​i,2004​​ as
+	
+​​Died​it​  =  ​X​i,2004​ β + ​ϵ​it​.​
+We estimate this model using the 2004 control county cohorts over the period 
+2006–2013. The fitted model is then used to generate ­out-of-sample mortality pre-
+dictions, ​​PredictedMortality​i​​, for individuals in the 2004 New Orleans cohort, pro-
+viding a ­time-invariant index of an individual’s ex ante mortality risk over the period 
+2006–2013. Our preferred set of predictors ​​X​i,2004​​, described below, yields mortal-
+ity predictions that are strongly correlated with realized mortality among the New 
+Orleans movers (see online Appendix Figure A.14).
+To test whether migrants’ predicted mortality risk is correlated with the local 
+mortality of the county they move to, we estimate the following regression:
+(6)	
+​​MDR​2006C​(i)​​  =  β ​PredictedMortality​i​ + ​[base ZIP5 FE]​ + ​ϵ​i​,​
+where ​​MDR​2006C​(i)​​​ is the mortality rate in migrant ​i​’s destination county, as in equa-
+tion (5). We estimate equation (6) using one observation per mover from the 2004 
+New Orleans cohort.
+Table 3 reports the results of estimating equation (6) using increasingly rich sets 
+of baseline characteristics ​​X​i,2004​​ to generate migrants’ predicted mortality risk. 
+When mortality risk is predicted using demographics alone (all possible ­one-year 
+age, race, and sex combinations), the relationship between predicted mortality and 
+destination mortality is a small and statistically insignificant (column 1). However, 
+when augmenting the mortality predictors to also include indicators for ESRD, eight 
+chronic condition groups, and ventiles of health care spending at baseline (our pre-
+ferred set of predictors), the coefficient on predicted mortality remains small but 
+becomes statistically significant at the 5 percent level.
+Online Appendix Table  A.7, which reports the relationship between destina-
+tion mortality and ​​X​i,2004​​ directly (i.e., without combining the characteristics into 
+a mortality risk measure), suggests that this relationship is driven by a small num-
+ber of individuals with Alzheimer’s/dementia who have high predicted mortality 
+
+
+--- PAGE 21 ---
+3622
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+risk and who move to ­higher-mortality areas. When we exclude these individuals 
+from the sample (column 3), the estimated relationship between predicted mortality 
+and destination mortality ceases to be statistically significant and the magnitude of 
+the coefficient falls nearly to 0. For this sample, the coefficient remains small and 
+statistically insignificant even when enriching mortality predictors to include all 
+­two-way interactions between chronic condition groups (column 4) or when replac-
+ing grouped chronic conditions and spending ventiles with all available 27 chronic 
+condition indicators and centiles of baseline spending (column 5).22
+The limited degree of sorting on observable mortality risk supports the assump-
+tion that the underlying mortality risk of New Orleans migrants was unrelated to 
+destination mortality, especially among those without Alzheimer’s/dementia. As a 
+second test of this assumption, we report in the next section how estimates of the 
+relationship between mover mortality and destination region mortality rates change 
+when using increasingly comprehensive controls and when restricting the movers 
+sample to those without Alzheimer’s/dementia.
+Movers’ Mortality and Local Mortality.—Table 4 reports how movers’ 2006–
+2013 mortality varies with the mortality rate in their destination county (equa-
+tion (5)). Column 1 reports effects for the full movers sample when controlling only 
+for baseline zip code and year fixed effects. The results show that each ­percentage 
+point reduction in the destination mortality rate corresponds to a 0.85 ­percentage 
+point reduction in the mortality rate of New Orleans migrants who had relocated 
+to that region by 2006. Because many beneficiaries who left New Orleans after 
+Hurricane Katrina eventually returned (Figure 3, panel B), the relationship between 
+22 By contrast, online Appendix Table A.8 shows that there is a consistent and strong negative relationship 
+between predicted mortality and the probability of leaving New Orleans in 2005–2006.
+Table 3—Correlation between ex ante Predicted Mortality and Destination Mortality 
+(New Orleans Movers) 
+(1)
+(2)
+(3)
+(4)
+(5)
+Predicted mortality
+0.0007
+0.0016
+0.0004
+0.0004
+0.0006
+(0.0009)
+(0.0008)
+(0.0009)
+(0.0008)
+(0.0008)
+Alzheimer’s/dementia dropped
+No
+No
+Yes
+Yes
+Yes
+Two-way
+Chronic conditions predictors
+None
+Grouped
+Grouped
+interactions
+Individual
+Baseline spending predictors
+None
+Ventiles
+Ventiles
+Ventiles
+Centiles
+Dependent variable mean
+5.40
+5.40
+5.39
+5.39
+5.39
+Observations
+26,467
+12,319
+11,268
+11,268
+11,268
+Notes: The table reports the results of estimating equation (6) using increasingly rich sets of baseline characteris-
+tics to generate migrants’ predicted mortality risk. The dependent variable is the average 2006–2013 mortality rate 
+of the destination county’s 2004 cohort. All regressions control for baseline zip code fixed effects. Both predicted 
+mortality and destination mortality are expressed in percentage points. Standard errors (in parentheses) are clus-
+tered by each beneficiary’s 2006 county.
+
+
+--- PAGE 22 ---
+3623
+DERYUGINA AND MOLITOR: MORTALITY EFFECTS AND LOCATION
+VOL. 110 NO. 11
+local ­mortality and movers’ subsequent mortality should be interpreted as an 
+­intent-to-treat estimate.23
+Columns 2–6 of Table 4 show the results of estimating equation (5) using increas-
+ingly comprehensive controls for baseline demographics and chronic conditions. 
+Whenever we control for chronic conditions, which restricts us to a subset of 
+­fee-for-service beneficiaries, we also include fixed effects for centiles of beneficia-
+ries’ 2004 Medicare spending. The estimated coefficient on destination mortality 
+changes little across these specifications, ranging from 0.83 to 1.01. Importantly, 
+excluding beneficiaries with Alzheimer’s/dementia (columns 5 and 6) yields simi-
+lar results to estimates that include those individuals (column 4). The stability of this 
+estimate across the various sets of controls further suggests that significant migrant 
+sorting on latent mortality risk is unlikely in our context.
+The results reported in Table 4 are robust to controlling for the 27 individual 
+chronic condition indicators, controlling for move distance, and excluding individu-
+als who moved to Houston or Baton Rouge, the two most common destinations for 
+New Orleans movers (online Appendix Table A.10); using an indicator for death 
+by the end of 2013 as the outcome, thus capturing cumulative mortality (online 
+Appendix Table A.11); and constructing the movers sample based on where indi-
+viduals lived as of March 2007 to exclude ­short-term moves and include moves 
+that had not been reported by the beneficiary until later in 2006 (online Appendix 
+Table A.12). We discuss these robustness checks in more detail in online Appendix 
+Section A.2.3.
+Figure 5 shows a graphical representation of the results in column 5 of Table 4. 
+Specifically, we residualize destination county mortality by the fixed effects included 
+23 A potential difficulty with interpreting the ­intent-to-treat effect is that the probability of returning to New 
+Orleans could differ across high- and ­low-mortality destinations. However, online Appendix Table A.9 indicates 
+that this was not the case.
+Table 4—Migrant Mortality by Destination Mortality (New Orleans Movers)
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+Mean death rate in 2006 county
+0.85
+0.83
+0.86
+1.01
+0.94
+0.98
+(0.29)
+(0.23)
+(0.23)
+(0.30)
+(0.29)
+(0.29)
+Set of fixed effects
+A
+B
+C
+C
+C
+C
+Alzheimer’s/dementia dropped
+No
+No
+No
+No
+Yes
+Yes
+Chronic conditions controls
+No
+No
+No
+Gr.
+Gr.
+All int.
+Dependent variable mean
+5.55
+5.55
+5.54
+6.11
+5.48
+5.47
+Observations
+175,936
+175,936
+175,821
+80,084
+75,142
+75,137
+R2
+0.00
+0.04
+0.05
+0.09
+0.08
+0.08
+Notes: The table reports estimates of equation (5). The dependent variable is a mortality indicator equal to 0 if 
+a beneficiary was alive during the entire calendar year and is equal to 1 if the beneficiary died in a given year. 
+Coefficients, standard errors (in parentheses), and dependent variable mean have been scaled by 100. Controls are 
+as follows: A includes baseline zip code and year fixed effects; B also includes fixed effects for each age (one-year 
+bins), race, and sex combination. C additionally controls for age-race-sex effects by year. Gr. means that indicators 
+for eight groups of chronic conditions are included; All int. means that indicators for each possible interaction of 
+the eight groups of chronic conditions are included. All specifications that include chronic condition controls also 
+include fixed effects for centiles of baseline Medicare spending. Standard errors are clustered by each beneficia-
+ry’s 2006 county.
+
+
+--- PAGE 23 ---
+3624
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+in each regression and bin observations by centile of the resulting residuals, yielding 
+100 groups. For each centile, we plot movers’ mean residualized mortality (black 
+circles) and mean residualized predicted mortality (green squares), with the sample 
+means added for interpretability. The resulting relationship between local mortality 
+and movers’ subsequent mortality reflects a general upward trend, demonstrating 
+that the findings in Table 4 are not driven by a few outliers. The relationship between 
+destination mortality and movers’ ex ante predicted mortality appears to be flat, sup-
+porting the absence of mover sorting on this dimension.
+To shed additional light on how place shapes health outcomes, we explore 
+heterogeneity in our baseline results. Online Appendix Table  A.13 shows that 
+movers’ mortality rates reflect the local mortality rate as early as 2006–2007, 
+suggesting that ­faster-moving channels like the quality of local health care deliv-
+ery or other environmental factors drive the place effects we estimate, rather than 
+­slower-moving channels like the development of chronic conditions. Related to 
+this hypothesis, we find that cardiovascular and other internal causes of death are 
+statistically significantly associated with the destination mortality rate, but not 
+cancer and external causes of death (see online Appendix Table A.14). Online 
+Appendix Table A.15 shows that a mover’s mortality is more correlated with the 
+local mortality of beneficiaries of his/her race (Black or not Black) and with the 
+local mortality of his/her age group (65 or older versus 64 or younger), while 
+­gender-specific estimates are inconclusive. Finally, online Appendix Table A.16 
+relates movers’ mortality to destination zip code, county, and CZ mortality and 
+shows that movers’ mortality is more strongly associated county mortality when 
+considered jointly with zip or CZ mortality. These heterogeneity results are 
+described in more detail in online Appendix Section A.2.3.
+Figure 5. Mover Mortality by Destination Mortality
+Notes: The figure shows a graphical representation of the results in column 5 of Table 4, which describes how mov-
+ers’ realized mortality rates relate to the local mortality of their destination county (solid black line). The figure also 
+shows how movers’ ex ante predicted mortality rates relate to the local mortality of their destination county (dashed 
+green line). For each outcome, the outcome and destination county mortality are residualized by partialing out the 
+fixed effects included in their respective regression and then adding sample means for interpretability. For each cen-
+tile of residualized destination county mortality, the plot shows movers’ mean residualized mortality (black circles) 
+and mean residualized predicted mortality (green squares).
+Slope (se):
+0.94 (0.29)
+−0.07 (0.2)
+4
+4.5
+5
+5.5
+6
+6.5
+7
+7.5
+Mover mortality (residualized)
+4.5
+4.75
+5
+5.25
+5.5
+5.75
+6
+6.25
+Destination county mortality (residualized)
+Annual mortality
+Predicted annual mortality
+Slope (se):
+
+
+--- PAGE 24 ---
+3625
+DERYUGINA AND MOLITOR: MORTALITY EFFECTS AND LOCATION
+VOL. 110 NO. 11
+Movers’ Mortality and Other Local Characteristics.—Next, we examine how 
+movers’ mortality rates vary with other attributes of the destination county, includ-
+ing health behaviors, health care supply and quality, the environment, income and 
+income mobility, crime, urbanicity, and social capital. The full set of 21 attributes 
+is summarized in online Appendix Table A.17, where we display the median, tenth 
+percentile, and ninetieth percentile of each destination characteristic, as measured in 
+the 2006 ­cross-section of New Orleans movers.
+To estimate the correlation between movers’ mortality and each of these char-
+acteristics, we simply replace the local mortality rate in equation (5) with the local 
+characteristic of interest. The correlation reflects the causal mortality effect of place, 
+as captured by the local characteristic, under the assumption that migrants’ base-
+line mortality risk is uncorrelated with the destination characteristic. Even if this 
+assumption holds, we emphasize that the estimate reflects the causal effect of the 
+given characteristic itself only if the characteristic is uncorrelated with any other 
+local attribute that also affects movers’ mortality. Because each region is a bundle of 
+many, often correlated, characteristics, these results should be viewed as suggestive 
+of what actually determines place effects.
+Figure 6 reports the results for the ­no-Alzheimer’s/dementia sample, con-
+trolling for zip code and ­year-by-age-by-race-by-sex fixed effects as well as for 
+eight chronic condition indicators and centiles of baseline spending. Black mark-
+ers indicate effects when the outcome is ​​Died​it​​, an indicator for realized mortality. 
+Green markers indicate effects when the outcome is ​​PredictedMortality​i​​, which 
+evaluates the extent of differential sorting to regions with high or low values of 
+the characteristic by ex ante predicted mortality risk. In the figure, we report stan-
+dardized mortality effects and 95 percent confidence intervals, constructed by 
+multiplying coefficients and confidence intervals by the interdecile range of each 
+characteristic.24 Thus, each estimate can be interpreted as the change in actual or 
+predicted mortality when moving from a place in the tenth to a place in the nineti-
+eth percentile of a characteristic’s distribution in the movers sample.
+Across all local health characteristics we consider (Figure 6, panel A), the esti-
+mated standardized mortality effect is largest for the local mortality rate: moving 
+to a region in the tenth versus the ninetieth percentile of local mortality corre-
+sponds to a 0.76 ­percentage point decrease in realized mortality. The estimate is 
+similar when we adjust the local mortality rate to account for the demographics 
+of local residents, which we construct by demeaning raw mortality by interac-
+tions of ­one-year age, race, and sex. Migrants’ mortality is also higher in places 
+with higher rates of smoking, higher rates of obesity, or lower rates of exercise.  
+We find small and statistically insignificant relationships between movers’ mortal-
+ity and the number of hospital beds per capita, the frequency of extremely hot days, 
+the number of MDs per capita, an index of hospital quality, or average medical 
+spending. Surprisingly, moving to areas with more air pollution, as measured by 
+PM​​2.5​​, is associated with a lower subsequent mortality rate. However, in ­contrast 
+24 Online Appendix Table A.17 reports the interdecile range of each local characteristic among the movers sam-
+ple. Online Appendix Tables A.18 and A.19 report the numerical values of coefficients and standard errors graphed 
+in Figure 6, along with the correlation between each local characteristic and the local mortality rate.
+
+
+--- PAGE 25 ---
+3626
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2020
+with the other local health characteristics, this correlation can largely be explained 
+by sorting of ex ante healthier individuals into more polluted areas.
+Mortality rate
+Percent smoking
+Adjusted mortality rate
+Percent obese
+Hospital beds per capita
+Hot days/year (90°F+)
+Physicians per capita
+Hospital quality index
+   Medicare spending per beneficiary
+Percent exercising
+PM2.5 concentrations
+−1
+−0.5
+0
+0.5
+1
+Standardized mortality effect
+Died
+Predicted mortality
+Panel A. Destination health characteristics
+Social capital index
+Crime rate
+Poverty rate, 65+
+Upward income mobility (from p75)
+Upward income mobility (from p25)
+Income segregation
+Local gov. spending per capita
+Urban population share
+Median home value
+Income per capita
+Standardized mortality effect
+Panel B. Destination economic characteristics
+Died
+Predicted mortality
+−1
+−0.5
+0
+0.5
+1
+Figure 6. Mover Mortality by Destination Characteristic
+Notes: The figure shows estimates and 95 percent confidence intervals of how realized and ex ante predicted mor-
+tality rates of movers relate to the local characteristics of the counties to which they moved. The standardized mor-
+tality effect reflects the effect of an interdecile range change in the local characteristic reported in the row, based 
+on the tenth and ninetieth percentiles of the local characteristic exposure among movers. Numerical values of the 
+point estimates and standard errors for the Died and Predicted mortality outcomes are reported in columns 1 and 
+4, respectively, of online Appendix Tables A.18 and A.19. Online Appendix Table A.17 reports summary statistics 
+for each of the destination characteristics. See notes to online Appendix Table A.18 for additional details about the 
+sample and controls.

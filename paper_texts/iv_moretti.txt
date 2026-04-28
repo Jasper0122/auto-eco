@@ -1,0 +1,1493 @@
+
+
+--- PAGE 1 ---
+American Economic Review 2021, 111(10): 3328–3375 
+https://doi.org/10.1257/aer.20191277
+3328
+The Effect of ­High-Tech Clusters on the Productivity  
+of Top Inventors†
+By Enrico Moretti*
+The ­high-tech sector is concentrated in a small number of cities. The 
+ten largest clusters in computer science, semiconductors, and biology 
+account for 69 percent, 77 percent, and 59 percent of all US inven-
+tors, respectively. Using longitudinal data on 109,846 inventors, I 
+find that geographical agglomeration results in significant produc-
+tivity gains. When an inventor moves to a city with a large cluster of 
+inventors in the same field, she experiences a sizable increase in the 
+number and quality of patents produced. The presence of significant 
+productivity externalities implies that the agglomeration of inventors 
+generates large gains in the aggregate amount of innovation pro-
+duced in the United States. (JEL D62, J24, L60, O31, 034, R32)
+We know from ordinary experience that there are group interactions that 
+are central to individual productivity. We know this kind of external effect 
+is common to all the arts and sciences—the ‘creative professions’ 
+(Lucas 1988)
+Firms in the innovation sector display a strong tendency to cluster geographically 
+by research field (Carlino et al. 2012). Prominent examples include the internet 
+and software clusters in Seattle anchored by Amazon and Microsoft, respectively; 
+the medical research and biotech clusters in Boston; the software and telecommu-
+nication clusters in Austin; the ­Raleigh-Durham Research Triangle, with its large 
+concentration of pharmaceutical firms; the nascent autonomous vehicles cluster in 
+Pittsburgh; and the biotech cluster and medical devices clusters in San Diego. The 
+San ­Francisco-Silicon Valley region has the largest agglomeration of innovative 
+firms in the United States, with important clusters in most research fields.
+The geographic concentration of ­high-tech sectors is not just a curiosity—it has 
+important implications for cities and states. The presence of a ­high-tech sector has 
+been shown to be a key driver of local economic growth as ­innovation-oriented 
+industries have taken on larger roles (­Glaeser and Saiz 2004, ­Buera and Kaboski 
+2012). In the period 1980 to 2010, mean wages and mean income in cities with 
+* Department of Economics, UC Berkeley; NBER and CEPR (email: moretti@berkeley.edu). Thomas Lemieux 
+was the coeditor for this article. I thank Don Davis, Jorge De La Roca, Gilles Duranton, Bronwyn Hall, Evan Rose, 
+John Van Reenen, Jose Vasquez, Heidi Williams, Paolo Zacchia, the referees, and seminar participants at Berkeley, 
+Columbia, Georgetown, LSE, MIT, NABE, NYU, Penn, Torino, San Francisco Fed, UCL, and USC for helpful 
+comments and suggestions. 
+† Go to https://doi.org/10.1257/aer.20191277 to visit the article page for additional materials and author  
+disclosure statement.
+
+
+--- PAGE 2 ---
+3329
+MORETTI: HIGH-TECH CLUSTERS ON THE PRODUCTIVITY OF TOP INVENTORS
+VOL. 111 NO. 10
+large ­high-tech clusters have increased significantly more than in cities without 
+­high-tech clusters (Moretti 2012). Thus, it is probably not surprising that competition 
+has emerged among localities to attract ­high-tech employers, with states and counties 
+offering increasingly generous subsidies designed to spur ­high-tech clusters in their 
+jurisdiction. The prospect of winning Amazon’s second headquarters recently gener-
+ated intense competition among US cities, with some of finalist cities offering incen-
+tives as high as $5 billion. Tesla received incentives worth $1.3 billion from Nevada in 
+2014 to locate its new Gigafactory in Reno, while Foxxcom received $3 billion from 
+Wisconsin to locate its electronic components factory in the state. In biotech, 11 states 
+provide incentives to relocating firms and the average subsidy has grown ­four-fold 
+since 1990 (Moretti and Wilson 2014). It is rare for ­high-tech firms to open large new 
+facilities in the United States today without receiving some type of local subsidy, with 
+areas with limited ­high-tech presence typically offering the most aggressive subsidies.
+Quantitatively, the amount of spatial concentration observed in high tech by 
+research field is remarkable. (In this paper, I will use the term “high tech” broadly, 
+to include any firm that produces innovation.) In my patent data, the ten cities with 
+largest number of inventors in “computer science” account for 69.3 percent of all 
+inventors in 2007. In “semiconductors” and “biology and chemistry,” the corre-
+sponding shares are 77.0 percent and 59.2 percent, respectively. These shares are 
+not declining over time. Indeed, they are larger in 2007 than in 1971, suggesting 
+that despite the diffusion of the internet, Skype, and other forms of cheap commu-
+nication, ­high-tech inventors are more geographically concentrated today than they 
+were in the past. A similar amount of concentration is observed in other countries 
+(Duranton et al. 2010, Kerr 2018). Agglomeration in manufacturing, meanwhile, is 
+much lower on average (Ellison and Glaeser 1997).
+The agglomeration of innovative activity by research field raises important 
+questions about the economic geography of the ­high-tech sector, especially since 
+­high-tech clusters tend to be located in cities with high labor and real estate costs—
+cities like San Francisco, Boston, or Seattle—rather than in cities where costs are 
+low. Why do ­high-tech inventors tend to locate near other inventors in the same 
+field, despite the higher costs? What are the effects on innovation? One view of 
+Silicon ­Valley-style clusters—which can be traced to Marshall (1890)—is that 
+agglomeration economies make workers inside large clusters more productive. To 
+use Marshall’s words, in industrial clusters “the mysteries of the trade become no 
+mysteries.” In his seminal paper on economic growth quoted above, Lucas (1988) 
+explicitly posits a productivity effect of agglomeration and argues that it is particu-
+larly important in the innovation sector and “creative professions.” This productivity 
+effect could reflect localized knowledge spillovers or the fact that the quality of 
+­worker-firm matches may be better in larger clusters due to labor pooling.
+Empirically determining the productivity advantage of Silicon ­Valley-style 
+clusters is difficult. First, location is endogenous, since workers and firms decide 
+where to locate based on a number of observed and unobserved factors. Comparing 
+the productivity of inventors in large clusters to the productivity of inventors in 
+small clusters may yield biased estimates of agglomeration effects if particularly 
+productive inventors select into large clusters. Second, direct ­worker-level mea-
+sures of productivity are rare. Most existing papers on the effect of agglomeration 
+on innovation rely either on wages—under the assumption that they reflect the 
+
+
+--- PAGE 3 ---
+3330
+THE AMERICAN ECONOMIC REVIEW
+OCTOBER 2021
+­marginal product of labor—or on analyses of patent citations (Jaffe, Trajtenberg, 
+and Henderson 1993).1
+In this paper I use longitudinal data on top inventors based on the universe of patents 
+filed in the United States between 1971 to 2007 to investigate two related questions: 
+(i) Are there productivity benefits for inventors who locate in Silicon ­Valley-style clus-
+ters? (ii) What are the aggregate effects of geographical agglomeration on overall 
+innovation in the United States? In my analysis, I define a cluster as city ​×​ research 
+field. I estimate how inventors’ productivity varies with the size of the relevant cluster, 
+measured by the number of other inventors in the same city and field, excluding the 
+focal inventor. I use the number of patents produced in a year and the number of subse-
+quent citations these patents receive, as measures of worker-specific productivity. The 
+latter is a measure of the quality of the patents produced. While these measures have 
+some limitations, they are arguably a more direct measure of inventor productivity 
+than wages. I focus on top inventors—defined as those above the ninetieth percentile 
+in the total number of patents—since the panel is longer for this group.
+The analysis proceeds in three parts. I first study the experience of inventors in 
+Rochester, New York, where the ­high-tech cluster declined due to the demise of its 
+main employer, Kodak. Kodak was the market leader in films for cameras and the 
+fifth most prolific patenter in the United States. At its peak in 1996, Kodak employed 
+more than one-half of all the inventors in Rochester. But due to the diffusion of digi-
+tal photography and the decline of physical film, Kodak stock price and employment 
+collapsed after 1996. Essentially, demand for Kodak’s main product evaporated due 
+to a global technology shock. By 2007, the number of Kodak inventors in Rochester 
+had declined by 84 percent.
+Kodak’s decline had a profound effect on the broader Rochester ­high-tech clus-
+ter. Measured by the number of inventors in all fields, its size declined by 49.2 
+percent relative to other cities, dragged down by Kodak’s downsizing. The shock 
+was large and arguably exogenous, as it was caused by the advent of digital pho-
+tography and not factors specific to Rochester’s local economy. The experience of 
+Rochester therefore offers an interesting case study for testing the hypothesis that 
+­high-tech clusters’ size affects inventors’ productivity. In particular, examining 
+how the sudden collapse of Rochester’s high-tech cluster affected inventors outside 
+Kodak offers a direct test of the effects of cluster size on productivity. I focus on 
+­non-Kodak inventors outside the photography sector, since the photography sector 
+may have been exposed to the same negative demand shock as Kodak. Finding that 
+their productivity did not change following the demise of the local ­high-tech cluster 
+would cast doubt on the hypothesis that productivity depends on cluster size.
+I compare productivity changes in Rochester with changes in other cities between 
+1996—the year when Kodak stock price peaked—and 2007. Specifically, I compare 
+the ­within-inventor change in productivity between 1996 and 2007 for ­non-Kodak 
+inventors who were in Rochester in 1996 (irrespective of their 2007 location) to the 
+­within-inventor change for ­non-Kodak inventors who were in other cities in 1996. I 
+find that the log productivity of ­non-Kodak inventors in Rochester declined by 0.206 
+(0.077) relative to other cities. This estimate is not driven by changes in unobserved 
+1 Greenstone, Hornbeck, and Moretti (2010) and Moretti (2004) study productivity spillovers on ­firm-level total 
+factor productivity.
+
+
+--- PAGE 4 ---
+3331
+MORETTI: HIGH-TECH CLUSTERS ON THE PRODUCTIVITY OF TOP INVENTORS
+VOL. 111 NO. 10
+quality of inventors, since I am following the same inventor over time. Thus, follow-
+ing the decline in the Rochester ­high-tech cluster, ­non-Kodak inventors in Rochester 
+experienced large productivity losses relative to ­non-Kodak inventors in other cities. 
+This is consistent with the existence of important productivity spillovers in the high-
+tech sector stemming from geographical agglomeration.
+In the second part of the paper, I present estimates based on all the data in the sam-
+ple. The sample includes 109,846 inventors observed between 1971 and 2007, located 
+in 895 clusters (179 cities ​×​ 5 research fields). I regress inventor’s log productivity 
+on log cluster size, conditioning on inventor, firm, city ​×​ year effects, as well as other 
+controls.
+I find that when an inventor moves to a larger cluster, she experiences significant 
+increases in the number of patents produced in a year and their quality. Models that 
+include five leads and lags allow me to estimate the dynamic response to a change in 
+cluster size and reveal that the productivity increase follows the move, and does not 
+precede it. There is no evidence that future values of treatment affect current produc-
+tivity. I propose an instrumental variable (IV) based on the geographical structure of 
+firms with laboratories in multiple cities. The instrument uses the expansion of local 
+firms outside the cluster to predict changes in local cluster size. Two-stage least squares 
+(2SLS) models confirm that increases in cluster size cause increases in productivity.
+I also find that inventors who move to larger clusters tend to cite more patents per 
+patent created than otherwise similar inventors in smaller clusters, and this is particu-
+larly true of local patents. Since citations made by an inventor are arguably a sign that 
+the inventor knows about a specific innovation, this finding suggests that moving to a 
+large clusters results in more knowledge of existing innovations, especially the local 
+ones. This is consistent with the notion that larger clusters allow for knowledge and 
+ideas to spread more efficiently, as documented by Saxenian (1994), who describes 
+how in Silicon Valley ideas flow very fluidly between innovators and this fosters their 
+creativity.
+The elasticity of number of patents in a year with respect to cluster size is 0.0676 
+(0.0139). The estimated elasticity implies that a computer scientist moving from 
+the median cluster in computer science (Gainesville, Florida) to the cluster at the  
+seventy-fifth percentile of size (Richmond, Virgina) would experience a 12.0 per-
+cent increase in productivity, holding constant the inventor and the firm. In biology 
+and chemistry, a move from the median cluster (Boise, Idaho) to the seventy-fifth 
+percentile cluster (State College, Pennsylvania) is associated with a productivity 
+gain of 8.4 percent, holding constant the inventor and the firm.
+My estimates can be used to quantify the spillover effects that a specific firm 
+generates within a cluster. The size of such an externality varies enormously across 
+firms. The externality generated by the average firm in the average city is 0.3 per-
+cent and 0.24 percent in computer science and biology and chemistry, respectively. 
+But it is much larger for firms that account for a large number of inventors in the 
+local cluster. For example, the productivity of ­non-Microsoft computer scientists in 
+Seattle is estimated to be 8.06 percent higher because of the presence of Microsoft 
+in the local computer science cluster. This large external effect reflects Microsoft’s 
+remarkable size in this field in Seattle. Having estimates of the productivity spillover 
+that a specific firm generates in a specific cluster may prove useful to local and state 
+governments that offer subsidies to attract ­high-tech firms to their jurisdiction.
+
+
+--- PAGE 5 ---
+3332
+THE AMERICAN ECONOMIC REVIEW
+OCTOBER 2021
+In the final part of the paper, I seek to quantify the ­macroeconomic benefits of 
+agglomeration for the United States as a whole. I use the estimated elasticity of 
+productivity with respect to cluster size to ask how much geographical clustering 
+contributes to the overall production of patents in the United States. In particular, 
+is the total number of patents produced each year in the country made larger by the 
+fact that inventors in each field concentrate in a handful of locations, compared to 
+the case where inventors are spread more equally across locations?
+I compare the observed total number of patents produced annually in each field in 
+the United States to the number of patents that would be produced if inventor quality 
+and firm quality did not change but some inventors were spatially reallocated from 
+large clusters to small clusters up to the point where clusters size within each field is 
+equalized across cities. Because of the effect of agglomeration on productivity, such 
+spatial redistribution would increase the productivity of inventors in clusters smaller 
+than average and lower the productivity of inventors in clusters larger than average. 
+My estimate of the elasticity of productivity with respect to cluster size implies that 
+the average productivity of computer scientists in the San ­Francisco-Silicon Valley 
+region, for example, would be 22.76 percent lower than the observed productivity 
+in 2007 because the size of the San ­Francisco-Silicon Valley computer science clus-
+ter would be made significantly smaller. The corresponding losses for New York, 
+Seattle, Austin, and Boston would be −17.81 percent, −16.52 percent, −14.76 per-
+cent, and −13.45 percent, respectively. On the other hand, the average productiv-
+ity of computer scientists in Kansas City would be 2.66 percent higher than the 
+observed productivity in 2007, because the Kansas City computer science cluster 
+is smaller than average. The corresponding gains for Omaha; Portland, Maine; and 
+Memphis would be 13.42 percent; 17.76 percent; and 23.36 percent, respectively.
+On net, the magnitude of the aggregate effect for the country as a whole of such 
+spatial redistribution depends on the relative magnitude of the gains in small clusters 
+compared to the losses in large clusters. Empirically, I find significant aggregate effi-
+ciency gains from clustering. The total number of patents created in the United States 
+in computer science would be 13.34 percent lower in 2007 if computer scientists 
+were uniformly distributed across cities. The corresponding losses in biology and 
+chemistry, semiconductors, other engineering, and other sciences would be −10.06 
+percent, −14.83 percent, −7.71 percent, and −9.75 percent, respectively. The change 
+in the total number of patents in the United States would be −11.20 percent.
+Thus while the spatial clustering of ­high-tech industries may exacerbate earning 
+inequality across US communities, it is also important for overall production of 
+innovation in the United States. The unequal distribution of earnings growth across 
+cities is a source of policy concern and has spurred a wealth of policy proposals 
+to help struggling cities and regions, especially those in the Rust Belt (Gruber and 
+Johnson 2019). Policies that seek to attract ­high-tech investment to communities 
+that do not have any—like the incentives offered by some local and state govern-
+ments—might help reduce earning differences but are costly in the aggregate, creat-
+ing a classic case of an ­equity-efficiency ­trade-off.
+This study relates to an extensive literature on the link between agglomeration 
+and innovation (Audretsch and Feldman 1996). The local nature of knowledge flows 
+and productivity spillovers is frequently noted in the literature. For example, Kantor 
+and Whalley (2014 and 2019) find significant spillovers from academic research 
+
+
+--- PAGE 6 ---
+3333
+MORETTI: HIGH-TECH CLUSTERS ON THE PRODUCTIVITY OF TOP INVENTORS
+VOL. 111 NO. 10
+and development (R&D) on local firms. Helmers and Overman (2017) find that the 
+establishment of the Diamond Light Source synchrotron in the United Kingdom 
+induced a clustering of related research in its geographic proximity and raised 
+research output within a 25 kilometer radius. Bloom, Schankerman, and Van Reenen 
+(2013) find evidence of large spillovers from R&D. See Carlino and Kerr (2015) for 
+a comprehensive survey of this literature.2 Not all papers in this literature find evi-
+dence of positive spillovers. See, for example, Waldinger (2012), Moser, Voena, and 
+Waldinger (2014), and Azoulay, Graff Zivin, and Wang (2010). This paper is also 
+part of a much larger literature on agglomeration economies in the broader economy 
+(not just the high-tech sector), where most of the focus has been on measures of size 
+at the city level, rather than cluster level.3
+The remainder of the paper is organized as follows. Section I describes the data. 
+Section II reports the estimates based on the Rochester case study. Sections III and 
+IV report the estimates based on the full sample. Section V discusses the aggregate 
+implications. Section VI concludes.
+I.  Data
+I use data on the universe of US patents filed between 1971 and 2007 and ulti-
+mately granted. Unsuccessful applications are not included. The source of the data 
+is the Connecting Outcome Measures in Entrepreneurship, Technology, and Science 
+(COMETS) patent database (Zucker and Darby 2014). It is the same data used in a 
+recent paper by Moretti and Wilson (2017).
+A. Patents, Inventors, and Their Location
+The data include 4,229,809 patents; 90.9 percent of patents in the sample are filed 
+by inventors employed in private firms and 4.1 percent by inventors employed by 
+universities, with the remainder are filed by inventors working in national labs, gov-
+ernment, nonprofit institutions, or for themselves. Online Appendix Table A.1 shows 
+the names of the 25 patent assignees—private or public—with the largest number of 
+patents in my sample period. IBM is by far the most prolific patenter, with 155,790 
+patents filed between 1971 and 2007, followed by General Electric, Microsoft, Intel, 
+and Kodak with 69,051, 43,556, 42,085, and 41,538 patents filed respectively. The 
+US Navy and the University of California are the only ­noncorporate organizations 
+in the table.4
+2 Guzman (2019) finds that startups that move to Silicon Valley patent more and introduce more products. 
+Additional examples include, but are not limited to, Duranton and Overman (2005); Lychagin et al. (2016); Bosquet 
+and Combes (2017); Acemoglu, Akcigit, and Kerr (2016); Akcigit et al. (2018); and Zacchia (2018).
+3 For surveys, see Behrens and ­Robert-Nicoud (2015), Combes and Gobillon (2015), Rosenthal and Strange 
+(2004, 2006, and 2008), and Duranton and Kerr (2018).
+4 In the COMETS data, patent assignees (organizations) are identified by a unique code. Different recorded 
+names that standardize to the same name have been assigned the same code. For example: IBM, IBM Corp., 
+IBM Corporation have the same code FI2651. Moreover, organization names were hand cleaned to determine the 
+­variant names that a certain organization uses. For example: International Business Machines Corporation has been 
+assigned the code FI2651 as well. Likewise, UCLA, University of California Los Angeles, and Univ Calif Los 
+Angeles have all been assigned the same code.
+
+
+--- PAGE 7 ---
+3334
+THE AMERICAN ECONOMIC REVIEW
+OCTOBER 2021
+The geographical units of analysis I employ are the Bureau of Economic 
+Analysis’s (BEA) “economic areas.” There are 179 economic areas in the United 
+States and they cover the entire country. In most cases, “economic areas” are similar 
+to a metropolitan statistical area (MSA). For large areas like the San Francisco Bay 
+Area, Boston, or New York, they tend to be larger than the corresponding MSAs, 
+since they include the entire economic region. For example, the economic area for 
+the San Francisco Bay Area includes the entire area between Santa Rosa to the north 
+and San Jose to the south (Johnson 2004). In the rest of the paper, I will refer to 
+economic areas as “cities.”
+Each patent is assigned to an economic area based on the inventor’s residential 
+address. Patenters must report their home address on their patent application and 
+have no economic incentive to misreport it. There is no legal link between where a 
+patent’s inventor lives and the taxation of any income generated by the patent for the 
+patent assignee/owner. In many cases both the inventor’s residential address and the 
+assignee address (typically the company that first owned the patent) are available. I 
+do not use the latter because it may not reflect the location where the research was 
+conducted, as in many cases it is the address of the corporate headquarters and not 
+the R&D facility.5
+In the COMETS data, patents are assigned to one of five main “research fields” 
+and 579 “technology classes.” The five research fields are semiconductors, inte-
+grated circuits, and superconductors (which accounts for 3.8 percent of all patents—
+for brevity, in the rest of the paper, I will refer to this field as “semiconductors”); 
+computing and information technology (12.6 percent—for brevity: “computer sci-
+ence”); biology, chemistry, and medicine (22.3 percent—for brevity: “biology and 
+chemistry”); “other engineering” (52.7 percent); and “other science” (8.4 percent). 
+Technology classes are more detailed. Examples include “hybrid electric vehicles,” 
+“nanotechnology,” “­X-ray or gamma ray systems or devices,” “exercise devices,” 
+and “electrical computers and digital processing systems: memory.”
+I aggregate the ­patent-level data to the ­inventor-year-level data by counting the 
+number of patents created by an inventor in a year and the number of subsequent 
+citations received by those patents, where year is defined as year of the patent  
+application, not the year when the patent is granted. For citations, year is defined 
+as the year of the cited patent’s application, not the year of the citing patent’s appli-
+cation. If a patent has multiple inventors, I assign equally weighted fractions of 
+the patent and citations to each of its inventors. For example, if a patent has four 
+inventors, each inventor is credited with ­one-quarter of a patent and a quarter of the 
+subsequent citations. If an inventor has multiple patents with multiple addresses 
+in a single year, I use the modal city for that ­inventor-year pair. If an inventor has 
+patents in more than one research field or technology class in an year, I use the 
+modal research field or technology class for that ­inventor-year pair. In case of ties 
+(for example, if there are two cities or research fields or technology classes with the 
+same frequency in a given ­inventor-year pair), I pick randomly.
+In the main analysis of the paper, I focus on the productivity of star inventors, 
+defined as those who are at or above the ninetieth percentile in the total number of 
+5 It is possible in principle that an inventor’s home lies outside a cluster while his professional work takes place 
+inside a cluster. However, given the large size of BEA economic areas, this is unlikely to be a common problem.
+
+
+--- PAGE 8 ---
+3335
+MORETTI: HIGH-TECH CLUSTERS ON THE PRODUCTIVITY OF TOP INVENTORS
+VOL. 111 NO. 10
+patents over the sample period. The main motivation for focusing on stars is the 
+length of the panel that they provide: They are in the sample for an average 7.01 
+years. The ninetieth cutoff is arbitrary, but I also show results for top 0.5 percent, 1 
+percent, 5 percent, 25 percent, and the full sample.
+The sample of star inventors includes 109,846 inventors and 932,059  
+inventors ​×​ years observations with nonmissing information on field, class, and 
+city. Of these, 823,375 also have ­nonmissing employer (patent assignee) identi-
+fier. The mean number of patents per year in the sample is 1.08 patents. The tenth, 
+­twenty-fifth percentile, median, ­seventy-fifth, and ninetieth percentiles are 0.25, 0.5, 
+1, 1.2, and 2 respectively.
+B. Clusters
+Clusters are defined as the combination of city ​×​ research field. Recall that there 
+are 179 cities and 5 research fields, observed over 36 years. Cluster size in a given 
+year is defined as number of inventors of any productivity level (not just stars) in a 
+city ​×​ field pair, excluding the focal inventor, as a share of all inventors in that field 
+and year.
+For example, the top panel in Table 1 shows the largest clusters in computer 
+science in 2007. The San ­Jose-San ­Francisco-Oakland region is by far the largest 
+cluster in this field, accounting for 26.1 percent of all inventors in the field. Second 
+on the list is the New York region, which accounts for 9.2 percent of all the inven-
+tors in the field. Seattle, Austin, and Boston follow, with cluster sizes equal to 8.2 
+percent, 6.0 percent, and 4.7 percent, respectively. The geographical concentration 
+of inventors in computer science is very pronounced. The top ten cities account 
+for 69.3 percent of all inventors in the field in 2007. The ratio between the size 
+of the largest cluster—San ­Jose-San ­Francisco-Oakland—and median cluster—
+Gainesville, Florida—is 866.8, indicating that the Bay Area had 866.8 times the 
+number of inventors in computer science than Gainesville did in 2007. The ratios 
+between the ninety-ninth and median and the ninety-fifth percentile and median are 
+equal to 306.5 and 79.5, respectively.
+The middle panel is for biology and chemistry. The top five clusters are New 
+York (11.3 percent), San ­Jose-San ­Francisco-Oakland (11.1 percent), Boston (6.9 
+percent), Philadelphia (6.4 percent), and Los Angeles (5.9 percent). With the 
+total share of top ten cities equal to 59.2 percent, the overall concentration in this 
+research field is lower than in computer science, but it remains quite pronounced. 
+The maximum/median and the ninety-ninth percentile/median ratios are 126.2 
+and 124.4, respectively.
+The bottom panel shows the largest clusters in the semiconductors field. The 
+top five clusters are San ­Jose-San ­Francisco-Oakland (25.2 percent), New York 
+(15.2 percent), Los Angeles (6.2 percent), Dallas (5.0 percent), and Phoenix (4.8 
+percent). The overall concentration in this research field is even higher than in 
+computer science, with the share of top ten cities equal to 77.0 percent. Both the 
+maximum/median ratio and the ninety-ninth percentile/median ratio are undefined 
+since the median city had no inventors in this field in 2007. The tenth, ­twenty-fifth  
+percentiles, median, ­seventy-fifth, and ninetieth percentiles across all fields and 
+years are 0.00356, 0.01106, 0.02951, 0.06332, and 0.10786, respectively.
+
+
+--- PAGE 9 ---
+3336
+THE AMERICAN ECONOMIC REVIEW
+OCTOBER 2021
+Remarkably, the amount of spatial agglomeration in these fields has not been 
+declining overtime. Figure 1 shows how the share of inventors in top ten cities 
+has changed over time in computer science (top), biology and chemistry (cen-
+ter), and semiconductors (bottom). The share in computer science has increased 
+­monotonically. The share in semiconductors and biology and chemistry has also 
+tended to increase, but not monotonically. Overall, the geographical concentration 
+Table 1—Largest Clusters in Computer Science, Biology and Chemistry, 
+and Semiconductors, 2007
+Size
+Panel A. Computer science
+San Jose-San Francisco-Oakland, CA
+0.261
+New York-Newark-Bridgeport, NY-NJ-CT-PA
+0.092
+Seattle-Tacoma-Olympia, WA
+0.082
+Austin-Round Rock, TX
+0.060
+Boston-Worcester-Manchester, MA-NH
+0.047
+Los Angeles-Long Beach-Riverside, CA
+0.039
+Minneapolis-St. Paul-St. Cloud, MN-WI
+0.034
+Raleigh-Durham-Cary, NC
+0.028
+Denver-Aurora-Boulder, CO
+0.023
+San Diego-Carlsbad-San Marcos, CA
+0.023
+Portland-Vancouver-Beaverton, OR-WA
+0.022
+Washington-Baltimore-Northern Virginia, DC-MD-VA-WV
+0.019
+Dallas-Fort Worth, TX
+0.015
+Chicago-Naperville-Michigan City, IL-IN-WI
+0.015
+Panel B. Biology and chemistry
+New York-Newark-Bridgeport, NY-NJ-CT-PA
+0.113
+San Jose-San Francisco-Oakland, CA
+0.111
+Boston-Worcester-Manchester, MA-NH
+0.069
+Philadelphia-Camden-Vineland, PA-NJ-DE-MD
+0.064
+Los Angeles-Long Beach-Riverside, CA
+0.059
+San Diego-Carlsbad-San Marcos, CA
+0.045
+Minneapolis-St. Paul-St. Cloud, MN-WI
+0.038
+Houston-Baytown-Huntsville, TX
+0.031
+Chicago-Naperville-Michigan City, IL-IN-WI
+0.031
+Washington-Baltimore-Northern Virginia, DC-MD-VA-WV
+0.028
+Raleigh-Durham-Cary, NC
+0.019
+Seattle-Tacoma-Olympia, WA
+0.019
+Indianapolis-Anderson-Columbus, IN
+0.015
+Cincinnati-Middletown-Wilmington, OH-KY-IN
+0.015
+Panel C. Semiconductors
+San Jose-San Francisco-Oakland, CA
+0.252
+New York-Newark-Bridgeport, NY-NJ-CT-PA
+0.152
+Los Angeles-Long Beach-Riverside, CA
+0.062
+Dallas-Fort Worth, TX
+0.050
+Phoenix-Mesa-Scottsdale, AZ
+0.048
+Boise City-Nampa, ID
+0.047
+Portland-Vancouver-Beaverton, OR-WA
+0.045
+Austin-Round Rock, TX
+0.039
+Burlington-South Burlington, VT
+0.036
+Boston-Worcester-Manchester, MA-NH
+0.034
+Albany-Schenectady-Amsterdam, NY
+0.022
+Minneapolis-St. Paul-St. Cloud, MN-WI
+0.015
+San Diego-Carlsbad-San Marcos, CA
+0.014
+Raleigh-Durham-Cary, NC
+0.014
+Note: Cluster size is defined as number of inventors in a city × field × year, excluding the focal 
+inventor, as a share of all inventors in field ​×​ year.
+
+
+--- PAGE 10 ---
+3337
+MORETTI: HIGH-TECH CLUSTERS ON THE PRODUCTIVITY OF TOP INVENTORS
+VOL. 111 NO. 10
+of ­inventors at any moment in time is very high and it has been generally increasing 
+over time since the 1970s.6
+C. Data Limitations
+Patent count is an imperfect measure of the amount of innovation created by an 
+inventor. While some patents represent important innovations in a field, others rep-
+resent trivial innovation. In the extreme, some patents do not represent any innova-
+tion and are filed for defensive purposes only. To account for these limitations, I use 
+subsequent citations to measure patent quality.7
+Not all innovation is patented and the fraction of innovation that is patented varies 
+across fields and technology classes. Cohen, Nelson, and Walsh (2000) report that 
+firms in the chemicals, drugs, mineral products, and medical equipment industries 
+applied for patents for more than ­two-thirds of their innovations. In contrast, firms 
+in the food, textiles, glass, and steel and other metals industries applied for ­patents 
+6 Alternative definitions of cluster size are possible. One could measure size of a cluster not based on the number 
+of inventors in a ­city-field pair, but based on the number of firms (patent assignees). Based on this measure, the 
+picture that emerges is also one of significantly concentrated patenting activity. Results available on request.
+7 Williams (2013) is an example of a paper that measures scientific research and product development directly 
+rather than via patent activity.
+Figure 1. Share of Top Ten Cities over Time
+Computer science
+0.55
+0.6
+0.65
+0.7
+1970
+1980
+1990
+2000
+2010
+1970
+1980
+1990
+2000
+2010
+Biology and chemistry
+0.55
+0.56
+0.57
+0.58
+0.59
+1970
+1980
+1990
+2000
+2010
+Semiconductors
+0.4
+0.5
+0.6
+0.7
+0.8
+
+
+--- PAGE 11 ---
+3338
+THE AMERICAN ECONOMIC REVIEW
+OCTOBER 2021
+on fewer than 15 percent of their product innovations. Moreover, the forms of tech-
+nologies that are patented change over time. For example, the rate of innovation in 
+software appears to accelerate in the 1990s, but this reflects at least in part changes 
+in the legal practice of patenting software (Carlino and Kerr 2015). Lerner and Seru 
+(2017) highlight the importance of controlling for the sectoral composition of inven-
+tive activity. For this reason, my models include research field ​×​ year and technol-
+ogy class ​×​ year effects. The assumption is that the fraction of innovation that is 
+patented does not vary across cities within a field ​×​ year pair and technology class ​
+×​ year pair.
+A concern is the possibility that the propensity to patent a given innovation may 
+vary geographically as a function of cluster size, even within a field ​×​ year pair and 
+technology class ​×​ year pair. This could be the case, for example, if firms located 
+in larger clusters are more likely to patent a given innovation than firms in the same 
+field and class located in smaller clusters, possibly due to a higher concern of being 
+scooped by competitors. However, this possibility would imply that marginal inno-
+vations patented in large clusters are less valuable than the ones patented in small 
+clusters, everything else equal. As I discuss below, this is inconsistent with the evi-
+dence on patent citations. Models based on number of citations per patent show a 
+positive association between patent quality and cluster size.
+A second limitation of the data stems from the fact that not every inventor applies 
+for a patent every year, so I don’t observe the productivity and location of every 
+inventor in every year. This generates sample selection, as inventors are in the sam-
+ple only when they patent. This selection problem is conceptually similar to the 
+sample selection that exists in wage data due to the fact that wages are observed only 
+in years when a worker is employed. To minimize this problem I focus my analysis 
+on the population of star inventors. Star inventors are by construction prolific paten-
+ters and the typical individual is observed patenting in most years (over the period 
+in which they patent at all).
+Since I do not observe inventors in years when their number of patents is zero, a 
+regression of number of patents on cluster size quantifies the effect of cluster size 
+on inventor productivity given a patent (intensive margin), but it misses the effect 
+of cluster size on probability of patenting (extensive margin). If the intensive and 
+extensive margin effects go in the same direction, my estimates should be inter-
+preted as a lower bound of total effect of cluster size on patenting.
+To empirically probe the direction and magnitude of the bias, I provide two pieces 
+of evidence in Section IVC. First, I add some of the missing zeros by interpolating 
+the data when one missing year is immediately preceded and followed by ­nonmissing 
+years. That is, if an inventor is observed in years ​t − 1​ and ​t + 1​, but is missing in year ​
+t​, I assign her zero patents in ​t​ and I assign her to the cluster in which she was located 
+at ​t − 1​. Estimates in the sample that includes these interpolated zeros are larger than 
+the baseline estimates that do not include interpolation, because they include (part of) 
+the extensive margin. If I interpolate data when two missing years are immediately 
+preceded and followed by ­nonmissing years, estimates are even larger.
+Second, I test whether my estimates are sensitive to different definition of the 
+temporal unit of analysis. Specifically, I ­re-estimate my models using samples where 
+inventor productivity is measured over one month, two month, three month, six 
+
+
+--- PAGE 12 ---
+3339
+MORETTI: HIGH-TECH CLUSTERS ON THE PRODUCTIVITY OF TOP INVENTORS
+VOL. 111 NO. 10
+month, one year (the baseline), two year, and three year periods. When the temporal 
+unit of analysis is short (one or two months), the problem of missing zeros and the 
+resulting downward bias should be particularly pronounced. In the extreme, if one 
+could measure patent creation second by second, virtually all of the ­inventor-second 
+pairs would be missing. By contrast, when the temporal unit of analysis is long (two 
+or three years), the problem of the missing zeros and the downward bias should be 
+less pronounced. In the extreme, if I were to use a temporal unit that includes all 
+the years in the sample, there would be no selection and both the intensive margin 
+and extensive margin would be reflected in my estimates. Empirically, I find that my 
+estimates are increasing with the length of the unit of analysis. Overall, the evidence 
+indicates that my baseline estimates should be interpreted as a lower bound of the 
+total effect of cluster size on patenting.
+II.  The Effect of the Demise of Kodak on Inventors in the Rochester ­ 
+High-Tech Cluster
+One way to credibly quantify the productivity advantages of large ­Silicon-Valley 
+style clusters relative to small clusters is to isolate shocks to ­high-tech clusters that 
+are exogenous to the local economy. The ideal shock is one that significantly affects 
+the size of a local high-tech cluster—either positively or negatively—and at the 
+same time is initially uncorrelated with the determinants of productivity of local 
+inventors. The change caused by the shock in the productivity of inventors located in 
+the affected cluster is potentially informative of the importance of localized agglom-
+eration economies in the high-tech sector.
+The rise and fall of some US tech clusters offer interesting case studies. In this 
+section, I focus on the experience of Rochester, New York, over the past 25 years. 
+It represents a useful case study because of the large, arguably exogenous change 
+in the size of its ­high-tech cluster due to the demise of its main ­high-tech employer, 
+Kodak. Rochester is not an isolated case. In the history of the US innovation sec-
+tor, there are several examples of high-tech clusters that are born or die due to 
+idiosyncratic, firm specific shocks. The rise of the software cluster in Seattle is a 
+prominent example. The initial seed for the Seattle software cluster was Microsoft’s 
+relocation from Albuquerque, New Mexico, where it was founded. At the time, 
+Seattle had a very limited software sector and the move can be considered largely 
+exogenous, since it was motivated by personal reasons on the part of the company 
+­cofounders rather than business reasons or the conditions of the local economy.8 
+Since Microsoft’s relocation, Seattle has become one of the largest software clusters 
+in the United States. The Seattle experience exemplifies a common way in which 
+US high-tech clusters tend to emerge, namely through the growth of a local firm that 
+becomes the seed around which a cluster agglomerates (Kerr 2010, Moretti 2012).9 
+8 The key motivation for the move was the desire of Bill Gates and Paul Allen to be close to their families. At the 
+time, the Albuquerque software sector was significantly more developed than the Seattle one. Indeed, Microsoft was 
+founded in Albuquerque because its main clients were there. For a software ­start-up, there was no obvious business 
+reason to choose Seattle over Albuquerque in 1979 (Moretti 2012).
+9 Kerr (2010) finds that patenting growth is significantly higher in cities where breakthrough inventions are 
+located. Consistent with this notion, Duranton (2007) proposes a model of industry migration in which centers of 
+innovation are dictated by where frontier inventions occur.
+
+
+--- PAGE 13 ---
+3340
+THE AMERICAN ECONOMIC REVIEW
+OCTOBER 2021
+In a similar way, the birth of the biotech sector in San Diego can be traced to the 
+serendipitous presence of star biologists at the University of California San Diego 
+in the ­mid-1970s who founded some of the early local biotech firms (Zucker and 
+Darby 1996). Austin had very little high tech in the early 1980s when Michael Dell 
+started Dell Computers in his dorm at the University of Texas. The company is often 
+credited to be the initial seed for the emergence of the Austin tech cluster. Relative 
+to Seattle, San Diego, and Austin, the Rochester case study has the advantage that 
+the effect of the shock on the local economy was particularly sudden.
+In the 1980s and the 1990s, Kodak was the leading producer of films for cameras. 
+The firm was one of the most prolific patenters in the United States. Indeed, as we 
+saw in online Appendix Table A.1, Kodak had the fifth largest number of patents 
+filed between 1971 and 2007. Kodak’s patents are not concentrated in one research 
+field, but span all five fields. Kodak was headquartered in Rochester and it was the 
+largest patenter in the city by a vast margin. At its peak in 1996, Kodak accounted 
+for 49 percent of all the inventors in Rochester. But after 1996, Kodak entered a 
+period of dramatic decline caused by the diffusion of digital photography and the 
+collapse in the demand for physical film (Dickinson 2017). In essence, Kodak expe-
+rienced a large negative shock caused by a technological innovation that made its 
+main product obsolete.
+Kodak’s demise can be seen in the top panel in Figure 2, which shows the firm’s 
+stock price since 1990. The price grew in the first half of the 1990s, reached a peak 
+in 1996 and then began declining, as digital photography spread and the market for 
+physical films shrank. Between 1996 and 2007, Kodak’s stock price declined by 82 
+percent. Shrinking product demand led to less investment in R&D. The bottom panel 
+in Figure 2 shows that the number of Kodak inventors in Rochester reached a peak 
+in 1997, with 1,254 inventors, and then began a steep decline. By 2007 there were 
+only 204 Kodak inventors in Rochester. The size of the overall Rochester ­high-tech 
+cluster measured by the number of inventors in all fields declined by 50.5 percent in 
+this period, dragged down by the collapse of Kodak.
+The experience of inventors in Rochester can be used to test the hypothesis that the 
+size of a ­high-tech cluster affects inventor productivity. Specifically, I test whether 
+the change in the size of the Rochester ­high-tech cluster caused by Kodak’s demise 
+affected the productivity of inventors outside Kodak. The shock was large and argu-
+ably exogenous, as it had little to do with what was happening to the Rochester local 
+economy. Finding that the productivity of inventors outside Kodak did not change 
+following the large negative shock to Rochester ­high-tech cluster would cast doubt 
+on importance of productivity benefits stemming from cluster size.
+Baseline Estimates.—Figure 3 shows visually what happened to the mean pro-
+ductivity of ­non-Kodak patenters in Rochester in the period ­1990–2007. Specifically, 
+it plots the mean log productivity of inventors who do not work for Kodak, after 
+­controlling only for research field dummies.10 The vertical red line marks 1996, 
+which was the peak of Kodak’s stock price. While log mean productivity appears 
+generally flat before 1996, it declines after 1996. Excluding Kodak, the main patent 
+10 In practice, I plot the mean residual from a regression of log productivity on research field dummies.
+
+
+--- PAGE 14 ---
+3341
+MORETTI: HIGH-TECH CLUSTERS ON THE PRODUCTIVITY OF TOP INVENTORS
+VOL. 111 NO. 10
+producing firms in Rochester in 1996 were Coring (99 patents), Bausch Lomb (42), 
+General Motors (41), Tenneco Chemical (38), Mobil Oil (33), Johnson and Johnson 
+(28), Osram Sylvania (24), PSC (20), and IBM (16).
+Table 2 presents corresponding ­difference-in-difference estimates comparing 
+the ­1996–2007 change experienced by ­non-Kodak inventors in Rochester to the 
+change experienced by ­non-Kodak inventors in other cities. The two panels in the 
+table differ because panel A is based on a ­cross-sectional comparison, while panel 
+B uses the longitudinal nature of the data and focuses on ­within-inventor produc-
+tivity change for a fixed set of inventors. (Since in 1996 Kodak had a presence in 
+Figure 2. Kodak’s Decline
+Kodak’s stock price
+0
+20
+40
+60
+80
+ Ending price
+1990
+1995
+2000
+2005
+2010
+Kodak inventors in Rochester
+200
+400
+600
+800
+1,000
+1,200
+1990
+1995
+2000
+2005
+2010
+
+
+--- PAGE 15 ---
+3342
+THE AMERICAN ECONOMIC REVIEW
+OCTOBER 2021
+all five main research fields, no field can be considered unaffected by its demise. 
+In the next section, where I use all cities and years, I will be able to identify 
+­field-specific changes in cluster size.) In both panels, the sample includes years 
+1996 and 2007. I use 1996 as the initial year because it is the year when Kodak 
+stock prices peaked. I use 2007 as the final year because it is the last year available 
+in the data.
+The level of observation in the regressions is ­inventor-year. I drop all Kodak 
+inventors from the analysis, whether in Rochester or in other cities. I also drop 
+inventors in the photography sector, identified as those with patents in at least 
+one of the following technology classes: “396, photography;” or “399, electro-
+photography,” irrespective of their location. They are dropped because although 
+they do not work for Kodak, they may be directly affected by the same negative 
+shock. Thus, they may experience a productivity loss not due to agglomeration 
+economies, but due to a decline in product demand for traditional photographic 
+film.
+In column 1 of panel A, inventor log productivity is regressed on a 2007 dummy, 
+a Rochester dummy, and the interaction. In this table, standard errors are clustered 
+by city. The coefficient on the Rochester dummy indicates that in 1996, the mean 
+productivity of ­non-Kodak inventors in Rochester was not statistically different from 
+the productivity in other cities. The coefficient of interest is the one on the interac-
+tion, which indicates that the mean number of patents filed in a year by ­non-Kodak 
+inventors in Rochester declined by 6.41 percent between 1996 and 2007 relative to 
+other cities. In columns 2 to 4, I add field, field ​×​ year, and field ​×​ city effects as 
+controls. The coefficient on the interaction becomes more negative and suggests a 
+productivity loss in Rochester between 6.73 percent and 9.16 percent relative to 
+other cities, depending on the controls. For robustness, I estimated an additional 
+Figure 3. Average Inventor Productivity in Rochester outside Kodak
+Note: Controls include research field dummies.
+−0.3
+−0.2
+−0.1
+0
+0.1
+1990
+1995
+2000
+2005
+2010
+
+
+--- PAGE 16 ---
+3343
+MORETTI: HIGH-TECH CLUSTERS ON THE PRODUCTIVITY OF TOP INVENTORS
+VOL. 111 NO. 10
+model where I drop Xerox inventors, both in Rochester and other cities and find a 
+similar estimate.11
+The estimates in columns 1 to 4 compare productivity changes of inventors in 
+Rochester to productivity changes of inventors in all other US cities. One reason-
+able concern is that not all other US cities offer a compelling counterfactual, since 
+not all cities are similar to Rochester before the shock. For example, before 1996, 
+Rochester had a larger population than the median city, and a higher median family 
+income. The main research field (outside Kodak) in 1996 was “other engineering,” 
+which accounted for 67 percent of all inventors, a much larger share than the typical 
+city. In column 5, I report weighted estimates, with weights reflecting how close the 
+focal inventor city is to Rochester based on a vector of observable city characteristics 
+measured before the Rochester shock: 1990 city population; 1990 mean household 
+11 Xerox had an important presence in Rochester and experienced negative shocks in this period. It is not clear 
+whether one should consider the Xerox shock in Rochester as exogenous or as an endogenous effect of Kodak’s 
+decline. 
+Table 2—Difference-in-Difference Estimates: 1996–2007 Productivity Change of Non-Kodak 
+Inventors in Rochester Compared to Other Cities
+Weighted
+(1)
+(2)
+(3)
+(4)
+(5)
+Panel A
+Rochester ​×​ 2007
+−0.0641
+−0.0673
+−0.0805
+−0.0916
+−0.0947
+(0.00757)
+(0.00674)
+(0.00631)
+(0.00665)
+(0.00860)
+Rochester
+−0.0148
+−0.0364
+−0.0317
+(0.0105)
+(0.0101)
+(0.00987)
+2007
+−0.190
+−0.189
+(0.00757)
+(0.00713)
+Observations
+194,120
+194,120
+194,120
+194,120
+193,331
+Field
+Yes
+Yes
+Yes
+Yes
+Field ​×​ year
+Yes
+Yes
+Yes
+Field ​×​ city
+Yes
+Yes
+Panel B. Within-inventor difference-in-difference estimates
+Rochester ​×​ 2007
+−0.206
+−0.222
+−0.257
+−0.309
+−0.363
+(0.0772)
+(0.0782)
+(0.0825)
+(0.0609)
+(0.0387)
+2007
+−0.205
+−0.206
+(0.0190)
+(0.0193)
+Observations
+16,430
+16,430
+16,430
+16,430
+16,379
+Inventor
+Yes
+Yes
+Yes
+Yes
+Yes
+Field
+Yes
+Yes
+Yes
+Yes
+Field ​×​ year
+Yes
+Yes
+Yes
+Field ​×​ city
+Yes
+Yes
+Notes: Each column within a panel is a separate regression. The level of observation in the regressions is inven-
+tor-year. The dependent variable is log of number of patents filed in a year. The sample in panel A includes 
+non-Kodak inventors excluding the “photography” or “electrophotography” technology classes. The sample in 
+panel B only includes the subset observed both in 1996 and 2007. Weights in column 5 are based on a vector of 
+observable city characteristics measured before the shock to Kodak: 1990 city population; 1990 mean household 
+income; 1996 mean inventor productivity; 1996 share of patents in each research field; 1990 share of non-White 
+residents; 1990 city total employment; and 1990 city industry mix defined as share of employment in manufactur-
+ing, trade, construction, and agriculture. The weight for inventors who are not in Rochester is ​1 / ​(1 − p)​​. Standard 
+errors are clustered by city, in parentheses.
+
+
+--- PAGE 17 ---
+3344
+THE AMERICAN ECONOMIC REVIEW
+OCTOBER 2021
+income; 1996 mean inventor productivity; 1996 share of patents in each research 
+field; 1990 share of ­non-White residents; 1990 city total employment:, and 1990 city 
+industry mix defined as share of employment in manufacturing, trade, construction, 
+and agriculture.12 The entry in column 5 puts more weight on inventors in cities that 
+were more similar to Rochester and is similar to the entry in column 4.13
+­Within-Inventor Estimates.—Since the estimates in panel A are based on 
+­cross-sectional comparisons, one obvious concern is the possibility of unobserved 
+quality changes due to inventor selection. In particular, it is possible that the quality 
+of ­non-Kodak inventors in Rochester in 1996 is not the same as the quality in 2007, 
+although the direction of the bias is a priori unclear. On the one hand, it is possible 
+that the decline in the local ­high-tech cluster induced some of the best ­non-Kodak 
+inventors to leave Rochester. On the other, it is also possible that Kodak’s downsiz-
+ing allowed other firms in Rochester to hire good inventors laid off by the firm. If 
+former Kodak inventors hired by ­non-Kodak employers are on average better than 
+incumbent inventors, the average unobserved ability of inventors working outside 
+Kodak may increase.
+In panel B, I present estimates that use the longitudinal structure of the data. 
+I use a balanced panel made up of the inventors who are observed both in 1996 
+and in 2007 and I add inventor fixed effects to my models. Thus, panel B reports 
+estimates where I compare ­within-inventor productivity changes in Rochester to 
+­within-inventor productivity changes in other cities for a fixed set of inventors. The 
+sample includes 8,215 inventors observed twice, for a total sample size of 16,430, 
+as shown in the bottom row.
+I assign Rochester status to an inventor based on her 1996 location. For a given 
+inventor, the Rochester dummy is set equal to one if the inventor is in Rochester in 
+1996. That is, I compare ­within-inventor productivity changes of inventors who in 
+1996 were located in Rochester to ­within-inventor productivity changes of inven-
+tors who in 1996 were located in other cities, irrespective of their 2007 location. 
+This specification is preferred to one where the Rochester dummy is set equal to 
+one if the inventor is in Rochester both in 1996 and in 2007, because 2007 ­location 
+is ­potentially endogenous. It estimates the effect of the shock to the Rochester 
+­high-tech cluster on inventors who were there at the beginning of the shock, allow-
+ing inventors to optimally choose their 2007 location.
+In column 1 the only set of controls used is inventor fixed effects. The differ-
+ence-in-difference estimate in the first row suggests that inventors who were in 
+Rochester in 1996 experienced a change in productivity that was 20.6 percent 
+12 The weight for inventors who are not in Rochester is 1/(­1 − p), where p is estimated using a logit. Data are 
+from Moretti (2021a).
+13 A more extreme option is to include in the sample only cities with characteristics similar to Rochester. This 
+is equivalent to putting zero weight on some cities. I ­re-estimated the models in columns 1 to 4 including a sub-
+set of cities that are more similar to Rochester than the full sample of cities based on city population in 1990, 
+mean household income in 1990, mean inventor productivity in 1996 (excluding Kodak) and share of patents in 
+Rochester’s main research field in 1996 (excluding Kodak). I dropped cities with below median population in 1990, 
+below median household income in 1990, 1996 mean inventor productivity that was 10 percent larger or 10 percent 
+smaller than 1996 mean inventor productivity in Rochester (excluding Kodak) and with a presence in “other engi-
+neering” research field below 40 percent. Results are generally similar to the ones presented in the table (available 
+on request). 
+
+
+--- PAGE 18 ---
+3345
+MORETTI: HIGH-TECH CLUSTERS ON THE PRODUCTIVITY OF TOP INVENTORS
+VOL. 111 NO. 10
+more negative than inventors who were not in Rochester in 1996, after controlling 
+for inventor fixed effects. When I add field, field ​×​ year, and field ​×​ city effects 
+as controls in columns 2, 3, and 4, the coefficient on the interaction becomes more 
+negative and suggests a productivity loss in Rochester between 22.2 percent and 
+30.9 percent relative to other cities. Weighted estimates in column 5 are even more 
+negative. A comparison with the corresponding ­cross-sectional estimates in panel 
+A indicates that ­within-inventor estimates are more negative than ­cross-sectional 
+estimates, suggesting that unobserved quality of ­non-Kodak inventors biases 
+­cross-sectional estimates toward zero. This is consistent with the possibility that 
+some of the best Kodak inventors laid off by Kodak are hired by other Rochester 
+employers.14
+Kodak Suppliers.—Product demand faced by Kodak’s suppliers likely declined 
+following Kodak demise. If the decline in product demand resulted in lower inventor 
+productivity at Rochester suppliers, it could in principle explain part of the decline 
+in inventor productivity in Rochester after Kodak decline. In this case, one would 
+want to exclude the effect on supplier productivity from the estimate of the pro-
+ductivity losses in Rochester, since it reflects a product demand shock, not produc-
+tivity spillovers. On the other hand, it is also possible that the decline in supplier 
+productivity—if it took place—was the endogenous effect of the demise of Kodak. 
+Geographical agglomeration of specialized suppliers is one of the mechanisms that 
+the literature on agglomeration effects has identified as possible explanations of 
+productivity spillovers. In this case, one would want to include the effect on supplier 
+productivity in the estimate of the productivity losses in Rochester.
+It should be noted that suppliers with patents in the “photography” and “electro-
+photography” classes—probably a sizable share of Kodak suppliers who engage in 
+patenting—are already excluded from the sample used to estimate Table 2. In order 
+to assess how robust my estimates are to excluding remaining Kodak’s suppliers, 
+I use ­input-output tables (BEA 2012) to identify likely Kodak suppliers outside 
+“photography” and “electrophotography.” In particular, I use ­input-output tables 
+at the six-digit level to identify how much each six-digit industry sells to North 
+American Industry Classification System (NAICS) 333316 (photographic and pho-
+tocopying equipment manufacturing), which is the one that Kodak likely belongs 
+to. I then ­re-estimate Table 2 excluding inventors in technology classes that have a 
+positive amount of expected sales to NAICS 333316.15 Estimates corresponding to 
+column 4 of Table 2 are −0.0633 (0.0139) and −0.459 (0.1210). Thus, good flows 
+are unlikely to be the main driver of the findings.
+Overall, I conclude that following the decline in the Rochester ­high-tech clus-
+ter, ­non-Kodak inventors in Rochester experienced large productivity losses relative 
+to ­non-Kodak inventors in other cities. While this is by no means direct proof of 
+­productivity spillovers, this finding is consistent with the hypothesis that cluster size 
+affects inventor productivity.
+14 In addition, estimates in panel B are based on inventors who are in the sample both in 1996 and 2007. 
+Estimates are larger for inventors who are in the sample for long periods of time, as I discussed in Section IC above.
+15 To link patents to industries, I used the crosswalk by Zolas (2016): for each parent class, the crosswalk lists 
+multiple ­six-digit industries, with assigned probabilities. Based on the probabilities, I computed the expected value 
+of inputs used by Kodak for each technology class.
+
+
+--- PAGE 19 ---
+3346
+THE AMERICAN ECONOMIC REVIEW
+OCTOBER 2021
+III.  Inventor Productivity and Cluster Size
+The Rochester analysis focuses on a specific shock to one city. It has the advan-
+tage that the source of variation in cluster size is clear. It has the disadvantage that 
+it is a case study based on the experience of only one community. I now turn to 
+estimates of the relationship between inventor productivity and cluster size based on 
+all cities, fields, and years in my sample. I assume that the log of productivity of an 
+inventor in a cluster depends upon her skills, location fundamentals, agglomeration 
+effects, and an idiosyncratic component:
+(1)	
+​ln ​y​ijfkct​  =  αln​S​−ifct​ + ​d​cf​ + ​d​ck​ + ​d​ft​ + ​d​kt​ + ​d​ct​ + ​d​i​ + ​d​j​ + ​u​ijf kct​​,
+where ​​y​ijf kct​​ is the number of patents produced (or citations received) in year ​t​ by 
+inventor ​i​ working in firm ​j​ in research field ​f​, technology class ​k​, and located in city ​
+c​; ​​S​−ifct​​ is the size of the cluster in the relevant field, city, and year, excluding inven-
+tor ​i​; ​​d​cf​​ and ​​d​ck​​ are city ​×​ field and city ​×​ class effects included in order to absorb 
+time invariant factors that may make specific fields or specific technology classes 
+particularly productive in some locations; ​​d​ft​​ and ​​d​kt​​ are field ​×​ year and technology 
+class ​×​ year effects and are included to absorb nationwide ­time-varying technologi-
+cal and sectoral changes; ​​d​ct​​ represents city ​×​ year effects and is included to absorb 
+­citywide changes in the determinants of productivity shared by all fields in a loca-
+tion; and ​​d​i​​ and ​​d​j​​ are inventor and firm effects. To account for possible serial cor-
+relations in the residual, I report standard errors clustered by city ​×​ research field.
+If cluster size raises inventor productivity due to productivity spillovers, ​α​ should 
+be greater than zero. In the absence of spillovers ​α​ should be zero. Note, ​α​ is iden-
+tified by inventors who move across cities or across fields and by changes over time 
+in clusters size in a given city and field pair. For ordinary least squares (OLS) to 
+identify ​α​, the unobserved determinants of productivity ​​u​ijf kct​​ need to be orthogonal 
+to ​​S​−ifct​​. There are two identification concerns: sorting (or endogenous quality of 
+labor), and simultaneity (or endogenous quantity of labor).
+The first concern stems from the fact that inventors choose their cluster. An inven-
+tor’s choice of location likely depends on a number of factors, including earnings, cost 
+of living, local amenities, and idiosyncratic preferences for specific locations. Some 
+forms of sorting do not violate the orthogonality condition. For example, it is possible 
+that highly productive scientists tend to locate in large clusters. Sorting based on the 
+permanent component of productivity does not introduce bias in OLS estimates, since 
+equation (1) conditions on the inventor fixed effects. The equation also controls for firm 
+effects, and thus is identified by within firm differences in cluster size across inventors.
+Sorting driven by local amenities also does not violate the orthogonality condi-
+tion. Dummies for the interaction of city ​×​ year (i.e., ​​d​ct​​) absorb all characteristics 
+of a city that may affect its attractiveness, both permanent and ­time-varying, includ-
+ing cultural amenities, restaurants, entertainment, school quality, crime, congestion, 
+costs of living, and local taxes. Endogenous changes in local amenities of the type 
+discussed by Diamond (2016) are also absorbed by ​​d​ct​​. ­Citywide productive ameni-
+ties—i.e., factors that affect the productivity of all inventors, irrespective of field, such 
+as local infrastructure, productive public goods and regulations—are also absorbed. 
+Identification relies on the fact that there are multiple fields within each city.
+
+
+--- PAGE 20 ---
+3347
+MORETTI: HIGH-TECH CLUSTERS ON THE PRODUCTIVITY OF TOP INVENTORS
+VOL. 111 NO. 10
+Sorting due to time-invariant factors that shift the productivity of scientists in 
+specific fields and locations is also accounted for. As an example, consider cases 
+where particularly productive computer scientists are attracted to the ­San-Francisco 
+Silicon Valley area by the proximity to top engineering departments in Stanford 
+University or the University of California, Berkeley, or, alternatively, where the 
+engineering departments of Stanford and Berkeley produce top computer scientists 
+who after graduation tend to stay in the area. City ​×​ field effects control for this type 
+of productivity differences, to the extent that they are ­time invariant.
+Sorting into large clusters caused by ­time-varying unobserved productivity 
+shocks, on the other hand, is a potentially important concern. Consider, for exam-
+ple, the case of inventors in a small cluster whom employers in large clusters expect 
+to become more productive in the future. These expectations are of course not 
+observed in my data. If employers in large clusters systematically hire promising 
+inventors from small clusters, equation (1) will overestimate the effect of cluster 
+size, because it would attribute productivity increases that arise because of sorting 
+to cluster size. In this case, productivity might be increasing even before the move. 
+To assess the importance of this type of sorting, I study the timing of productivity 
+changes relative to changes in cluster size. If the model is properly specified, future 
+values of treatment should not affect current outcomes.
+A second identification concern is simultaneity: the existence of unobserved 
+­time-varying productivity shocks at the ­city-field level that attract more inventors to 
+a city field. In practice, some of the localized shocks that affect firms productivity 
+are likely to be ­citywide—for example, a new airport, or other form of improved 
+infrastructure—and therefore are controlled for in equation (1). But the city ​×​ year 
+effects do not control for ­time-varying productivity shocks that are both city and 
+field specific. One example might be changes in local subsidies, to the extent that 
+they target specific fields. This could be the case if city or county adopts subsidies 
+for, say, biotech firms, causing an increase in the size of the local biotech cluster. If 
+subsidies directly affect biotech firms’ productivity, equation (1) will overestimate 
+the effect of cluster size. This could happen if subsidies allow local biotech firms to 
+buy equipment that they could not afford in the absence of a subsidy. (There is, of 
+course, no bias if subsidies affect productivity only indirectly by increasing cluster 
+size—which is the case if subsidies increase the number of local inventor and that 
+in turns affects inventor productivity.) To assess the importance of this type of bias, 
+I use two alternative instrumental variables (IVs).
+In some models of agglomeration economies, productivity spillovers are assumed 
+to depend on density of a cluster, rather than its absolute size. In interpreting the 
+parameter ​α​, one should keep in mind that it identifies the effect of cluster size on 
+productivity, holding constant the land mass of the relevant area. Thus, the estimated 
+effect can be interpreted as the effect of cluster density on productivity. To see this, 
+consider that a ­log-log model with city ​×​ year dummies such as the one in equation 
+(1) yields an estimate of ​α​ that is numerically identical to that which one would 
+obtain if the independent variable is log density defined as number of inventors ­per 
+square mile: ​ln​(​S​−ifct​/​A​c​)​​, where ​​A​c​​ is the area of the city.16
+16 The same conclusion applies to the case where density is defined as number of inventors divided by the area 
+occupied by a specific field within a city: ​ln​(​S​−ifct​/​A​fc​)​​, where ​​A​fc​​ is the area of the cluster.
+
+
+--- PAGE 21 ---
+3348
+THE AMERICAN ECONOMIC REVIEW
+OCTOBER 2021
+A. Baseline Estimates
+Figure 4 shows a binned scatterplot of the correlation between log number of pat-
+ents and log cluster size, conditioning only on year effects, research field effects and 
+city effects. The positive slopes indicate that larger clusters appear to be associated 
+with a higher number of patents generated per year. The estimated slope is 0.053 
+(0.002).
+Table 3 reports estimates of variants of equation (1). Column 1 reports estimates 
+from a model that includes year, research field, technology class, and city effects. 
+Thus, the controls are the same as those used in Figure 4, with the addition of tech-
+nology class effects. The estimated coefficient is similar: 0.0518 (0.0081). In col-
+umns 2 and 3, I add dummies for the interactions of city ​×​ field and city ​×​ class. 
+While the field and class effects in column 1 absorb nationwide productivity differ-
+ences across fields and class, the interactions in columns 2 and 3 absorb features 
+of an area that may make specific fields or specific technology classes particularly 
+productive. In columns 4 and 5, I add dummies for the interactions of field ​×​ year 
+and class ​×​ year in order to control for nationwide technological shocks. In column 
+6, I add inventor fixed effects. This specification absorbs ­time-invariant quality dif-
+ferences between inventors. The coefficient is 0.0923 (0.00990). A comparison with 
+column 5 indicates that the ­within-inventor estimate is larger. This is surprising, 
+because it suggests that conditional on the controls included in the model in column 
+5, larger clusters attract inventors with lower mean unobserved quality.17
+In column 7, I add dummies for the interaction of city ​×​ year in order to absorb 
+­citywide shocks to local productive amenities and selection driven by shocks to 
+local consumption amenities. The coefficient drops to 0.0545 (0.0116), significantly 
+lower than the one in column 6. This suggests that during my sample period, large 
+clusters tend to experience on average more positive ­citywide productivity shocks 
+than small clusters; or that changes in local amenities in large clusters tend to attract 
+more productive inventors compared to small clusters; or both. Finally, in the last 
+column I add firm effects. Firm identifiers are not available for all patents, since not 
+all inventors are employed by firms and as a consequence sample size drops from 
+932,059 to 823,375. The coefficient is 0.0676 (0.0139).
+The elasticity of productivity with respect to cluster size estimated in column 8 
+indicates that a 10 percent increase in cluster size is associated with a 0.67 percent 
+increase the number of patents produced by a scientist in a year. To help interpret the 
+magnitude of the estimated effect, consider an inventor in the computer science field 
+who in 2007 moves from the median cluster—Gainesville, Florida—to the cluster at 
+the seventy-fifth percentile—Richmond, Virgina. Based on the coefficient in column 
+8, such an inventor would experience a 12.0 percent increase in the number of patents 
+produced in a year, holding constant the inventor and the firm. In biology and chem-
+istry, a move from the median cluster—Boise, Idaho—to the seventy-fifth percentile 
+cluster—State College, Pennsylvania—would be associated with a ­productivity gain 
+17 It is possible that moving lowers the probability of patenting—either because it is distracting and time con-
+suming, or because it coincides with a job spell with a new employer and the inventor may be restricted from using 
+intellectual property created while working for a previous employer. This could lead me to underestimate produc-
+tivity following a move, but there is no obvious reason to expect that this effect is different for those moving from 
+small to large clusters compared to those moving from large to small clusters.
+
+
+--- PAGE 22 ---
+3349
+MORETTI: HIGH-TECH CLUSTERS ON THE PRODUCTIVITY OF TOP INVENTORS
+VOL. 111 NO. 10
+of 8.4 percent, holding constant the inventor and the firm. The estimated productiv-
+ity gain is smaller than in computer science because the difference in cluster size 
+is smaller.18 The magnitude of the implied agglomeration economies is in line with 
+existing estimates in the literature on agglomeration economies.19
+One can use the estimated elasticity to quantify the externality that a given firm 
+generates in a given cluster. The externality reflects the impact that a specific firm is 
+estimated to have on the productivity of scientists in other firms in the same cluster in 
+a given year. Online Appendix Table A.3 shows examples of estimated ­firm-specific 
+productivity spillovers for selected firms and clusters in 2007. The estimate for a 
+given firm and cluster quantifies the percent gain in the productivity of local scien-
+tists in other firms due to the presence of the firm in the cluster relative to the case 
+where the firm was not present in the cluster and everything else in the cluster was 
+18 The baseline model in equation (1) assumes that the productivity spillover is the same across fields. This 
+assumption has the advantage of being parsimonious. In addition, it allows me to use within ­city-year variation in 
+cluster size, since in each city and year there are five research fields. Online Appendix Table A.2 shows estimates of 
+the effect by research field. These models do not include city × year effects to avoid multicollinearity. (The corre-
+sponding elasticity for the full sample is  0.1081 (0.0119).) The elasticity is largest for semiconductors (0.262), and 
+computer science (0.187), and it is smallest for other science (0.076). 
+19 A ­meta-analysis of 34 different studies (Melo, Graham, and Noland 2009) indicates that my estimated elas-
+ticity is below the middle of the distribution of existing estimates but within the range of elasticities reported in 
+several recent studies. For example, Henderson (2003) obtains an elasticity of productivity with respect to density 
+of 0.­01–0.08. Estimates for France in Combes et al. (2010) and Combes et al. (2012) imply elasticities of 0.029 and 
+0.032, respectively. Kline and Moretti (2014a) find an elasticity of 0.2 for US manufacturing. At the other extreme, 
+Greenstone, Hornbeck, and Moretti’s (2010) estimates imply an elasticity in the range 1.­25–3.1. Of course, part 
+of the variation in these estimates is due to the fact that the models, data, time periods and industries used in the 
+studies are vastly different. The elasticity estimated in this paper is also consistent with estimates based on wages 
+(for example, Ciccone and Hall 1996; Ciccone and Peri 2005; Combes, Duranton, and Gobillon 2008; Rosenthal 
+and Strange 2008).
+Figure 4. Average log Number of Patents per Inventor per Year and log Cluster  
+Size: All Years and Fields
+Notes: The slope is 0.053 (0.008). Controls include dummies for year, field, and city.
+−0.35
+−0.3
+−0.25
+−0.2
+−0.15
+y
+−5
+−4.5
+−4
+−3.5
+−3
+x
+
+
+--- PAGE 23 ---
+3350
+THE AMERICAN ECONOMIC REVIEW
+OCTOBER 2021
+unchanged.20 The top panel is for computer science. The entry in the top row indi-
+cates that Microsoft productivity spillover on the Seattle computer science cluster is 
+estimated to be 8.06 percent. This large external effect reflects Microsoft’s remark-
+able size in the Seattle computer science cluster. With 1,389 inventors in computer 
+science in Seattle in 2007, Microsoft was the largest firm in the cluster by a vast 
+margin. IBM’s spillover effect on Minneapolis is estimated to be very large as well 
+(4.15 percent). Although IBM’s headquarter is not in Minneapolis, the firm has a 
+large R&D presence in the city. On the other hand, Cisco’s spillover effect on the San 
+­Francisco-Silicon Valley cluster is only 0.2 percent. The external effect of Dell in 
+Austin, Texas Instruments in Dallas, Caterpillar in Peoria, and Motorola in Chicago 
+are, respectively, 0.61 percent, 1.84 percent, 10.47 percent, 0.88 percent. The esti-
+mated external effect of ­Hewlett-Packard in San ­Francisco-Silicon Valley is only 
+0.07 percent. The last row in the panel indicates that the spillover effect generated 
+by the average firm in the average city in computer science was 0.32 percent. Thus, 
+Microsoft and Caterpillar are outliers and the more typical case is closer to that of 
+Cisco or Motorola. The bottom panel shows examples for the biology and chemistry 
+field.21
+Having estimates of the productivity spillover that a specific firm generates in a 
+specific cluster may prove useful to local and state governments that offer subsidies 
+20 The estimate is a function of the number of inventors that the firm has in the cluster relative to the overall 
+number of inventors in the cluster. For a given firm ​j​, field ​f​, and city ​c​, the estimated spillover is obtained as  
+​​α ˆ ​Δ ​S​−jfct​​ where ​​α ˆ ​  =  0.067​ is the estimated elasticity and ​Δln ​S​−jfct​​ is the difference in log cluster size with and 
+without a given firm: ​Δln​S​−jfct​  =  ​[ln​(​N​fct​ / ​N​ft​)​ − ln​(​N​jfct​ / ​N​ft​)​]​​, where ​​N​fct​​ is the number of scientists in cluster  
+​fct​, ​​N​ft​​ is number of scientists in field ​f​ and year ​t​, ​​N​jfct​​ is number of scientists in firm ​j​ in cluster ​fct​, and ​t  =  2007​.
+21 Du Pont has a very large presence in Philadelphia, with 986 scientists in 2007. It generates a productivity 
+spillover equal to 1.17 percent. Two examples of firms with a dominant position in their local cluster and a very 
+large estimated productivity spillover are Procter and Gamble in Cincinnati, Ohio, and 3M in Duluth, Minnesota, 
+with productivity spillovers estimated to be 3.47 percent and 8.99 percent, respectively. More typical cases are 
+­Bristol-Myers in New York, Amgen in Los Angeles, Chevron in the Bay Area, and Exxon in Washington, DC, with 
+spillovers in the 0.14–0.65 percent range. The spillover for the average firm in the average city reported in the last 
+row is 0.24 percent. 
+Table 3—Effect of Cluster Size on Inventor Productivity: Baseline Models
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+log size
+0.0518
+0.0762
+0.0881
+0.0907
+0.0677
+0.0923
+0.0545
+0.0676
+(0.00815)
+(0.0167)
+(0.0187)
+(0.00926)
+(0.00862)
+(0.00990)
+(0.0116)
+(0.0139)
+Observations
+932,059
+932,059
+932,059
+932,059
+932,059
+932,059
+932,059
+823,375
+Year
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+City
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Field
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Class
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+City ​×​ field
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+City ​×​ class
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Field ​×​ year
+Yes
+Yes
+Yes
+Yes
+Yes
+Class ​×​ year
+Yes
+Yes
+Yes
+Yes
+Inventor
+Yes
+Yes
+Yes
+City ​×​ year
+Yes
+Yes
+Firm
+Yes
+Notes: Each column is a separate regression. The level of observation in the regressions is inventor-year. The depen-
+dent variable is log of number of patents filed in a year. The model estimated is equation (1). Standard errors are 
+clustered by city ​×​ research field.
+
+
+--- PAGE 24 ---
+3351
+MORETTI: HIGH-TECH CLUSTERS ON THE PRODUCTIVITY OF TOP INVENTORS
+VOL. 111 NO. 10
+to attract ­high-tech firms to their jurisdiction or to retain incumbent firms. In theory, 
+one economic rationale for offering subsidies to attract or retain ­high-tech firms is 
+the existence of localized productivity spillovers. (See Greenstone, Hornbeck, and 
+Moretti 2010, for a discussion of firm specific subsidies and productivity spillovers 
+in manufacturing). Local and state governments interested in offering subsidies pro-
+portional to the spillover effects that a firm may generate in their jurisdiction could 
+use an approach similar to the one used in online Appendix Table A.2 together with 
+information on the expected number of local inventors in the firm they are targeting. 
+The estimates in Table A.2 reflect productivity gains scaled in terms of the num-
+ber of additional patents. Local governments interested in the corresponding dollar 
+value would need to make an assumption on the expected monetary value of the 
+marginal patent generated.
+B. Dynamic Response
+The baseline estimates in Table 3 use all the variation in cluster size observed 
+in the data to estimate the effect on inventor productivity. As discussed above, one 
+can’t necessarily interpret the baseline estimates as the causal effect of cluster size 
+on inventor productivity. There are two main identification concerns: sorting and 
+simultaneity. In this ­subsection and the next one, I present estimates that are useful 
+in establishing the validity of the baseline model.
+I begin by studying the dynamic response of productivity following a change in 
+cluster size. Sorting into large clusters of “rising stars” is a potentially important 
+concern. To assess the importance of this type of sorting, I study the timing of pro-
+ductivity changes relative to changes in cluster size. If my model is properly spec-
+ified, cluster size in the future should have no effect on productivity in the current 
+period, conditional on current cluster size. Finding that cluster size in the future is 
+correlated with current productivity would indicate that inventors with rising pro-
+ductivity systematically move to larger clusters, as it would be the case if firms in 
+large clusters can anticipate productivity growth increases and attract them.
+I estimate a version of equation (1) that includes the current cluster size and five 
+leads and five lags:
+(2)	
+​ln ​y​ijfct​  =  ​ ∑ 
+s=−5
+​ 
+−1
+  ​β​s​ ln ​S​−ifc​(t+s)​​ + ​β​0​ ln ​S​−ifc​(t)​​ + ​ ∑ 
+s=1
+​ 
+5
+  ​β​s​ ln ​S​−ifc​(t+s)​​ 
+	
++ ​d​cf​ + ​d​ck​ + ​d​ft​ + ​d​kt​ + ​d​ct​ + ​d​i​ + ​d​j​ + ​u​ijfkct​​,
+where the five leads and five lags (​​S​−ifc​(t+s)​​​ for ​s  =  − 5, …, − 1, 1, …, 5​) refer to 
+the cluster where the focal inventor ​i​ is at time ​t + s​. Note that this is not a standard 
+event study. The coefficients on the lead terms, ​​β​1​​ through ​​β​5​​, allow me to deter-
+mine how an inventor productivity in a given year responds to a future changes in 
+size. The coefficients on the lag terms, ​​β​−5​​ through ​​β​−1​​, allow me to examine how 
+a change in cluster size propagates over time and in particular whether the effect is 
+short lived or permanent.
+In the top panel of Figure 5, I plot the coefficients ​​β​5​​ through ​​β​−5​​. The left-
+most coefficient, ​​β​5​​, represents the change in the focal inventor’s productivity 
+in response to a change in cluster size five years into the future. The rightmost 
+
+
+--- PAGE 25 ---
+3352
+THE AMERICAN ECONOMIC REVIEW
+OCTOBER 2021
+­coefficient, ​​β​−5​​, represents the focal inventor’s change in productivity in response 
+to a change in size five years in the past. The dotted lines are 95 percent confidence 
+bands based on standard errors clustered by city ​×​ field. The sample size is only 
+21,787 because for a inventor to be in this sample, the five leads and lags need to 
+be ­nonmissing, which implies that only inventors observed in 11 consecutive years 
+are included. In the bottom panel, I present the cumulative estimates corresponding 
+to equation (2) (the impulse response function). Specifically, the figure displays  
+​​μ​n​  =  ​β​5​ + ​β​4​ +  ⋯ + ​β​n​​ for ​n  =  − 5​ through ​5​, along with an accompanying 
+error band.
+To interpret this figure, suppose that a change in cluster size takes place at time ​
+t  =  0​. For example, the change could be caused by the focal inventor moving from 
+a small cluster to a large cluster at ​t  =  0​. The point that is farthest to the left,  
+​​μ​5​​, represents the productivity response five years prior to the move. The next point 
+moving to the right, ​​μ​4​​, is the estimated cumulative productivity response up to 
+four years before the move (​​β​5​ + ​β​4​​). The point ​​μ​−5​​ is the cumulative productivity 
+response from five years before the move through five years after the move.
+Figure 5 is estimated using all the variation in cluster size in the sample—both 
+variation coming from movers and stayers. It’s a useful benchmark because my 
+baseline estimates in Table 3 use both sources of variation. In Figure 6 I replicate 
+the figure using only variation from inventors who move across cities. This spec-
+ification has the advantage of being more easily interpretable. In particular, I use 
+the subset of inventors who change city once to estimate a variant of equation (2), 
+where ​t  =  0​ marks the time of the move, and the timing relative to an inventor’s 
+move is interacted with the corresponding cluster size. As treatment variable, I use 
+average cluster size before the move and after the move. In other words, cluster size 
+in the years before or after a move is measured as the average cluster size in the 
+years before or after the move, so that ­within-city variation in cluster size over time 
+is not used to identify the parameters. Thus, this specification is an event study, 
+based on a “pure” movers design solely exploiting variation in cluster size induced 
+by moves.
+Three features of Figure 5 and 6 are worth highlighting. First, the lead terms ​​β​1​​ 
+through ​​β​5​​ test for whether future values of treatment affect current productivity. 
+If my estimates reflect a true productivity spillover, and not spurious correlation, 
+then cluster size in the future should have no effect on inventor productivity in the 
+current year, conditional on current cluster size. Finding positive coefficients on the 
+lead terms would cast doubt on the causal interpretation of my estimates, because it 
+would suggest that the productivity of inventors today depends on cluster size they 
+will be exposed to in future years. In practice, there appears to be little evidence 
+in Figures 5 and 6 that future values of treatment affect current outcomes. In both 
+cases, I cannot reject that any of the coefficients on the lead terms are equal to zero. 
+This is reassuring, because it is inconsistent with the possibility of selection on 
+unobservables discussed above, in which promising inventors in small clusters who 
+are experiencing productivity gains tend to be systematically hired by employers in 
+large clusters.
+Second, the estimates reveal that in the year when cluster size changes, there is an 
+immediate rise in the focal worker’s productivity. The increase in productivity may 
+appear surprisingly fast. Recall, however, that I use the date of patent filing, not the 

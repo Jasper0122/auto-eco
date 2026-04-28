@@ -1,0 +1,1670 @@
+
+
+--- PAGE 1 ---
+American Economic Review 2021, 111(7): 2275–2308 
+https://doi.org/10.1257/aer.20200412
+2275
+Security Transitions†
+By Thiemo Fetzer, Pedro C. L. Souza, Oliver Vanden Eynde,  
+and Austin L. Wright*
+How do foreign powers disengage from a conflict? We study this 
+issue by examining the recent, ­large-scale security transition from 
+international troops to local forces in the ongoing civil conflict in 
+Afghanistan. We construct a new dataset that combines information 
+on this transition process with declassified conflict outcomes and 
+previously unreleased quarterly survey data of residents’ percep-
+tions of local security. Our empirical design leverages the staggered 
+­roll-out of the transition, and employs a novel instrumental variables 
+approach to estimate the impact. We find a significant, sharp, and 
+timely decline of insurgent violence in the initial phase: the secu-
+rity transfer to Afghan forces. We find that this is followed by a sig-
+nificant surge in violence in the second phase: the actual physical 
+withdrawal of foreign troops. We argue that this pattern is consistent 
+with a signaling model, in which the insurgents reduce violence stra-
+tegically to facilitate the foreign military withdrawal to capitalize on 
+the reduced foreign military presence afterward. Our findings clarify 
+the destabilizing consequences of withdrawal in one of the costliest 
+conflicts in modern history, and yield potentially actionable insights 
+for designing future security transitions. (JEL D74, F51, F52, O17)
+Foreign military occupations typically end with a security transition, in which 
+international forces transfer military and police powers to local allies. Such 
+­foreign-to-local security transitions are difficult to manage (Lake 2016). This is due 
+to the likely survival, in one form or another, of ­anti-government elements that trig-
+gered the foreign military intervention. The matter of who gains or loses power at 
+the end of the eventual security transition may have significant short- and ­long-run 
+*Fetzer: Department of Economics, University of Warwick (email: t.fetzer@warwick.ac.uk); Souza: School of 
+Economics and Finance, Queen Mary University of London (email: p.souza@qmul.ac.uk); Vanden Eynde: Paris 
+School of Economics and CNRS (email: o.vandeneynde@psemail.eu); Wright: Harris School of Public Policy, 
+University of Chicago (email: austinlw@uchicago.edu). Stefano DellaVigna was the coeditor for this article. We 
+thank Gani Aldashev, Leonardo Arriola, Eli Berman, Ethan Bueno de Mesquita, Nathan J. Canen, Wioletta Dziuda, 
+James Fearon, Anthony Fowler, Massimo Morelli, Hannes Mueller, Gerard Padro, Christopher Price, Jacob Shapiro, 
+Mathias Thoenig, Juan Vargas, Daniel Weggeland (SIGAR) and audiences at the Chicago Harris Political Economy, 
+ESOC Annual Conference, University of Warwick, IAE Barcelona Workshop on Prediction for Prevention, HiCN 
+conference, CREST Political Economy Workshop, Labex OSE Aussois Days, Durham University, University of 
+Manchester, Toulouse School of Economics, UZH, APSA, and NBER. Manh Duc Nguyen provided excellent 
+research assistance. Support from the Pearson Institute for the Study and Resolution of Conflicts, ANR grant 
+COOPCONFLICT, and EUR grant ANR-17-EURE-0001 is gratefully acknowledged. We thank Phil Eles, ANQAR 
+technical lead at NATO, for granting access to the platform and providing technical feedback. Any errors remain 
+our own.
+† Go to https://doi.org/10.1257/aer.20200412 to visit the article page for additional materials and author  
+disclosure statements.
+
+
+--- PAGE 2 ---
+2276
+THE AMERICAN ECONOMIC REVIEW
+JULY 2021
+­consequences for economic and political development. Yet, surprisingly little is 
+known about the conflict dynamics of countries experiencing a ­foreign-to-local 
+security transition. Our research addresses this issue by conducting a microlevel 
+study of the impact of the ­large-scale security transition that marked the end of 
+Operation Enduring Freedom in Afghanistan, the ­long-running military campaign 
+of the North American Treaty Organization (NATO).
+Since 1960, at least 115 foreign military occupations have ended (­Collard-Wexler 
+2013) (see online Appendix Figure A1). A substantial percentage of these inter-
+ventions involved a security transition with the withdrawal of troops and redeploy-
+ment of weaponry to local allies. With a large number of military occupations active 
+around the world, security transitions are an important economic and policy issue. 
+Even though the historical record is riddled with security transitions, nearly all 
+microlevel empirical research on counterinsurgency focuses on understanding the 
+economic and political drivers that explain how military interventions begin, and 
+how conflict strategies and war fighting tactics evolve during an ongoing campaign 
+(Berman and Matanock 2015). By contrast, the security transitions that mark the 
+end of foreign military occupations have received less attention. Empirical work 
+on this topic has naturally been constrained by the lack of consistent conflict data 
+during the transition period, particularly for unsuccessful transitions. Our paper 
+overcomes this ­long-standing constraint by leveraging unique, rich microlevel 
+data collected continuously during the transition process in Afghanistan; these 
+data enable us to address the knowledge gap around exit strategies after foreign  
+interventions.
+Conflict patterns during and after the security transitions that mark the end 
+of a foreign intervention or occupation are theoretically ambiguous. A security 
+transition may shift provision of policing and formal military operations from 
+­well-trained and equipped foreign fighters to unseasoned, local forces armed with 
+outdated technologies, or equipment with which they are unfamiliar. Even if local 
+fighters are capable, they may lack legitimacy, inflict unintended harm on civilians, 
+or deliberately discriminate against ethnic rivals: undermining economic welfare 
+and damaging public confidence in the quality and stability of ­host-nation insti-
+tutions. Local forces might also transfer weaponry and other war fighting capital 
+to unregulated paramilitary groups (Dube and Naidu 2015). Under these condi-
+tions, insurgents are likely to increase their operations, and they may consolidate 
+their control over previously contested areas. Furthermore, insurgents may directly 
+and strategically respond to plans of foreign forces to withdraw troops by chang-
+ing their underlying tactics and targets (Bueno de Mesquita 2013, Wright 2016, 
+Vanden Eynde 2018). Security transitions may be poorly coordinated between for-
+eign and local forces, leading to political and tactical disorder, and further enhanc-
+ing tensions. On the other hand, local forces might be better able to integrate with 
+communities and to extract information from ­noncombatants about insurgent oper-
+ations (Lyall, Shiraito, and Imai 2015). Local forces may have greater knowledge 
+than foreign soldiers about the human terrain and difficulties motivating violence 
+against conationals or coethnics; this understanding could lead to reduced insur-
+gent activity and increased counterinsurgent effectiveness. Importantly, there is no 
+existing empirical evidence on the relative significance of these different mecha-
+nisms in the context of security transitions.
+
+
+--- PAGE 3 ---
+2277
+FETZER ET AL.: SECURITY TRANSITIONS
+VOL. 111 NO. 7
+To study how security transitions from foreign to local forces influence insur-
+gent  activity and counterinsurgent effectiveness, we examine the ­large-scale 
+­transfer of policing and military power from the International Security Assistance 
+Force (ISAF) to host nation forces in Afghanistan at the end of Operation Enduring 
+Freedom. In 2001, international forces displaced the incumbent regime, and assisted 
+in the installation of an ostensibly democratic government. During the occupation 
+foreign forces, coordinated under the auspices of NATO, helped train and equip 
+local police and military forces. Planning for the transition of security provision 
+from ISAF to Afghan forces began as early as 2010, and was formally announced in 
+2011. The transition was staggered, and coordinated around administrative districts. 
+Over three years, and five transition tranches, Afghanistan’s districts were trans-
+ferred from ISAF to Afghan control.
+We estimate the impact of the security transition on conflict dynamics using 
+­exceptionally granular data, which allow us to overcome a core constraint that has 
+hampered quantitative studies of security transitions so far. Since the start of major 
+ISAF operations, a system to collect comprehensive conflict data from ISAF and 
+­host-nation forces was set up to track significant activities (SIGACTS). These geo-
+tagged and ­time-stamped event data document dozens of different types of insur-
+gent and security force operations: representing the most complete catalog of conflict 
+activity during Operation Enduring Freedom currently available (Shaver and Wright 
+2016). We secured access to these data through formal declassification channels. 
+We then combined these observational data with microlevel survey data collected 
+by NATO (using local contractors) through the Afghanistan National Quarterly 
+Assessment Research (ANQAR) platform. We obtained restricted access to the 
+complete survey records of around 370,000 individual respondents across dozens 
+of quarterly waves from 2008 to 2016. These surveys include questions measuring 
+perceptions of security conditions, the extent of local security provision, and percep-
+tions of territorial control. To the best of our knowledge, this is the first conflict where 
+detailed combat records and high frequency survey data can be combined to study 
+a security transition from foreign to local forces. Using these data in tandem allows 
+us to ­cross-validate our findings and to distinguish between potential mechanisms.1
+Our empirical analysis sheds light on the two main phases of the security transition. 
+The first phase is the onset of the transition, marked by a sequence of public announce-
+ments detailing where and when security responsibility is to be handed over to local 
+forces. The second phase is the actual physical withdrawal and closure of military bases 
+hosting NATO troops. To estimate the effect of the onset of the security transition, we 
+use a ­difference-in-differences approach. We exploit the ­staggered schedule of transi-
+tion announcements that occurred across five tranches. This allows us to pool evidence 
+from each of the tranches to study the onset and aftermath of the security transition 
+on conflict outcomes by comparing localities where the Afghan National Security 
+Forces (ANSF) took over security to those where ISAF was still in charge. We exam-
+ine security levels in districts before and after the security transfer. The geographic 
+precision of our conflict data enables us to employ a ­high-resolution, ­spatial-matching 
+1 Existing work rarely combines observational and survey data on conflicts; Gould and Klor (2010) and 
+Jaeger et al. (2015) are notable exceptions. Studying both observational data on conflict events and survey data on 
+security perceptions side by side, we find consistent patterns across both types of data.
+
+
+--- PAGE 4 ---
+2278
+THE AMERICAN ECONOMIC REVIEW
+JULY 2021
+design as an ­alternative to our ­district-level ­analysis. Our results for this first transfer 
+phase show that the local announcement of the security transition schedule led to a 
+­short-term decline in local violence. This pattern holds both for conflict measures 
+that are drawn from the SIGACTS database as well for those that are taken from 
+ANQAR survey instruments measuring the security perceptions of the local popu-
+lation. This improvement in security outcomes appears to have gone hand in hand 
+with a substantial upward shift in civilian perceptions of the efficacy of local security  
+forces.
+Our second empirical exercise focuses on the physical withdrawal of NATO 
+troops. Using a newly constructed dataset of individual base closures and hando-
+vers, we employ an instrumental variables strategy, exploiting operational and logis-
+tical constraints of the troop withdrawal. Specifically, we exploit ­cross-sectional 
+variation in the travel distance between individual districts and the ten major logis-
+tical hubs that had the ­military-grade airports required to accommodate the cargo 
+airplanes that transported arms and troops out of the country. This approach helps 
+us to address concerns about the endogeneity of the sequencing of base closures 
+across different regions. We address potential violations of the exclusion restric-
+tion directly by accounting for the correlation between logistical constraints and 
+other measures of population and market proximity. Our findings for this second 
+phase show that violence significantly surged, and residents’ perceptions of secu-
+rity plummeted after the departure of international forces. Overall, the pattern that 
+emerges suggests that the security handover is associated with an improvement in 
+the security situation, while the physical withdrawal of NATO troops is marked by 
+a dramatic worsening of security.
+This pattern is consistent across observational military records of combat activity 
+and civilian sentiment, and it is robust to a number of alternative model specifica-
+tions. We pay particular attention to violations of the ­non-interference assumption 
+inherent in designs in which spatial spillovers or displacement effects are possi-
+ble. Rather than invoking conventional spatial models that require the researcher to 
+­prespecify the extent to which conflict processes interact across space, we leverage 
+the work by de Paula, Rasul, and Souza (2020). We adapt their approach to the 
+specific issue at hand: learning the pattern of spatial spillovers of conflict, and then 
+using that information to directly control for the spillovers.
+We investigate two plausible mechanisms empirically: withdrawal of foreign tar-
+gets, and tactical complementarities. A reduced foreign troop presence and tran-
+sition to local forces could have weakened Taliban mobilization due to a change 
+in target type. While consistent with violence reductions after the first phase, this 
+mechanism cannot explain the subsequent increase in Taliban attacks after with-
+drawal. The subsequent increase in violence is also inconsistent with the possibility 
+that foreign troops were no longer needed to maintain stability, or the possibility that 
+local forces were adequately prepared to operate independently. On the other hand, 
+the combination of local operational command and indirect ISAF support could 
+have produced significant security gains that were then reversed with the physical 
+withdrawal of foreign troops; a range of empirical tests, however, shows no evidence 
+of such complementarities between ISAF and the ANSF.
+Instead, we argue that the main results are consistent with a third mechanism: 
+“lying low.” That is, insurgents strategically and temporarily draw down their 
+
+
+--- PAGE 5 ---
+2279
+FETZER ET AL.: SECURITY TRANSITIONS
+VOL. 111 NO. 7
+forces, in effect lying low until after counterinsurgents have sufficiently raised the 
+cost of local ­re-intervention. While our primary contribution is to provide a first 
+empirical record of an important security transition, we use a simple model to sit-
+uate the observed patterns. NATO cannot directly observe the local capacity of the 
+Taliban relative to the ANSF; thus, NATO bases its decision to physically withdraw 
+troops on observed levels of violence during the transition period. A ­high-capacity 
+Taliban can then decide to pursue a strategy of lying low as part of a pooling equi-
+librium, which facilitates the withdrawal of ISAF, and increases the ability of the 
+Taliban to inflict violence when the transition is completed.
+We contribute to several strands of literature in economics and political science. 
+Prior work in economics has investigated the causes of civil conflict (Fearon and 
+Laitin 2003, Collier and Hoeffler 2004, Bazzi and Blattman 2014, Berman et al. 
+2017, Limodio 2019, Manacorda and Tesei 2020), and examined development inter-
+ventions that occur during ongoing insurgencies (Berman, Shapiro, and Felter 2011; 
+Fetzer 2020; Beath et  al. 2013; Crost, Felter, and Johnston 2014; Sexton 2016). 
+Seminal theoretical work has highlighted the role of state capacity in shaping con-
+flict dynamics, including the end of war (Wittman 1979; Werner 1999; Besley and 
+Persson 2010; Padró i Miquel and Yared 2012; Powell 2013; Gennaioli and Voth 
+2015; Esteban, Morelli, and Rohner 2015). Other studies have focused on war fight-
+ing directly, exploring the effectiveness of various government tactics (Lyall 2009, 
+Dell and Querubin 2018) and the use of violence by insurgents (König et al. 2017, 
+Condra et al. 2018, Fetzer et al. 2021a). We advance this literature with the first explo-
+ration of conflict dynamics during a ­large-scale, ­foreign-to-local security transition.
+Our study also yields potentially actionable insights regarding one of the cost-
+liest conflicts in modern history. Since 2001, the United States alone has invested 
+$1.07 trillion in combat operations, economic assistance, and soldier healthcare: 
+all directly related to the war in Afghanistan. The human toll of the war was also 
+substantial; by 2018, ISAF had lost 3,547 soldiers in combat operations, and at least 
+31,000 civilian deaths had also been documented. The security transition marked a 
+turning point in the conflict, and it has been the subject of fierce political debates 
+at all its stages: when it was announced, when it was implemented, and after it 
+had been completed. The evidence we present demonstrates how the withdrawal 
+of foreign forces influenced the stability of local political actors and institutions. It 
+suggests how future transitions, including other NATO troop drawdowns, might be 
+managed more effectively: addressing a significant gap in our understanding of a 
+topic of immense economic and policy significance. More broadly, this study rein-
+forces the importance of data collection and dissemination during and after armed 
+conflict. Rigorously evaluating government interventions, especially force transi-
+tions, requires careful, ongoing measurement of local conditions and a commitment 
+to making data, like the combat and survey records we study here, available for 
+research.
+The paper proceeds as follows. Section I provides background context on the 
+security transition in Afghanistan, and describes the data used in this investigation. 
+Section II reviews the empirical strategies we employ. Section III presents the main 
+results. Section IV discusses the mechanisms that could explain our findings, pro-
+viding a simple conceptual framework as well as discussing the external validity. 
+Section V concludes.
+
+
+--- PAGE 6 ---
+2280
+THE AMERICAN ECONOMIC REVIEW
+JULY 2021
+I.  Context and Data
+A. Timing of the Security Transition
+The war in Afghanistan led a large number of NATO countries to participate in 
+ground operations under the umbrella of ISAF. According to United Nations Security 
+Council Resolution 1386, ISAF’s role was explicitly to assist the Afghan Interim 
+Authority in rebuilding government institutions and providing security. From its 
+inception, the mission was conceived as a temporary intervention. First steps toward 
+a security transition were taken in November 2009, when ­then-President Hamid 
+Karzai announced the desire to see a complete transition by the end of 2014. The 
+United States subsequently announced that the transition process would begin in 
+2011. In July 2010, the Joint ­Afghan-NATO Inteqal Board (JANIB) was established 
+to implement the transition process. JANIB selected a first tranche of districts for 
+which the ANSF took over security, and President Karzai announced these districts 
+in March 2011. The process was completed in five tranches, with an official tran-
+sition ceremony to mark the completion of the transfer at the end of 2014 (NATO 
+2014a). These events are depicted on a timeline in Figure 1. The official transfer of 
+security responsibility is the first phase of the broader transition process, with ISAF 
+base closures and the ultimate physical withdrawal of ISAF troops as the second 
+phase. The next subsections discuss these two transition phases in detail.
+B. Security Transfer: Assignment to Transition Tranches
+In November 2010, JANIB convened for the first time. Under the leadership of 
+Dr. Ashraf Ghani (appointed by President Karzai as the Chairman of the Afghan 
+Transition Coordination Commission) and ­co-chaired by ISAF Commander General 
+David Petraeus and NATO representatives, the JANIB confirmed the ­2011–2014 
+transition timeline. It emphasized stability and ­self-sufficiency as goals of transition. 
+In February 2011, JANIB recommended the geographic areas assessed as prepared 
+to begin the transition process. Authorization to proceed from Stabilization into 
+Transition was decided by JANIB based on the following factors:2
+	
+(i)	 The capability of the ANSF to shoulder additional security tasks with less 
+assistance from ISAF;
+	 (ii)	 The level of security in the area, and the degree to which the local populace 
+was able to pursue routine daily activities;
+	 (iii)	 The development of local governance structures, so that security would not 
+be undermined as ISAF assistance diminished;
+	 (iv)	 The ability of ISAF to adjust its force levels and posture as the Afghan forces 
+expanded their capabilities, and as threats to security were reduced.
+2 See “Report on Progress toward Security and Stability in Afghanistan,” Department of Defense, April 2011, 
+https://bit.ly/37p8eKT.
+
+
+--- PAGE 7 ---
+2281
+FETZER ET AL.: SECURITY TRANSITIONS
+VOL. 111 NO. 7
+Although these criteria suggest a ­rules-based approach, the actual assessments 
+and recommendations of the JANIB board were not made public, and they remain 
+classified. The final decision on the assignment to transition tranches was taken by 
+the Afghan cabinet, where political considerations played an important role, too. For 
+example, President Karzai is reported to have aimed at an ethnically and regionally 
+balanced first tranche, resulting in the inclusion of districts in the first tranche that 
+were not recommended. It was noted in 2012, that while NATO provided thorough 
+security assessments “ultimately, the transfer decision lies with President Hamid 
+Karzai and his principal advisor for transition, Ashraf Ghani. Complex political 
+considerations, including ethnic balancing, at times influence the transfer deci-
+sions, despite ISAF’s advice.” 3 Concerns over whether the JANIB board stuck to 
+the initial aspiration set out in the Lisbon NATO summit of a ­conditions-based, 
+not ­calendar-driven, process are highly questionable. As the process continued, 
+the assignment of districts to different transition tranches became more and more 
+opaque.4 While the allocation of districts to transition tranches was subject to dis-
+cretion, NATO’s commitment to five tranches between 2011 and 2014 imposed con-
+straints on the timing of the security transfers. The districts and their assignments 
+to the ultimate transition tranches are presented in panel B of Figure 2.5 Our vari-
+ous ­difference-in-differences strategies exploit the temporal variation generated by 
+the transition process. Section II provides details of these strategies, and presents 
+­event-study evidence and ­pretreatment effects to address concerns about endogene-
+ity in the tranche assignments.
+3 See Vanda Felbab-Brown, “Afghanistan Field Trip Report VII,” Brookings Institution, https://brook.
+gs/3fSKhiT.
+4 See Thomas Ruttig, “Opaque and Dilemma-Ridden: A Look Back at Transition,” Afghan Analysts Network, 
+August 12, 2013, https://bit.ly/37pjMxs.
+5 We exclude Nimroz and Daykundi because they did not have a Provincial Reconstruction Team, and did not 
+experience a security transition. We also exclude Mihtarlam district, as different parts of the district were transi-
+tioned at different points in time. Results are robust to not dropping these data.
+Figure 1. Key Dates in the Transition Process
+Notes: Dates of the different transition stages were obtained from the NATO publication Inteqal: Transition to 
+Afghan Lead. The authors complemented the graphical timeline with auxiliary information.
+President Karzai aims for complete 
+transition by the end of 2014
+Kabul Conference: JANIB established to 
+implement transition
+NATO Lisbon Summit: confirmation of 
+the end of  2014 deadline
+Afghan New Year: Karzai announces set
+of districts in the first transition tranche
+Karzai announces second tranche
+Karzai announces third tranche
+Karzai announces fourth tranche
+Karzai announces fifth tranche
+Transition ceremony: end
+of ISAF involvement
+US announces start of transition in 2011
+Nov
+2009
+Jul
+2010
+June
+2013
+Nov
+2010
+Nov
+2011
+Mar
+2011
+May
+2012
+Dec
+2012
+Dec
+2014
+
+
+--- PAGE 8 ---
+2282
+THE AMERICAN ECONOMIC REVIEW
+JULY 2021
+It is important to highlight that the security transfers marked a real shift in respon-
+sibility, but did not represent a complete break. While ISAF troops were transferred 
+out of lead combat roles, the coalition maintained a supporting and advisory role 
+even after the transition. These trends are evident in Figure 3. This figure plots the 
+share of recorded events in the SIGACTS conflict dataset (described in Section IE) 
+that involved coalition and/or Afghan security forces together. Prior to the transition 
+Figure 2. Distribution of Conflict Intensity and Assignment of Districts to Different Tranches of the 
+Security Transfer to the Afghan National Security Forces (ANSF)
+Notes: Panel A presents the distribution of conflict events in the SIGACTS data across the country. Panel B presents 
+the different assignments of districts to the five different transition tranches.
+400 km
+0
+400 km
+0
+Transition tranches
+   Tranche 1
+   Tranche 2
+Tranche 3
+Tranche 4
+Tranche 5
+Panel A. Confict intensity
+Panel B. Assignment of districts to tranches
+Figure 3. Share of SIGACTS Events Involving Security Forces
+Notes: The figure plots the share of events per quarter by security force involvement. This measure is based on all 
+events (including ­noncombat activities). Afghan security forces (ANSF) include all armed forces, including local 
+and border police. Vertical lines indicate the quarter of the first and the last transition tranches.
+0
+0.2
+0.4
+0.6
+0.8
+1
+Share of events
+2008:III
+2010:I
+2011:III
+2013:I
+2014:III
+Quarter identifer
+Joint events ANSF and ISAF
+ISAF only
+ANSF only
+
+
+--- PAGE 9 ---
+2283
+FETZER ET AL.: SECURITY TRANSITIONS
+VOL. 111 NO. 7
+onset, as ISAF was preparing Afghan forces for the handover of security responsi-
+bility, joint operations increased. This increase reflects the fact that Afghan forces 
+were deployed to the field. Toward the end of the transition, Afghan forces absorbed 
+the vast majority of all operations on their own. The transition announcement thus 
+marks the gradual handover of security responsibility to local forces, which typi-
+cally took between 3 and 12 months to complete, during which NATO gradually 
+shifted into an oversight and supporting role otherwise known as overwatch. The 
+date of the announcement of a tranche and the naming of districts that would partic-
+ipate in each wave was public information. We consider these security transfers the 
+first phase of the transition process. The second phase of the transition was the for-
+mal withdrawal of troops and the closure of ISAF installations, which we describe 
+in the next subsection.
+C. Base Closures
+Over the course of ISAF’s engagement, up to 140,000 NATO troops operated out 
+of an estimated 825 physical bases scattered across Afghanistan. The withdrawal 
+of most NATO forces led to the closure, demolition, or handing over to Afghan 
+Security Forces of nearly 800 of these bases. The vast majority of these bases were 
+small, tactical positions, such as Observation Posts or check points that were host-
+ing, at most, small troop consignments (SIGAR 2016). Only a handful of bases still 
+remain in NATO operation under ISAF’s ­small-scale, ­follow-up mission, Resolute 
+Support, which officially began on January 1, 2015, and currently involves around 
+12,000 troops.
+We faced a major challenge in collecting data on ­base-level deployments from 
+more than 51 ­troop-sending countries; thus, we identified an alternative and robust 
+method for measuring and coding base closures. We relied on a set of military facil-
+ities regularly mentioned in the US Department of Defense Periodic Occupational 
+and Environmental Monitoring Summary (POEMS), which provides information 
+about the physical environment and environmental hazards of main bases and 
+smaller bases out of which NATO troops operated.6 The POEMS does not provide 
+exact location information or the exact date when bases ceased to be used for oper-
+ations. However, we used the list of 338 main base locations, and we conducted a 
+systematic search of sources and references for each base (Fetzer et al. 2021b). We 
+searched video and ­image-hosting platforms for ­time-stamped video and images 
+shared on social media by many soldiers on deployment. In addition, we conducted 
+systematic searches of main news sources using the LexisNexis and Factiva news 
+databases, along with standard ­search-engine queries. For most bases we have sev-
+eral name variations as bases were sometimes named after fallen soldiers and our 
+list also includes a substantial number of bases that were not exclusively under US 
+command.
+We were able to identify the district in which a subset of bases (170 of the 338 
+main bases) are located, and we were able to note when the base was closed, handed 
+6 We restrict ourselves to the likely set of larger bases, such as forward operating bases, camps, combat outposts, 
+and bases hosting the provincial reconstruction teams (PRTs). There is no clear size ranking. The PRTs are partic-
+ularly important as most were operated by multinational forces.
+
+
+--- PAGE 10 ---
+2284
+THE AMERICAN ECONOMIC REVIEW
+JULY 2021
+over to the Afghan Security Forces, or “retrograded” or demolished. It is likely that 
+our sample is biased toward including bases that were not physically demolished 
+but were handed over to the ANSF. We cannot confirm whether a base that was 
+handed over to the ANSF was subsequently used by Afghan forces. Given the lack 
+of spatial accuracy and the potential measurement error, we aggregate the informa-
+tion to the district level, computing the date that the last base was either retrograded 
+or handed over in a district. Lastly, we also obtained data on the public handover 
+ceremonies that were usually held at the end of the formal withdrawal process in 
+the provincial capitals. Since our base closure data do not provide us with a date 
+for all districts in a province, we infer the physical withdrawal date based on these 
+handover ceremonies.
+Base transitions and withdrawals tend to happen after the formal transfer of secu-
+rity responsibility (i.e., after the first phase of the transition). Panel A of Figure 4 
+presents the timing of the transition tranche announcement relative to the recorded 
+transition ceremony or base closure in months. The pattern that emerges is quite 
+evident: relative to the transition onset date, base closures and handovers were hap-
+pening earlier in remote areas than in geographic centers. We argue that this pattern 
+is a consequence of the logistic organization of the withdrawal process, not a coinci-
+dence or artifact of dataset construction. A host of compelling anecdotal documen-
+tation provides further support to this view, which we discuss below.
+D. Exploiting Logistic Constraints as an Instrument for the Timing  
+of Base Closures
+The physical withdrawal of ISAF troops and material was a significant logistical 
+challenge. Withdrawal was impeded by several factors. We exploit these factors to 
+inform the construction of an instrumental variable to isolate ­as-if random variation 
+in the sequencing of the physical closure of ISAF bases. First, the closest accessible 
+sea port was Karachi, Pakistan, requiring transit through the Khyber Pass. This route 
+was shut down during the early phase of the transition (2011, 2012) after an airstrike 
+accidentally killed Pakistani troops. Second, convoys using the ­land-based route 
+through Uzbekistan’s Salang Pass were restricted from carrying weapons. Third, 
+­land-based consolidation of heavy machinery was restricted by poor road infra-
+structure in Afghanistan. Fourth, restrictions on equipment handover created a sub-
+stantial burden: the United States alone had $36 billion worth of heavy equipment, 
+armaments, and sensitive resources that needed to be relocated. Together, ISAF 
+forces needed to move more than 70,000 vehicles and 120,000 industrial shipping 
+containers (Van Loven 2013).
+To address these challenges, ISAF used ­heavy-duty, ­long-haul ­C-17 Globemaster 
+planes to transport equipment from Afghanistan to Kuwait. The size of these air-
+craft implied that only a few airports could be used as retrograde hubs. These nodal 
+bases informed both the timing and geographic sequencing of the pullout. Smaller 
+or remote bases were handed over first, with materials consolidated around larger 
+bases with transport capabilities. Forward Operating Base (FOB) Torkham in 
+Momand Dara district of Nangarhar province offers an illustrative example. The 
+base was formally handed over to the ANSF on December 18, 2013. FOB Torkham 
+was located on the border with Pakistan. Despite the relative proximity of a transit 
+
+
+--- PAGE 11 ---
+2285
+FETZER ET AL.: SECURITY TRANSITIONS
+VOL. 111 NO. 7
+point to leave Afghanistan, most of the equipment from FOB Torkham was sent 
+73 km inland to Jalalabad Airfield by road and using ­sling-loaded ­CH-53 helicop-
+ters. From there, materials were transferred an additional 185 kilometers to the 
+Bagram north of Kabul. From there, materials were flown out to Kuwait using ­C-17 
+Globemaster airplanes.7
+The discussion above suggests that access to a small subset of bases was crucial 
+up until the last stages of the military pullout. As a consequence, bases were closed 
+from the outside in, consecutively starting with the outlying bases with difficult or 
+limited access to these central transport hubs. We use this information, together 
+with information on the available road network (AIMS 2013), to construct a vari-
+able capturing the travel distance on the ­least-cost path to one of the ten logistical 
+hubs (AIMS 2000, Fetzer 2021b). The resulting instrument is presented in panel B 
+of Figure 4. We show that our results are robust to controlling for a host of other 
+distance measures, most importantly, the distance to the nearest airport of any type 
+(i.e., including airfields not suited for heavy cargo planes).
+7 See C. Todd Lopez, “Reliable Tempo Draws Down 13-Year Combat Footprint in Afghanistan,” Military News, 
+April 17, 2015, https://bit.ly/33vw7iH.
+Figure 4. Timing of Base Closure Relative to District Tranche Announcement  
+and Travel Distance to Nearest Retrograde Logistic Hub
+Notes: Panel A visually presents the variation in the timing of the base closure (“Troop withdrawal”) dates relative 
+to the transition onset announcements (“security handover”). If a district is matched with several bases, the timing 
+is determined by the date of the last recorded base that was retrograded or handed over. Panel B presents visually 
+the ­least-cost, shortest path distance between a district centroid to one of the 10 retrograde logistic hubs used in 
+the withdrawal operation. We assume a unit cost of crossing via paved roads; the cost of crossing via an unpaved 
+road occurs two units of costs per unit of distance, while crossing terrain without roads incurs a cost of 10 units. 
+­Least-cost paths are computed used Dijkstra’s algorithm.
+Base handover relative to tranche announcement
+  <0 months
+  6 months
+  6–12 months
+12–18 months
+18–24 months 
+24–30 months
+30–36 months
+>36 months
+Travel distance to logistics hub
+0.259–0.324
+0.324–0.49
+0.017–0.076
+0.076–0.104
+0.104–0.136
+0.136–0.165
+0.165–0.206
+0.206–0.259
+Panel A. Last base closure date relative
+to tranche date
+Panel B. Distance to nearest logistic hub
+0
+km
+400
+0
+km
+400
+
+
+--- PAGE 12 ---
+2286
+THE AMERICAN ECONOMIC REVIEW
+JULY 2021
+E. Measuring Conflict Activity and Perceptions
+We rely on two novel microlevel data sources that allow us to combine results 
+from institutionally tracked conflict data with detailed survey data.
+Significant Activities Event Data.—Afghanistan provides a rich environment for 
+investigating security transitions, and as we describe below, our study overcomes 
+several critical obstacles that usually limit the ability to draw meaningful and robust 
+inferences. We rely on newly declassified microdata collected by ISAF and local 
+national security partners secured by Shaver and Wright (2016). Throughout the 
+ongoing conflict, these security forces have tracked insurgent attacks by document-
+ing the approximate time and precise location of attacks perpetrated against them or 
+reported to them. This dataset includes more than 200,000 individual observations 
+of insurgent attacks between 2008 and 2014, each of which is identified by attack 
+type (e.g., attack by direct fire, attack via the use of improvised explosive devices 
+(IEDs)(Shaver and Wright n.d.)).
+Afghan insurgents undertook several primary types of attacks throughout the 
+war. These involved attacks from direct fire, IEDs, and other combat activity. Direct 
+fire includes attacks perpetrated at close range (direct ­line-of-sight encounters). 
+Individual insurgents (often acting in groups) carry out these attacks in a variety 
+of ways. IEDs tend to be directed against moving targets (e.g., vehicle patrols and 
+convoys); IEDs are typically placed on or immediately around roadways. Our data 
+also track indirect fire combat events. Indirect fire refers to attacks that include mor-
+tars and rockets, which can be launched from much greater distances, but tend to 
+be far less accurate. Nevertheless, even when mortars and rockets fail to strike their 
+intended target, they often create loud explosions that can be heard over relatively 
+large distances.
+Afghanistan Nationwide Quarterly Assessment Research Survey Data.—Our sur-
+vey evidence relies on the Afghanistan Nationwide Quarterly Assessment Research 
+(ANQAR) platform (NATO n.d.). ANQAR tracks civilian attitudes toward govern-
+ment, ­anti-government entities, and coalition partners. Survey responses are col-
+lected on a quarterly basis by local contractors. Before administering a survey wave, 
+local elders are contacted to secure permission for enumerators to enter villages. 
+When enumerators could not access sampled villages, intercept interviews were 
+used to collect information from residents traveling in neighboring areas (Child 
+2016). Questions vary by survey wave, but the questions most relevant to our inves-
+tigation are consistently included. Although early waves have higher nonresponse 
+rates than later waves, these rates are consistently lower (­5–10 percent) than those 
+of comparable national surveys conducted in the United States and Europe (Condra 
+and Wright 2019). We have restricted access to data from 2008 to 2016, cover-
+ing roughly 370,000 respondents, through a ­data-sharing agreement with NATO. 
+Summary statistics of the data are presented in online Appendix Table A1.
+Other Data Sources Used.—We rely on digital placemats from ISAF archives 
+to link districts to regional commands, and we classify districts using a standard-
+ized administrative map compiled by the Empirical Studies of Conflict (ESOC) 
+
+
+--- PAGE 13 ---
+2287
+FETZER ET AL.: SECURITY TRANSITIONS
+VOL. 111 NO. 7
+research group (Weidmann 2010, NATO 2014b, United States Army 2011). All 
+events and survey waves are rectified to match this map. We incorporate information 
+from the Afghan Commander’s Emergency Response Program (CERP), which is a 
+­military-led scheme for ­small-scale development projects (Walker n.d.). These data 
+were obtained through formal channels; these data cover new projects initiated until 
+the beginning of 2014, and they include projects that were active during 2014 and 
+beyond. In addition, our empirical analysis includes detailed ­land-cover data (Friedl 
+and Sulla-Menashe 2019, Hsu et al. 2015), ­grid-cell population data (WorldPop 
+2013), and measures of elevation and terrain features (EROS 2017) that we exploit 
+in our empirical designs.
+II.  Empirical Strategy
+Our paper studies the impact of the two main phases of the security transition: 
+(i) the transfer of control from ISAF to the ANSF, and (ii) the physical withdrawal 
+of ISAF troops. We rely on different strategies to estimate these effects, which we 
+detail in this section. Lastly, we discuss in detail how we leverage new methods from 
+spatial econometrics to flexibly control for conflict displacement.
+A. Security Transfer to ANSF
+Our baseline empirical strategy is a ­difference-in-differences approach, compar-
+ing districts in which the security transition has been implemented to ­nontreated 
+districts, before and after the transition:
+(1)	
+​y​d, r, t​  =  ​α​d​ + ​β​r, t​ + γ × ​Handover​d, t​ + ​η​d​ × t + ​ϵ​d, r, t​​.
+In the equation above, ​d​ indicates the district, ​r​ the Regional Command (RC) and ​t​ 
+the quarter. Note, ​​Handover​d, t​​ switches on when ANSF takes over from ISAF. At the 
+district and quarter level our outcome measures ​​y​d, r, t​​ come from both the SIGACTS 
+incident and ANQAR survey data. While the SIGACTS data contains finer time-
+stamps, the ANQAR survey data are collected quarterly. In order to maintain consis-
+tency, we use the quarterly frequency for the ­district-level analysis. We allow each 
+district to follow a specific linear trend ​​η​d​ × t​, and we allow for regional command 
+specific ­nonlinear time effects (​​β​r, t​​). The RC, indexed by ​r​, served as one of the 
+most important organizational units in ISAF, and it is possible that reporting prac-
+tices differed by regional command; hence the choice of the time fixed effects.
+Our preferred outcome for the SIGACTS data at the district level is the loga-
+rithm of incidents (plus one). This specification allows us to capture changes on 
+the extensive and intensive margins, but is less sensitive to vertical outliers.8 Our 
+estimate of the coefficient ​γ​ captures the causal impact of the security transition as 
+long as conflict in districts in different transition tranches were following common 
+8 Our results are robust to alternative transformations of the dependent variable. We present these results in 
+online Appendix Tables A6 and A7: the inverse hyperbolic sine (asinh), per capita specifications using different 
+population measures, and level outcomes (i.e., counts) in a Poisson model. In online Appendix Section B we present 
+results from another identification strategy that uses smaller ­grid-cells, and works with binary violence outcomes.
+
+
+--- PAGE 14 ---
+2288
+THE AMERICAN ECONOMIC REVIEW
+JULY 2021
+trends. As discussed in the background section, the selection into different transition 
+tranches was based on a variety of factors that were not clearly linked to trends in 
+violence. To validate our estimates, we provide evidence in support of the common 
+trends assumption based on both event studies around the transition dates, and on 
+the estimation of ­pretreatment effects. We introduce these tests later. As a baseline, 
+Online Appendix Table A2 shows that several baseline characteristics were not bal-
+anced at the district level. However, more violent districts are not systematically 
+allocated to later tranches. There are few significant differences between violence 
+levels when we compare tranches 1 to 2, and 3 to 4. Only tranches 3 and 5 appear to 
+have been more violent compared to the preceding tranche.9 Our basic ­district-level 
+panel includes ­district-specific, linear time trends to alleviate the concerns associ-
+ated with these baseline differences.
+B. ISAF Troop Withdrawal
+At the end of the transition process, the vast majority of the troops with ISAF 
+physically left Afghanistan. While the troop withdrawal was made possible by 
+the transfer of control to the ANSF, its timing was not mechanically linked to the 
+formal security transfers. Unlike the transfer process, which was constrained by a 
+fixed schedule of five tranches, the decision to close or hand over individual bases 
+was highly discretionary and district specific. Closures were in part driven by local 
+assessment of Afghan troop training and preparation to operate independent of for-
+eign support. The endogenous sequencing of base closures may overstate subse-
+quent battlefield gains. On the other hand, the Taliban may have been more effective 
+at launching attacks against ANSF forces after withdrawal. These two dynamics 
+could offset one another, yielding naïve estimates that are biased toward zero. This 
+makes identification of the effect of the withdrawal phase particularly challenging.
+We try to overcome these identification concerns by exploiting the importance of 
+logistical constraints for the withdrawal process. As described in Section ID, a small 
+number of ­military-grade airports acted as crucial logistical hubs during the with-
+drawal process. We hypothesize that bases that were farthest removed from these 
+airports saw their ISAF troops leave first once the transition process started (i.e., 
+after 2011). We use a ­least-cost path algorithm (illustrated in Figure 4) to calculate 
+distances from every district to the nearest military airport, and we use the interac-
+tion of this distance measure with a dummy for the ­post-2011 period as an instru-
+ment for ISAF troop withdrawal. The corresponding first stage is
+(2)  ​​c​d, 
+  r, t​  =  ​α​d​ + ​β​r, t​ + γ × ​Handover​d, t​ + λ × ​Hub Distance​d​ × ​Post​t​ 
+	
++ ​ζ​t​ × ​X​d​ + ​η​d​ × t + ​ϵ​d, r, t​​,
+where ​​c​d, r, t​​ is a dummy indicator that switches to 1 when, according to our data-
+set, the last military base has closed in the district. This outcome is defined at the 
+district level, and its construction is described in detail in Section IC. Since our 
+9 As a robustness check, we present treatment effects by tranche in online Appendix Table A11.
+
+
+--- PAGE 15 ---
+2289
+FETZER ET AL.: SECURITY TRANSITIONS
+VOL. 111 NO. 7
+measurement approach and identification strategy leverage ­district-level variation, 
+we employ a ­district-level panel following the main specification for the security 
+­transfer above. We keep the security transfer in the ­baseline-instrumented specifica-
+tion, as it typically precedes the withdrawal. To isolate the effect of distance to mil-
+itary airports, our main specifications flexibly control for ­time-varying effects of the 
+distance to the nearest airport (of any type) as well as distance to the province border 
+(i.e., these distance measures enter ​​X​d​​). A more demanding specification includes 
+­tranche-specific time effects, which fully absorb any level effect of the transition 
+captured by the variable ​​Handover​d, t​​, thus relying only on the ­within-tranche vari-
+ation to estimate ​λ​.
+In the second stage, we model violence outcomes ​​y​d, t​​ as follows:
+(3)	
+​​y​d, r, t​  =  ​α​d​ + ​β​r, t​ + γ × ​Handover​d, t​ + κ × ​c ˆ ​d, r, t​ + ​ζ​t​ × ​X​d​ 
+	
++ ​η​d​ × t + ​ϵ​d, r, t​​,
+where ​κ​ is the quantity of interest associated with ​c ˆ ​​d, r, t​​, the instrumented with-
+drawal sequence. For the exclusion restriction to hold, the differential effect of the 
+distance to ­military-grade airports after 2011 on conflict outcomes can only oper-
+ate through the withdrawal of ISAF troops. Importantly, the inclusion of unit fixed 
+effects addresses any ­time-invariant sources of bias that are district specific and cor-
+related with proximity to military airfields, including geographic suitability for rural 
+insurgent activity. Our identification strategy leverages only the differential effect of 
+proximity after the withdrawal begins. Any operational disruptions across regional 
+commands over time that may be correlated with the sequencing of closures are 
+also absorbed in our benchmark fixed effects. The exclusion restriction could still 
+be violated if the ­time-varying effects of military airfield proximity are correlated 
+with ­time-varying effects of nearby market activity. The inclusion of ­time-varying 
+effects of other ­market-oriented distances, such as distance to any type of airport in 
+our vector of covariates ​​X​d​​, helps address this concern. The withdrawal may have 
+coincided with a shift in Taliban activity away from remote areas near provincial 
+borders along the outer reach of ­ISAF-supported provincial reconstruction teams, 
+and toward population centers. We account for this potential source of bias by incor-
+porating the ­time-varying effects of proximity to provincial borders. It is also possi-
+ble that districts in different cohorts (handover tranches) were exposed to correlated 
+shocks to military equipment, training, or preparation that impacted base closures. 
+The importance of these factors could have varied over time as the transition and 
+withdrawal neared completion. We account for these factors in two ways: directly 
+controlling for the timing of the handover, and, in a separate approach, flexibly esti-
+mating ­tranche-specific time effects.
+C. Conflict Displacement
+We now consider a specification that adds displacement effects to the 
+­difference-and-differences (equation (1)) and ­instrumental-variable specifications 
+(equation (3)). One potential concern is that insurgent activity is likely highly 
+mobile, and that the transition to ANSF might have induced a strategic reallocation 
+
+
+--- PAGE 16 ---
+2290
+THE AMERICAN ECONOMIC REVIEW
+JULY 2021
+to other districts. In this case, spillovers may affect the identification of transition 
+effects: both at the onset and at the withdrawal. We consider a specification with 
+spatial spillover effects to account for possible transition externalities. In what fol-
+lows, we focus on the version of the ­difference-in-differences specification (1) with 
+spatial controls. The ­instrumental-variable version follows with minimal changes. 
+We implement a specification of the form:
+(4)	
+​​y​d, r, t​  =  ​α​d​ + ​β​r, t​ + γ ​Handover​d, t​ + δ​  ∑ 
+j=1, j≠d
+​ 
+N
+  ​w​d, j​ ​Handover​j, t​ 
+	
++ ρ​  ∑ 
+j=1, j≠d
+​ 
+N
+  ​w​d, j​ ​y​j, r, t​ + ​η​d​ × t + ​ϵ​d, r, t​​,
+where ​​w​d, j​​ captures the extent to which district ​j​ affects ​d​. The spillover effects 
+may happen either because conflict in district ​d​ is affected by handover in other 
+districts (through the combined transition indicator ​δ ​∑ j=1, j≠d​ 
+N 
+​w​d, j​ ​Handover​j, t​​, or 
+“exogenous effects”) or by conflict in other districts (through ​ρ​∑ j=1, j≠d​ 
+N 
+​w​d, j​ ​y​d, r, t​​ or 
+“endogenous effects,” both after Manski 1993). The presence of ­district-time linear 
+interactions and regional ­command-time nonlinear effects control for the correlated 
+effects.
+We explore several specifications of (4) with different choices of weights. Our 
+exercises also leverage a novel estimation strategy taken from de Paula, Rasul, and 
+Souza (2020) to recover the weights ​​w​d, j​​ along with the parameters ​γ​, ​δ​, and ​ρ​ from 
+within the data. We find the main treatment effects to be robust to the inclusion of 
+spatial controls over a vast array of specifications. More details are provided in 
+online Appendix Section A.
+III.  Main Results
+We first discuss the effect of the security transfer to ANSF, and then present esti-
+mates of the impact of ISAF troop withdrawal.
+A. Phase I: Security Handover to ANSF
+Table 1 shows the effects of the security transition for the most important con-
+flict outcomes in our military records: casualty events, direct fire attacks, and IED 
+(Improvised Explosive Device) explosions. Our baseline ­difference-in-differences 
+specification at the district level shows that the intensity of violence dropped sharply 
+when the ANSF became responsible for security provision. We estimate that the 
+security transition led to approximately 0.12 standard deviations (SD) decline in 
+casualty events overall, with a 0.1 SD reduction in direct ­line-of-sight combat events 
+and a 0.075 SD decline in IED explosions. While the inclusion of ­district-specific 
+trends and RC ​×​ time fixed effects weakens the results slightly, the estimated effects 
+remain large and precisely estimated in this demanding specification. To validate 
+our estimates, we introduce a number of event studies, which are presented in 
+Figure 5. They provide evidence of the common trends assumption that underlies 
+our ­difference-in-differences estimates. We see flat trends prior to the security tran-
+sition, and marked drops once security responsibility had been formally handed 
+
+
+--- PAGE 17 ---
+2291
+FETZER ET AL.: SECURITY TRANSITIONS
+VOL. 111 NO. 7
+over to ANSF, as indicated by the vertical line in the subfigures. In Figure 6, we 
+present coefficient estimates from our main specification for a wider set of violence 
+­outcomes. These additional outcomes include casualty events involving security 
+Table 1—Security Transfer to Afghan National Security Forces and Conflict 
+(SIGACTS)
+​log ​(x + 1)​
+All casualty events
+Direct fire attacks
+IED explosions
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+Security handover
+−0.138
+−0.098
+−0.134
+−0.066
+−0.074
+−0.078
+(0.032)
+(0.031)
+(0.036)
+(0.035)
+(0.029)
+(0.029)
+Mean DV
+0.920
+0.920
+1.145
+1.145
+0.686
+0.686
+SD DV
+1.137
+1.137
+1.319
+1.319
+0.984
+0.984
+Observations
+10,556
+10,556
+10,556
+10,556
+10,556
+10,556
+Number of districts
+377
+377
+377
+377
+377
+377
+District time trend
+No
+Yes
+No
+Yes
+No
+Yes
+Notes: Regressions at the ­district-quarter level, covering the period 2008–2014. All ­regressions 
+include district fixed effects and regional command ​×​ time fixed effects. Outcomes are ­subject 
+to a ​log ​(x + 1)​ transformation. Standard errors are clustered at the district level and presented 
+in parentheses.
+Figure 5. Event Studies around the Security Transfer to Afghan National Security Forces (SIGACTS)
+Notes: Event studies around the security handover to the Afghan National Security Forces, using quarterly 
+­district-level data (­2008–2014). Coefficients on “time to security handover” are shown with 90 percent confidence 
+intervals. The models are analogous to column 1 in Table 1, but they include ­time-to-treatment dummies. Outcomes 
+are subject to a ​log (x + 1)​ transformation. Regressions include district fixed effects and regional command ​×​ time 
+fixed effects.
+−0.3
+−0.2
+−0.1
+0
+0.1
+−0.3
+−0.2
+−0.1
+0
+0.1
+Coeffcient estimate (log points)
+Coeffcient estimate (log points)
+Coeffcient estimate (log points)
+−9−8 −7−6−5−4−3−2−1 0
+1
+2
+3
+4
+5
+Quarters to security handover
+−9−8 −7−6−5−4−3−2−1 0
+1
+2
+3
+4
+5
+Quarters to security handover
+−9−8 −7−6−5−4−3−2−1 0
+1
+2
+3
+4
+5
+Quarters to security handover
+−0.2
+−0.1
+0
+0.1
+Panel A. Events with casualties
+Panel B. Direct fre
+Panel C. IED explosion
+
+
+--- PAGE 18 ---
+2292
+THE AMERICAN ECONOMIC REVIEW
+JULY 2021
+forces, civilians, and insurgents, as well as indirect fire attacks. Across this broader 
+set of violence measures, we observe consistent drops in ­conflict (between 0 .065 
+and 0 .15 of a standard deviation) after the responsibility for security provision has 
+been transferred to ANSF.
+We present the analysis of the spatial spillovers in online Appendix Table A4 
+for the SIGACTS data. In column 1, we replicate the coefficients from the 
+­differences-in-differences analysis. Columns 2–7 initially implement standard spa-
+tial spillover regressions with known and given proximity matrices (e.g., Harari and 
+La Ferrara 2018). More specifically, we define as two districts as “connected” if 
+they are neighbors, neighbors of neighbors; within neighboring provinces; within 
+a geodesical distance of less than 250 km or 500 km; and within a driving distance 
+of less than 500 km. As motivated in Section IIC, those specifications are rather 
+restrictive because they impose very strong assumptions behind the mechanism of 
+displacement. Thus, we also utilize the data to inform about the pattern of spillovers. 
+This is accomplished by estimating the weights ​​w​d, j​​, and the results are seen in col-
+umns 8–10 for various specifications. To slightly reduce the dimensionality of the 
+problem, we assume that districts that are too distant (with driving distances above 
+500 km and, separately with driving distances above 1,000 km) are unconnected and 
+thus ​​w​d, j​  =  0​. In all cases, we observe that the majority of the point estimates for 
+the treatment effects are robust to the inclusion of displacement effects.
+Figure 6. Effect of the Security Transfer to Afghan National Security Forces on Conflict (SIGACTS)
+Notes: Coefficients and 90 percent confidence intervals on security handover in a model that is analogous to column 
+2 in Table 1. Data are at the ­district-quarter level (­2008–2014). Regressions include district fixed effects, regional 
+command ​×​ time fixed effects, and ­district-specific trends. Outcomes are subject to a log (x + 1) transformation. 
+Full results can be found in online Appendix Table A3.
+All casualty events
+Direct fire
+IED explosion
+Insurgent casualty events
+Security force casualty events
+Civilian casualty events
+IDF
+−0.2
+−0.15
+−0.1
+−0.05
+0
+Coeffcient estimate (log points)
+
+
+--- PAGE 19 ---
+2293
+FETZER ET AL.: SECURITY TRANSITIONS
+VOL. 111 NO. 7
+Table 2 shows results for ANQAR survey responses. The ANQAR data are 
+only available at the district level, and, for consistency, we report results for the 
+most demanding specifications at this level. Table  2 includes measures that are 
+­systematically collected across many different ANQAR survey waves independently 
+from the SIGACTS data. These results suggest that the shift in security perceptions 
+matches the changes we observed in the tactical reports.
+The share of respondents who reported security improved in the last six months 
+after the ANSF took over security (column 1) increased by approximately 0.12 SD. 
+They also perceive that the Taliban had grown weaker since the transition (column 
+2) (0.1 SD), even if this effect is marginally insignificant. Moreover, respondents 
+were more likely to have seen the Afghan National Army (ANA) (i.e., the most 
+important component of the ANSF) in their village at least once a month (column 
+3), and they were more likely to respond that the Afghan forces bring security to 
+their area (column 4), each shifting about 0.1 SD. This suggests that the formal 
+transfer of security responsibility during the transition process is clearly perceived 
+as such. The consistency of our results across data types (military records and indi-
+vidual survey evidence), together with our demanding empirical designs, gives us 
+confidence in the robustness of this core finding.10 Yet, as shown in column 5 of 
+Table 2, the security transfer does not appear to have affected the perceptions of the 
+local population about who is actually in control of their area. This suggests that 
+the security transfer, while being associated with improvements in the perceived 
+security situation, seems to have failed at shifting the underlying fundamentals of 
+the conflict. This result foreshadows our findings regarding the second phase of the 
+security transition.
+10 In particular for the quality of the SIGACTS data may have been affected by the security transition itself 
+despite continuous collection throughout NATO’s withdrawal (as evidenced in panel A of online Appendix 
+Figure A2). The consistency across the two data sources is thus reassuring.
+Table 2—Security Transfer to Afghan National Security Forces and Perception of Security 
+(ANQAR)
+Security
+Afghan National Security Force presence and control
+Improved 
+security
+Taliban 
+weaker
+See Afghan National 
+Army monthly
+Afghan National Security 
+Forces bring security
+Taliban
+control
+(1)
+(2)
+(3)
+(4)
+(5)
+Security handover
+0.027
+0.025
+0.031
+0.024
+−0.002
+(0.015)
+(0.017)
+(0.018)
+(0.014)
+(0.013)
+Mean DV
+0.321
+0.432
+0.697
+0.508
+0.189
+SD DV
+0.221
+0.235
+0.318
+0.236
+0.227
+Observations
+8,523
+7,835
+8,308
+8,522
+8,523
+Number of districts
+375
+375
+375
+375
+375
+Notes: Regressions at the ­district-quarter level, covering the period ­2008–2016. All regressions include district 
+fixed effects, regional command ​×​ time fixed effects, and ­district-specific trends. The dependent variables mea-
+sure shares of respondents at the district level. Standard errors are clustered at the district level and presented in 
+parentheses.
+
+
+--- PAGE 20 ---
+2294
+THE AMERICAN ECONOMIC REVIEW
+JULY 2021
+B. Phase II: Withdrawal of ISAF Troops
+The initial transfer of security to the ANSF was followed by the gradual closure of 
+ISAF bases. As discussed in Section IC, the logistical challenges of organizing the 
+troop withdrawal imposed a certain structure on the military pullout. We ­instrument 
+the sequence of base closure with the interaction of the distance to the closest mili-
+tary airport hub and a dummy for the ­post-2011 period (see equations (2) and (3)). 
+Table 3 presents the ­first-stage results and confirms that our interacted distance mea-
+sure does a good job predicting the timing of base closures in a district. This remains 
+true when we control for distance to the closest airport of any type (i.e., including 
+­nonmilitary airports) and province borders in column 2, as well as for ­time-varying 
+effects of the transition tranche in column 3.
+We take the instrumental variable strategy and contrast our IV estimates with the 
+naïve OLS results in Table 4. The OLS results, presented in panel A, suggest that 
+base closures are not associated with any significant changes in conflict outcomes. 
+As we argued earlier, the OLS estimates could suffer from endogeneity problems 
+because the ­district-specific sequencing of base closures was highly discretionary 
+and likely influenced by local assessments of Afghan troop training and battlefield 
+readiness. If bases were closed earlier in districts where violence was expected to 
+decrease, the OLS coefficients we estimate would mask any ­violence-enhancing 
+effect of foreign troop withdrawal. If the magnitude of these ­cross-cutting effects 
+is comparable, we would expect to estimate an OLS result close to zero, which is 
+what we find.
+Panel B of Table 4 presents our IV results. When we instrument for the sequenc-
+ing of base closure using the ­time-varying effect of military airfield proximity, we 
+find a consistent ­violence-increasing effect of the base closure on our main conflict 
+Table 3—Coalition Troop Withdrawal: First Stage
+Troop withdrawal
+(1)
+(2)
+(3)
+Travel distance to military airport ​×​ post 2011
+1.728
+1.898
+2.007
+(0.237)
+(0.235)
+(0.236)
+Security handover
+0.193
+0.190
+(0.028)
+(0.029)
+Mean DV
+0.388
+0.388
+0.388
+SD DV
+0.487
+0.487
+0.487
+­F-statistic on instrument
+53.325
+65.292
+72.141
+Observations
+13,572
+13,572
+13,572
+Number of districts
+377
+377
+377
+IV control set ​×​ time fixed effects
+No
+Yes
+Yes
+Tranche ​×​ time fixed effects
+No
+No
+Yes
+Notes: Regressions at the ­district-quarter level, covering the period ­2008–2016. All regres-
+sions include district fixed effects, regional command ​×​ time fixed effects, and ­district-specific 
+trends. The additional IV control set includes the distance to any airport and to the province 
+border. The dependent variable is Troop withdrawal, which is a binary indicator for the last 
+recorded base closure, retrograde, or handover at the district level. Standard errors are clustered 
+at the district level and presented in parentheses.
+
+
+--- PAGE 21 ---
+2295
+FETZER ET AL.: SECURITY TRANSITIONS
+VOL. 111 NO. 7
+outcomes in columns 1 through 6. The ­post-withdrawal increase in violence ranges 
+from approximately 0.4 to 0.7 SD. In fact, contrasting the direct effect of the secu-
+rity handover with the effect of the base closures in columns 1, 3, and 5, the increase 
+in violence due to the base closures fully offsets the reductions in combat activity 
+due to the security transfer, with a net increase in conflict of approximately 0.3 SD.
+This finding is robust to using exclusively ­within-tranche variation, by including 
+a set of tranche ​×​ time fixed effects (in columns 2, 4, and 6). Hence, the uptick in 
+violence cannot be explained by a general time pattern that is specific to districts 
+belonging to an individual tranche. Rather, the increased violence appears to reflect 
+an effect that is specific to the physical withdrawal of international troops indepen-
+dent of the transfer announcement. In Figure 7 we study a broader set of conflict 
+outcomes at the district level. We also implement our spatial econometric technique 
+for calibrating network weights, and we introduce them in the IV framework. In 
+online Appendix Table A5 we confirm that the estimates are robust to the inclusion 
+of spillover controls.
+To what extent do these distinct effects on conflict outcomes map into changes 
+in the perceived security situation? In Table 5, we present results studying ANQAR 
+­survey-response data. In panel A, we estimate both the effect of the security tran-
+sition onset, as well as the effect of the (instrumented) physical base closure. The 
+Table 4—Coalition Troop Withdrawal and Conflict (SIGACTS)
+log (x + 1)
+All casualty events
+Direct fire attacks
+IED explosions
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+Panel A. District level: OLS
+Troop withdrawal
+0.003
+−0.000
+−0.006
+0.001
+−0.008
+−0.008
+(0.035)
+(0.037)
+(0.041)
+(0.043)
+(0.029)
+(0.031)
+Security handover
+−0.103
+−0.057
+−0.094
+(0.031)
+(0.036)
+(0.029)
+Mean DV
+0.920
+0.920
+1.145
+1.145
+0.686
+0.686
+SD DV
+1.137
+1.137
+1.319
+1.319
+0.984
+0.984
+Observations
+10,556
+10,556
+10,556
+10,556
+10,556
+10,556
+Number of districts
+377
+377
+377
+377
+377
+377
+Tranche ​×​ time fixed effects
+No
+Yes
+No
+Yes
+No
+Yes
+Panel B. District level: IV
+Troop withdrawal
+0.666
+0.616
+0.572
+0.495
+0.773
+0.730
+(0.308)
+(0.296)
+(0.327)
+(0.310)
+(0.305)
+(0.287)
+Security handover
+−0.205
+−0.146
+−0.214
+(0.059)
+(0.063)
+(0.062)
+Mean DV
+0.920
+0.920
+1.145
+1.145
+0.686
+0.686
+SD DV
+1.137
+1.137
+1.319
+1.319
+0.984
+0.984
+Weak IV statistic
+48.751
+57.882
+48.751
+57.882
+48.751
+57.882
+Observations
+10,556
+10,556
+10,556
+10,556
+10,556
+10,556
+Number of districts
+377
+377
+377
+377
+377
+377
+Tranche ​×​ time fixed effects
+No
+Yes
+No
+Yes
+No
+Yes
+Notes: Regressions at the ­district-quarter level, covering the period 2008–2014. All regressions include dis-
+trict fixed effects, regional command ​×​ time fixed effects, and ­district-specific trends. The instrument used for 
+Troop ­withdrawal is the interaction of the travel distance to the nearest military airport and an indicator for the 
+­post-2011 period. The IV control set includes distance to any airport ​×​ time fixed effects, and distance to prov-
+ince borders ​×​ time fixed effects. Outcomes are subject to a log (x + 1) transformation. The weak IV statistic is the 
+­Kleibergen-Paap rk Wald ­F-statistic. Standard errors are clustered at the district level and presented in parentheses.
+
+
+--- PAGE 22 ---
+2296
+THE AMERICAN ECONOMIC REVIEW
+JULY 2021
+picture that emerges is consistent with our findings from the SIGACTS conflict 
+data; while the transition onset is associated with a marked improvement in the 
+perceived security situation, the physical withdrawal and base closure are associ-
+ated with a reported worsening of the security situation. Accounting for both phases 
+of the security transition, perceived security deteriorated by more than  0.4 SD. 
+In addition, ­perceptions that the Taliban had grown weaker strongly reverse, sug-
+gesting that civilians believe the Taliban had, indeed, become stronger after bases 
+were closed. Despite a notable increase in reported Afghan troop patrols, civilians 
+suggested that local forces were less likely to bring security after the withdrawal 
+of foreign forces. In panel B, we study the same outcomes, yet, only exploiting 
+­within-tranche variation. This precludes the estimation of the security transfer to 
+ANSF because this variable is perfectly collinear with the ­tranche-by-time fixed 
+effects. Our results remain robust, suggesting that the closure of bases is indeed 
+associated with a significant worsening of the security situation. Before turning to 
+a discussion of the underlying mechanism, we highlight the additional robustness 
+checks that we performed.
+C. Robustness
+In the online Appendix, we introduce a range of robustness checks.
+Figure 7. Coalition Troop Withdrawal and Conflict (SIGACTS)
+Notes: Coefficients and 90 percent confidence intervals on “Troop withdrawal” in a model that is analogous to 
+­column 1 in Table 4. Data are at the ­district-quarter level (­2008–2014). All regressions include district fixed effects, 
+regional command ​×​ time fixed effects, and ­district-specific trends. The instrument used for “Troop withdrawal” 
+is the interaction of the travel distance to the nearest military airport and an indicator for the ­post-2011 period. 
+The IV control set includes distance to any airport ​×​ time fixed effects, and distance to province borders ​×​ time 
+fixed effects. Outcomes are subject to a log (x + 1) transformation. Full results can be found in online Appendix 
+Table A3 .
+All casualty events
+Direct fire
+IED explosion
+Insurgent casualty events
+Security force casualty events
+Civilian casualty events
+IDF
+−0.5
+0
+0.5
+1
+1.5
+Coeffcient estimate (log points)
+
+
+--- PAGE 23 ---
+2297
+FETZER ET AL.: SECURITY TRANSITIONS
+VOL. 111 NO. 7
+Matched Distant Gridcell Pairs.—In an attempt to relax the identifica-
+tion assumption that underlies our main district level ­difference-in-differences 
+approach, we change the unit of analysis to 10 ​×​ 10 km gridcells. This is only 
+­possible for the SIGACTS data, as the ANQAR survey data are reported at the dis-
+trict level. In the resulting ­high-resolution dataset, we construct pairs of matched 
+gridcells using ­baseline population, elevation, road connections, and ­land-cover 
+data. The ­gridcell-level outcomes show reductions in violence that are larger 
+although it should be kept in mind that this is at the extensive margin of our vio-
+lence outcomes. For more details on the matching procedure, see online Appendix 
+Section B. For the summary statistics at the gridcell level, see Table A8. Results 
+for the gridcell analysis are presented in Table A10, along with event study graphs 
+in Figure A3.
+­Tranche-by-Tranche Effects.—We look at heterogeneous effects by tranche in 
+Table A11. We confirm that the effects are not driven by a single tranche. Even if 
+the magnitudes differ across tranches, the signs are consistent and significant for key 
+outcomes in multiple tranches.
+­Pretreatment Effects.—We study whether the security transfer to ANSF has 
+effects prior to the treatment announcement for the broader set of outcomes in 
+Table 5—Coalition Troop Withdrawal and Security Perceptions (ANQAR)
+Security
+Afghan National Security Forces presence and control
+Improved 
+security
+Taliban 
+weaker
+See Afghan National 
+Army Monthly
+Afghan National Security 
+Forces bring security
+Taliban 
+control
+(1)
+(2)
+(3)
+(4)
+(5)
+Panel A. District level
+Troop withdrawal
+−0.177
+−0.205
+0.160
+−0.121
+−0.067
+(0.054)
+(0.056)
+(0.078)
+(0.056)
+(0.057)
+Security handover
+0.062
+0.061
+−0.008
+0.044
+0.009
+(0.019)
+(0.020)
+(0.022)
+(0.019)
+(0.018)
+Mean DV
+0.321
+0.432
+0.697
+0.508
+0.189
+SD DV
+0.221
+0.235
+0.318
+0.236
+0.227
+Weak IV statistic
+63.465
+63.577
+63.390
+63.476
+63.465
+Observations
+8,523
+7,835
+8,308
+8,522
+8,523
+Number of districts
+375
+375
+375
+375
+375
+Panel B. District level, Tranche ​×​ time fixed effects
+Troop withdrawal
+−0.171
+−0.184
+0.132
+−0.127
+−0.062
+(0.053)
+(0.055)
+(0.075)
+(0.053)
+(0.056)
+Mean DV
+0.321
+0.432
+0.697
+0.508
+0.189
+SD DV
+0.221
+0.235
+0.318
+0.236
+0.227
+Weak IV statistic
+71.736
+72.213
+71.722
+71.743
+71.736
+Observations
+8,523
+7,835
+8,308
+8,522
+8,523
+Number of districts
+375
+375
+375
+375
+375
+Notes: Regressions at the ­district-quarter level, covering the period ­2008–2016. All regressions include dis-
+trict fixed effects, regional command ​×​ time fixed effects, and ­district-specific trends. The instrument used for  
+Troop ­withdrawal is the interaction of the travel distance to the nearest military airport and an indicator for the 
+­post-2011 period. The IV control set includes distance to any airport ​×​ time fixed effects, and distance to prov-
+ince borders × time fixed effects. The dependent variables measure shares of respondents at the district level. The 
+weak IV statistic is the ­Kleibergen-Paap rk Wald ­F-statistic. Standard errors are clustered at the district level and 
+­presented in parentheses.
+
+
+--- PAGE 24 ---
+2298
+THE AMERICAN ECONOMIC REVIEW
+JULY 2021
+Figures A4 and A5 . The vast majority of these ­pretreatment effects are insignificant 
+and small compared to the actual treatment effects.
+IV.  Mechanisms
+Afghanistan’s security transition could affect violence outcomes through a large 
+set of mechanisms. We consider several plausible alternative mechanisms below.
+A. Withdrawal of Foreign Targets
+In principle, the transfer of security to the ANSF could reduce violence because 
+the ability of the Taliban to mobilize was weakened by the security transition. 
+However, this explanation cannot account for the increase in violence we observe 
+after the base closures. Another interpretation of the reduction in local violence 
+following the security transfer, is that the ANSF were more effective, for example 
+because they monopolized violence better than the multinational ISAF, or because 
+they coordinated more effectively with the local population. In this sense, foreign 
+troops were perhaps no longer required to support security provision. These mecha-
+nisms are similarly consistent with the decline in violence after the first phase of the 
+transition, but are inconsistent with the ­violence-increasing effect of base closures 
+and withdrawal.
+B. Complementarities during the Transition Period
+Our main results are consistent with the idea that complementarities between 
+ISAF and ANSF generate improved security outcomes, to the extent that ISAF base 
+closures eliminate the gains in security outcomes that accompany the security trans-
+fer. These complementarities could arise because ISAF monitors the ANSF, and 
+provides military support after local forces take operational command. The com-
+bination of the ANSF leading operations and receiving feedback, combat support, 
+and development assistance could have reduced violence during the first phase. 
+These gains could have been reversed with the end of overwatch and the physical 
+withdrawal of troops. In Table 6, we investigate the complementarities mechanism. 
+Additional monitoring during the first phase could have reduced misbehavior by 
+Afghan troops, improving community relations, but we find no evidence of that type 
+of shift (column 1). We also find no evidence of a change in perceived ability of the 
+ANSF to operate independently of ISAF, or of ANSF capacity to defeat the Taliban 
+following the security handover (columns 2 and 3). We also find no evidence that one 
+dominant form of development assistance, the US Army Commander’s Emergency 
+Response Program (CERP), was targeted to enhance the effectiveness of Afghan 
+forces during the transition process (column 4).
+We also investigate potential complementarities in tactical support activities 
+(online Appendix Table A12). In particular, we might expect that foreign forces 
+would be marginally more likely to respond to violent events that trigger combat 
+support following the security handover. Columns 1 and 3 of online Appendix Table 
+A12 show that close air support and medical evacuations are highly correlated with 
+contemporaneous close combat and direct fire attacks, yet columns 2 and 4 show no 
+
+
+--- PAGE 25 ---
+2299
+FETZER ET AL.: SECURITY TRANSITIONS
+VOL. 111 NO. 7
+marginal changes in combat support after the security handover. Column 5 shows that 
+IED explosions coincide with additional bomb clearance, yet bomb neutralization 
+does not significantly improve during the security handover (column 6). It is still pos-
+sible that Afghan troops experienced a temporary, unobserved shock to their fighting 
+capacity. One such shock would be ­large-scale transfers of ammunition and weaponry 
+to Afghan troops whose supplies had been depleted before the withdrawal of foreign 
+troops. Prior theoretical work suggests this would lead to a composition shift in com-
+bat (Bueno de Mesquita 2013), reducing ­close-range attacks and increasing roadside 
+bomb deployment. However, Tables 1 and 4 indicate that this type of tactical shift 
+did not occur following the handover. Overall, we fail to identify any clear evidence 
+consistent with ­short-lived tactical complementarities that could explain the main  
+results.
+C. Lying Low
+One compelling mechanism that could account for our findings is a strategic deci-
+sion by the Taliban to scale back violence during the transition period. Local secu-
+rity transfers were particularly important because they created an overwatch period 
+in which the relative capacity of the Taliban and the ANSF was signaled to ISAF 
+forces. As such, the Taliban had an incentive to understate its capacity in a manner 
+that was both difficult to detect, and that confirmed NATO forces’ biases (i.e., that 
+Afghan security forces were ably trained and capable of delivering security on their 
+own). We briefly formalize this logic in a simple game in which violence serves 
+as a signal about the relative capacities of the Taliban and the ANSF. This formal-
+ization helps situate the conflict patterns we observe as the equilibrium outcome 
+Table 6—Security Force Activity
+Improper 
+behavior by 
+ANA
+ANA needs full 
+international 
+support
+ANA will most 
+likely defeat 
+insurgents
+CERP spending
+log (x + 1)
+(1)
+(2)
+(3)
+(4)
+Troop withdrawal
+0.009
+0.099
+−0.056
+1.419
+(0.092)
+(0.048)
+(0.054)
+(2.255)
+Security handover
+−0.012
+−0.009
+0.015
+−0.567
+(0.019)
+(0.015)
+(0.016)
+(0.480)
+Mean DV
+0.156
+0.243
+0.380
+3.502
+SD DV
+0.195
+0.191
+0.229
+5.359
+Weak IV statistic
+27.208
+63.476
+63.465
+48.751
+Observations
+6,486
+8,521
+8,523
+10,556
+Number of districts
+360
+375
+375
+377
+Notes: Regressions at the ­district-quarter level, covering the period ­2008–2016 (­2008–2014 
+for column 4). All regressions include district fixed effects, regional command ​×​ time fixed 
+effects, and ­district-specific trends. The instrument used for Troop withdrawal is the interaction 
+of the travel distance to the nearest military airport and an indicator for the ­post-2011 period. 
+The IV control set includes distance to any airport ​×​ time fixed effects, and distance to prov-
+ince borders ​×​ time fixed effects. The dependent variables in columns 1–3 measure the share 
+of respondents in the ANQAR survey at the district level. Column 4 contains CERP spending, 
+which is subject to a log (x + 1) transformation. The CERP data include projected spending 
+in 2014. The weak IV statistic is the ­Kleibergen-Paap rk Wald ­F-statistic. Standard errors are 
+clustered at the district level and presented in parentheses.

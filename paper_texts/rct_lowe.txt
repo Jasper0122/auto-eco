@@ -1,0 +1,1618 @@
+
+
+--- PAGE 1 ---
+American Economic Review 2021, 111(6): 1807–1844 
+https://doi.org/10.1257/aer.20191780
+1807
+Types of Contact: A Field Experiment on 
+Collaborative and Adversarial Caste Integration†
+By Matt Lowe*
+I estimate the effects of collaborative and adversarial intergroup con-
+tact. I randomly assigned Indian men from different castes to partici-
+pate in cricket leagues or to serve as a control group. League players 
+faced variation in collaborative contact, through random assignment 
+to homogeneous-caste or mixed-caste teams, and adversarial con-
+tact, through random assignment of opponents. Collaborative con-
+tact increases cross-caste friendships and efficiency in trade, and 
+reduces own-caste favoritism. In contrast, adversarial contact gen-
+erally reduces cross-caste interaction and efficiency. League partic-
+ipation reduces intergroup differences, suggesting that the positive 
+aspects of intergroup contact more than offset the negative aspects in 
+this setting. (JEL C93, D83, D91, J15, O15, Z13, Z21)
+Social psychologists have long theorized that the effects of intergroup contact 
+on prejudice should depend on the type of contact: in particular, contact should 
+only reduce prejudice when the integrated groups have common goals, intergroup 
+cooperation, equal status, and the support of authorities (Allport 1954, Pettigrew 
+1998). This theory is known as the “contact hypothesis.” Over six decades since 
+Gordon Allport first formulated the hypothesis, we still lack rigorous evidence on 
+whether, and if so, why, the effects of intergroup contact depend on these four scope 
+conditions (Paluck, Green, and Green 2018).1 This missing evidence is important: 
+policymakers cannot optimally design integrative policies without an understanding 
+1 Existing evidence on the importance of the conditions of contact primarily uses only ­cross-study variation. 
+For example, in a ­meta-analysis of 515 studies, Pettigrew and Tropp (2006) find that the conditions facilitate, but 
+are not necessary for, prejudice reduction. Experimental evidence for the positive effects of contact in general is 
+growing, and reviewed in Paluck, Green, and Green (2018). For more background on the contact hypothesis, see 
+online Appendix Section B.
+* University of British Columbia (email: matt.lowe@ubc.ca). Stefano DellaVigna was the coeditor for this 
+article. I am grateful for invaluable guidance from Daron Acemoglu, Abhijit Banerjee, and Frank Schilbach. Many 
+thanks also to Nikhil Agarwal, David Atkin, Alex Bartik, Josh Dean, Ben Faber, John Firth, Chishio Furukawa, 
+Siddharth George, Bob Gibbons, Rachel Glennerster, Nick Hagerty, Karla Hoff, Simon Jäger, Donghee Jo, Tetsuya 
+Kaji, Namrata Kala, Supreet Kaur, Gabriel Kreindler, Calvin Lai, Sara Lowes, Ben Marx, Maddie McKelway, 
+Yuhei Miyauchi, Rachael Meager, Ben Olken, Arianna Ornaghi, Betsy Paluck, Thomas Pettigrew, Nishith Prakash, 
+Matthew Rabin, Gautam Rao, Otis Reid, Ben Roth, Chris Roth, Carolyn Stein, Linda Tropp, Jeff Weaver, Roman 
+Zarate, and four anonymous referees for helpful comments and suggestions. Thanks also to Prianka Bhatia, Yuxiao 
+Dai, Lakshay Goyal, Omar Hoda, Shubham Maurya, Mustufa Patel, Mayank Raj, Anna Ranjan, Yashna Shivdasani, 
+and especially Azfar Karim, for outstanding research assistance. I am grateful for financial support from the Weiss 
+Family Fund, J-PAL Governance Initiative, Center for International Studies, MIT-India, and the Shultz Fund. This 
+project received IRB approval from MIT (no.1605556153) and IFMR, and was preregistered in the AEA registry 
+with ID #0001856.
+† Go to https://doi.org/10.1257/aer.20191780 to visit the article page for additional materials and author  
+disclosure statement.
+
+
+--- PAGE 2 ---
+1808
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+of which conditions matter for positive effects of contact and which conditions do 
+not. Related, naturally occurring integration frequently has negative effects,2 and 
+whether these negative effects could be prevented by ­restructuring the conditions of 
+contact is an open question.
+This paper uses a field experiment in ­caste-segregated, rural India to study the 
+impact of two types of intergroup contact: collaborative, where groups share com-
+mon goals, and adversarial, where they instead actively compete. I used cricket, 
+the most popular sport in India, to integrate young men from different castes. From 
+a sample of 1,261 men, I randomized 800 to play in 8 ­one-month-long cricket 
+leagues, and assigned the others to a control group. Of those assigned to play, I 
+assigned 35 percent to ­homogeneous-caste teams, and the others to ­mixed-caste 
+teams. This randomization gave the first type of ­cross-caste contact: ­collaborative, 
+those on the same team shared the common goal of winning matches. Once teams 
+formed, I chose opponents randomly to create the second type of ­cross-caste con-
+tact: adversarial, those on opposing teams had opposing goals. I measured inter-
+group behavioral outcomes one to three weeks after each league ended.
+Why should the type of contact matter? Different types of contact provide incen-
+tives for different types of intergroup interactions, which may affect outcomes 
+through both ­belief-based and ­preference-based channels. Integrated groups with 
+common goals have incentives to cooperate with one another: these cooperative 
+groups might be ­coworkers on political campaigns or company ­cofounders. In 
+contrast, groups with competing goals have incentives to undermine each other, 
+as evidenced in ­police-protester interactions and the perceived competition with 
+outgroups for places in elite colleges. Consistent with these ideas, in the leagues 
+­cross-caste interactions with opponents are 50 percentage points more likely to be 
+hostile than ­cross-caste interactions with teammates. These different intergroup 
+behaviors may drive belief updating in opposite directions, especially if participants 
+make attribution errors (Ross and Nisbett 2011, model in online Appendix Section 
+C): wrongly attributing the ­prosocial (hostile) behavior of outgroup teammates 
+(opponents) to their caste, rather than to their incentives. Along other dimensions, 
+for example beliefs about cricket ability, both types of contact may give similar 
+information. I use my first set of outcomes to explore this: measures of willingness 
+to interact along two dimensions, as friends and as teammates. Contact may also 
+shift deeper preferences through habit formation (Becker and Murphy 1988) or par-
+ticipants choosing preferences to rationalize past behavior (Bernheim et al. 2021). 
+My second set of outcomes sheds light on this preference channel: measures of caste 
+favoritism in the allocation of cricket training. These channels may in turn lead to 
+economic efficiency gains or losses. I capture efficiency effects with my third set of 
+outcomes, measures of trading behavior and trust.
+While I ­preregistered each of these outcomes, my ­preregistration empha-
+sizes a different source of variation in the type of contact: the variation driven 
+by randomization to more versus less collaborative monetary incentives. Partway 
+2 For example, a series of papers find negative political effects of exposure to immigrants and refugees 
+(Dahlberg, Edmark, and Lundqvist 2012; Enos 2014; Halla, Wagner, and Zweimüller 2017; Dustmann, Vasiljeva, 
+and Piil Damm 2018; Tabellini 2020), with one exception being the lack of correlation between local immigration 
+and the rise of the Sweden Democrats (Dal Bó et al. 2018).
+
+
+--- PAGE 3 ---
+1809
+LOWE: TYPES OF CONTACT
+VOL. 111 NO. 6
+into the experiment I realized that an additional useful source of variation existed 
+(teammates versus opponents), and later that this variation affected the nature of 
+­cross-caste interactions whereas the monetary incentives did not. As a result, I report 
+results from both sources of variation in the present paper, though I focus more on 
+the “stronger” variation of teammates versus opponents.3
+My first set of findings considers players’ willingness to interact. Collaborative 
+and adversarial contact have opposite effects on ­self-reported ­cross-caste friend-
+ships. Having all ­other-caste teammates instead of none increases the number of 
+­other-caste friends by 1, while having all ­other-caste opponents instead of none 
+decreases the number of ­other-caste friends by 3.5. These friendship effects are not 
+merely driven by direct contact, players becoming friends with teammates and dislik-
+ing opponents, or network introductions to the ­preexisting friends of teammates and 
+opponents. Furthermore, collaborative contact is no more potent when ­other-caste 
+teammates are ­high-ability cricketers: this contact reduces division through working 
+together, not winning together. A natural interpretation of this first set of findings, 
+though not the only one, is that the two types of contact have opposite effects on 
+inferences about the cooperativeness of ­other-caste men.
+In contrast with the effects on social interaction, both types of contact reduce 
+­ability-based statistical discrimination (Cornell and  Welch 1996; Bohren, Imas, 
+and Rosenberg 2019), causing more ­other-caste men to be chosen as teammates for 
+a future match with monetary stakes. Additional evidence suggests that this result 
+reflects the impact of contact on knowledge about cricket ability. In particular, when 
+players choose teammates for an alternative match without a prize for the winner, 
+both types of contact have smaller effects, but the adversarial effect falls signifi-
+cantly further. Though adversarial contact conveys information about the ability 
+of ­other-caste players, it also reduces the desire for ­cross-caste social interaction. 
+When the match has no money at stake, the balance shifts towards choosing play-
+ers on the basis of desired social interaction, offsetting the informational effect of 
+adversarial contact.
+My second set of findings consider effects on ­own-caste favoritism in an incentiv-
+ized voting exercise. Each player voted to determine which representative from each 
+team would receive professional cricket coaching. Collaborative contact reduces 
+­own-caste favoritism in voting by up to 33 percent, while adversarial contact has 
+imprecise effects. An accounting exercise suggests that the collaborative effect is 
+unlikely to be fully explained by generalized ability belief updating, and rather may 
+reflect a shift in social preferences.
+My third set of findings explore the efficiency effects of contact. Collaborative 
+contact increases ­cross-caste trade by up to 21 percent and trade payouts by 18 per-
+cent, as measured in a trading exercise where there were gains from ­cross-caste 
+trade. This effect corresponds to that of a monetary incentive for ­cross-caste trade 
+equivalent to one to two hours of wages. The point estimates for adversarial contact 
+are negative, though statistically insignificant. These divergent efficiency effects are 
+similar when considering measures of trust, behavior that is measured in the absence 
+of ­face-to-face interaction. In particular, adversarial contact reduces levels of trust 
+3 I describe differences between the paper and the ­preregistration in detail in online Appendix Section D.
+
+
+--- PAGE 4 ---
+1810
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+significantly more than collaborative contact, which has small or somewhat negative 
+effects.
+Summarizing the three sets of findings, full collaborative contact increases an 
+omnibus index of ­cross-caste behavior by 0.23​σ​ ( ​p  <  0.01​) while full adver-
+sarial contact reduces such behaviors by 0.38​σ​ ( ​p  =  0.07​, ­p-value of the 
+difference  <  0.01).
+In support of the contact hypothesis, contact only improves intergroup relations 
+when the groups have common goals. I present some evidence against three mecha-
+nisms other than common goals. First, though contact with teammates may be more 
+intensive than that with opponents, differences in intensity alone should not lead to 
+opposite effects on ­cross-caste behaviors. Second, the two types of contact also dif-
+fer in duration: contact with each opponent only lasts for one match, whereas con-
+tact with each teammate continues for several matches. However, the ­longer-term 
+nature of collaborative contact does not seem to explain impacts: even the ­short-term 
+collaborative contact backup players experience has positive effects. Third, neither 
+type of contact affects performance or payouts in the matches, suggesting that the 
+mechanism does not work through sporting success or income effects.
+In the final part of the paper, I discuss three additional results with implications 
+for program design and other aspects of the contact hypothesis. First, I show that 
+the cricket league intervention reduced intergroup differences overall, demonstrat-
+ing that, in this setting, the positive aspects of intergroup contact more than offset 
+any negative aspects.4 Those assigned to mixed teams score 0.22​σ​ higher on the 
+­cross-caste behavior index than those assigned to the control group. Those assigned 
+to ­homogeneous-caste teams are also positively affected, though less so, scoring 
+0.09​σ​ higher.
+Second, collaborative contact is no less effective when teams are assigned to 
+a pay structure which increases ­within-team inequality and competition. A likely 
+explanation for this result is that while the collaborative versus adversarial treat-
+ments affected intergroup interactions, the competitive pay structure did not. This 
+result suggests that Allport’s intergroup cooperation scope condition need not facil-
+itate positive effects of contact, at least in a setting where groups already have com-
+mon goals.
+Third, I show that despite evidence of discrimination of lower castes within each 
+team, the positive effects of collaborative contact are similar across castes. Lower 
+castes are measurably worse at cricket on average, and are less likely to be selected 
+as captains, batters or bowlers, even after controlling for ability. Nevertheless, the 
+effects of collaborative contact are similar for upper and lower castes. This shows 
+that collaborative contact is effective even in the absence of equal status between 
+groups within the situation, giving some evidence against one additional scope con-
+dition emphasized by Allport (1954).
+4 Other integrative sports programs exist, but evidence on their impact is scarce. Right to Play reaches one 
+million children weekly with ­sports-based programs promoting education, health, and peaceful communities, and 
+Soccer for Peace uses sport to unite Jews and Arabs in Israel. Ditlmann and Samii (2016) find mixed effects of an 
+­interethnic sports program using a ­difference-in-differences design, and while Mousa (2020) studies intergroup 
+contact on soccer teams in ­post-conflict Iraq, the design lacks a pure ­non-soccer playing control group to use for 
+program evaluation. Otherwise, sport has also been explored as a means of improving intergroup relations through 
+shared national experiences (­Depetris-Chauvin, Durante, and Campante 2020).
+
+
+--- PAGE 5 ---
+1811
+LOWE: TYPES OF CONTACT
+VOL. 111 NO. 6
+This paper is the first to systematically test for the effects of different types of 
+contact (Paluck, Green, and Green 2018), showing both the importance of common 
+goals, and some suggestive evidence against the importance of intergroup cooper-
+ation and equal status. Existing empirical tests study one type of contact in isola-
+tion (Boisjoly et al. 2006; Enos 2014; Dahl, Kotsadam, and Rooth 2021; Scacco 
+and  Warren 2018; Corno, La  Ferrara, and  Burns 2019; Schindler and  Westcott 
+2021), or use ­nonrandomized variation in the type of contact (Pettigrew and Tropp 
+2006; Dustmann, Vasiljeva, and Piil Damm 2018; Bazzi et al. 2019).5 In a particu-
+larly creative example of the former, Rao (2019) shows that integration of rich and 
+poor students in Delhi schools increases the ­prosocial behavior of rich students. 
+In his case, the contact entails a mix of collaborative and adversarial interactions 
+(e.g., through competing on exams). Mousa (2020) also complements my paper, 
+showing evidence for the positive effects of collaborative contact in soccer leagues 
+in a ­postconflict setting, with the added advantage of ­longer-term outcome measure-
+ment. Different to these papers, I investigate the impacts of the two types of contact 
+separately.
+The second contribution of this paper is to estimate the efficiency effects of con-
+tact. A large literature shows that ethnic diversity and ingroup bias affect efficiency 
+and allocation (Alesina and Ferrara 2005; Anderson 2011; Hjort 2014; Marx, Pons, 
+and Suri 2016). These papers show that ethnic differences have costs; my paper 
+is the first to show that the efficiency consequences of integration depend on the 
+nature of contact. To do so, I introduce a trading exercise that is cheap to implement, 
+portable, and useful for the incentivized measurement of economic networks in the 
+absence of naturally occurring data on economic links.
+More broadly, this paper complements a large psychology and ­lab-experimental 
+literature on the effects of group membership (Tajfel et al. 1971, Goette et al. 2012) 
+by showing that team membership can reduce prejudice in a ­real-world setting. Most 
+relevant, the Robber’s Cave Experiment of Sherif et al. (1961) randomly assigned 
+22 boys to 2 groups at a summer camp, demonstrating both that (i) competition 
+between groups for resources leads to conflict, and (ii) common goals between the 
+groups reduces conflict. In contrast to my paper, this study involved newly formed 
+groups, rather than existing groups in conflict. The latter is more relevant for policy. 
+Finally, this paper contributes to a large body of work on caste networks (reviewed 
+in Munshi 2019) by exploring not just why these networks matter, but also how they 
+form.
+The remainder of this paper is organized as follows. Section I provides an over-
+view of India’s caste system, and motivates the use of cricket leagues as a tool for 
+the study of contact. Section II describes the experiment design and outcomes, while 
+Section III explores the effects of both types of contact on willingness to interact, 
+­own-caste favoritism, and efficiency. Section IV considers alternative explanations 
+5 Examples from history also suggest that economic structure can drive ethnic conflict, whether trade com-
+plementarities reducing ­Hindu-Muslim violence (Jha 2013) or increased labor market competition promoting 
+­anti-semitic acts (Becker and Pascali 2019). One possible mechanism for these effects is that economic structure 
+determines the nature of intergroup contact. Otherwise, there is evidence that the type of organizational contact 
+(e.g., horizontal versus vertical) affects productivity (­Karaca-Mandic, Maestas, and  Powell 2013; Marx, Pons, 
+and Suri 2016).
+
+
+--- PAGE 6 ---
+1812
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+for why the type of contact matters, and Section V considers the three program 
+design implications of additional results. Section VI concludes.
+I.  Background on Caste and Cricket
+A.  Caste: Past and Present
+Caste Origins.—The Indian caste system dates back to as far as 1500  BCE. 
+According to the Manusmriti, an ancient Hindu legal text, individuals belong to one 
+of four ordered social categories, called varnas: Brahmins, Kshatriyas, Vaishyas, 
+and Shudras, with the lowest social group, the untouchables, outside of this class 
+system altogether. Each of these groups contains hundreds of ­subgroups, called 
+jatis, within which Hindus historically must marry. In addition to endogamy, the 
+caste system features norms of contact between the groups (e.g., whether food can 
+be shared), residential segregation, and traditional occupations (Ghurye 1932, Oh 
+2019).
+Though the core of the caste system rests with the endogamous jatis, the gov-
+ernment categories of General, Other Backwards Castes (OBC), and Scheduled 
+Castes/Scheduled Tribes (SC/ST),6 are natural groups to consider when study-
+ing discrimination in India (Munshi 2019).7 These groups follow a traditional 
+hierarchy, with General above OBC, and OBC above SC/ST. In this paper I use 
+“­cross-caste” to refer to interactions between these three groups, and unless stated 
+otherwise, all subsequent references to caste refer to one of these three groups.
+Discrimination.—Despite decades of illegality under the Indian Constitution, 
+discrimination of lower castes continues to be widespread. ­Thirty-nine percent of 
+General and OBC households in Uttar Pradesh (24 percent in India), the Indian state 
+where I ran the experiment, practice untouchability (Desai, Vanneman, and National 
+Council of Applied Economic Research 2011), limiting their physical interactions 
+with lower castes with the aim of remaining “unpolluted.” Despite persistent dis-
+crimination, there is evidence that the relative economic status of low castes has 
+improved in recent decades (Hnatkovska, Lahiri, and Paul 2012).
+General Segregation.—Castes are segregated through marriage, geography, and 
+social networks. Though many castes often reside in the same village, geographical 
+segregation results from castes living in separate hamlets. Reflecting these living 
+arrangements, though each jati makes up on average 6 percent of a village’s popula-
+tion across major Indian states, roughly 50 percent of food transfers and loans come 
+from within the same jati (Munshi and Rosenzweig 2015). ­Cross-caste interactions 
+that exist are often adversarial: 50 percent of households in Uttar Pradesh report that 
+there is some or a lot of conflict between jatis in their village (Desai, Vanneman, 
+and National Council of Applied Economic Research 2011).
+6 Erstwhile untouchables, and some others, were classified as Scheduled Castes (SC), with indigenous tribes 
+classified as Scheduled Tribes (ST). Only 1.6 percent of participants in this study are STs.
+7 To focus on caste and not religion, I only considered villages with few or no Muslims for the experiment. In 
+practice, only 2.9 percent of participants were Muslim. These participants could still be assigned a caste given that 
+Muslim communities are also formally classified as General, OBC, or SC/ST.
+
+
+--- PAGE 7 ---
+1813
+LOWE: TYPES OF CONTACT
+VOL. 111 NO. 6
+Study Segregation.—Online Appendix Figure A1 illustrates the social segrega-
+tion at baseline for two of the eight league locations. Average ­caste-based homoph-
+ily (following Jackson 2011) is 1.92: study participants are roughly twice as likely 
+to form friendships with a participant from the same caste than with a participant 
+in general.8 In addition to homophily, there is hierarchy: General castes have more 
+friends from OBC than SC/ST, while SC/ST have more friends from OBC than 
+General castes.
+Salience.—Though we might expect caste tension to be weaker among the young 
+than the old, qualitative reports from this study suggest that caste remains highly 
+salient even among the young (online Appendix  Section E). Among many such 
+examples, one General caste participant said “I will assist those from my own caste, 
+and beat the chamars [a Scheduled Caste jati]. My whole day goes bad when I see 
+face of a chamar.” Similarly, one SC/ST participant, upon seeing the photos of 
+General caste participants, asked the surveyor to “scroll through these Tiwaris and 
+Pandits [General castes] quickly.”
+B.  An Introduction to Cricket
+What Is Cricket?—The experiment used cricket, a ­team-based, ­bat-and-ball 
+sport, as a means of integrating men from different caste groups. Cricket is simi-
+lar in structure to baseball. Each team usually comprises 11 players, though in the 
+experiment each team consisted of only 5 players, to maximize statistical power. 
+Each team takes turns to either field or bat. In the experiment, each match lasted 40 
+minutes on average. When fielding, the team nominates one player to be the bowler 
+and one to be the ­wicket-keeper (similar to the pitcher and catcher, respectively, in 
+baseball). The bowler throws the ball toward the wickets, which are a set of three 
+wooden stumps (online Appendix Figure A2). The ­wicket-keeper stands behind the 
+wickets ready to receive the ball. The three remaining team members play the role of 
+fielders, working together to collect the ball. When batting, only two members of the 
+team play at any one time, both as batsmen. The batsmen attempt to score as many 
+“runs” as possible, which they do by hitting the ball and then running between the 
+wickets, or by hitting the ball sufficiently far (rolling past or flying in the air beyond 
+the “boundary”) such that they score a 4 or a 6. The fielding team attempts to mini-
+mize the number of runs the batting team scores by, for example, hitting the wickets 
+when bowling (meaning the batsman at that end is “dismissed”).
+Why Cricket?—The nature of cricket provides several advantages for this study. 
+First, popularity across castes makes high participation possible, mitigating selec-
+tion concerns: among study participants, 81 percent play cricket at least two times 
+per week. Second, cricket tournaments are common in the study area, making the 
+intervention naturalistic: at baseline, 38 percent of study participants were aware 
+of a local cricket tournament held in the past 12 months. Third, features of cricket 
+make contact treatments natural: teams have to be formed, and teams must face 
+8 For comparison, Jackson (2011) finds ­race-based homophily in US high schools to be lower, at 1.4 on average.
+
+
+--- PAGE 8 ---
+1814
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+opponents.9 The collaborative nature of sport in general was apparent to Gordon 
+Allport, who wrote in The Nature of Prejudice (1954, p. 276):
+Only the type of contact that leads people to do things together is likely 
+to result in changed attitudes. The principle is clearly illustrated in the 
+­multi-ethnic athletic team. Here the goal is all important: the ethnic com-
+position of the team is irrelevant. It is the cooperative striving for the goal 
+that engenders solidarity.
+Types of Contact in Cricket.—Players on the same team share the common goal 
+of winning the match, and must collaborate to achieve this goal. To succeed when 
+batting, batting partners must communicate, discussing when and how much to 
+run between the wickets. When fielding, all team members are on the field, and 
+to succeed they must cooperate with the bowler and ­wicket-keeper, who call to 
+receive the ball from where it was hit. At ­half-time, each team gathers together for 
+a team talk, ostensibly to strategize how to play in the second half of the match. In 
+addition, teams achieve their common goal by playing competitively against their 
+opposition: bowling fast, batting hard, and challenging decisions that the umpire 
+(referee) makes in the other team’s favor. These types of contact generate incentives 
+for different types of interactions: while interactions with ­other-caste teammates are 
+more frequent than interactions with ­other-caste opponents (columns ­1–5, online 
+Appendix Table A1), conditional on interacting, interactions with ­other-caste team-
+mates are 50 percentage points less likely to be hostile (column 6).
+II.  Experiment Design
+A.  Recruitment and Baseline Activities
+Site Selection.—I selected 8 gram panchayats10 (GPs) near Varanasi, Uttar 
+Pradesh, from among 100 GPs visited by the field team.11 The selected GPs satisfied 
+several desirable criteria, including: the presence of ­caste-segregated hamlets, a sup-
+portive elected GP leader, roughly equal caste proportions, and an available cricket 
+field. I organized one cricket league per GP, with the matches played from January 
+to July 2017. The experiment design and detailed timeline for a given league is 
+detailed in Figure 1. The subsequent details in this section track this timeline closely.
+Recruitment and Baseline.—In each GP, surveyors spent the first six days recruit-
+ing men aged 14 to 30 to play in the upcoming cricket league. We advertised the 
+basic details of the leagues using posters (online Appendix Figure A3), and via 
+direct contact from Sarathi Development Foundation (our NGO partner) staff. The 
+information made clear that teams would be chosen randomly by the organizers 
+and not by the participants themselves. By targeting particular hamlets, we kept 
+9 The idea that such ­cricket-based contact might unite castes is even present in Indian culture: in the famous 
+Hindi film, Lagaan (2001), villagers are persuaded by their desire to win to allow an untouchable to play on their 
+team.
+10 Gram panchayats are local administrative units comprising several villages.
+11 See online Appendix Section F for additional, but less essential, experiment design details.
+
+
+--- PAGE 9 ---
+1815
+LOWE: TYPES OF CONTACT
+VOL. 111 NO. 6
+recruitment roughly equally balanced across the three caste categories.12 Men who 
+expressed interest completed a baseline survey (for summary statistics, see online 
+Appendix Table A2) and were informed that their ­sign-up was not complete until 
+their cricket ability was tested. I allowed men to sign up to be players, umpires, 
+or both. Seven signed up to be umpires exclusively. I used these men as umpires, 
+but not as part of the sample for which I measured outcomes. Of the 1,261 who 
+completed both the baseline and ability testing as players, 281 also signed up to be 
+umpires, of which 156 umpired at least one match.
+Study Construal.—I minimized references to caste in the survey instruments to 
+avoid priming and social desirability bias. In this spirit, surveyors told participants 
+during baseline that “we are recruiting men interested in playing in cricket tourna-
+ments for money. Our aim is to use cricket tournaments to bring the community 
+together, and to study how cooperative and competitive men are in rural India.” 
+This framing appears to have been successful: according to daily surveyor debriefs, 
+participants very rarely voiced suspicions that the study was designed to understand 
+caste relations.
+Ability Testing.—Following the six days of recruitment, surveyors spent six days 
+testing the cricket ability of each participant. Cricket ability was measured along 
+12 Of the 1,261 participants, 32.7 percent, 35 percent, and 32.3 percent were from General, OBC, and SC/ST 
+castes respectively.
+Figure 1.  Experiment Design and Timeline
+Notes: The figure shows the roughly 60-day time line for each league. The experiment ran in three phases with two 
+leagues running in parallel during the first phase and three during each of the latter phases. ​N​ is the sample size per 
+league, ​​N​tot​​ is the overall sample size summed across all eight leagues. Text under blue brackets refers to survey 
+instruments. The order of events in the figure reflects exactly the order of events in each league, while the day num-
+bers for each event are approximate given some slight variation between leagues.
+Day 1
+Day 12
+Final recruits:
+N = 140 to 177
+[Ntot = 1,261]
+League players:
+N = 100
+[Ntot = 800]
+7 homogeneous 
+teams:
+N = 35 [Ntot = 280]
+Backup players:
+N = 40 to 77
+[Ntot = 461]
+13 mixed teams:
+N = 65 [Ntot = 520]
+League
+80 matches
+Random order
+caste-wise
+General
+OBC
+SC/ST
+…
+Day 15
+…
+…
+…
+…
+…
+…
+Randomization
+• Assignment to league/teams/backups  
+ illustrated above
+• Teams randomized 50:50 to   
+    team/individual pay
+• Match schedule randomized using
+ Bollobás’ method
+• Order of play randomized
+Treatment
+assignment
+phone
+call
+Match 
+observation
+Social 
+networks
+Baseline, 
+ability 
+testing
+Endline-1
+Endline-2
+…
+Day 60
+Day 16
+Day 18
+Day 41 Day 44
+Day 48
+Day 53
+Award 
+ceremony
+Trading 
+period
+
+
+--- PAGE 10 ---
+1816
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+three dimensions: bowling, batting, and fielding. For bowling, participants bowled 
+six balls toward the wickets, and a surveyor measured the speed using speed guns. 
+For batting, a surveyor bowled six balls toward the wickets, and the participant 
+attempted to hit each ball. The surveyor recorded whether each ball was hit, and if 
+so whether it was hit sufficiently far to score either a 4 or a 6. For fielding, a surveyor 
+threw six balls high in the air toward the participant. The surveyor recorded how 
+many balls were successfully caught. The ability measures are strongly predictive 
+of league performance, as shown in Section VC. For some of the analysis, I create 
+an ­individual-level ability index as the average across three standardized measures: 
+maximum bowling speed, number of 4s or 6s when batting, and number of catches 
+when fielding.
+Social Networks.—Once the participants were finalized, I administered a short 
+social network survey. Each participant was shown a list of the full names and pho-
+tos of all other participants and asked which they considered to be friends. Though 
+caste cannot be visibly discerned, it is usually signaled strongly by the last name a 
+person uses. When participants are asked to guess the caste category of a hypotheti-
+cal name at end-line, they correctly identify the name as belonging to the same or a 
+different caste 80 percent of the time. This figure represents a lower bound on caste 
+recognition during the experiment itself, since beyond observing last names, par-
+ticipants may recognize the photo and correctly infer caste through knowing what 
+hamlet the individual lives in. Due to time constraints, 93 percent of the 1,261 par-
+ticipants completed the social network survey prior to treatment assignment.
+B.  Randomization
+League Assignment.—In each of the 8 locations, I randomly assigned 100 partici-
+pants to play in the cricket league. I stratified this randomization on caste and selected 
+a ­well-balanced draw from among 100 ­re-randomizations to avoid other chance imbal-
+ances (following Banerjee, Chassang, and Snowberg 2017, further details in online 
+Appendix Section G). I assigned the remaining participants to the control group.
+Backup Protocol.—Cricket matches are difficult to play without a full roster of 
+players. Since 100 percent match attendance could not be guaranteed, control par-
+ticipants served as backup players. To preserve a comparison group with very few 
+matches actually played, I followed a strict backup protocol. I assigned a priority 
+number randomly to each backup, within each caste. If a particular player could not 
+attend one of his matches, surveyors called a backup player from the same caste 
+in priority order. This protocol ensured that only ­high-priority backups played fre-
+quently: the three ­highest-priority backups played 7.4 matches on average, while 
+the remaining backups played far fewer (online Appendix Figure A4). This protocol 
+has an additional advantage: the nature of the treatment for ­high-priority backups (in 
+particular, the fact that they cycle in and out of different teams) helps me distinguish 
+between different explanations for the results in Section IVB.
+Team Assignment.—For each of the 8 leagues, I randomly assigned the 100 
+league players to 20 teams of 5 players each. Thirty-five percent of the players 
+
+
+--- PAGE 11 ---
+1817
+LOWE: TYPES OF CONTACT
+VOL. 111 NO. 6
+were randomly assigned to ­homogeneous-caste teams, making 7 out of 20 teams 
+­homogeneous-caste. I pooled and randomly ordered the remaining players. Each 
+sequence of 5 then formed a ­mixed-caste team.
+Incentives.—The survey team paid each player a cash incentive based on his 
+cricket performance following each match. The exact type of monetary incentive 
+was randomized. Of the 20 teams participating in each league, I randomized 10 
+teams to receive Individual Pay and the remaining 10 to receive Team Pay. Surveyors 
+paid players on Individual Pay teams according to individual performance (giving 
+­on-team inequality) while players on Team Pay teams were paid based on team 
+performance (giving ­on-team equality). The variation in incentives allows a test 
+of an additional Allport (1954) condition: that of intergroup cooperation. Team 
+Pay increases intergroup cooperation on each team, by making own pay depend 
+positively on the performance of teammates. In contrast, Individual Pay increases 
+competition, giving incentives to “jockey for position” to ensure enough ­play-time 
+to make money. If intergroup cooperation matters in the way that Allport (1954) 
+hypothesized, we would expect the positive effects of collaborative contact to be 
+greater for teams that receive Team Pay.
+Match Schedule.—I scheduled each team to play eight matches, never playing 
+the same team more than once. This scheduling problem is identical to the network 
+problem of choosing a random simple regular graph. I randomly chose a graph for 
+each league using an existing algorithm, Bollobás’ “pairing method” (see online 
+Appendix Section G for details). The algorithm generated an adjacency matrix for 
+each league, representing which teams were to play which. With these matrices I 
+scheduled 80 matches per league, with the matches randomly ordered. The random-
+ness of the match schedule ensured that a given player’s exposure to other castes as 
+opponents was also random.13 Together, the assignment to teams and random match 
+schedule created significant variation in collaborative and, albeit less so, adversarial 
+­cross-caste contact (online Appendix Figure A5). This difference in variation results 
+in much lower powered statistical tests for adversarial contact than for collaborative 
+contact.14 I counter this limitation somewhat by also estimating overall effects on an 
+omnibus index of ­cross-caste behavior (Section IIID).
+C.  Implementation Period
+Treatment Announcement and League.—During the ­two-day period following 
+randomization, surveyors phoned each participant to explain their treatment assign-
+ment. Following these phone calls, each league ran for roughly three-and-a-half 
+weeks, with match attendance averaging 76 percent. One surveyor observed each 
+13 More precisely, it is random conditional on the caste composition of his own team. For example, if a player 
+has four ­other-caste men on his team, he is less likely to be exposed to ­other-caste opponents than a player with only 
+one ­other-caste man on his team. All analysis of adversarial contact effects below controls for ­on-team ­cross-caste 
+exposure.
+14 I faced a trade-off between naturalism and statistical power when creating variation in adversarial contact. For 
+example, I could have increased variation in adversarial contact (and statistical power) by having each team play 
+the same opposing team eight times. Instead, I erred on the side of naturalism by having each team play a given 
+opposing team only once.
+
+
+--- PAGE 12 ---
+1818
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+match and recorded interactions between players using the Match Observation sur-
+vey (as referenced already in online Appendix Table A1).
+Recognizing Caste.—To avoid explicit references to caste, participants were not 
+directly told the caste group of their teammates and opponents. However, several 
+features of the experiment enable caste to be identified implicitly. First, the full 
+names and father’s names of teammates were conveyed over the phone as part of the 
+treatment announcement, strongly signaling the caste of each teammate. Second, 
+close interaction with teammates on the pitch, including mandatory team talks, gives 
+opportunities for teammates to learn each other’s caste. Third, the catchment area 
+for each league is sufficiently small that players can recognize their teammates and 
+opponents, even if they are not friends; indeed, when players are asked on the phone 
+whether they know of their randomly assigned teammates, 39 percent say yes when 
+the teammate is from the same caste, while still 27 percent say yes when the team-
+mate is from a different caste. The corresponding figures for baseline friendships 
+are 15 percent and 4 percent, suggesting that even though participants are far more 
+likely to be friends with members of their own caste, they are not that much more 
+likely to know them than participants from other castes. Fourth, during the matches 
+the full names of bowlers are called out whenever the bowler is to be changed. Fifth, 
+spectators at the matches (17 on average) frequently call out the names of players, 
+and sometimes refer to players using caste slurs.
+Outcome Measurement.—I measured three classes of outcomes during two 
+end-line surveys (­Endline-1 and ­Endline-2) one to three weeks after the com-
+pletion of each cricket league: (i) willingness to interact; (ii) caste favoritism; 
+and (iii) efficiency. The relatively ­short-run outcome measurement is a key lim-
+itation of this study. These outcomes were measured for all participants, except 
+­own-caste favoritism, which was not measured for the control group due to time 
+constraints. I summarize the measurement in Table 1, and in full, together with the 
+results, in Section III.
+D.  Empirical Specification
+To test for the effects of the two types of contact, I focus on the subsample of 
+participants randomly assigned to play in the leagues (​N  =  800​), and primarily use 
+the following empirical specification:
+(1)      ​​y​icl​  =  ​α​cl​ + β ​Prop. Oth. Caste on Team​icl​ 
+	
++ γ ​Prop. Oth. Caste of Opponents​icl​ + η ​X​icl​ + ​ε​icl​​ ,
+where ​​y​icl​​ denotes outcome ​y​ for participant ​i​ from caste ​c  ∈  {General, OBC,  
+SC/ST}​ playing in league ​l​, ​​α​cl​​ are ­caste-by-league fixed effects since these were 
+used as strata for the randomization to teams, and ​​ε​icl​​ is the error term. The term ​​X​icl​​ 
+is a vector of baseline covariates, detailed in the next subsection. The sample size 
+varies slightly across outcomes given differing attrition for ­Endline-1 and ­Endline-2, 
+and logistical constraints preventing us from measuring all outcomes for the final 
+
+
+--- PAGE 13 ---
+1819
+LOWE: TYPES OF CONTACT
+VOL. 111 NO. 6
+few respondents. To allow for correlated shocks within teams, I cluster standard 
+errors at the ­team-level.
+The collaborative contact treatment is Prop. Oth. Caste on ​Team​icl​  ∈  {0,  0.25, 
+0.5,  0.75,  1}​, which is the proportion of player ​i​’s four teammates that belong to 
+a different caste. The parameter ​β​ gives the causal effect of a player having all 
+­other-caste teammates instead of none. The adversarial contact treatment is  
+Prop. Oth. Caste of ​Opponents​icl​​, which ranges from 0.35 to 0.975. In this case, 
+given the linearity assumption and extrapolation beyond the support of the vari-
+able, ​γ​ identifies the causal effect of a player having all ­other-caste opponents 
+instead of none.
+To test for the effects of league participation, I use the full participant sample 
+(​N  =  1, 261​) and the following empirical specification:
+(2)      ​​y​icl​  =  ​a​cl​ + ​ϕ​1​ ​Homog. Team​icl​
+	
++ ​ϕ​2​ ​Mixed Team​icl​ + ​ϕ​3​ ​High Backup​icl​ + θ ​X​icl​ + ​e​icl​​ ,
+which compares the ­low-priority backups which played few matches (the omitted 
+group) with the ­high-priority backups (Backup Priority ​Number​icl​  ≤  3​), those 
+assigned to ­homogeneous-caste teams (Prop. Oth. Caste on ​Team​icl​  =  0​), and 
+Table 1—Description of Main Outcomes
+Exercise
+Brief Description
+Main Outcome
+Concept
+Social interaction
+Participants scroll through photos and full 
+names of all other participants, first selecting 
+those who are friends or with whom they 
+would like to spend time, second selecting 
+those who are friends.
+Number of  
+other-caste 
+men selected
+Willingness to 
+interact socially
+Team formation
+Participants again scroll through all other 
+participants, this time making incentivized 
+choices of four future teammates, first for 
+a match with monetary stakes, second for a 
+match without monetary stakes.
+Number of 
+­other-caste 
+men selected
+Willingness 
+to interact 
+productively
+Voting
+League players vote on which players from 
+other teams get to go on a field trip for pro-
+fessional coaching, by ranking the players of 
+these other teams from 1 to 5.
+Vote ranking given 
+to other players 
+matched to caste
+Caste favoritism
+Trading
+Participants receive two ­mismatched goods 
+(e.g., two ­left-handed gloves) and have 
+several days to find other participants to trade 
+with. One-half of the participants receive 
+obfuscated monetary incentives to trade with 
+someone from a different caste.
+Whether traded 
+with someone from 
+a different caste
+Efficiency
+Trust
+Participants play a standard trust game 
+with three partners, one from each caste of 
+General, OBC, and SC/ST. Participants can 
+send up to Rs. 50 to partners, any amount 
+sent is tripled, and partners can decide how 
+much to return. Participants also ­self-report 
+whether they think that most people can be 
+trusted.
+Amount transferred 
+in trust game; Whether 
+think that most people 
+can be trusted
+Efficiency
+ 
+
+
+--- PAGE 14 ---
+1820
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+those assigned to ­mixed-caste teams (Prop. Oth. Caste on ​Team​icl​  >  0​). I cluster 
+standard errors at the ­team-level for those assigned to play in the leagues, and at the 
+­participant-level otherwise.
+E.  Randomization and Implementation Checks
+Balance checks suggest that the randomization was successful. For the effects 
+of contact (online Appendix Table  A3), 2 of 17 coefficients not affected by 
+­re-randomization (for age and whether in school) are statistically significant at the 
+10 percent level for the checks on the full sample (panel A), and likewise for the 
+checks with the most restrictive analysis sample: participants with complete data 
+for all end-line outcomes (panel B). There are no statistically significant effects for 
+the most important variable: the number of ­other-caste friends listed in the social 
+network survey (column 1). That said, the signs go in the direction of the hypoth-
+esized effects, with a positive coefficient for collaborative contact and a negative 
+coefficient for adversarial contact.
+The balance checks for the program participation specification are similar 
+(online Appendix Table A4), though ­high-priority backups have significantly more 
+­other-caste friends (column 1). Given this imbalance, and the similar concern in 
+online Appendix Table A3, I control for the number of ­other-caste friendships at 
+baseline throughout. In particular, since 7 percent of the 1,261 participants did 
+not complete the social network survey prior to treatment assignment, I control 
+for two baseline covariates: a dummy variable equal to one if the social network 
+survey was not completed, and the number of ­other-caste friendships at baseline, 
+set to −99 if missing. Given that baseline ­other-caste friendships are predictive of 
+end-line intergroup behaviors, this approach also increases precision. In addition, 
+I control throughout for the five variables used for ­re-randomization (following 
+Bruhn and McKenzie 2009): age, whether in school, whether would volunteer, 
+number of 4s or 6s in the batting test, and maximum speed in the bowling test.
+Attrition is low at 6.8 percent, and not statistically significantly affected by either 
+collaborative or adversarial contact. This lack of selective attrition holds for the full 
+sample and for each caste separately (columns 1 to 4, online Appendix Table A5). 
+Similarly, there are no statistically significant effects on the number of matches 
+attended, for the full sample or ­caste-wise (columns 5 to 8). Having ­other-caste 
+teammates is not a deterrent to playing.
+III.  The Effects of Collaborative and Adversarial Contact
+A.  Willingness to Interact
+Social Interaction.—During ­Endline-2 participants scrolled through a ­randomly 
+ordered list of all other participants in their location, seeing each participant’s photo 
+and full name. Surveyors asked them to select the participants that they either 
+consider friends or would like to spend time with in the future (Want to Interact). 
+Restricting responses to the people they listed, surveyors then asked them to select 
+those they considered friends (Friends). By matching selections to the caste of each 
+person, I calculated the total number of ­other-caste men selected for each question. 
+
+
+--- PAGE 15 ---
+1821
+LOWE: TYPES OF CONTACT
+VOL. 111 NO. 6
+Though ­self-reported, selections are highly predictive of subsequent actual trading 
+behavior (online Appendix Table A6).
+Analysis.—Collaborative and adversarial contact have opposite effects on 
+­cross-caste friendships (Figure 2; panel A of Table 2).15 Collaborative contact has 
+a positive effect on desired future interaction with participants from other castes 
+and ­cross-caste friendships. On average, those in ­homogeneous-caste teams want to 
+interact with 7.1 ­other-caste (12.1 ­own-caste) participants in future, and are friends 
+15 These malleable friendships are consistent with evidence that people, and especially the below-median age, 
+form social attachments easily (Sherif et al. 1961, Baumeister and Leary 1995). Consistent with this, below-median 
+age participants are more likely to form friendships as a result of collaborative contact, and less likely to lose them 
+as a result of adversarial contact (online Appendix Table A7).
+Figure 2.  Collaborative and Adversarial Contact Have Opposite Effects 
+on Demand for ­Cross-Caste Social Interaction
+Notes: The ­left-hand-side panels show the effects of collaborative contact, while the ­right-hand-side panels show 
+the effects of adversarial contact. The top panel outcome is the number of ­other-caste men who the participant con-
+siders friends or wants to spend time with. The bottom panel outcome is the number of ­other-caste men who the 
+participant considers friends (a subset of the top panel outcome). The estimated ​β​ and ​γ​ from equation (1) along 
+with each standard error and ­p-value is shown, as well as a dashed line showing this linear fit. The bubbles in each 
+panel plot fitted values from a ­semi-linear specification that parallels equation (1), but replaces the relevant contact 
+variable with a set of dummy variables for the contact variable belonging to different bins (Cattaneo et al. 2019). 
+The panels visualize the fitted value for each bin, holding all other variables at their mean values. The figure then 
+controls for the same covariates and strata fixed effects as in the regression tables. The bins for collaborative con-
+tact are the five possible values (0, 0.25, 0.5, 0.75, and 1). The bins for adversarial contact are ten quantile bins. The 
+bubble size reflects the sample size in each bin.
+ β = 2.2
+(0.67)
+p < 0.01
+ γ = −7.9
+(2.7)
+p < 0.01
+6
+8
+10
+12
+0
+0.25
+0.5
+0.75
+1
+6
+8
+10
+12
+0
+0.25
+0.5
+0.75
+1
+1
+2
+3
+4
+5
+0
+0.25
+0.5
+0.75
+1
+1
+2
+3
+4
+5
+0
+0.25
+0.5
+0.75
+1
+Number other-caste
+want to interact
+Proportion of teammates 
+from other caste
+Proportion of opponents 
+from other caste
+Proportion of teammates 
+from other caste
+Collaborative
+Adversarial
+Proportion of opponents 
+from other caste
+Number other-caste
+friends
+Number other-caste
+want to interact
+Number other-caste
+friends
+ˆ
+ˆ
+ˆ
+ˆ
+ β = 1
+(0.34)
+p < 0.01
+ γ = −3.5
+(1.7)
+p = 0.04
+
+
+--- PAGE 16 ---
+1822
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+with 3.1 (7 ­own-caste). Moving from a ­homogeneous-caste team to a team with four 
+­other-caste men increases desired ­cross-caste interactions by 2.2 (31 percent), and 
+­cross-caste friendships by 1 (32 percent). In contrast, adversarial contact has a neg-
+ative effect on these outcomes, larger in magnitude than the effect of collaborative 
+contact. An increase in adversarial exposure from the least (35 percent) to the most 
+(97.5 percent) leads to 2.2 fewer ­other-caste friends. For each outcome, the equiva-
+lence of the effects of collaborative and adversarial contact can be rejected at least 
+at the 95 percent significance level.
+While the effects of collaborative contact are not mediated by the ability of 
+players exposed to (in contrast to Carrell, Hoekstra, and West 2019), ­higher-ability 
+­other-caste opponents significantly reduce the negative effects of adversarial con-
+tact (panel A of Table 2, column 3). Given that teams with higher ability play-
+ers also win more matches (as I show in Section IVC), this suggests firstly that 
+shared victories do not enhance the effects of collaborative contact. Second, losing 
+Table 2—Ability Mediates Adversarial, but Not Collaborative, Contact
+Want to interact
+Friends
+(1)
+(2)
+(3)
+Panel A.  Number of other-caste participants
+Prop. Oth. Caste on Team
+2.17
+1.03
+1.22
+(0.67)
+(0.34)
+(0.35)
+Prop. Oth. Caste of Opponents
+−7.90
+−3.49
+−2.93
+(2.75)
+(1.71)
+(1.71)
+Prop. Oth. Caste on Team × Oth. Caste Team Ability
+0.29
+(0.65)
+Prop. Oth. Caste of Opponents 
+  × Oth. Caste Opponent Ability
+6.71
+(2.46)
+Caste × league fixed effects
+Yes
+Yes
+Yes
+Outcome mean
+7.9
+3.5
+3.5
+p-value (collaborative  =  adversarial)
+0.00058
+0.012
+Panel B.  Number of own-caste participants
+Prop. Own Caste on Team
+0.97
+0.46
+(0.53)
+(0.39)
+Prop. Own Caste of Opponents
+4.52
+2.38
+(2.36)
+(1.85)
+Caste × league fixed effects
+Yes
+Yes
+Outcome mean
+12
+6.6
+p-value (collaborative  =  adversarial)
+0.14
+0.31
+Observations
+770
+770
+770
+Notes: Standard errors clustered at ­team-level. Column 1 outcome is number of other/­­own-
+caste participants who the respondent considers friends or wants to spend time with. Column 2 
+and  3 outcome is number of other/­own-caste participants who the respondent considers 
+friends. Oth. Caste Team Ability is the average ability index across all ­other-caste players in 
+a given player’s team (set equal to zero in the case of no ­other-caste players), where the abil-
+ity index is the average across three standardized baseline ability measures: maximum bowl-
+ing speed, number of 4s/6s when batting, and number of catches when fielding. Oth. Caste 
+Opponent Ability is the average ability index across all ­other-caste opponents. Prop. Own 
+Caste on Team is equal to 1 minus Prop. Oth. Caste on Team. Prop. Own Caste of Opponents 
+is equal to 1 minus Prop. Oth. Caste of Opponents. Panel A regressions control for number 
+of ­other-caste friends at baseline (and dummy for missing), and the five variables used for 
+­re-randomization. Panel B is the same, except number of ­own-caste friends instead of number 
+of ­other-caste friends.
+
+
+--- PAGE 17 ---
+1823
+LOWE: TYPES OF CONTACT
+VOL. 111 NO. 6
+matches to ­other-caste opponents is not likely driving the negative adversarial 
+effects. Instead, it appears that ­high-ability ­other-caste opponents earn respect. 
+Together, these results suggest that the nature of collaboration and competition 
+during the matches determines the effects of contact, rather than the outcomes of 
+those matches. Put another way, collaborative contact is about working together, 
+not winning together.
+The effects of contact are different when I consider instead exposure to people 
+from the same caste (panel B of Table 2). Collaborative contact with ­own-caste 
+participants has a small positive effect on ­own-caste desired future interaction 
+and friendships: the magnitudes are roughly ­one-half of the size of the ­cross-caste 
+collaborative contact effects. This result is consistent with diminishing returns to 
+contact: social networks are caste segregated to begin with, giving less scope for 
+forming new network links with members of the same caste.
+­Own-caste adversarial contact has marginally significant positive effects: the 
+opposite of the ­cross-caste effect. The point estimate of 4.5 for desired future inter-
+action implies that for every 10 additional ­own-caste opponents faced, a participant 
+wants to spend time with 1.1 more ­own-caste men in future. In this context, adver-
+sarial contact alone does not create friction, but intergroup adversarial contact does. 
+Competing against ingroup members has a fundamentally different effect than com-
+peting against outgroup members.
+Individuals versus Groups.—To test whether the effects of contact extend 
+beyond those played with, I explore effects of collaborative contact on friend-
+ships with ­non-teammates, and effects of adversarial contact on friendships with 
+­non-opponents.
+For the effects of collaborative contact, I define the outcome as the percentage 
+of ­other-caste friends among those assigned to play on other teams. This defini-
+tion excludes all backup players, since some backup players will play as substitutes 
+on the participant’s team. No one in this set of people played in a match with the 
+respondent. Effects of collaborative contact on friendships with these people are 
+then not driven by direct contact as teammates.16
+For the effects of adversarial contact, I define the outcome as the percentage of 
+­other-caste friends among the 205 backups who played zero matches. Since they did 
+not play, any effects of adversarial contact on desired interaction with these people 
+cannot be driven by direct contact as opponents.17
+Both collaborative and adversarial contact effects extend to the outgroup as a 
+whole. Collaborative contact has a positive effect on desired future interaction and 
+friendships with ­other-caste men in other teams ( p  =  0.11, 0.04 respectively, Figure 
+3). Adversarial contact again has negative effects ( p  =  0.03, 0.26 respectively). 
+16 Furthermore, by defining the outcome as the percentage of this set of ­other-caste participants listed as friends, 
+I adjust for the fact that the size of this set differs systematically by treatment. For example, those with four 
+­other-caste teammates have four fewer ­other-caste participants in the relevant set than those with zero ­other-caste 
+teammates. If collaborative contact does not matter, these two types of treated players will select on average the 
+same percentage (but a different level) of ­other-caste ­other-team participants as friends.
+17 The results are similar if I instead define the outcome as the percentage of ­other-caste friends from among 
+­very-low priority backups: those with a priority number of seven or above (online Appendix Figure A7). This set of 
+173 backups has the advantage of being randomly selected, but the drawback of having played some matches (0.8 
+on average), meaning there could have been some ­on-pitch contact.
+
+
+--- PAGE 18 ---
+1824
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+These effects are meaningful: full collaborative exposure increases ­non-teammate 
+­cross-caste friendships by 0.15​σ​. The effect is stronger for adversarial contact: an 
+increase in adversarial exposure from the least to the most reduces ­non-opponent 
+­cross-caste friendships by 0.56​σ​.
+In addition, the effect of collaborative contact on ­non-teammate friendships is 
+much stronger for ­non-opponents than opponents (online Appendix Table A8). This 
+fact suggests that the generalized effects do not come through ­other-caste teammates 
+introducing players to ­other-caste opponents.
+Network Access.—Another type of introduction might matter: players may get 
+introduced to the ­other-caste friends of their ­other-caste teammates, causing positive 
+effects of collaborative contact beyond direct interactions. Related, players may lose 
+access to the ­other-caste friends of their ­other-caste opponents after facing them in 
+a match. In each case, generalized effects of contact may come through network 
+effects, rather than through players updating their beliefs about the outgroup. I use 
+Figure 3.  Contact Affects ­Cross-Caste Friendships with ­Non-Teammates and ­Non-Opponents
+Notes: The figure is created based on equation (1), and as described in Figure 2. The left panel outcome is the per-
+centage of ­other-caste men from among the other teams (in the same league) who the participant considers friends 
+or wants to spend time with (top) or considers friends (bottom). The right panel outcome is the percentage of 
+­other-caste men from among ­non-playing backups who the participant considers friends or wants to spend time with 
+(top) or considers friends (bottom). The left panel shows whether collaborative contact affects ­cross-caste friend-
+ships other than with teammates. The right panel shows whether adversarial contact affects ­cross-caste friendships 
+other than with opponents.
+2
+4
+6
+10
+12
+0
+0.25
+0.5
+0.75
+1
+0
+2
+4
+6
+0
+0.25
+0.5
+0.75
+1
+2
+4
+6
+8
+10
+12
+0
+0.25
+0.5
+0.75
+1
+0
+2
+4
+6
+0
+0.25
+0.5
+0.75
+1
+8
+ˆ
+ˆ
+ β = 1.2
+(0.76)
+p = 0.11
+ β = 0.77
+(0.37)
+p = 0.04
+Proportion of teammates 
+from other caste
+Proportion of teammates 
+from other caste
+Collaborative
+ γ = −9.6
+(4.4)
+p = 0.03
+ γ = −3.1
+(2.7)
+p = 0.26
+Proportion of opponents 
+from other caste
+Adversarial
+Proportion of opponents 
+from other caste
+Percent other-caste 
+non-playing-backup friends
+Percent other-caste non-play-
+ing-backup want to interact
+Percent other-caste other-team
+ friends
+Percent other-caste other-team
+ want to interact
+ˆ
+ˆ
+
+
+--- PAGE 19 ---
+1825
+LOWE: TYPES OF CONTACT
+VOL. 111 NO. 6
+outcomes at the ­dyad-level to test directly for the network access mechanism, with 
+the following specification for collaborative contact:
+(3)      ​​y​ij​  =  ​(​α​jcl​ × ​Prop. Oth. Caste on Team​icl​)​ + ​β​1​ ​Teammate​ij​ 
+	
++ ​β​2​ ​Friend of Oth. Caste Teammate​ij​ + ζ ​X​ij​ + ​ε​ij​​ ,
+where ​​y​ij​​ is a dummy variable equal to 1 if participant ​i​ listed ​j​ as a friend, ​​α​jcl​​ 
+are ­caste-by-league (of participant ​i​) fixed effects fully interacted with participant ​
+j​ fixed effects, and these fixed effects are fully interacted with the categories 
+of ​​Prop. Oth. Caste on Team​icl​​. In parallel with equation (1), the vector ​​X​ij​​ contains 
+a dummy variable equal to 1 if ​i​ listed ​j​ as a friend at baseline, and a dummy vari-
+able equal to 1 if ​i​ did not complete the social network survey prior to treatment 
+assignment.
+The two remaining regressors are dummy variables: ​Teammate​ij​ is equal to 1 if ​j​ is 
+a teammate of ​i​’s (a direct link), and ​Friend of Oth. Caste Teammate​ij​ equals 1 if ​j​ is 
+a friend (using baseline data) of any of ​i​’s ­other-caste teammates (an indirect link). 
+The parameter ​​β​1​​ gives the causal effect on friendship of being directly linked (as a 
+teammate) with a member of a different caste; ​​β​2​​ gives the causal effect on friend-
+ship of being indirectly linked (through a teammate’s existing friendships) with a 
+member of a different caste. Standard errors are ­dyadic-robust, allowing residuals to 
+be correlated between any two dyads with a team in common.
+For this specification, I restrict only to observations where ​i​ and ​j​ belong to different 
+castes, and where ​i​ is in a mixed team (with ​​Prop. Oth. Caste on Team​icl​  >  0​). The 
+intuition behind the specification is shown visually in online Appendix Figure A8. 
+In brief, ​​β​1​​ is identified by comparing two players that share the same caste, league, 
+and collaborative exposure, but belong to different teams. Suppose these players 
+are ​i​ and ​i′​, and that player ​k​ is a teammate of ​i​’s, but not ​i′​ ’s. The effect is estimated 
+by asking “how much more likely is it that ​i​ is friends with ​k​ after the league is 
+over than ​i′​ is?” Similarly, suppose that there is some player ​j​ who is an ­other-caste 
+friend (at baseline) of one of ​i​’s ­other-caste teammates, but not linked to any of ​i′​ ’s 
+­other-caste teammates. Parameter ​​β​2​​ is estimated by asking “how much more likely 
+is it that ​i​ is friends with ​j​ after the league is over than ​i′​ is?” Each of these effects is 
+causal since the randomization to teams ensures random assignment of both direct 
+and indirect links (conditional on fixed effects).
+I use a parallel specification to test for network effects of adversarial contact:
+(4)  ​​y​ij​  =  ​(​α​jcl​ × ​Prop. Oth. Caste of Opponents​icl​)​
+	
++ ​θ​1​ ​Opponent​ij​ + ​θ​2​ ​Friend of Oth. Caste Opponents​ij​ + μ ​X​ij​ + ​u​ij​​ ,
+where for this specification, I restrict to observations where ​i​ and ​j​ belong 
+to different castes, and where ​i​ is assigned to league participation, since 
+​​Prop. Oth. Caste of Opponents​icl​  >  0​ for all league participants.
+Turning first to the collaborative network effect, assignment to be teammates with 
+a player increases the probability of wanting to interact with that player in future 
+by 24 percentage points (column 1, online Appendix Table A9) and friendship by 
+
+
+--- PAGE 20 ---
+1826
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+13 percentage points (column 2). In contrast, the effect of being indirectly linked 
+to ­other-caste players through ­other-caste teammates is a precise zero for both out-
+comes. Friendship effects beyond teammates do not come through network access: 
+players are not getting introduced to the friends of their ­other-caste teammates. 
+Instead, the effects are more consistent with players changing their general beliefs 
+about the other caste groups.18 For opponents, both the direct and indirect network 
+effects are insignificant and close to zero (columns 3 and 4). This suggests that 
+the entire negative effect of adversarial contact on demand for social interaction is 
+driven by generalization about those not interacted with.
+Taken together, the results on social interaction suggest that the two types of con-
+tact have opposite effects on inferences about the cooperativeness of other castes. In 
+turn, these effects are likely driven by the experiences of collaboration and compe-
+tition, and less so by the outcomes of the matches themselves.
+Team Formation.—To capture willingness to interact on the cricket field, a deci-
+sion which depends more on beliefs about ability, during ­Endline-1 surveyors told 
+participants in each league that there would be two additional matches played two 
+to three weeks later. One match would have stakes: there would be Rs. 500 (∼$8) 
+awarded to the winning team. The other match would not have stakes: both teams 
+would receive Rs. 250 (∼$4) regardless of their performance. Surveyors asked par-
+ticipants to select their team twice: first for the match with stakes, and then imme-
+diately after for the match without. They selected their team by scrolling through 
+the entire list of participants,19 again seeing their full names and photos. I then 
+randomly selected four players per league (∼1.25 percent probability) to have one 
+of their two team choices implemented, making them the captain of their chosen 
+team for one of the additional matches. I used the team choice data to calculate the 
+number of ­other-caste teammates chosen by each participant. By having participants 
+choose a team for matches both with and without stakes, I varied the strength of the 
+main feature of team formation that is distinct from social interaction: that partici-
+pants had an incentive to select those who will play the best cricket.
+Analysis.—Both collaborative and adversarial contact have positive effects on 
+­cross-caste team formation for the match with stakes, with a similar estimated 
+effect: ​​β ˆ ​  =  0.71​ for collaborative contact ( ​p  <  0.01​), and ​​γ ˆ ​  =  0.88​ ( ​p  =  0.06​) 
+for adversarial contact (Table 3, online Appendix Figure A10). These effects are 47 
+to 59 percent of the mean of 1.5 ­other-caste men chosen, and are somewhat posi-
+tively mediated by the ability of teammates and opponents (columns 3, 4).
+To benchmark the collaborative effect, if players chose teammates ran-
+domly, they would choose ­other-caste players 67 percent of the time. In contrast, 
+­homogeneous-caste teams choose ­other-caste players 29 percent of the time, whereas 
+those with four ­other-caste teammates choose ­other-caste players 47 percent of the 
+18 There is some suggestive evidence that generalized effects come through friendships made with match spec-
+tators: in particular, collaborative contact leads to more ­non-team ­cross-caste friendships in the leagues with more 
+spectators (online Appendix Figure A9; Table A10), and participants that watch more matches make more friends 
+(online Appendix Table A11). These findings are consistent with a different type of network access effect, or with 
+­post-match spectator friendships being a consequence of belief updating about other castes.
+19 In this case, the list was alphabetically ordered to help participants find their four favorite teammates quickly.
+
+
+--- PAGE 21 ---
+1827
+LOWE: TYPES OF CONTACT
+VOL. 111 NO. 6
+time. Full collaborative exposure closes roughly half of the gap between the choices 
+of ­homogeneous-caste team players and the random benchmark.
+Unlike the effects on friendships, the adversarial contact effect on ­other-caste 
+teammate choice is positive. Though adversarial contact creates animus, it still con-
+veys knowledge about the ability of outgroup members. The net effect of the ani-
+mus and knowledge is a greater willingness to work together with men from other 
+castes. Given the social interaction outcomes, this suggests that the type of contact 
+may have different implications for effects on future social integration versus future 
+economic integration.
+A natural interpretation of this set of results is that while the two types of con-
+tact have opposite effects on inferences about cooperativeness, they both reduce 
+­ability-based statistical discrimination, by revealing the ability of teammates and 
+opponents. Given this interpretation, we might expect that removing the stakes for 
+the bonus match should weaken the adversarial effect much more than the col-
+laborative effect: without stakes, motives should shift away from picking the best 
+cricketers, and toward picking those that are fun to play with (Bandiera, Barankay, 
+and  Rasul 2009), reducing the adversarial contact effect more. This pattern is 
+borne out in the data. Both types of contact have significantly weaker effects 
+when stakes are removed. However, while collaborative contact continues to have 
+Table 3—Both Types of Contact Reduce ­Ability-Based Statistical Discrimination
+Number ­other-castes for team for match with...
+Stakes
+No stakes
+Stakes
+No stakes
+(1)
+(2)
+(3)
+(4)
+Prop. Oth. Caste on Team
+0.71
+0.45
+0.71
+0.47
+(0.12)
+(0.11)
+(0.12)
+(0.11)
+Prop. Oth. Caste of Opponents
+0.88
+0.09
+0.90
+0.17
+(0.46)
+(0.44)
+(0.46)
+(0.44)
+Prop. Oth. Caste on Team × Oth. Caste Team Ability
+0.31
+0.33
+(0.18)
+(0.18)
+Prop. Oth. Caste of Opponents × Oth. Caste Opponent Ability
+0.27
+0.89
+(0.70)
+(0.66)
+Observations
+768
+768
+768
+768
+Outcome mean
+1.5
+1.5
+1.5
+1.5
+Caste × league fixed effects
+Yes
+Yes
+Yes
+Yes
+p-value (collaborative  =  adversarial)
+0.71
+0.43
+Collaborative: p-value (stakes  =  no stakes)
+0.00048
+Adversarial: p-value (stakes  =  no stakes)
+0.0055
+p-value (stakes has same effect on 
+  collaborative and adversarial)
+0.051
+Notes: Standard errors clustered at ­team-level. Column 1 and 3 outcome is number of other castes (from zero to 
+four) chosen as teammates for future match with stakes (monetary prize only for winning team). Column 2 and 4 
+outcome is number of other castes chosen for a match without stakes (monetary prizes for both teams). Oth. Caste 
+Team Ability is the average ability index across all other-caste players in a given player’s team (set equal to 0 in 
+the case of no ­other-caste players), where the ability index is the average across three standardized baseline abil-
+ity measures: maximum bowling speed, number of 4s/6s when batting, and number of catches when fielding. 
+Oth. Caste Opponent Ability is the average ability index across all other-caste opponents. Each regression con-
+trols for number of ­other-caste friends at baseline (and dummy for missing), and the five variables used for 
+­re-randomization. Tests for equality of the coefficients in columns 1 and 2 come from a pooled regression with an 
+interaction term between each contact variable and whether the choice was for the match with stakes or not. The 
+bottom row gives the ­p-value from a test that the effect of removing stakes on the collaborative contact effect is 
+equal to its effect on the adversarial contact effect.
+
+
+--- PAGE 22 ---
+1828
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+a positive significant effect, the adversarial contact effect falls significantly more 
+( ​p  =  0.05​), to 0.09 (Table 3, bottom panel of online Appendix Figure A10,).20, 21
+The results on willingness to interact show that the type of contact mediates some 
+­belief-based channels, but not others. In particular, while the type of contact matters 
+for future social integration, it matters much less for future economic integration, 
+where incentives for interaction are motivated primarily by beliefs about ability.22
+B.  Favoritism
+Voting.—Beyond willingness to interact, caste differences may affect welfare 
+and allocation through ingroup favoritism. I measured ­own-caste favoritism of the 
+league participants with a voting exercise during ­Endline-2. Surveyors informed 
+league participants that one member of each team would be selected to go on a field 
+trip for professional cricket coaching. The field trip was popular: 96 percent said 
+they would go if they were selected and were available. The selection was decided 
+by vote. Each participant privately and anonymously ranked players on four other 
+­randomly chosen teams (two opposition teams and two ­non-opposition teams), in 
+random order, from 1 to 5. Surveyors explained to participants in basic terms that a 
+Condorcet winner would be selected if one existed, and otherwise the winner would 
+be decided by Borda count. The survey team encouraged participants to vote hon-
+estly regardless of their understanding of the voting rule, and explicitly told them 
+that cricket ability need not factor into their decision: they should just rank higher 
+the players they most prefer. I designed this voting exercise to give a naturalistic 
+measure (given the cricket intervention) of caste favoritism in the allocation of a 
+desirable prize.
+Analysis.—General castes show the most ­own-caste favoritism in voting, fol-
+lowed by OBCs; even conditional on age and three ability measures (all of which 
+are predictive), General castes and OBCs rank players from their own caste signifi-
+cantly higher (columns 1 and 2, Table 4). General castes on average rank someone 
+from their own caste 0.78 positions higher: this favoritism is larger than the effect of 
+the votee being a full two standard deviations better in bowling, batting, and fielding 
+ability. The ­own-caste favoritism of SC/STs is small and statistically insignificant 
+(column  3), though this may signal that ­non-caste-related unobservables remain 
+even after controlling for ability, motivating specifications that include fixed effects 
+for the player voted on (columns 4 to 6).
+20 Contact is less likely to affect ­non-teammate and ­non-opponent ­other-castes being chosen as teammates given 
+the structure of the exercise. Participants can only select a maximum of four players, meaning that a participant who 
+selects several players from their own team may have no slots left for ­other-caste players from other teams, even if 
+they have become less biased. Despite this limitation, those with more ­other-caste players on their team also pick 
+more ­other-caste players from other teams for a future team for the match with stakes (online Appendix Table A12), 
+despite not having played with them. Given that the effect for the match without stakes is smaller and insignificant, 
+this result suggests at least some generalized updating of ability beliefs (updating about those not played with).
+21 The lack of a negative effect of adversarial contact for the match without monetary stakes may be because 
+players get intrinsic value from winning matches, giving them an incentive to pick high ability players even in the 
+absence of a monetary return.
+22 This said, it is possible that some of the difference in effects is due to the fact that the social interaction mea-
+sures are ­self-reported while the team formation measures are incentivized.
+
+
+--- PAGE 23 ---
+1829
+LOWE: TYPES OF CONTACT
+VOL. 111 NO. 6
+Pooling all castes, and including votee fixed effects, the favoritism amounts to 
+ranking ­own-castes 0.4 positions higher (column 4). Furthermore, this favoritism is 
+not merely driven by players having more friends from their own caste, and show-
+ing favoritism toward them: the coefficient is similar when controlling for pairwise 
+friendship links at baseline (column 1, online Appendix Table A13).
+Collaborative contact reduces ­own-caste favoritism by up to ­one-third of the 
+mean (column 5, Table 4, ​p  =  0.08​). This effect is stronger when considering only 
+votes for ­non-opponents, consistent with effects on the demand for social interaction 
+(column 6).23 This result complements the results on social interaction and team 
+formation. For both measures, collaborative contact leads to effects on other castes 
+not interacted with, but in the voting exercise, the effect is more likely to imply a 
+23 The reduction in favoritism is not driven only by a reduction in favoritism towards friends (columns 2 and 3, 
+online Appendix Table A13): the treatment effects on “friendship favoritism” are insignificant and of inconsis-
+tent sign. The magnitudes of the ­caste-favoritism effects remain relatively unchanged, though become marginally 
+insignificant.
+Table 4—Collaborative Contact Reduces ­Own-Caste Favoritism in Voting
+Vote Rank  =  1 to 5, where 5 is best (­reverse-coded)
+Gen.
+OBC
+SC/ST
+All
+All
+Non-Opp
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+Own caste voted on
+0.78
+0.32
+0.06
+0.40
+(0.06)
+(0.05)
+(0.06)
+(0.03)
+Age of votee
+0.06
+0.07
+0.07
+(0.01)
+(0.01)
+(0.01)
+Bowl ability of votee
+0.10
+0.14
+0.13
+(0.03)
+(0.03)
+(0.03)
+Bat ability of votee
+0.12
+0.14
+0.09
+(0.02)
+(0.02)
+(0.03)
+Field ability of votee
+0.08
+0.09
+0.07
+(0.03)
+(0.02)
+(0.03)
+Own caste voted on × Prop. Oth. Caste on Team
+−0.13
+−0.20
+(0.07)
+(0.11)
+Own caste voted on × Prop. Oth. Caste of Opponents
+0.08
+−0.40
+(0.39)
+(0.47)
+Observations
+3,035
+3,200
+2,945
+9,180
+9,180
+4,570
+Individuals
+250
+257
+244
+751
+751
+633
+Votee fixed effects
+No
+No
+No
+Yes
+Yes
+Yes
+Prop. Oth. Caste on Team
+No
+No
+No
+No
+Yes
+Yes
+Prop. Oth. Caste of Opponents
+No
+No
+No
+No
+Yes
+Yes
+Caste × league × own caste voted on fixed effects
+No
+No
+No
+No
+Yes
+Yes
+p-value (collaborative  =  adversarial)
+0.6
+0.68
+Notes: The unit of observation is a ­voter-votee pair. ­Voter-clustered standard errors for columns 1 to 4. Team of 
+­voter-clustered standard errors for columns 5 and 6. All columns exclude votes for teams with players only of the 
+same caste of the voter or players only of other castes. Votee fixed effects can be included because the same per-
+son can be voted on by multiple voters. Columns 1 to 3 only include the votes made by General, OBC, and SC/ST 
+caste players respectively. Column 6 only includes votes made on teams that were not faced as opponents during 
+the league. Each ability measure of the person voted on is from baseline ability testing. Bowl ability is maximum 
+bowling speed (standardized), Bat ability is number of 4s/6s out of 6 (standardized), and Field ability is number 
+of catches out of 6 (standardized). Columns 5 and 6 also control for number of ­other-caste friends at baseline (and 
+dummy for missing), and the five variables used for ­re-randomization, as well as each interacted with Own caste 
+voted on.
+
+
+--- PAGE 24 ---
+1830
+THE AMERICAN ECONOMIC REVIEW
+JUNE 2021
+shift in social preferences. In contrast, the adversarial contact effect is not statisti-
+cally significant (columns 5, 6),24 but given imprecision, equality between the col-
+laborative and adversarial effects cannot be rejected ( ​p  =  0.6, 0.68​).
+Ability Beliefs.—The effect of collaborative contact on caste favoritism in vot-
+ing could be explained by shifting social preferences or generalized ability belief 
+updating. The latter might predominate if contact corrects or tightens belief dis-
+tributions about the cricket ability of ­other-caste players not played with. There 
+is already some suggestive evidence of generalized belief updating: collaborative 
+contact increases ­other-caste choices among players not played with for the future 
+match with stakes, but not for the one without (online Appendix Table A12). The 
+question then is whether such generalized belief updating can account for the effect 
+on voting.
+To explore this, note that a full standard deviation increase in one of the baseline 
+ability measures improves the vote by 0.07 to 0.14 ranks (columns ­1–3, Table 4). 
+Given these estimates, for the collaborative effect on ­non-opponents (column 6) to 
+be fully explained by effects on statistical discrimination we would need full collab-
+orative exposure to lead players to treat ­other-caste players that they have not seen 
+play as if they are 0.45 to 0.9​σ​ higher on each of the ability measures. This extent of 
+generalized belief updating seems relatively unlikely given that even those with no 
+collaborative exposure see signals of the ability of the ­other-caste players they play 
+against. This exercise suggests that collaborative contact reduces ­own-caste favor-
+itism in voting at least partially through its impact on preferences, though I cannot 
+rule out the possibility that the effect is driven by generalized belief updating.
+C.  Efficiency
+Trading.—I designed a new trading exercise to measure efficiency impacts 
+through contact changing barriers to ­cross-caste interaction.25 For this exercise, 
+surveyors visited all participants at their homes for ­Endline-1, and gave them each 
+two goods: a pair of gloves and a pair of ­flip-flops, each worth roughly Rs. 100 
+(∼$1.50). The pairs were intentionally ­mismatched: the participant either received 
+two ­left-hand or two ­right-hand gloves, and two ­left-foot or two ­right-foot ­flip-flops. 
+The ­mismatching created gains from trade. Surveyors told participants that all 
+league ­sign-ups would be receiving the same two ­mismatched goods, and that they 
+would have the next four or five days of regular life to find people to trade with (in 
+practice, surveyors revisited for ­Endline-2 a median of 10 days later). To provide 
+further gains from trade, surveyors gave participants monetary incentives. One-half 
+of the participants earned Rs. 10 (∼$0.16) for each successful trade, while the rest 
+earned Rs. 20 (∼$0.32).
+24 More concretely, the ­ex post minimum detectable effect size with 80 percent power and a 5 percent signif-
+icance level is 1.09: larger than the overall bias of the most biased caste group. In this sense, the test is clearly 
+­underpowered.
+25 I am grateful for conversations with Frank Schilbach that inspired aspects of this design. The design here 
+complements a larger literature that uses trading games to understand the efficiency of markets, with Bulte et al. 
+(2017) being a recent example in a developing country setting. For the full survey script, see online Appendix 
+Section H.
+
+
+--- PAGE 25 ---
+1831
+LOWE: TYPES OF CONTACT
+VOL. 111 NO. 6
+In addition, the survey team stuck colored stickers on each ­mismatched pair, and 
+we offered incentives for trades made with identical goods that had a different color 
+sticker. This served to create, and obfuscate, ­cross-caste gains from trade, since 
+the three possible sticker colors were assigned to very strongly, though not per-
+fectly, correlate with caste. We informed participants that different colors would 
+be more difficult to find, but not that colors correlated with caste.26 I randomly 
+selected one-half of the participants to receive this ­color-switching bonus, with half 
+of these promised Rs. 50 (∼$0.80) and half promised Rs. 100 (∼$1.60) per good. 
+The ­color-switching bonus incentivized ­cross-caste trade without requiring explicit 
+references to caste. This incentive serves two purposes: (i) it can be used to “price” 
+the effects of treatments, and (ii) by creating gains from specifically ­cross-caste 
+trade, providing this incentive permits a test of the efficiency effects of contact. 
+Surveyors logged successful trades during ­Endline-2. If any of the IDs on the final 
+gloves/­flip-flops were initially assigned to a participant of a different caste, I classi-
+fied this participant as having made a ­cross-caste glove/­flip-flop trade.
+According to participant ­self-reports, almost all trades (95 percent) were made 
+directly without the use of a middleman, and only a handful involved the transfer of 
+any money (0.3 percent), suggesting that participants tended not to enter into any 
+­surplus-sharing agreements.
+Analysis.—Most participants trade successfully: 88 percent of goods received by 
+those in ­homogeneous-caste teams are traded, with no statistically significant effect 
+of collaborative or adversarial contact (column 1 of Table 5; top panel of online 
+Appendix Figure A11). It follows that any efficiency effects must come through the 
+intensive margin.
+The ­color-switch incentives have large effects, increasing ­cross-caste trade by 22 
+to 25 percentage points relative to a mean in ­homogeneous-caste teams of 52 per-
+cent (column 2). Collaborative contact has a small and positive, though marginally 
+insignificant, effect: full collaborative exposure increases ­cross-caste trade by 6 per-
+centage points ( ​p  =  0.15​).27 While adversarial contact has a large negative coeffi-
+cient (​− 0.15​), this estimate is not significant given the large standard errors, and the 
+equality of effects of collaborative and adversarial contact cannot quite be rejected 
+at conventional levels ( ​p  =  0.22​).
+These results for the full sample include those without efficiency gains from 
+­cross-caste trade: those without the ­color-switch incentives. For the half of the 
+sample with potential efficiency gains, full collaborative exposure significantly 
+increases ­cross-caste trade by 11 percentage points (column 3 and bottom panel 
+of online Appendix Figure A11) and trade payouts by Rs. 15 or 18 percent of the 
+­homogeneous-caste team mean (column  4). This effect on ­cross-caste trade is 
+roughly ­one-half of the effect of the ­color-switch incentives. Given a local daily 
+wage of Rs. 200, and assuming a linear effect of incentives, full collaborative contact 
+increases ­cross-caste trade as much as a direct incentive equal to one or two hours of 
+26 Participants may have been able to infer the ­caste-color correlation, though debriefs with surveyors suggest 
+that this rarely happened.
+27 Nevertheless, ­cross-caste trade is lower for those in ­homogeneous-caste teams than those with any level of 
+collaborative contact (­middle-left panel, online Appendix Figure A11). As a result, if I estimate equation (1) with an 
+indicator for ­mixed-caste team instead of ​​Prop. Oth. Caste on Team​icl​​, ​​β ˆ ​  =  6.4​ with a ­p-value of 0.03.
