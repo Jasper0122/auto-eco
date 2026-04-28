@@ -68,18 +68,35 @@ pip install pyfixest linearmodels statsmodels pandas numpy scipy openpyxl matplo
 │   ✓ 有自然对照组
 │   ≥3分继续 / <3分强制缩窄 / 0分停止
 │
+├─ [阶段2.7] eco-background  ★ 新增
+│   WebSearch 搜索官方文件 + 政策名单 + 实施细节
+│   建立政策时间线，确认处理组构成和外生性叙事
+│   输出：ECO_BACKGROUND.md（每个事实附 URL 来源）
+│
 ├─ [阶段3] eco-lit-review
 │   6轮 WebSearch（顶刊/NBER/机制/中国情境/综述）
 │   归纳3-5条文献脉络 → 推荐识别策略 → 提出H1/H2/H3
 │   输出：ECO_LIT.md（含机制变量清单、异质性分组清单）
+│
+├─ [阶段3.5] eco-ref-verify  ★ 新增
+│   逐条 WebSearch 核查 ECO_LIT.md 中的引用
+│   判定：✅ PASS / ⚠ WARN / ❌ FAIL（假引用）
+│   FAIL → 暂停流水线，等待用户处置
+│   输出：ECO_REFS_VERIFIED.md
 │
 ├─ [阶段4] eco-analysis
 │   完整实证分析，见下方详细说明
 │   若主系数不显著：如实报告，不自动换题（不做 specification searching）
 │   输出：ECO_RESULTS.md + tables/
 │
+├─ [阶段4.5] eco-contribution  ★ 新增
+│   读取 ECO_LIT.md + ECO_RESULTS.md，搜索最近似已有文献
+│   找出本文真实增量 → 起草3条贡献声明（每条≤80字，有数字支撑）
+│   输出：ECO_CONTRIBUTION.md
+│
 └─ [阶段5] eco-write-paper
-    AER 8段引言 + 完整正文 + 结论5段
+    AER 8段引言（引用 ECO_CONTRIBUTION.md）+ 完整正文 + 结论5段
+    Section 3 直接引用 ECO_BACKGROUND.md 中有来源的内容
     输出：ECO_PAPER_DRAFT.md
 ```
 
@@ -158,7 +175,10 @@ IV 时：第一阶段 F（Stock-Yogo >10 / Montiel Olea-Pflueger >104.7）+ 2SLS
 ├── ECO_BRIEF.md              研究简报（流水线状态追踪）
 ├── ECO_IDEA.md               候选研究问题（auto模式）
 ├── ECO_DATA_PROFILE.md       数据档案（变量、识别策略初判）
+├── ECO_BACKGROUND.md         政策制度背景（每个事实附URL来源）★ 新增
 ├── ECO_LIT.md                文献档案（脉络、空白、机制/异质性变量）
+├── ECO_REFS_VERIFIED.md      引用核查报告（PASS/WARN/FAIL）★ 新增
+├── ECO_CONTRIBUTION.md       贡献声明（对比最近似文献的增量）★ 新增
 ├── ECO_RESULTS.md            实证结果档案（供写作阶段读取）
 ├── ECO_PAPER_DRAFT.md        完整论文草稿
 └── tables/
@@ -187,8 +207,11 @@ IV 时：第一阶段 F（Stock-Yogo >10 / Montiel Olea-Pflueger >104.7）+ 2SLS
 | eco-pipeline | `/eco-pipeline "题目" "目录"` | 一键全流程 |
 | eco-idea | `/eco-idea "数据路径"` | 自动发现研究问题 |
 | eco-data-explore | `/eco-data-explore "路径"` | 数据探索 + 识别策略初判 |
+| eco-background | `/eco-background "政策名" "目录"` | 搜索政策制度背景（有URL来源） |
 | eco-lit-review | `/eco-lit-review "题目"` | 文献调研 + 假设 |
+| eco-ref-verify | `/eco-ref-verify "目录"` | 验证 ECO_LIT.md 引用真实性 |
 | eco-analysis | `/eco-analysis "题目" "路径"` | 完整实证分析 |
+| eco-contribution | `/eco-contribution "目录"` | 打磨贡献声明（对比最近似文献） |
 | eco-write-paper | `/eco-write-paper "题目"` | 写论文草稿 |
 
 ---

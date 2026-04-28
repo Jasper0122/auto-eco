@@ -117,6 +117,20 @@ cd "项目目录路径"
 
 ---
 
+## 阶段 2.7：政策制度背景研究
+
+调用 `/eco-background "[TOPIC]" "[PROJECT_DIR]"` 技能，搜集政策原始资料。
+
+等待完成，读取 `ECO_BACKGROUND.md`，确认：
+- 政策实施时间线（关键节点和批次）
+- 处理组构成（哪些单元入选，为什么入选是外生的）
+- 同期干扰政策（若有，记录以备稳健性检验）
+
+> **目的**：Section 3 政策背景必须有 URL 来源支撑，不能依赖模型记忆。
+> 此阶段在文献调研之前执行，确保 eco-lit-review 能引用准确的政策细节。
+
+---
+
 ## 阶段 3：文献调研
 
 调用 `/eco-lit-review "[TOPIC]"` 技能。
@@ -128,6 +142,18 @@ cd "项目目录路径"
 
 **关键检查**：若文献调研发现该问题已有大量AER级因果识别文献，研究空白不足，
 向用户说明原因，建议调整主题或缩窄角度（异质性/机制/特定情境）。
+
+---
+
+## 阶段 3.5：引用核查
+
+调用 `/eco-ref-verify "[PROJECT_DIR]"` 技能，逐条核查 ECO_LIT.md 中的引用。
+
+等待完成，读取 `ECO_REFS_VERIFIED.md`：
+- 若有 ❌ FAIL 条目：**暂停流水线**，告知用户具体的假引用列表，
+  请用户决定是手动替换还是继续（FAIL 引用若保留会在审稿环节暴露）
+- 若有 ⚠ WARN 条目：记录并继续，在完成汇报中提示人工核查
+- 若全部 ✅ PASS：直接进入阶段4
 
 ---
 
@@ -155,6 +181,19 @@ cd "项目目录路径"
 
 ---
 
+## 阶段 4.5：贡献声明打磨
+
+调用 `/eco-contribution "[PROJECT_DIR]"` 技能。
+
+等待完成，读取 `ECO_CONTRIBUTION.md`，确认：
+- 3条贡献点是否有具体数字支撑
+- 是否点名了被超越的已有文献
+- 是否发现本文与近期顶刊文献高度重合（若有，向用户说明）
+
+> 贡献声明草稿将被 eco-write-paper 在引言阶段直接引用。
+
+---
+
 ## 阶段 5：论文写作
 
 调用 `/eco-write-paper "[TOPIC]"` 技能。
@@ -162,7 +201,10 @@ cd "项目目录路径"
 执行前确认项目目录下存在：
 - ECO_BRIEF.md ✓
 - ECO_DATA_PROFILE.md ✓
+- ECO_BACKGROUND.md ✓（政策背景）
 - ECO_LIT.md ✓
+- ECO_REFS_VERIFIED.md ✓（引用核查）
+- ECO_CONTRIBUTION.md ✓（贡献声明）
 - ECO_RESULTS.md ✓
 - tables/ 目录（含table1~6和figure1）✓
 
@@ -180,18 +222,23 @@ cd "项目目录路径"
 项目目录：[PROJECT_DIR]
 
 已生成文件：
-├── ECO_BRIEF.md          研究简报
-├── ECO_DATA_PROFILE.md   数据档案（含识别策略初判）
-├── ECO_LIT.md            文献综述档案
-├── ECO_RESULTS.md        实证结果档案
-├── ECO_PAPER_DRAFT.md    论文草稿
+├── ECO_BRIEF.md              研究简报
+├── ECO_DATA_PROFILE.md       数据档案（含识别策略初判）
+├── ECO_BACKGROUND.md         政策制度背景（含来源URL）
+├── ECO_LIT.md                文献综述档案
+├── ECO_REFS_VERIFIED.md      引用核查报告
+├── ECO_CONTRIBUTION.md       贡献声明
+├── ECO_RESULTS.md            实证结果档案
+├── ECO_PAPER_DRAFT.md        论文草稿
 └── tables/
     ├── table1_descriptive.csv    描述统计
-    ├── table2_baseline.txt       基准回归（6列）
-    ├── table3_endogeneity.txt    内生性处理
+    ├── table2_baseline.txt       基准回归（含安慰剂列）
+    ├── table3_csdid.csv          CS-DiD 估计（Staggered）
+    ├── table3_event_study.txt    TWFE 事件研究
     ├── table4_robustness.txt     稳健性检验
+    ├── table4d_spillovers.txt    溢出效应
     ├── table5_mechanism.txt      机制分析
-    ├── table6_heterogeneity.txt  异质性分析
+    ├── table6_het_*.csv          异质性分析
     └── figure1_event_study.pdf   事件研究图
 
 核心结果：
@@ -204,5 +251,6 @@ cd "项目目录路径"
 请重点人工核查：
 1. ECO_PAPER_DRAFT.md 引言第3段数字是否与ECO_RESULTS一致
 2. tables/ 中的系数是否与论文文字描述匹配
-3. ECO_LIT.md 中的参考文献是否真实存在（建议Google Scholar验证）
+3. ECO_REFS_VERIFIED.md 中 WARN 条目（建议Google Scholar确认）
+4. ECO_BACKGROUND.md 中"[未核实，来自模型记忆]"标注（建议检索原始文件）
 ```
